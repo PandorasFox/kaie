@@ -28,6 +28,6 @@ with open(outfile_name, 'w') as outfile:
             for noise, chance in pin_data[diff].items():
                 entries.append(f'{noise}: {chance:.2f}%')
             if len(entries) > 0:
-                outfile.write(', '.join(entries))
+                outfile.write('<br/>'.join(entries))
             outfile.write('|')
         outfile.write('\n')
