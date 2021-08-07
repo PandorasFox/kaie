@@ -18,8 +18,8 @@ for num, noise in noise_report.items():
 
 outfile_name = f'reports/pins.md'
 with open(outfile_name, 'w') as outfile:
-    outfile.write('|Pin #| Dropped By |\n')
-    outfile.write('| :-: | :--------: |\n')
+    outfile.write('|Pin #| Easy | Normal | Hard | Ultimate |\n')
+    outfile.write('| :-: | :--: | :----: | :--: | :------: |\n')
     for pin, pin_data in pins.items():
         # pin_data is {difficulty: {noise_num: percent_chance, ..}}
         outfile.write(f'|{pin}|')
@@ -28,7 +28,6 @@ with open(outfile_name, 'w') as outfile:
             for noise, chance in pin_data[diff].items():
                 entries.append(f'{noise}: {chance:.2f}%')
             if len(entries) > 0:
-                outfile.write(f'{diff}: ')
                 outfile.write(', '.join(entries))
-                outfile.write('<br />')
-    outfile.write('|\n')
+            outfile.write('|')
+        outfile.write('\n')
