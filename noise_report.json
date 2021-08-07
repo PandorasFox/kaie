@@ -1,0 +1,1282 @@
+{
+  "1": {
+    "days": "1d1-1d6",
+    "pins": {
+      "easy": 316,
+      "normal": 317,
+      "hard": 318,
+      "ultimate": 313
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 1.0
+    }
+  },
+  "2": {
+    "days": "1d7-2d4",
+    "pins": {
+      "easy": 317,
+      "normal": 318,
+      "hard": 319,
+      "ultimate": 291
+    },
+    "odds": {
+      "easy": 10.0,
+      "normal": 10.0,
+      "hard": 3.0,
+      "ultimate": 1.0
+    }
+  },
+  "3": {
+    "days": "2d5-Another Day",
+    "pins": {
+      "easy": 215,
+      "normal": 267,
+      "hard": 291,
+      "ultimate": 327
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "4": {
+    "days": "3d3-Another Day",
+    "pins": {
+      "easy": 128,
+      "normal": 271,
+      "hard": 271,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.3
+    }
+  },
+  "5": {
+    "days": "1d1-1d6",
+    "pins": {
+      "easy": 317,
+      "normal": 67,
+      "hard": 318,
+      "ultimate": 320
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 0.3
+    }
+  },
+  "6": {
+    "days": "1d7-2d4",
+    "pins": {
+      "easy": 80,
+      "normal": 130,
+      "hard": 269,
+      "ultimate": 270
+    },
+    "odds": {
+      "easy": 10.0,
+      "normal": 10.0,
+      "hard": 3.0,
+      "ultimate": 1.0
+    }
+  },
+  "7": {
+    "days": "2d5-Another Day",
+    "pins": {
+      "easy": 250,
+      "normal": 203,
+      "hard": 292,
+      "ultimate": 178
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "8": {
+    "days": "1d1-2d1",
+    "pins": {
+      "easy": 318,
+      "normal": 71,
+      "hard": 319,
+      "ultimate": 324
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 2.0
+    }
+  },
+  "9": {
+    "days": "2d2-3d2",
+    "pins": {
+      "easy": 51,
+      "normal": 175,
+      "hard": 170,
+      "ultimate": 293
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "10": {
+    "days": "3d3-Another Day",
+    "pins": {
+      "easy": 16,
+      "normal": 97,
+      "hard": 121,
+      "ultimate": 189
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "11": {
+    "days": "1d2-1d7",
+    "pins": {
+      "easy": 316,
+      "normal": 163,
+      "hard": 324,
+      "ultimate": 326
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 60.0,
+      "hard": 10.0,
+      "ultimate": 1.0
+    }
+  },
+  "12": {
+    "days": "2d1-3d1",
+    "pins": {
+      "easy": 196,
+      "normal": 92,
+      "hard": 326,
+      "ultimate": 328
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "13": {
+    "days": "3d2-3d5",
+    "pins": {
+      "easy": 218,
+      "normal": 34,
+      "hard": 328,
+      "ultimate": 294
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "14": {
+    "days": "3d6-Another Day",
+    "pins": {
+      "easy": 328,
+      "normal": 140,
+      "hard": 329,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 0.5,
+      "normal": 1.0,
+      "hard": 0.17,
+      "ultimate": 0.04
+    }
+  },
+  "15": {
+    "days": "1d3-2d2",
+    "pins": {
+      "easy": 318,
+      "normal": 187,
+      "hard": 29,
+      "ultimate": 328
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 1.0
+    }
+  },
+  "16": {
+    "days": "2d3-Another Day",
+    "pins": {
+      "easy": 318,
+      "normal": 236,
+      "hard": 241,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.03
+    }
+  },
+  "17": {
+    "days": "3d4-Another Day",
+    "pins": {
+      "easy": 328,
+      "normal": 239,
+      "hard": 242,
+      "ultimate": 295
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "18": {
+    "days": "1d5-2d1",
+    "pins": {
+      "easy": 212,
+      "normal": 214,
+      "hard": 75,
+      "ultimate": 296
+    },
+    "odds": {
+      "easy": 20.0,
+      "normal": 20.0,
+      "hard": 8.0,
+      "ultimate": 1.0
+    }
+  },
+  "19": {
+    "days": "2d2-3d1",
+    "pins": {
+      "easy": 77,
+      "normal": 158,
+      "hard": 76,
+      "ultimate": 266
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "20": {
+    "days": "3d2-Another Day",
+    "pins": {
+      "easy": 159,
+      "normal": 78,
+      "hard": 296,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.1
+    }
+  },
+  "21": {
+    "days": "1d5-2d3",
+    "pins": {
+      "easy": 318,
+      "normal": 223,
+      "hard": 1,
+      "ultimate": 2
+    },
+    "odds": {
+      "easy": 20.0,
+      "normal": 20.0,
+      "hard": 7.0,
+      "ultimate": 2.0
+    }
+  },
+  "22": {
+    "days": "2d4-3d3",
+    "pins": {
+      "easy": 326,
+      "normal": 195,
+      "hard": 320,
+      "ultimate": 200
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "23": {
+    "days": "3d4-Another Day",
+    "pins": {
+      "easy": 320,
+      "normal": 199,
+      "hard": 119,
+      "ultimate": 297
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "24": {
+    "days": "1d1",
+    "pins": {
+      "easy": 318,
+      "normal": 319,
+      "hard": 319,
+      "ultimate": 326
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 30.0,
+      "ultimate": 1.0
+    }
+  },
+  "25": {
+    "days": "2d1-2d2",
+    "pins": {
+      "easy": 3,
+      "normal": 65,
+      "hard": 320,
+      "ultimate": 4
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "26": {
+    "days": "2d3-2d6",
+    "pins": {
+      "easy": 6,
+      "normal": 145,
+      "hard": 320,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.3
+    }
+  },
+  "27": {
+    "days": "2d7-Another Day",
+    "pins": {
+      "easy": 7,
+      "normal": 109,
+      "hard": 4,
+      "ultimate": 298
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "28": {
+    "days": "3d5-Another Day",
+    "pins": {
+      "easy": 8,
+      "normal": 114,
+      "hard": 329,
+      "ultimate": 322
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.08
+    }
+  },
+  "29": {
+    "days": "1d4",
+    "pins": {
+      "easy": 67,
+      "normal": 68,
+      "hard": 63,
+      "ultimate": 298
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 40.0,
+      "hard": 16.0,
+      "ultimate": 1.0
+    }
+  },
+  "30": {
+    "days": "2d2-2d6",
+    "pins": {
+      "easy": 325,
+      "normal": 231,
+      "hard": 326,
+      "ultimate": 37
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "31": {
+    "days": "2d7-3d4",
+    "pins": {
+      "easy": 319,
+      "normal": 31,
+      "hard": 327,
+      "ultimate": 232
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "32": {
+    "days": "3d5-Another Day",
+    "pins": {
+      "easy": 32,
+      "normal": 299,
+      "hard": 299,
+      "ultimate": 329
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 2.0,
+      "ultimate": 0.15
+    }
+  },
+  "33": {
+    "days": "2d3-2d6",
+    "pins": {
+      "easy": 18,
+      "normal": 54,
+      "hard": 152,
+      "ultimate": 90
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "34": {
+    "days": "2d7-Another Day",
+    "pins": {
+      "easy": 55,
+      "normal": 23,
+      "hard": 90,
+      "ultimate": 81
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "35": {
+    "days": "3d5-Another Day",
+    "pins": {
+      "easy": 73,
+      "normal": 153,
+      "hard": 81,
+      "ultimate": 300
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.3
+    }
+  },
+  "36": {
+    "days": "2d4-2d7",
+    "pins": {
+      "easy": 132,
+      "normal": 124,
+      "hard": 208,
+      "ultimate": 209
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.66
+    }
+  },
+  "37": {
+    "days": "3d1-3d4",
+    "pins": {
+      "easy": 319,
+      "normal": 209,
+      "hard": 125,
+      "ultimate": 301
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.05
+    }
+  },
+  "38": {
+    "days": "3d5-Another Day",
+    "pins": {
+      "easy": 328,
+      "normal": 43,
+      "hard": 301,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.05,
+      "ultimate": 0.1
+    }
+  },
+  "39": {
+    "days": "2d1",
+    "pins": {
+      "easy": 325,
+      "normal": 326,
+      "hard": 124,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.66
+    }
+  },
+  "40": {
+    "days": "1d6-1d7",
+    "pins": {
+      "easy": 324,
+      "normal": 127,
+      "hard": 325,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 0.3
+    }
+  },
+  "41": {
+    "days": "2d6-2d7",
+    "pins": {
+      "easy": 10,
+      "normal": 20,
+      "hard": 228,
+      "ultimate": 21
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.66
+    }
+  },
+  "42": {
+    "days": "3d6-Another Day",
+    "pins": {
+      "easy": 233,
+      "normal": 204,
+      "hard": 13,
+      "ultimate": 302
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 20.0
+    }
+  },
+  "43": {
+    "days": "2d4",
+    "pins": {
+      "easy": 326,
+      "normal": 10,
+      "hard": 10,
+      "ultimate": 302
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 10.0,
+      "hard": 10.0,
+      "ultimate": 0.33
+    }
+  },
+  "44": {
+    "days": "1d6-1d7",
+    "pins": {
+      "easy": 324,
+      "normal": 46,
+      "hard": 325,
+      "ultimate": 171
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 2.0
+    }
+  },
+  "45": {
+    "days": "2d6-2d7",
+    "pins": {
+      "easy": 326,
+      "normal": 131,
+      "hard": 327,
+      "ultimate": 206
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.16
+    }
+  },
+  "46": {
+    "days": "3d6-Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 138,
+      "hard": 171,
+      "ultimate": 206
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.16
+    }
+  },
+  "47": {
+    "days": "2d5",
+    "pins": {
+      "easy": 320,
+      "normal": 120,
+      "hard": 327,
+      "ultimate": 303
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.2
+    }
+  },
+  "48": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "49": {
+    "days": "1d5",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "50": {
+    "days": "1d5",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "51": {
+    "days": "Another Day",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "52": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "53": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "54": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "55": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "56": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "57": {
+    "days": "many",
+    "pins": "pig",
+    "odds": "pig"
+  },
+  "58": {
+    "days": "3d1-2, 3d4-6",
+    "pins": {
+      "easy": 176,
+      "normal": 52,
+      "hard": 293,
+      "ultimate": 194
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "59": {
+    "days": "3d1-2, 3d4-6",
+    "pins": {
+      "easy": 319,
+      "normal": 264,
+      "hard": 265,
+      "ultimate": 271
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.33
+    }
+  },
+  "60": {
+    "days": "3d1",
+    "pins": {
+      "easy": 327,
+      "normal": 291,
+      "hard": 128,
+      "ultimate": 277
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.3
+    }
+  },
+  "61": {
+    "days": "3d1-2, 3d4-6",
+    "pins": {
+      "easy": 185,
+      "normal": 183,
+      "hard": 328,
+      "ultimate": 186
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.03
+    }
+  },
+  "62": {
+    "days": "3d1-3d6",
+    "pins": {
+      "easy": 320,
+      "normal": 111,
+      "hard": 199,
+      "ultimate": 329
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "63": {
+    "days": "3d3",
+    "pins": {
+      "easy": 326,
+      "normal": 327,
+      "hard": 328,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.1
+    }
+  },
+  "64": {
+    "days": "3d4-3d6",
+    "pins": {
+      "easy": 320,
+      "normal": 134,
+      "hard": 93,
+      "ultimate": 294
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 0.67,
+      "ultimate": 0.15
+    }
+  },
+  "65": {
+    "days": "3d4",
+    "pins": {
+      "easy": 34,
+      "normal": 93,
+      "hard": 93,
+      "ultimate": 322
+    },
+    "odds": {
+      "easy": 2.0,
+      "normal": 2.0,
+      "hard": 2.0,
+      "ultimate": 0.05
+    }
+  },
+  "66": {
+    "days": "3d6",
+    "pins": {
+      "easy": 320,
+      "normal": 38,
+      "hard": 11,
+      "ultimate": 329
+    },
+    "odds": {
+      "easy": 8.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.2
+    }
+  },
+  "67": {
+    "days": "3d5",
+    "pins": {
+      "easy": 38,
+      "normal": 11,
+      "hard": 329,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.15
+    }
+  },
+  "68": {
+    "days": "1d3",
+    "pins": {
+      "easy": 318,
+      "normal": 319,
+      "hard": 177,
+      "ultimate": 320
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 40.0,
+      "hard": 20.0,
+      "ultimate": 0.3
+    }
+  },
+  "69": {
+    "days": "1d5-1d7",
+    "pins": {
+      "easy": 319,
+      "normal": 177,
+      "hard": 325,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 20.0,
+      "hard": 7.0,
+      "ultimate": 0.3
+    }
+  },
+  "70": {
+    "days": "1d5",
+    "pins": {
+      "easy": 320,
+      "normal": 113,
+      "hard": 113,
+      "ultimate": 110
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 40.0,
+      "hard": 40.0,
+      "ultimate": 1.0
+    }
+  },
+  "71": {
+    "days": "1d6, 2d2-2d3",
+    "pins": {
+      "easy": 213,
+      "normal": 33,
+      "hard": 325,
+      "ultimate": 320
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 0.3
+    }
+  },
+  "72": {
+    "days": "2d4, 2d6",
+    "pins": {
+      "easy": 33,
+      "normal": 59,
+      "hard": 320,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.3
+    }
+  },
+  "73": {
+    "days": "2d6",
+    "pins": {
+      "easy": 320,
+      "normal": 61,
+      "hard": 321,
+      "ultimate": 322
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.2
+    }
+  },
+  "74": {
+    "days": "1d6, 2d2-2d3",
+    "pins": {
+      "easy": 72,
+      "normal": 219,
+      "hard": 325,
+      "ultimate": 222
+    },
+    "odds": {
+      "easy": 30.0,
+      "normal": 30.0,
+      "hard": 10.0,
+      "ultimate": 2.0
+    }
+  },
+  "75": {
+    "days": "2d4, 2d6",
+    "pins": {
+      "easy": 219,
+      "normal": 319,
+      "hard": 320,
+      "ultimate": 321
+    },
+    "odds": {
+      "easy": 6.0,
+      "normal": 6.0,
+      "hard": 2.0,
+      "ultimate": 0.3
+    }
+  },
+  "76": {
+    "days": "1d2",
+    "pins": {
+      "easy": 319,
+      "normal": 44,
+      "hard": 44,
+      "ultimate": 305
+    },
+    "odds": {
+      "easy": 40.0,
+      "normal": 40.0,
+      "hard": 40.0,
+      "ultimate": 1.0
+    }
+  },
+  "77": {
+    "days": "1d7",
+    "pins": {
+      "easy": 325,
+      "normal": 226,
+      "hard": 226,
+      "ultimate": 306
+    },
+    "odds": {
+      "easy": 20.0,
+      "normal": 15.0,
+      "hard": 15.0,
+      "ultimate": 0.07
+    }
+  },
+  "78": {
+    "days": "2d7",
+    "pins": {
+      "easy": 327,
+      "normal": 190,
+      "hard": 190,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 10.0,
+      "hard": 10.0,
+      "ultimate": 0.2
+    }
+  },
+  "79": {
+    "days": "2d2",
+    "pins": {
+      "easy": 320,
+      "normal": 249,
+      "hard": 249,
+      "ultimate": 307
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 12.0,
+      "hard": 4.0,
+      "ultimate": 0.1
+    }
+  },
+  "80": {
+    "days": "2d7",
+    "pins": {
+      "easy": 327,
+      "normal": 248,
+      "hard": 248,
+      "ultimate": 257
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 10.0,
+      "hard": 10.0,
+      "ultimate": 0.1
+    }
+  },
+  "81": {
+    "days": "2d7",
+    "pins": {
+      "easy": 327,
+      "normal": 86,
+      "hard": 86,
+      "ultimate": 308
+    },
+    "odds": {
+      "easy": 12.0,
+      "normal": 10.0,
+      "hard": 10.0,
+      "ultimate": 0.2
+    }
+  },
+  "82": {
+    "days": "3d2",
+    "pins": {
+      "easy": 103,
+      "normal": 328,
+      "hard": 328,
+      "ultimate": 309
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 3.0,
+      "hard": 3.0,
+      "ultimate": 0.3
+    }
+  },
+  "83": {
+    "days": "3d4",
+    "pins": {
+      "easy": 102,
+      "normal": 166,
+      "hard": 47,
+      "ultimate": 310
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.07
+    }
+  },
+  "84": {
+    "days": "3d6",
+    "pins": {
+      "easy": 227,
+      "normal": 191,
+      "hard": 191,
+      "ultimate": 306
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 3.0,
+      "hard": 3.0,
+      "ultimate": 0.3
+    }
+  },
+  "85": {
+    "days": ">!3d7!<",
+    "pins": {
+      "easy": 321,
+      "normal": 141,
+      "hard": 141,
+      "ultimate": 311
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 3.0,
+      "hard": 3.0,
+      "ultimate": 0.1
+    }
+  },
+  "86": {
+    "days": ">!3d7'!<",
+    "pins": {
+      "easy": 328,
+      "normal": 329,
+      "hard": 258,
+      "ultimate": 144
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.16
+    }
+  },
+  "87": {
+    "days": ">!3d7''!<",
+    "pins": {
+      "easy": 329,
+      "normal": 95,
+      "hard": 106,
+      "ultimate": 312
+    },
+    "odds": {
+      "easy": 4.0,
+      "normal": 4.0,
+      "hard": 1.34,
+      "ultimate": 0.5
+    }
+  },
+  "88": {
+    "days": "Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 198,
+      "hard": 255,
+      "ultimate": 252
+    },
+    "odds": {
+      "easy": 0.92,
+      "normal": 0.92,
+      "hard": 0.3,
+      "ultimate": 0.3
+    }
+  },
+  "89": {
+    "days": "Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 87,
+      "hard": 87,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 0.92,
+      "normal": 0.7,
+      "hard": 0.7,
+      "ultimate": 0.4
+    }
+  },
+  "90": {
+    "days": "Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 104,
+      "hard": 104,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 0.92,
+      "normal": 0.7,
+      "hard": 0.7,
+      "ultimate": 0.4
+    }
+  },
+  "91": {
+    "days": "Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 142,
+      "hard": 142,
+      "ultimate": 169
+    },
+    "odds": {
+      "easy": 0.92,
+      "normal": 0.7,
+      "hard": 0.7,
+      "ultimate": 0.3
+    }
+  },
+  "92": {
+    "days": "Another Day",
+    "pins": {
+      "easy": 321,
+      "normal": 259,
+      "hard": 259,
+      "ultimate": 323
+    },
+    "odds": {
+      "easy": 0.92,
+      "normal": 0.7,
+      "hard": 0.7,
+      "ultimate": 4.0
+    }
+  }
+}
