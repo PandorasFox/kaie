@@ -9,7 +9,7 @@ try:
 except IndexError:
     days_mode = False
 
-outfile_name = f'noise_report{"_days" if days_mode else ""}.md'
+outfile_name = f'reports/noise_report{"_days" if days_mode else ""}.md'
 with open(outfile_name, 'w') as outfile:
     if days_mode:
         outfile.write('|Noise#|Days Available|\n')
