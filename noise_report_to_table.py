@@ -16,7 +16,7 @@ with open(outfile_name, 'w') as outfile:
         outfile.write('| :--: | :----------: |\n')
     else:
         outfile.write('|Noise#|Days Available|Easy|Normal|Hard|Ultimate|\n')
-        outfile.write('| :--: | :----------: | :: | :--: | :: | :----: |\n')
+        outfile.write('| :--: | :----------: |:--:| :--: |:--:| :----: |\n')
 
 
     for num, noise in noise_report.items():
