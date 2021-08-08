@@ -1,0 +1,604 @@
+{
+"mTarget":[
+	{
+		"mId": 1,
+		"mLevel": 1,
+		"mNeedTotalExp": 0,
+		"mAddHp": 0
+	},
+	{
+		"mId": 2,
+		"mLevel": 2,
+		"mNeedTotalExp": 70,
+		"mAddHp": 10
+	},
+	{
+		"mId": 3,
+		"mLevel": 3,
+		"mNeedTotalExp": 180,
+		"mAddHp": 20
+	},
+	{
+		"mId": 4,
+		"mLevel": 4,
+		"mNeedTotalExp": 340,
+		"mAddHp": 30
+	},
+	{
+		"mId": 5,
+		"mLevel": 5,
+		"mNeedTotalExp": 560,
+		"mAddHp": 40
+	},
+	{
+		"mId": 6,
+		"mLevel": 6,
+		"mNeedTotalExp": 850,
+		"mAddHp": 48
+	},
+	{
+		"mId": 7,
+		"mLevel": 7,
+		"mNeedTotalExp": 1220,
+		"mAddHp": 56
+	},
+	{
+		"mId": 8,
+		"mLevel": 8,
+		"mNeedTotalExp": 1680,
+		"mAddHp": 64
+	},
+	{
+		"mId": 9,
+		"mLevel": 9,
+		"mNeedTotalExp": 2240,
+		"mAddHp": 72
+	},
+	{
+		"mId": 10,
+		"mLevel": 10,
+		"mNeedTotalExp": 2910,
+		"mAddHp": 80
+	},
+	{
+		"mId": 11,
+		"mLevel": 11,
+		"mNeedTotalExp": 3700,
+		"mAddHp": 88
+	},
+	{
+		"mId": 12,
+		"mLevel": 12,
+		"mNeedTotalExp": 4620,
+		"mAddHp": 96
+	},
+	{
+		"mId": 13,
+		"mLevel": 13,
+		"mNeedTotalExp": 5680,
+		"mAddHp": 104
+	},
+	{
+		"mId": 14,
+		"mLevel": 14,
+		"mNeedTotalExp": 6890,
+		"mAddHp": 112
+	},
+	{
+		"mId": 15,
+		"mLevel": 15,
+		"mNeedTotalExp": 8260,
+		"mAddHp": 120
+	},
+	{
+		"mId": 16,
+		"mLevel": 16,
+		"mNeedTotalExp": 9800,
+		"mAddHp": 128
+	},
+	{
+		"mId": 17,
+		"mLevel": 17,
+		"mNeedTotalExp": 11520,
+		"mAddHp": 136
+	},
+	{
+		"mId": 18,
+		"mLevel": 18,
+		"mNeedTotalExp": 13430,
+		"mAddHp": 144
+	},
+	{
+		"mId": 19,
+		"mLevel": 19,
+		"mNeedTotalExp": 15500,
+		"mAddHp": 152
+	},
+	{
+		"mId": 20,
+		"mLevel": 20,
+		"mNeedTotalExp": 17750,
+		"mAddHp": 160
+	},
+	{
+		"mId": 21,
+		"mLevel": 21,
+		"mNeedTotalExp": 20200,
+		"mAddHp": 168
+	},
+	{
+		"mId": 22,
+		"mLevel": 22,
+		"mNeedTotalExp": 22850,
+		"mAddHp": 176
+	},
+	{
+		"mId": 23,
+		"mLevel": 23,
+		"mNeedTotalExp": 25700,
+		"mAddHp": 184
+	},
+	{
+		"mId": 24,
+		"mLevel": 24,
+		"mNeedTotalExp": 28750,
+		"mAddHp": 192
+	},
+	{
+		"mId": 25,
+		"mLevel": 25,
+		"mNeedTotalExp": 32000,
+		"mAddHp": 200
+	},
+	{
+		"mId": 26,
+		"mLevel": 26,
+		"mNeedTotalExp": 35450,
+		"mAddHp": 208
+	},
+	{
+		"mId": 27,
+		"mLevel": 27,
+		"mNeedTotalExp": 39100,
+		"mAddHp": 216
+	},
+	{
+		"mId": 28,
+		"mLevel": 28,
+		"mNeedTotalExp": 42950,
+		"mAddHp": 224
+	},
+	{
+		"mId": 29,
+		"mLevel": 29,
+		"mNeedTotalExp": 47000,
+		"mAddHp": 232
+	},
+	{
+		"mId": 30,
+		"mLevel": 30,
+		"mNeedTotalExp": 51250,
+		"mAddHp": 240
+	},
+	{
+		"mId": 31,
+		"mLevel": 31,
+		"mNeedTotalExp": 55750,
+		"mAddHp": 248
+	},
+	{
+		"mId": 32,
+		"mLevel": 32,
+		"mNeedTotalExp": 60500,
+		"mAddHp": 256
+	},
+	{
+		"mId": 33,
+		"mLevel": 33,
+		"mNeedTotalExp": 65500,
+		"mAddHp": 264
+	},
+	{
+		"mId": 34,
+		"mLevel": 34,
+		"mNeedTotalExp": 70600,
+		"mAddHp": 272
+	},
+	{
+		"mId": 35,
+		"mLevel": 35,
+		"mNeedTotalExp": 75800,
+		"mAddHp": 280
+	},
+	{
+		"mId": 36,
+		"mLevel": 36,
+		"mNeedTotalExp": 81100,
+		"mAddHp": 288
+	},
+	{
+		"mId": 37,
+		"mLevel": 37,
+		"mNeedTotalExp": 86500,
+		"mAddHp": 296
+	},
+	{
+		"mId": 38,
+		"mLevel": 38,
+		"mNeedTotalExp": 92000,
+		"mAddHp": 304
+	},
+	{
+		"mId": 39,
+		"mLevel": 39,
+		"mNeedTotalExp": 97500,
+		"mAddHp": 312
+	},
+	{
+		"mId": 40,
+		"mLevel": 40,
+		"mNeedTotalExp": 103100,
+		"mAddHp": 320
+	},
+	{
+		"mId": 41,
+		"mLevel": 41,
+		"mNeedTotalExp": 108700,
+		"mAddHp": 328
+	},
+	{
+		"mId": 42,
+		"mLevel": 42,
+		"mNeedTotalExp": 114400,
+		"mAddHp": 336
+	},
+	{
+		"mId": 43,
+		"mLevel": 43,
+		"mNeedTotalExp": 120100,
+		"mAddHp": 344
+	},
+	{
+		"mId": 44,
+		"mLevel": 44,
+		"mNeedTotalExp": 125900,
+		"mAddHp": 352
+	},
+	{
+		"mId": 45,
+		"mLevel": 45,
+		"mNeedTotalExp": 131700,
+		"mAddHp": 360
+	},
+	{
+		"mId": 46,
+		"mLevel": 46,
+		"mNeedTotalExp": 137600,
+		"mAddHp": 368
+	},
+	{
+		"mId": 47,
+		"mLevel": 47,
+		"mNeedTotalExp": 143500,
+		"mAddHp": 376
+	},
+	{
+		"mId": 48,
+		"mLevel": 48,
+		"mNeedTotalExp": 149500,
+		"mAddHp": 384
+	},
+	{
+		"mId": 49,
+		"mLevel": 49,
+		"mNeedTotalExp": 155500,
+		"mAddHp": 392
+	},
+	{
+		"mId": 50,
+		"mLevel": 50,
+		"mNeedTotalExp": 162000,
+		"mAddHp": 400
+	},
+	{
+		"mId": 51,
+		"mLevel": 51,
+		"mNeedTotalExp": 168500,
+		"mAddHp": 408
+	},
+	{
+		"mId": 52,
+		"mLevel": 52,
+		"mNeedTotalExp": 175500,
+		"mAddHp": 416
+	},
+	{
+		"mId": 53,
+		"mLevel": 53,
+		"mNeedTotalExp": 182500,
+		"mAddHp": 424
+	},
+	{
+		"mId": 54,
+		"mLevel": 54,
+		"mNeedTotalExp": 190000,
+		"mAddHp": 432
+	},
+	{
+		"mId": 55,
+		"mLevel": 55,
+		"mNeedTotalExp": 197500,
+		"mAddHp": 440
+	},
+	{
+		"mId": 56,
+		"mLevel": 56,
+		"mNeedTotalExp": 205500,
+		"mAddHp": 448
+	},
+	{
+		"mId": 57,
+		"mLevel": 57,
+		"mNeedTotalExp": 213500,
+		"mAddHp": 456
+	},
+	{
+		"mId": 58,
+		"mLevel": 58,
+		"mNeedTotalExp": 222000,
+		"mAddHp": 464
+	},
+	{
+		"mId": 59,
+		"mLevel": 59,
+		"mNeedTotalExp": 230500,
+		"mAddHp": 472
+	},
+	{
+		"mId": 60,
+		"mLevel": 60,
+		"mNeedTotalExp": 239500,
+		"mAddHp": 480
+	},
+	{
+		"mId": 61,
+		"mLevel": 61,
+		"mNeedTotalExp": 248500,
+		"mAddHp": 488
+	},
+	{
+		"mId": 62,
+		"mLevel": 62,
+		"mNeedTotalExp": 258000,
+		"mAddHp": 496
+	},
+	{
+		"mId": 63,
+		"mLevel": 63,
+		"mNeedTotalExp": 267500,
+		"mAddHp": 504
+	},
+	{
+		"mId": 64,
+		"mLevel": 64,
+		"mNeedTotalExp": 277500,
+		"mAddHp": 512
+	},
+	{
+		"mId": 65,
+		"mLevel": 65,
+		"mNeedTotalExp": 287500,
+		"mAddHp": 520
+	},
+	{
+		"mId": 66,
+		"mLevel": 66,
+		"mNeedTotalExp": 298500,
+		"mAddHp": 528
+	},
+	{
+		"mId": 67,
+		"mLevel": 67,
+		"mNeedTotalExp": 309500,
+		"mAddHp": 536
+	},
+	{
+		"mId": 68,
+		"mLevel": 68,
+		"mNeedTotalExp": 321500,
+		"mAddHp": 544
+	},
+	{
+		"mId": 69,
+		"mLevel": 69,
+		"mNeedTotalExp": 333500,
+		"mAddHp": 552
+	},
+	{
+		"mId": 70,
+		"mLevel": 70,
+		"mNeedTotalExp": 346500,
+		"mAddHp": 560
+	},
+	{
+		"mId": 71,
+		"mLevel": 71,
+		"mNeedTotalExp": 359500,
+		"mAddHp": 568
+	},
+	{
+		"mId": 72,
+		"mLevel": 72,
+		"mNeedTotalExp": 373500,
+		"mAddHp": 576
+	},
+	{
+		"mId": 73,
+		"mLevel": 73,
+		"mNeedTotalExp": 387500,
+		"mAddHp": 584
+	},
+	{
+		"mId": 74,
+		"mLevel": 74,
+		"mNeedTotalExp": 402500,
+		"mAddHp": 592
+	},
+	{
+		"mId": 75,
+		"mLevel": 75,
+		"mNeedTotalExp": 417500,
+		"mAddHp": 600
+	},
+	{
+		"mId": 76,
+		"mLevel": 76,
+		"mNeedTotalExp": 433500,
+		"mAddHp": 608
+	},
+	{
+		"mId": 77,
+		"mLevel": 77,
+		"mNeedTotalExp": 449500,
+		"mAddHp": 616
+	},
+	{
+		"mId": 78,
+		"mLevel": 78,
+		"mNeedTotalExp": 466500,
+		"mAddHp": 624
+	},
+	{
+		"mId": 79,
+		"mLevel": 79,
+		"mNeedTotalExp": 483500,
+		"mAddHp": 632
+	},
+	{
+		"mId": 80,
+		"mLevel": 80,
+		"mNeedTotalExp": 501500,
+		"mAddHp": 640
+	},
+	{
+		"mId": 81,
+		"mLevel": 81,
+		"mNeedTotalExp": 519500,
+		"mAddHp": 648
+	},
+	{
+		"mId": 82,
+		"mLevel": 82,
+		"mNeedTotalExp": 538500,
+		"mAddHp": 656
+	},
+	{
+		"mId": 83,
+		"mLevel": 83,
+		"mNeedTotalExp": 557500,
+		"mAddHp": 664
+	},
+	{
+		"mId": 84,
+		"mLevel": 84,
+		"mNeedTotalExp": 577500,
+		"mAddHp": 672
+	},
+	{
+		"mId": 85,
+		"mLevel": 85,
+		"mNeedTotalExp": 597500,
+		"mAddHp": 680
+	},
+	{
+		"mId": 86,
+		"mLevel": 86,
+		"mNeedTotalExp": 618500,
+		"mAddHp": 688
+	},
+	{
+		"mId": 87,
+		"mLevel": 87,
+		"mNeedTotalExp": 639500,
+		"mAddHp": 696
+	},
+	{
+		"mId": 88,
+		"mLevel": 88,
+		"mNeedTotalExp": 661500,
+		"mAddHp": 704
+	},
+	{
+		"mId": 89,
+		"mLevel": 89,
+		"mNeedTotalExp": 683500,
+		"mAddHp": 712
+	},
+	{
+		"mId": 90,
+		"mLevel": 90,
+		"mNeedTotalExp": 706500,
+		"mAddHp": 720
+	},
+	{
+		"mId": 91,
+		"mLevel": 91,
+		"mNeedTotalExp": 729500,
+		"mAddHp": 728
+	},
+	{
+		"mId": 92,
+		"mLevel": 92,
+		"mNeedTotalExp": 753500,
+		"mAddHp": 736
+	},
+	{
+		"mId": 93,
+		"mLevel": 93,
+		"mNeedTotalExp": 777500,
+		"mAddHp": 744
+	},
+	{
+		"mId": 94,
+		"mLevel": 94,
+		"mNeedTotalExp": 802500,
+		"mAddHp": 752
+	},
+	{
+		"mId": 95,
+		"mLevel": 95,
+		"mNeedTotalExp": 827500,
+		"mAddHp": 760
+	},
+	{
+		"mId": 96,
+		"mLevel": 96,
+		"mNeedTotalExp": 853500,
+		"mAddHp": 768
+	},
+	{
+		"mId": 97,
+		"mLevel": 97,
+		"mNeedTotalExp": 879500,
+		"mAddHp": 776
+	},
+	{
+		"mId": 98,
+		"mLevel": 98,
+		"mNeedTotalExp": 906500,
+		"mAddHp": 784
+	},
+	{
+		"mId": 99,
+		"mLevel": 99,
+		"mNeedTotalExp": 933500,
+		"mAddHp": 792
+	},
+	{
+		"mId": 100,
+		"mLevel": 100,
+		"mNeedTotalExp": 961500,
+		"mAddHp": 800
+	}
+]
+}

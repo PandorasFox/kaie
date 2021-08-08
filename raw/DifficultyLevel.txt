@@ -1,0 +1,148 @@
+{
+"mTarget":[
+	{
+		"mId": 0,
+		"mPlayerToNoiseDamageRate": 1,
+		"mNoiseToPlayerDamageRate": 0.5,
+		"mExpRate": 0.5,
+		"mChanceTimeRate": 1,
+		"mChanceTimeGreatRangeRate": 1
+	},
+	{
+		"mId": 1,
+		"mPlayerToNoiseDamageRate": 1,
+		"mNoiseToPlayerDamageRate": 1,
+		"mExpRate": 1,
+		"mChanceTimeRate": 1,
+		"mChanceTimeGreatRangeRate": 1
+	},
+	{
+		"mId": 2,
+		"mPlayerToNoiseDamageRate": 0.75,
+		"mNoiseToPlayerDamageRate": 2,
+		"mExpRate": 1.5,
+		"mChanceTimeRate": 1,
+		"mChanceTimeGreatRangeRate": 1
+	},
+	{
+		"mId": 3,
+		"mPlayerToNoiseDamageRate": 0.5,
+		"mNoiseToPlayerDamageRate": 2.5,
+		"mExpRate": 2,
+		"mChanceTimeRate": 1,
+		"mChanceTimeGreatRangeRate": 1
+	},
+	{
+		"mId": 4,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 5,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 6,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 7,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 8,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 9,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 10,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 11,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 12,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 13,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 14,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 15,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 16,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	},
+	{
+		"mId": 17,
+		"mPlayerToNoiseDamageRate": 0.0,
+		"mNoiseToPlayerDamageRate": 0.0,
+		"mExpRate": 0.0,
+		"mChanceTimeRate": 0.0,
+		"mChanceTimeGreatRangeRate": 0.0
+	}
+]
+}

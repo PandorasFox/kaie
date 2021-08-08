@@ -1,0 +1,32 @@
+{
+"mTarget":[
+	{
+		"mId": 0,
+		"mGrowthtypeName": "Badge_Growth00"
+	},
+	{
+		"mId": 1,
+		"mGrowthtypeName": "Badge_Growth01"
+	},
+	{
+		"mId": 2,
+		"mGrowthtypeName": "Badge_Growth02"
+	},
+	{
+		"mId": 3,
+		"mGrowthtypeName": "Badge_Growth03"
+	},
+	{
+		"mId": 4,
+		"mGrowthtypeName": "Badge_Growth04"
+	},
+	{
+		"mId": 5,
+		"mGrowthtypeName": "Badge_Growth05"
+	},
+	{
+		"mId": 6,
+		"mGrowthtypeName": "Badge_Growth06"
+	}
+]
+}

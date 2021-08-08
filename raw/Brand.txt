@@ -1,0 +1,212 @@
+{
+"mTarget":[
+	{
+		"mId": 0,
+		"mName": "BRD_Name_0000",
+		"mSortIndex": 16,
+		"mUiSprite": "brand_00",
+		"mSaveIndex": 0,
+		"mRankPoint": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	{
+		"mId": 1,
+		"mName": "BRD_Name_0001",
+		"mSortIndex": 1,
+		"mUiSprite": "brand_01",
+		"mSaveIndex": 1,
+		"mRankPoint": [
+			5200,
+			9700,
+			13200,
+			17200
+		]
+	},
+	{
+		"mId": 2,
+		"mName": "BRD_Name_0002",
+		"mSortIndex": 2,
+		"mUiSprite": "brand_02",
+		"mSaveIndex": 2,
+		"mRankPoint": [
+			5200,
+			9700,
+			14200,
+			21200
+		]
+	},
+	{
+		"mId": 3,
+		"mName": "BRD_Name_0003",
+		"mSortIndex": 3,
+		"mUiSprite": "brand_03",
+		"mSaveIndex": 3,
+		"mRankPoint": [
+			5200,
+			10800,
+			17300,
+			23200
+		]
+	},
+	{
+		"mId": 4,
+		"mName": "BRD_Name_0004",
+		"mSortIndex": 4,
+		"mUiSprite": "brand_04",
+		"mSaveIndex": 4,
+		"mRankPoint": [
+			5200,
+			10700,
+			16200,
+			20700
+		]
+	},
+	{
+		"mId": 5,
+		"mName": "BRD_Name_0005",
+		"mSortIndex": 5,
+		"mUiSprite": "brand_05",
+		"mSaveIndex": 5,
+		"mRankPoint": [
+			4200,
+			7600,
+			11000,
+			15400
+		]
+	},
+	{
+		"mId": 6,
+		"mName": "BRD_Name_0006",
+		"mSortIndex": 6,
+		"mUiSprite": "brand_06",
+		"mSaveIndex": 6,
+		"mRankPoint": [
+			5200,
+			9700,
+			14200,
+			19600
+		]
+	},
+	{
+		"mId": 7,
+		"mName": "BRD_Name_0007",
+		"mSortIndex": 7,
+		"mUiSprite": "brand_07",
+		"mSaveIndex": 7,
+		"mRankPoint": [
+			5600,
+			10100,
+			15600,
+			21200
+		]
+	},
+	{
+		"mId": 8,
+		"mName": "BRD_Name_0008",
+		"mSortIndex": 8,
+		"mUiSprite": "brand_08",
+		"mSaveIndex": 8,
+		"mRankPoint": [
+			5200,
+			10700,
+			15300,
+			19200
+		]
+	},
+	{
+		"mId": 9,
+		"mName": "BRD_Name_0009",
+		"mSortIndex": 9,
+		"mUiSprite": "brand_09",
+		"mSaveIndex": 9,
+		"mRankPoint": [
+			5700,
+			10100,
+			14500,
+			17700
+		]
+	},
+	{
+		"mId": 10,
+		"mName": "BRD_Name_0010",
+		"mSortIndex": 10,
+		"mUiSprite": "brand_10",
+		"mSaveIndex": 10,
+		"mRankPoint": [
+			4400,
+			9000,
+			12400,
+			15600
+		]
+	},
+	{
+		"mId": 11,
+		"mName": "BRD_Name_0011",
+		"mSortIndex": 11,
+		"mUiSprite": "brand_11",
+		"mSaveIndex": 11,
+		"mRankPoint": [
+			5300,
+			10700,
+			15100,
+			20600
+		]
+	},
+	{
+		"mId": 12,
+		"mName": "BRD_Name_0012",
+		"mSortIndex": 12,
+		"mUiSprite": "brand_12",
+		"mSaveIndex": 12,
+		"mRankPoint": [
+			4200,
+			10700,
+			16200,
+			22200
+		]
+	},
+	{
+		"mId": 13,
+		"mName": "BRD_Name_0013",
+		"mSortIndex": 13,
+		"mUiSprite": "brand_13",
+		"mSaveIndex": 13,
+		"mRankPoint": [
+			3200,
+			6700,
+			10200,
+			14600
+		]
+	},
+	{
+		"mId": 14,
+		"mName": "BRD_Name_0014",
+		"mSortIndex": 14,
+		"mUiSprite": "brand_14",
+		"mSaveIndex": 14,
+		"mRankPoint": [
+			3600,
+			6900,
+			10200,
+			15600
+		]
+	},
+	{
+		"mId": 15,
+		"mName": "BRD_Name_0015",
+		"mSortIndex": 15,
+		"mUiSprite": "brand_15",
+		"mSaveIndex": 15,
+		"mRankPoint": [
+			2700,
+			4900,
+			7500,
+			9900
+		]
+	}
+]
+}

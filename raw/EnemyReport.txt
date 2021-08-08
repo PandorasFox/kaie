@@ -1,0 +1,1715 @@
+{
+"mTarget":[
+	{
+		"mId": 7,
+		"mSortIndex": 0,
+		"mCharacter": 301,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 300,
+		"mIcon": "enm_0008",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_0031",
+		"mInfo": "ENM_Info_0031",
+		"mIsBoss": false,
+		"mWeak": [
+			1,
+			3,
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0008"
+	},
+	{
+		"mId": 8,
+		"mSortIndex": 1,
+		"mCharacter": 302,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 301,
+		"mIcon": "enm_0009",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_0032",
+		"mInfo": "ENM_Info_0032",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			4,
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0009"
+	},
+	{
+		"mId": 9,
+		"mSortIndex": 2,
+		"mCharacter": 303,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 302,
+		"mIcon": "enm_0010",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_0033",
+		"mInfo": "ENM_Info_0033",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0010"
+	},
+	{
+		"mId": 10,
+		"mSortIndex": 3,
+		"mCharacter": 304,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 303,
+		"mIcon": "enm_0011",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_0034",
+		"mInfo": "ENM_Info_0034",
+		"mIsBoss": false,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0011"
+	},
+	{
+		"mId": 4,
+		"mSortIndex": 4,
+		"mCharacter": 201,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200,
+		"mIcon": "enm_0005",
+		"mSymbolType": 2,
+		"mName": "ENM_Name_0021",
+		"mInfo": "ENM_Info_0021",
+		"mIsBoss": false,
+		"mWeak": [
+			4,
+			6,
+			8
+		],
+		"mNoiseImagePath": "Img_enm_0005"
+	},
+	{
+		"mId": 5,
+		"mSortIndex": 5,
+		"mCharacter": 202,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 201,
+		"mIcon": "enm_0006",
+		"mSymbolType": 2,
+		"mName": "ENM_Name_0022",
+		"mInfo": "ENM_Info_0022",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			6
+		],
+		"mNoiseImagePath": "Img_enm_0006"
+	},
+	{
+		"mId": 6,
+		"mSortIndex": 6,
+		"mCharacter": 203,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 202,
+		"mIcon": "enm_0007",
+		"mSymbolType": 2,
+		"mName": "ENM_Name_0023",
+		"mInfo": "ENM_Info_0023",
+		"mIsBoss": false,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0007"
+	},
+	{
+		"mId": 0,
+		"mSortIndex": 7,
+		"mCharacter": 101,
+		"mGroupCharacter": [
+			101
+		],
+		"mEnemydata": 100,
+		"mIcon": "enm_0001",
+		"mSymbolType": 0,
+		"mName": "ENM_Name_0011",
+		"mInfo": "ENM_Info_0011",
+		"mIsBoss": false,
+		"mWeak": [
+			1,
+			12,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0001"
+	},
+	{
+		"mId": 1,
+		"mSortIndex": 8,
+		"mCharacter": 102,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 101,
+		"mIcon": "enm_0002",
+		"mSymbolType": 0,
+		"mName": "ENM_Name_0012",
+		"mInfo": "ENM_Info_0012",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0002"
+	},
+	{
+		"mId": 2,
+		"mSortIndex": 9,
+		"mCharacter": 103,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 102,
+		"mIcon": "enm_0003",
+		"mSymbolType": 0,
+		"mName": "ENM_Name_0013",
+		"mInfo": "ENM_Info_0013",
+		"mIsBoss": false,
+		"mWeak": [
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0003"
+	},
+	{
+		"mId": 13,
+		"mSortIndex": 10,
+		"mCharacter": 401,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 600,
+		"mIcon": "enm_0014",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_0051",
+		"mInfo": "ENM_Info_0051",
+		"mIsBoss": false,
+		"mWeak": [
+			4,
+			9,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0014"
+	},
+	{
+		"mId": 14,
+		"mSortIndex": 11,
+		"mCharacter": 402,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 610,
+		"mIcon": "enm_0015",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_0052",
+		"mInfo": "ENM_Info_0052",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			9,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0015"
+	},
+	{
+		"mId": 15,
+		"mSortIndex": 12,
+		"mCharacter": 403,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 620,
+		"mIcon": "enm_0016",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_0053",
+		"mInfo": "ENM_Info_0053",
+		"mIsBoss": false,
+		"mWeak": [
+			6,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0016"
+	},
+	{
+		"mId": 16,
+		"mSortIndex": 13,
+		"mCharacter": 404,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 630,
+		"mIcon": "enm_0017",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_0054",
+		"mInfo": "ENM_Info_0054",
+		"mIsBoss": false,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0017"
+	},
+	{
+		"mId": 19,
+		"mSortIndex": 14,
+		"mCharacter": 601,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 400,
+		"mIcon": "enm_0020",
+		"mSymbolType": 4,
+		"mName": "ENM_Name_0041",
+		"mInfo": "ENM_Info_0041",
+		"mIsBoss": false,
+		"mWeak": [
+			4,
+			7,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0020"
+	},
+	{
+		"mId": 20,
+		"mSortIndex": 15,
+		"mCharacter": 602,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 401,
+		"mIcon": "enm_0021",
+		"mSymbolType": 4,
+		"mName": "ENM_Name_0042",
+		"mInfo": "ENM_Info_0042",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0021"
+	},
+	{
+		"mId": 21,
+		"mSortIndex": 16,
+		"mCharacter": 603,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 402,
+		"mIcon": "enm_0022",
+		"mSymbolType": 4,
+		"mName": "ENM_Name_0043",
+		"mInfo": "ENM_Info_0043",
+		"mIsBoss": false,
+		"mWeak": [
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0022"
+	},
+	{
+		"mId": 26,
+		"mSortIndex": 17,
+		"mCharacter": 801,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 800,
+		"mIcon": "enm_0027",
+		"mSymbolType": 6,
+		"mName": "ENM_Name_0071",
+		"mInfo": "ENM_Info_0071",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			4,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0027"
+	},
+	{
+		"mId": 27,
+		"mSortIndex": 18,
+		"mCharacter": 802,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 801,
+		"mIcon": "enm_0028",
+		"mSymbolType": 6,
+		"mName": "ENM_Name_0072",
+		"mInfo": "ENM_Info_0072",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			6
+		],
+		"mNoiseImagePath": "Img_enm_0028"
+	},
+	{
+		"mId": 28,
+		"mSortIndex": 19,
+		"mCharacter": 803,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 802,
+		"mIcon": "enm_0029",
+		"mSymbolType": 6,
+		"mName": "ENM_Name_0073",
+		"mInfo": "ENM_Info_0073",
+		"mIsBoss": false,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0029"
+	},
+	{
+		"mId": 40,
+		"mSortIndex": 20,
+		"mCharacter": 1101,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1500,
+		"mIcon": "enm_0041",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0111",
+		"mInfo": "ENM_Info_0111",
+		"mIsBoss": false,
+		"mWeak": [
+			5,
+			6,
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0041"
+	},
+	{
+		"mId": 41,
+		"mSortIndex": 21,
+		"mCharacter": 1102,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1501,
+		"mIcon": "enm_0042",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0112",
+		"mInfo": "ENM_Info_0112",
+		"mIsBoss": false,
+		"mWeak": [
+			1,
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0042"
+	},
+	{
+		"mId": 42,
+		"mSortIndex": 22,
+		"mCharacter": 1103,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1502,
+		"mIcon": "enm_0043",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0113",
+		"mInfo": "ENM_Info_0113",
+		"mIsBoss": false,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0043"
+	},
+	{
+		"mId": 44,
+		"mSortIndex": 23,
+		"mCharacter": 1104,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1510,
+		"mIcon": "enm_0045",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0112",
+		"mInfo": "ENM_Info_0112",
+		"mIsBoss": true,
+		"mWeak": [
+			1,
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0045"
+	},
+	{
+		"mId": 29,
+		"mSortIndex": 24,
+		"mCharacter": 901,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1400,
+		"mIcon": "enm_0030",
+		"mSymbolType": 9,
+		"mName": "ENM_Name_0101",
+		"mInfo": "ENM_Info_0101",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			4,
+			8
+		],
+		"mNoiseImagePath": "Img_enm_0030"
+	},
+	{
+		"mId": 30,
+		"mSortIndex": 25,
+		"mCharacter": 902,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1401,
+		"mIcon": "enm_0031",
+		"mSymbolType": 9,
+		"mName": "ENM_Name_0102",
+		"mInfo": "ENM_Info_0102",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			6,
+			8
+		],
+		"mNoiseImagePath": "Img_enm_0031"
+	},
+	{
+		"mId": 31,
+		"mSortIndex": 26,
+		"mCharacter": 903,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1402,
+		"mIcon": "enm_0032",
+		"mSymbolType": 9,
+		"mName": "ENM_Name_0103",
+		"mInfo": "ENM_Info_0103",
+		"mIsBoss": false,
+		"mWeak": [
+			3,
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0032"
+	},
+	{
+		"mId": 32,
+		"mSortIndex": 27,
+		"mCharacter": 904,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1403,
+		"mIcon": "enm_0033",
+		"mSymbolType": 9,
+		"mName": "ENM_Name_0104",
+		"mInfo": "ENM_Info_0104",
+		"mIsBoss": false,
+		"mWeak": [
+			7
+		],
+		"mNoiseImagePath": "Img_enm_0033"
+	},
+	{
+		"mId": 33,
+		"mSortIndex": 28,
+		"mCharacter": 905,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1410,
+		"mIcon": "enm_0034",
+		"mSymbolType": 9,
+		"mName": "ENM_Name_0103",
+		"mInfo": "ENM_Info_0103",
+		"mIsBoss": true,
+		"mWeak": [
+			3,
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0034"
+	},
+	{
+		"mId": 23,
+		"mSortIndex": 29,
+		"mCharacter": 701,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 700,
+		"mIcon": "enm_0024",
+		"mSymbolType": 5,
+		"mName": "ENM_Name_0061",
+		"mInfo": "ENM_Info_0061",
+		"mIsBoss": false,
+		"mWeak": [
+			5,
+			12,
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0024"
+	},
+	{
+		"mId": 24,
+		"mSortIndex": 30,
+		"mCharacter": 702,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 701,
+		"mIcon": "enm_0025",
+		"mSymbolType": 5,
+		"mName": "ENM_Name_0062",
+		"mInfo": "ENM_Info_0062",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0025"
+	},
+	{
+		"mId": 25,
+		"mSortIndex": 31,
+		"mCharacter": 703,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 702,
+		"mIcon": "enm_0026",
+		"mSymbolType": 5,
+		"mName": "ENM_Name_0063",
+		"mInfo": "ENM_Info_0063",
+		"mIsBoss": false,
+		"mWeak": [
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0026"
+	},
+	{
+		"mId": 46,
+		"mSortIndex": 32,
+		"mCharacter": 1201,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1000,
+		"mIcon": "enm_0047",
+		"mSymbolType": 8,
+		"mName": "ENM_Name_0091",
+		"mInfo": "ENM_Info_0091",
+		"mIsBoss": false,
+		"mWeak": [
+			4,
+			11,
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0047"
+	},
+	{
+		"mId": 47,
+		"mSortIndex": 33,
+		"mCharacter": 1202,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1001,
+		"mIcon": "enm_0048",
+		"mSymbolType": 8,
+		"mName": "ENM_Name_0092",
+		"mInfo": "ENM_Info_0092",
+		"mIsBoss": false,
+		"mWeak": [
+			11,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0048"
+	},
+	{
+		"mId": 48,
+		"mSortIndex": 34,
+		"mCharacter": 1203,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1002,
+		"mIcon": "enm_0049",
+		"mSymbolType": 8,
+		"mName": "ENM_Name_0093",
+		"mInfo": "ENM_Info_0093",
+		"mIsBoss": false,
+		"mWeak": [
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0049"
+	},
+	{
+		"mId": 53,
+		"mSortIndex": 35,
+		"mCharacter": 1401,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1600,
+		"mIcon": "enm_0054",
+		"mSymbolType": 11,
+		"mName": "ENM_Name_0121",
+		"mInfo": "ENM_Info_0121",
+		"mIsBoss": false,
+		"mWeak": [
+			1,
+			8,
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0054"
+	},
+	{
+		"mId": 54,
+		"mSortIndex": 36,
+		"mCharacter": 1402,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1601,
+		"mIcon": "enm_0055",
+		"mSymbolType": 11,
+		"mName": "ENM_Name_0122",
+		"mInfo": "ENM_Info_0122",
+		"mIsBoss": false,
+		"mWeak": [
+			1,
+			4
+		],
+		"mNoiseImagePath": "Img_enm_0055"
+	},
+	{
+		"mId": 55,
+		"mSortIndex": 37,
+		"mCharacter": 1403,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1602,
+		"mIcon": "enm_0056",
+		"mSymbolType": 11,
+		"mName": "ENM_Name_0123",
+		"mInfo": "ENM_Info_0123",
+		"mIsBoss": false,
+		"mWeak": [
+			9
+		],
+		"mNoiseImagePath": "Img_enm_0056"
+	},
+	{
+		"mId": 56,
+		"mSortIndex": 38,
+		"mCharacter": 1404,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1610,
+		"mIcon": "enm_0057",
+		"mSymbolType": 11,
+		"mName": "ENM_Name_0122",
+		"mInfo": "ENM_Info_0122",
+		"mIsBoss": true,
+		"mWeak": [
+			1,
+			4
+		],
+		"mNoiseImagePath": "Img_enm_0057"
+	},
+	{
+		"mId": 34,
+		"mSortIndex": 39,
+		"mCharacter": 1001,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 900,
+		"mIcon": "enm_0035",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0081",
+		"mInfo": "ENM_Info_0081",
+		"mIsBoss": false,
+		"mWeak": [
+			10,
+			13,
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0035"
+	},
+	{
+		"mId": 35,
+		"mSortIndex": 40,
+		"mCharacter": 1002,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 901,
+		"mIcon": "enm_0036",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0082",
+		"mInfo": "ENM_Info_0082",
+		"mIsBoss": false,
+		"mWeak": [
+			5,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0036"
+	},
+	{
+		"mId": 36,
+		"mSortIndex": 41,
+		"mCharacter": 1003,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 902,
+		"mIcon": "enm_0037",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0083",
+		"mInfo": "ENM_Info_0083",
+		"mIsBoss": false,
+		"mWeak": [
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0037"
+	},
+	{
+		"mId": 38,
+		"mSortIndex": 42,
+		"mCharacter": 1004,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 910,
+		"mIcon": "enm_0039",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0082",
+		"mInfo": "ENM_Info_0082",
+		"mIsBoss": true,
+		"mWeak": [
+			5,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0039"
+	},
+	{
+		"mId": 49,
+		"mSortIndex": 43,
+		"mCharacter": 1301,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1800,
+		"mIcon": "enm_0050",
+		"mSymbolType": 12,
+		"mName": "ENM_Name_0131",
+		"mInfo": "ENM_Info_0131",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			9,
+			13
+		],
+		"mNoiseImagePath": "Img_enm_0050"
+	},
+	{
+		"mId": 50,
+		"mSortIndex": 44,
+		"mCharacter": 1302,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1801,
+		"mIcon": "enm_0051",
+		"mSymbolType": 12,
+		"mName": "ENM_Name_0132",
+		"mInfo": "ENM_Info_0132",
+		"mIsBoss": false,
+		"mWeak": [
+			2,
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0051"
+	},
+	{
+		"mId": 51,
+		"mSortIndex": 45,
+		"mCharacter": 1303,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1802,
+		"mIcon": "enm_0052",
+		"mSymbolType": 12,
+		"mName": "ENM_Name_0133",
+		"mInfo": "ENM_Info_0133",
+		"mIsBoss": false,
+		"mWeak": [
+			7
+		],
+		"mNoiseImagePath": "Img_enm_0052"
+	},
+	{
+		"mId": 52,
+		"mSortIndex": 46,
+		"mCharacter": 1304,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1810,
+		"mIcon": "enm_0053",
+		"mSymbolType": 12,
+		"mName": "ENM_Name_0132",
+		"mInfo": "ENM_Info_0132",
+		"mIsBoss": true,
+		"mWeak": [
+			2,
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0053"
+	},
+	{
+		"mId": 57,
+		"mSortIndex": 47,
+		"mCharacter": 40001,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200000,
+		"mIcon": "enm_0058",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0201",
+		"mInfo": "ENM_Info_0201",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0058"
+	},
+	{
+		"mId": 60,
+		"mSortIndex": 48,
+		"mCharacter": 40012,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200011,
+		"mIcon": "enm_0061",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0204",
+		"mInfo": "ENM_Info_0204",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0061"
+	},
+	{
+		"mId": 59,
+		"mSortIndex": 49,
+		"mCharacter": 40013,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200012,
+		"mIcon": "enm_0060",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0203",
+		"mInfo": "ENM_Info_0203",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0060"
+	},
+	{
+		"mId": 58,
+		"mSortIndex": 50,
+		"mCharacter": 40002,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200001,
+		"mIcon": "enm_0059",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0202",
+		"mInfo": "ENM_Info_0202",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0059"
+	},
+	{
+		"mId": 61,
+		"mSortIndex": 51,
+		"mCharacter": 40003,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200002,
+		"mIcon": "enm_0062",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0205",
+		"mInfo": "ENM_Info_0205",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0062"
+	},
+	{
+		"mId": 66,
+		"mSortIndex": 52,
+		"mCharacter": 40008,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200007,
+		"mIcon": "enm_0067",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0210",
+		"mInfo": "ENM_Info_0210",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0067"
+	},
+	{
+		"mId": 65,
+		"mSortIndex": 53,
+		"mCharacter": 40007,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200006,
+		"mIcon": "enm_0066",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0209",
+		"mInfo": "ENM_Info_0209",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0066"
+	},
+	{
+		"mId": 63,
+		"mSortIndex": 54,
+		"mCharacter": 40004,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200003,
+		"mIcon": "enm_0064",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0207",
+		"mInfo": "ENM_Info_0207",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0064"
+	},
+	{
+		"mId": 64,
+		"mSortIndex": 55,
+		"mCharacter": 40006,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200005,
+		"mIcon": "enm_0065",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0208",
+		"mInfo": "ENM_Info_0208",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0065"
+	},
+	{
+		"mId": 62,
+		"mSortIndex": 56,
+		"mCharacter": 40010,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 200009,
+		"mIcon": "enm_0063",
+		"mSymbolType": 17,
+		"mName": "ENM_Name_0206",
+		"mInfo": "ENM_Info_0206",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0063"
+	},
+	{
+		"mId": 3,
+		"mSortIndex": 57,
+		"mCharacter": 104,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 190,
+		"mIcon": "enm_0004",
+		"mSymbolType": 0,
+		"mName": "ENM_Name_0402",
+		"mInfo": "ENM_Info_0402",
+		"mIsBoss": false,
+		"mWeak": [
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0004"
+	},
+	{
+		"mId": 11,
+		"mSortIndex": 58,
+		"mCharacter": 305,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 390,
+		"mIcon": "enm_0012",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_0401",
+		"mInfo": "ENM_Info_0401",
+		"mIsBoss": false,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0012"
+	},
+	{
+		"mId": 12,
+		"mSortIndex": 59,
+		"mCharacter": 306,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 391,
+		"mIcon": "enm_0013",
+		"mSymbolType": 1,
+		"mName": "ENM_Name_1401",
+		"mInfo": "ENM_Info_1401",
+		"mIsBoss": true,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0013"
+	},
+	{
+		"mId": 22,
+		"mSortIndex": 60,
+		"mCharacter": 604,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 490,
+		"mIcon": "enm_0023",
+		"mSymbolType": 4,
+		"mName": "ENM_Name_0405",
+		"mInfo": "ENM_Info_0405",
+		"mIsBoss": false,
+		"mWeak": [
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0023"
+	},
+	{
+		"mId": 43,
+		"mSortIndex": 61,
+		"mCharacter": 1105,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1590,
+		"mIcon": "enm_0044",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0403",
+		"mInfo": "ENM_Info_0403",
+		"mIsBoss": false,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0044"
+	},
+	{
+		"mId": 45,
+		"mSortIndex": 62,
+		"mCharacter": 1106,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 1591,
+		"mIcon": "enm_0046",
+		"mSymbolType": 10,
+		"mName": "ENM_Name_0403",
+		"mInfo": "ENM_Info_0403",
+		"mIsBoss": true,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0046"
+	},
+	{
+		"mId": 17,
+		"mSortIndex": 63,
+		"mCharacter": 505,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 690,
+		"mIcon": "enm_0018",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_0404",
+		"mInfo": "ENM_Info_0404",
+		"mIsBoss": false,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0018"
+	},
+	{
+		"mId": 18,
+		"mSortIndex": 64,
+		"mCharacter": 506,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 691,
+		"mIcon": "enm_0019",
+		"mSymbolType": 3,
+		"mName": "ENM_Name_1402",
+		"mInfo": "ENM_Info_1402",
+		"mIsBoss": true,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0019"
+	},
+	{
+		"mId": 37,
+		"mSortIndex": 65,
+		"mCharacter": 1005,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 990,
+		"mIcon": "enm_0038",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0406",
+		"mInfo": "ENM_Info_0406",
+		"mIsBoss": false,
+		"mWeak": [
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0038"
+	},
+	{
+		"mId": 39,
+		"mSortIndex": 66,
+		"mCharacter": 1006,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 991,
+		"mIcon": "enm_0040",
+		"mSymbolType": 7,
+		"mName": "ENM_Name_0406",
+		"mInfo": "ENM_Info_0406",
+		"mIsBoss": true,
+		"mWeak": [
+			11
+		],
+		"mNoiseImagePath": "Img_enm_0040"
+	},
+	{
+		"mId": 67,
+		"mSortIndex": 67,
+		"mCharacter": 1501,
+		"mGroupCharacter": [
+			1501
+		],
+		"mEnemydata": 20000,
+		"mIcon": "enm_0068",
+		"mSymbolType": 30,
+		"mName": "ENM_Name_0301",
+		"mInfo": "ENM_Info_0301",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0068"
+	},
+	{
+		"mId": 68,
+		"mSortIndex": 68,
+		"mCharacter": 1502,
+		"mGroupCharacter": [
+			1502,
+			30202
+		],
+		"mEnemydata": 20010,
+		"mIcon": "enm_0069",
+		"mSymbolType": 30,
+		"mName": "ENM_Name_0301s",
+		"mInfo": "ENM_Info_0301",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0069"
+	},
+	{
+		"mId": 74,
+		"mSortIndex": 69,
+		"mCharacter": 10201,
+		"mGroupCharacter": [
+			30201
+		],
+		"mEnemydata": 10200,
+		"mIcon": "enm_0075",
+		"mSymbolType": 20,
+		"mName": "ENM_Name_1301",
+		"mInfo": "ENM_Info_1301",
+		"mIsBoss": true,
+		"mWeak": [
+			23
+		],
+		"mNoiseImagePath": "Img_enm_0075"
+	},
+	{
+		"mId": 69,
+		"mSortIndex": 70,
+		"mCharacter": 1601,
+		"mGroupCharacter": [
+			1601
+		],
+		"mEnemydata": 21000,
+		"mIcon": "enm_0070",
+		"mSymbolType": 31,
+		"mName": "ENM_Name_0302",
+		"mInfo": "ENM_Info_0302",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0070"
+	},
+	{
+		"mId": 70,
+		"mSortIndex": 71,
+		"mCharacter": 1602,
+		"mGroupCharacter": [
+			1602,
+			30802
+		],
+		"mEnemydata": 21100,
+		"mIcon": "enm_0071",
+		"mSymbolType": 31,
+		"mName": "ENM_Name_0302s",
+		"mInfo": "ENM_Info_0302",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0071"
+	},
+	{
+		"mId": 83,
+		"mSortIndex": 72,
+		"mCharacter": 10801,
+		"mGroupCharacter": [
+			30801
+		],
+		"mEnemydata": 100000,
+		"mIcon": "enm_0084",
+		"mSymbolType": 27,
+		"mName": "ENM_Name_1302",
+		"mInfo": "ENM_Info_1302",
+		"mIsBoss": true,
+		"mWeak": [
+			7
+		],
+		"mNoiseImagePath": "Img_enm_0084"
+	},
+	{
+		"mId": 71,
+		"mSortIndex": 73,
+		"mCharacter": 1701,
+		"mGroupCharacter": [
+			1701
+		],
+		"mEnemydata": 22000,
+		"mIcon": "enm_0072",
+		"mSymbolType": 32,
+		"mName": "ENM_Name_0303",
+		"mInfo": "ENM_Info_0303",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0072"
+	},
+	{
+		"mId": 72,
+		"mSortIndex": 74,
+		"mCharacter": 1702,
+		"mGroupCharacter": [
+			1702
+		],
+		"mEnemydata": 22100,
+		"mIcon": "enm_0073",
+		"mSymbolType": 32,
+		"mName": "ENM_Name_0303s",
+		"mInfo": "ENM_Info_0303",
+		"mIsBoss": false,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0073"
+	},
+	{
+		"mId": 73,
+		"mSortIndex": 75,
+		"mCharacter": 10101,
+		"mGroupCharacter": [
+			30101
+		],
+		"mEnemydata": 10100,
+		"mIcon": "enm_0074",
+		"mSymbolType": 19,
+		"mName": "ENM_Name_1011",
+		"mInfo": "ENM_Info_1011",
+		"mIsBoss": true,
+		"mWeak": [
+			1,
+			8,
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0074"
+	},
+	{
+		"mId": 75,
+		"mSortIndex": 76,
+		"mCharacter": 10301,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 10300,
+		"mIcon": "enm_0076",
+		"mSymbolType": 33,
+		"mName": "ENM_Name_1051",
+		"mInfo": "ENM_Info_1051",
+		"mIsBoss": true,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0076"
+	},
+	{
+		"mId": 76,
+		"mSortIndex": 77,
+		"mCharacter": 10302,
+		"mGroupCharacter": [
+			30301
+		],
+		"mEnemydata": 10301,
+		"mIcon": "enm_0077",
+		"mSymbolType": 33,
+		"mName": "ENM_Name_1052",
+		"mInfo": "ENM_Info_1052",
+		"mIsBoss": true,
+		"mWeak": [
+			2
+		],
+		"mNoiseImagePath": "Img_enm_0077"
+	},
+	{
+		"mId": 77,
+		"mSortIndex": 78,
+		"mCharacter": 10403,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 10500,
+		"mIcon": "enm_0078",
+		"mSymbolType": 22,
+		"mName": "ENM_Name_1021",
+		"mInfo": "ENM_Info_1021",
+		"mIsBoss": true,
+		"mWeak": [
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0078"
+	},
+	{
+		"mId": 78,
+		"mSortIndex": 79,
+		"mCharacter": 10406,
+		"mGroupCharacter": [
+			30403
+		],
+		"mEnemydata": 10550,
+		"mIcon": "enm_0079",
+		"mSymbolType": 22,
+		"mName": "ENM_Name_1022",
+		"mInfo": "ENM_Info_1022",
+		"mIsBoss": true,
+		"mWeak": [
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0079"
+	},
+	{
+		"mId": 79,
+		"mSortIndex": 80,
+		"mCharacter": 10501,
+		"mGroupCharacter": [
+			30501
+		],
+		"mEnemydata": 10600,
+		"mIcon": "enm_0080",
+		"mSymbolType": 23,
+		"mName": "ENM_Name_1031",
+		"mInfo": "ENM_Info_1031",
+		"mIsBoss": true,
+		"mWeak": [
+			6
+		],
+		"mNoiseImagePath": "Img_enm_0080"
+	},
+	{
+		"mId": 80,
+		"mSortIndex": 81,
+		"mCharacter": 10601,
+		"mGroupCharacter": [
+			30601
+		],
+		"mEnemydata": 10700,
+		"mIcon": "enm_0081",
+		"mSymbolType": 24,
+		"mName": "ENM_Name_1041",
+		"mInfo": "ENM_Info_1041",
+		"mIsBoss": true,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0081"
+	},
+	{
+		"mId": 81,
+		"mSortIndex": 82,
+		"mCharacter": 10701,
+		"mGroupCharacter": [
+			30701
+		],
+		"mEnemydata": 10800,
+		"mIcon": "enm_0082",
+		"mSymbolType": 25,
+		"mName": "ENM_Name_1061",
+		"mInfo": "ENM_Info_1061",
+		"mIsBoss": true,
+		"mWeak": [
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0082"
+	},
+	{
+		"mId": 82,
+		"mSortIndex": 83,
+		"mCharacter": 10902,
+		"mGroupCharacter": [
+			30902
+		],
+		"mEnemydata": 10901,
+		"mIcon": "enm_0083",
+		"mSymbolType": 26,
+		"mName": "ENM_Name_1053",
+		"mInfo": "ENM_Info_1053",
+		"mIsBoss": true,
+		"mWeak": [
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0083"
+	},
+	{
+		"mId": 84,
+		"mSortIndex": 84,
+		"mCharacter": 11002,
+		"mGroupCharacter": [
+			31002
+		],
+		"mEnemydata": 11101,
+		"mIcon": "enm_0085",
+		"mSymbolType": 28,
+		"mName": "ENM_Name_1071",
+		"mInfo": "ENM_Info_1071",
+		"mIsBoss": true,
+		"mWeak": [
+			4
+		],
+		"mNoiseImagePath": "Img_enm_0085"
+	},
+	{
+		"mId": 85,
+		"mSortIndex": 85,
+		"mCharacter": 11101,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 11200,
+		"mIcon": "enm_0086",
+		"mSymbolType": 15,
+		"mName": "ENM_Name_1081",
+		"mInfo": "ENM_Info_1081",
+		"mIsBoss": true,
+		"mWeak": [
+			9,
+			10
+		],
+		"mNoiseImagePath": "Img_enm_0086"
+	},
+	{
+		"mId": 86,
+		"mSortIndex": 86,
+		"mCharacter": 11201,
+		"mGroupCharacter": [
+			31101
+		],
+		"mEnemydata": 11300,
+		"mIcon": "enm_0087",
+		"mSymbolType": 29,
+		"mName": "ENM_Name_1091",
+		"mInfo": "ENM_Info_1091",
+		"mIsBoss": true,
+		"mWeak": [
+
+		],
+		"mNoiseImagePath": "Img_enm_0087"
+	},
+	{
+		"mId": 87,
+		"mSortIndex": 87,
+		"mCharacter": 20101,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 510900,
+		"mIcon": "enm_0088",
+		"mSymbolType": 26,
+		"mName": "ENM_Name_1101",
+		"mInfo": "ENM_Info_1101",
+		"mIsBoss": true,
+		"mWeak": [
+			12
+		],
+		"mNoiseImagePath": "Img_enm_0088"
+	},
+	{
+		"mId": 88,
+		"mSortIndex": 88,
+		"mCharacter": 20301,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 510600,
+		"mIcon": "enm_0089",
+		"mSymbolType": 23,
+		"mName": "ENM_Name_1102",
+		"mInfo": "ENM_Info_1102",
+		"mIsBoss": true,
+		"mWeak": [
+			6
+		],
+		"mNoiseImagePath": "Img_enm_0089"
+	},
+	{
+		"mId": 89,
+		"mSortIndex": 89,
+		"mCharacter": 20201,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 510700,
+		"mIcon": "enm_0090",
+		"mSymbolType": 24,
+		"mName": "ENM_Name_1103",
+		"mInfo": "ENM_Info_1103",
+		"mIsBoss": true,
+		"mWeak": [
+			1
+		],
+		"mNoiseImagePath": "Img_enm_0090"
+	},
+	{
+		"mId": 90,
+		"mSortIndex": 90,
+		"mCharacter": 20401,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 511101,
+		"mIcon": "enm_0091",
+		"mSymbolType": 28,
+		"mName": "ENM_Name_1104",
+		"mInfo": "ENM_Info_1104",
+		"mIsBoss": true,
+		"mWeak": [
+			4
+		],
+		"mNoiseImagePath": "Img_enm_0091"
+	},
+	{
+		"mId": 91,
+		"mSortIndex": 91,
+		"mCharacter": 20501,
+		"mGroupCharacter": [
+
+		],
+		"mEnemydata": 510800,
+		"mIcon": "enm_0092",
+		"mSymbolType": 25,
+		"mName": "ENM_Name_1105",
+		"mInfo": "ENM_Info_1105",
+		"mIsBoss": true,
+		"mWeak": [
+			5
+		],
+		"mNoiseImagePath": "Img_enm_0092"
+	}
+]
+}

@@ -1,0 +1,564 @@
+{
+"mTarget":[
+	{
+		"mId": 211,
+		"mAttackHit": [
+			4000001
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 0,
+		"mAttack": 342,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_01_Normal",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 212,
+		"mAttackHit": [
+			4000002,
+			4100001,
+			4100002
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1359,
+		"mAuraEffect": 1424,
+		"mAuraColor": 1,
+		"mAttack": 396,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_02_Fire",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 213,
+		"mAttackHit": [
+			4000003
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 2,
+		"mAttack": 360,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_03_Ice",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 214,
+		"mAttackHit": [
+			4000004,
+			4100003
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 3,
+		"mAttack": 360,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_04_Thunder",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 215,
+		"mAttackHit": [
+			4000005
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 4,
+		"mAttack": 342,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_05_Wind",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 216,
+		"mAttackHit": [
+			4000006
+		],
+		"mEffect": [
+			1329
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 5,
+		"mAttack": 333,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_06_Water",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 217,
+		"mAttackHit": [
+			4000007
+		],
+		"mEffect": [
+			1338
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1360,
+		"mAuraEffect": 1424,
+		"mAuraColor": 13,
+		"mAttack": 360,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_07_Rock",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 218,
+		"mAttackHit": [
+			4000008
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 8,
+		"mAttack": 324,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6,
+		"mColorFilterSoName": "MashupColorFilterSO_08_Poison",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 219,
+		"mAttackHit": [
+			4000009
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 15,
+		"mAttack": 342,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_09_Explosion",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 220,
+		"mAttackHit": [
+			4000010
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 9,
+		"mAttack": 324,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6,
+		"mColorFilterSoName": "MashupColorFilterSO_10_Sound",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 221,
+		"mAttackHit": [
+			4000011
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 6,
+		"mAttack": 324,
+		"mHpRecoveryRate": 0.5,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_11_Light",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 222,
+		"mAttackHit": [
+			4000012
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 7,
+		"mAttack": 396,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_12_Dark",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 223,
+		"mAttackHit": [
+			4000013
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1361,
+		"mAuraEffect": 1424,
+		"mAuraColor": 17,
+		"mAttack": 360,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_13_Gravitation",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 224,
+		"mAttackHit": [
+			4000014,
+			4100004,
+			4100005,
+			4100006,
+			4100007,
+			4100008,
+			4100009,
+			4100019
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 14,
+		"mAttack": 360,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_14_Scrap",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 225,
+		"mAttackHit": [
+			4000015
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 10,
+		"mAttack": 0,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_15_Time",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 226,
+		"mAttackHit": [
+			4000016
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 0,
+		"mAttack": 855,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_01_Normal_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 227,
+		"mAttackHit": [
+			4000017,
+			4100010,
+			4100011
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1359,
+		"mAuraEffect": 1424,
+		"mAuraColor": 1,
+		"mAttack": 990,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_02_Fire_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 228,
+		"mAttackHit": [
+			4000018
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 2,
+		"mAttack": 900,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_03_Ice_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 229,
+		"mAttackHit": [
+			4000019,
+			4100012
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 3,
+		"mAttack": 900,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_04_Thunder_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 230,
+		"mAttackHit": [
+			4000020
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 4,
+		"mAttack": 855,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_05_Wind_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 231,
+		"mAttackHit": [
+			4000021
+		],
+		"mEffect": [
+			1329
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 5,
+		"mAttack": 833,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_06_Water_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 232,
+		"mAttackHit": [
+			4000022
+		],
+		"mEffect": [
+			1338
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1360,
+		"mAuraEffect": 1424,
+		"mAuraColor": 13,
+		"mAttack": 900,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_07_Rock_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 233,
+		"mAttackHit": [
+			4000023
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 8,
+		"mAttack": 810,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6,
+		"mColorFilterSoName": "MashupColorFilterSO_08_Poison_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 234,
+		"mAttackHit": [
+			4000024
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 15,
+		"mAttack": 855,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 7,
+		"mColorFilterSoName": "MashupColorFilterSO_09_Explosion_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 235,
+		"mAttackHit": [
+			4000025
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 9,
+		"mAttack": 810,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6,
+		"mColorFilterSoName": "MashupColorFilterSO_10_Sound_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 236,
+		"mAttackHit": [
+			4000026
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 6,
+		"mAttack": 810,
+		"mHpRecoveryRate": 1,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_11_Light_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 237,
+		"mAttackHit": [
+			4000027
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 7,
+		"mAttack": 990,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 5.5,
+		"mColorFilterSoName": "MashupColorFilterSO_12_Dark_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 238,
+		"mAttackHit": [
+			4000028
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": 1361,
+		"mAuraEffect": 1424,
+		"mAuraColor": 17,
+		"mAttack": 900,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_13_Gravitation_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 239,
+		"mAttackHit": [
+			4000029,
+			4100013,
+			4100014,
+			4100015,
+			4100016,
+			4100017,
+			4100018,
+			4100020
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 14,
+		"mAttack": 900,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_14_Scrap_200",
+		"mChancetimeType": 9
+	},
+	{
+		"mId": 240,
+		"mAttackHit": [
+			4000030
+		],
+		"mEffect": [
+
+		],
+		"mBootEffect": -1,
+		"mShadowEffect": -1,
+		"mAuraEffect": 1424,
+		"mAuraColor": 10,
+		"mAttack": 0,
+		"mHpRecoveryRate": 0.0,
+		"mCameraDistance": 6.5,
+		"mColorFilterSoName": "MashupColorFilterSO_15_Time_200",
+		"mChancetimeType": 9
+	}
+]
+}
