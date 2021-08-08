@@ -1,0 +1,502 @@
+{
+"columns":[
+	{
+		"name": "ENM_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Noise Info"
+	},
+	{
+		"name": "ENM_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "A bear-like Noise that packs one heck of a punch. You'll end up with more than just a scratch if one of their attacks catches you head-on."
+	},
+	{
+		"name": "ENM_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Run for the hills if you hear this sucker howling. This Noise is quick on its feet and will be upon you before you know it."
+	},
+	{
+		"name": "ENM_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "The strongest of the bear-like Noise. This fearsome foe is known to slam its paws down and unleash an omnidirectional shock wave. You'll know to run when it hurls its arms up in the air."
+	},
+	{
+		"name": "ENM_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "A pesky crow-like Noise that pecks at the heads of its enemies. Run like the wind if it chooses you as its prey of the day."
+	},
+	{
+		"name": "ENM_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "A burly Noise that uses its tough talons to trap its foes in an iron hold. Should one of your allies get caught in its grasp, be sure to give the Easterraven a good walloping and set them free."
+	},
+	{
+		"name": "ENM_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "A nasty Noise that can fire off razor-sharp feathers from far away, ensnare unsuspecting enemies, and provide backup to its allies in battle. If you encounter one of these fiends, make sure to erase it before it becomes too much of a nuisance."
+	},
+	{
+		"name": "ENM_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "A normally docile frog-like Noise that changes its tune the second it feels endangered. It may bounce around a bunch, but don't worry—this croaker's nothing to be scared of."
+	},
+	{
+		"name": "ENM_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "A foe to be reckoned with, this Noise can blow deadly bubbles from far away. These projectiles will hang in the air for a while, so be careful not to bump into them."
+	},
+	{
+		"name": "ENM_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "A Noise that tramples all that stand before it. Back off the second it starts stamping or you'll be flattened in no time."
+	},
+	{
+		"name": "ENM_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "The king of the frogs. This nefarious Noise strengthens its fellow amphibians in battle and works with them to shoot out streams of water. It can blast out more bubbles than its kin and stamp like the best of them. This froggy foe means serious business."
+	},
+	{
+		"name": "ENM_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "A canine-like Noise that runs about with wild abandon as it hunts for its next prey. Should it ensnare you in its jaws, the rest of the pack will soon be upon you. You'd be well advised to wait for it to slow down before attacking."
+	},
+	{
+		"name": "ENM_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "A canine-like Noise that leaves flames in its wake wherever it goes. Try to use a psych that'll stop it in its tracks, lest you be encircled by a ring of fire."
+	},
+	{
+		"name": "ENM_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "The leader of the pack. This canine-like Noise runs so fast it's impossible to track it with the naked eye. Be sure to strike before it starts whirring about."
+	},
+	{
+		"name": "ENM_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "A jellyfish-like Noise that floats in midair, repeatedly cloning itself. Keep an eye out for the telltale signs that mark the clones and attack the original instead."
+	},
+	{
+		"name": "ENM_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "A predatory Noise that latches on to its victims with an electric shock. Try not to let them multiply, or they'll be able to wreak even more havoc."
+	},
+	{
+		"name": "ENM_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "A particularly nasty Noise in possession of poisonous tentacles. Try to keep your distance when it's flailing them about and use ranged attacks to fight back."
+	},
+	{
+		"name": "ENM_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "A bothersome Noise that can create exact clones of itself. Make a point of erasing these pests first if you're unlucky enough to encounter some."
+	},
+	{
+		"name": "ENM_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "An aggressive Noise that charges all foes on sight. Its frontal hide is so hard that it acts as an impenetrable shield."
+	},
+	{
+		"name": "ENM_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "A Noise so ferocious that it produces clouds of dust when it goes on a rampage. Keep your wits about you even if you think you're in a safe spot."
+	},
+	{
+		"name": "ENM_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "The roughest and toughest of the rhino-like Noise. Its hardy horn both protects it from attacks and enables it to unleash onslaughts of its own. You'd be wise to avoid confronting it head-on."
+	},
+	{
+		"name": "ENM_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "A sneaky shark-like Noise that hides itself by swimming underground. You won't do much damage attacking its fin, so try to wait until it comes to the surface."
+	},
+	{
+		"name": "ENM_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "These giant monsters are known to suddenly surface and gulp up prey in their massive mouths. Do your best to avoid their onslaughts before going on the counterattack."
+	},
+	{
+		"name": "ENM_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "While this Noise can do plenty of damage with its fearsome jump attack, they leave themselves vulnerable as the maneuver requires them to surface for long periods of time. But be careful: they make a real splash when they land."
+	},
+	{
+		"name": "ENM_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "A Noise that makes up for its lack of movement with its lethal long-range laser attack. There's nowhere to hide when this foe is near."
+	},
+	{
+		"name": "ENM_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "These beasts are known to stamp down the second they sense danger, sending out large, deadly shock waves."
+	},
+	{
+		"name": "ENM_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "A fearsome foe best described as a walking cannon. Known to rain lasers down on its prey as it tenaciously stalks them. You'll struggle to survive if this Noise sets its sights on you."
+	},
+	{
+		"name": "ENM_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "These critters appear cute at first, but let your guard down and they'll charge you en masse. Keep an eye on each Noise's position when tackling a group of them."
+	},
+	{
+		"name": "ENM_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Especially troubling foes due to their tendency to attack in well-drilled formations. Brace yourself if you notice them getting into position."
+	},
+	{
+		"name": "ENM_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "A bossy Noise known to command its subordinates in battle. What's more, this imperial threat will continue to power up its allies as long as it's on the battlefield."
+	},
+	{
+		"name": "ENM_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Vexing fishy foes that explode when defeated, but also self-detonate when left alone. However, the blasts they emit also damage their fellow Noise."
+	},
+	{
+		"name": "ENM_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "A prickly Noise that shoots stingers out in all directions. Be alert while battling them as they explode when they give up the ghost."
+	},
+	{
+		"name": "ENM_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Cowardly Noise that attack from afar by shooting poisonous stingers. Be extra careful as they also project prickles from their body when they shoot their stingers."
+	},
+	{
+		"name": "ENM_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "The strongest of the puffer Noise. Known to initimidate enemies by puffing themselves up to ridiculous proportions. Not only do their stingers fly further when they're puffed up, but the explosion they create when they detonate is no joke."
+	},
+	{
+		"name": "ENM_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "This ill-tempered Noise weakens its foes by snipping them with its pincers, or stinging them with its tail—both attacks packing plenty of poison."
+	},
+	{
+		"name": "ENM_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "A sinister Noise that releases poisonous gas from its tail. However, its pincers are shrunken due to lack of use and pose little threat."
+	},
+	{
+		"name": "ENM_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "A deadly Noise capable of snapping enemies to death with its pincers, drowning them in poisonous gas, and trapping them with its tail. You'll want to be sure you have a poison antidote or two handy when taking on one of these beasts."
+	},
+	{
+		"name": "ENM_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "A hard-to-spot Noise adept at blending into its surroundings. You'll know it's got its sights set on you when you see the telltale crosshairs."
+	},
+	{
+		"name": "ENM_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "This creature excels at sniping its foes from far away. Try to attack when its eyes glint as it attempts to lock on to you."
+	},
+	{
+		"name": "ENM_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Possesses a curious tongue that allows it to lick allies back into good health while simultaneously healing itself. You'd do well to take it out early on if you don't want the fight to drag on."
+	},
+	{
+		"name": "ENM_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "A deadly dinosaur-like Noise. Tends to go on a lengthy rampage if it lands a hit on its prey. However, its movements make it fairly obvious when it's about to lose its cool, so you should have plenty of time to prepare."
+	},
+	{
+		"name": "ENM_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "A nefarious Noise that's evolved to learn how to use its tail as a weapon. Be especially careful when it goes on a rampage as its rage makes it extra quick on its feet."
+	},
+	{
+		"name": "ENM_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "A fearsome beast capable of dealing damage to foes with its roar alone. This attack becomes even deadlier when it goes on a rampage as its range grows to cover the whole battlefield."
+	},
+	{
+		"name": "ENM_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "A fairly harmless, porky Noise. Be sure to <CRE>take it down before time runs out</C> or it'll flee from the fight!"
+	},
+	{
+		"name": "ENM_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Porker royalty personified. You'll need to <CRE>bring out the big guns</C> if you hope to take down this mighty monarch."
+	},
+	{
+		"name": "ENM_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Very few attacks are strong enough to bother this golden piggy. However, <CRE>keep up your offensive onslaught</C> and you'll erase it eventually."
+	},
+	{
+		"name": "ENM_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Appears fancy at first glance, though it shows its true cheapo colors when given a closer inspection. You <CRE>won't need to try hard</C> to damage this knockoff."
+	},
+	{
+		"name": "ENM_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "A pesky piggy that <CRE>can only be damaged when attacked with its lethal affinity</C>. Each one of these Noise has a different weakness, so pack plenty of psychs."
+	},
+	{
+		"name": "ENM_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "An odd creature that can't seem to decide if it wants to clone itself or remain as one Noise. You'd do well to <CRE>unleash a wide-range attack on this pig and its clones before they can reunite</C>."
+	},
+	{
+		"name": "ENM_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "A tenacious critter that changes color and revives itself whenever it's defeated. They may seem invincible at first, but your fortunes may change <CRE>once all of the Pig Waltzes' colors match up</C>."
+	},
+	{
+		"name": "ENM_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "An annoying Noise that self-detonates at regular intervals. These explosions even damage its allies, so be sure to <CRE>send it flying before it can explode nearby</C>."
+	},
+	{
+		"name": "ENM_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "This ferociously loyal porker won't go down alone. However, you might get more favorable results if you <CRE>simultaneously strike down this pig and its partner</C>."
+	},
+	{
+		"name": "ENM_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "This swine won't give up the ghost as long as its friends are still fighting. However, you might get more favorable results if you <CRE>simultaneously strike down this pig and its partner</C>."
+	},
+	{
+		"name": "ENM_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Introverts that call the Deep Rivers Society home. Adept at long-range combat, but laughably inadequate at close quarters."
+	},
+	{
+		"name": "ENM_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Players belonging to the purest team playing the Game. They're adept at all kinds of fighting styles, so you'll want to keep at an eye out for any openings and strike while the iron's hot."
+	},
+	{
+		"name": "ENM_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Extroverts who fight under the banner of beauty. They favor close-range combat, so try your best to keep your distance and pummel them from far away."
+	},
+	{
+		"name": "ENM_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Not the strongest of foes, but they are more than capable of lowering your team's Groove."
+	},
+	{
+		"name": "ENM_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Capable of unleashing a fierce attack that can significantly lower your team's Groove."
+	},
+	{
+		"name": "ENM_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Their poisonous attacks pack a real punch and can lower your team's Groove."
+	},
+	{
+		"name": "ENM_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Try not to touch their tentacles or your HP and Groove will take a hit."
+	},
+	{
+		"name": "ENM_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Not much of a threat individually, but your Groove will plummet if a whole pack attacks you at once."
+	},
+	{
+		"name": "ENM_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "A new breed of Noise threatening to lead Shibuya down a road to ruin. Try to avoid the shock waves it unleashes, or your HP and Groove will take some serious damage."
+	},
+	{
+		"name": "ENM_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "The king of the frog-like Plague Noise, created by Shiba himself. Don't let it stomp on you or you'll be hurting for weeks, and have your Groove lowered to boot."
+	},
+	{
+		"name": "ENM_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "The king of the jellyfish-like Plague Noise, created by Shiba himself. Wobbles its flexible frame to clone itself and create its own unstoppable army."
+	},
+	{
+		"name": "ENM_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "A burly primate-like Noise that isn't as sturdy as it first appears. Attack its arms enough and you'll eventually destroy them. Sadly, they'll regenerate after a while, but you can at least prevent it from performing certain attacks for a bit."
+	},
+	{
+		"name": "ENM_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "The timid leader of the Deep Rivers Society. Avoids dirtying his hands by hiding behind his teammates' attacks and planting bombs all over the battlefield. You'll need to think on your feet lest he get the better of you."
+	},
+	{
+		"name": "ENM_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "The internet-famous leader of the Purehearts. Known to use his psych to paralyze enemies. Most of his attacks require aid from his allies, so be sure to take down his teammates first."
+	},
+	{
+		"name": "ENM_Info_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "A triplet of cat toys controlled by Tsugumi. They come in three different sizes, each one possessing different offensive abilities. However, the three of them also share the same life force."
+	},
+	{
+		"name": "ENM_Info_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "The feline fatales are back in even greater numbers! It's up to you to decide which you target first: the small and nimble, but quick-footed Mr. Mews, or the big, tough Mr. Mews."
+	},
+	{
+		"name": "ENM_Info_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "A robotic girl of few words who allies herself with the Ruinbringers. Her actions on the battlefield mirror her personality, and can be predicted fairly easily if you study her close enough."
+	},
+	{
+		"name": "ENM_Info_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "The one Reaper who always had Shoka's interests at heart. Don't get too close or you'll be blown away by the chakram-esque symbols flying around her."
+	},
+	{
+		"name": "ENM_Info_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "A burly brute acting under the banner of the Ruinbringers. The aura that surrounds him changes color between white and black, affecting what attacks he can unleash. As a general rule of thumb, white means he's going to try and tackle you, and black signifies that he feels like punching someone."
+	},
+	{
+		"name": "ENM_Info_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "The ape is back and means business. He's even got more types of auras, inspired by his love of Reversi. Be sure to keep an eye out for whenever the colors flip!"
+	},
+	{
+		"name": "ENM_Info_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi's ultimate Reaper form. He's able to harness the power of lightning in his horn and use it to attack. However, that horn of his is also his biggest weakness, and you'd do well to concentrate your fire on it."
+	},
+	{
+		"name": "ENM_Info_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "A lone wolf with an unquenchable thirst for power. In his normal state, he's quick on his feet and fluid in his movements. However, if he feels the need, he can hunker down in his armor and wait for his next chance to strike."
+	},
+	{
+		"name": "ENM_Info_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "The one and only Game Master himself. He harnesses his powers to fool his foes' senses by producing clones. Keep your wits about you and don't fall victim to his traps."
+	},
+	{
+		"name": "ENM_Info_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Capable of transforming itself into all kinds of Noise, this is the embodiment of all that has stood in the Wicked Twisters' way up until now. You'll need to harness all the tricks you learned while fighting if you're to come out on top!"
+	},
+	{
+		"name": "ENM_Info_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "A troublesome foe able to unleash long-range attacks from its thirteen tails, while expelling flames from its beak. However, do not lose hope—its attacks may seem overwhelming at first, but destroy all of its tails and you'll have some cause for optimism."
+	},
+	{
+		"name": "ENM_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "A beefy bodyguard that stands watch over Kanon at her Reapers' Romp checkpoint. Do your best to avoid his electric attacks and strike when the moment's right."
+	},
+	{
+		"name": "ENM_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "One of the Reapers manning the Reapers' Romp checkpoints, and a Def Märch fangirl hardcore enough to rival Nagi. Her attacks may seem unavoidable at first, but study her movements closely and you'll be able to beat her soon enough."
+	},
+	{
+		"name": "ENM_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "A part-timer stuck on Reapers' Romp stamp duty. The chakrams that rotate around her are so numerous you'll struggle to make a dent in her armor. Your best bet is to hit her with a continuous barrage of long-range attacks."
+	},
+	{
+		"name": "ENM_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "The boss of the Reapers' Romp bonus round. No one earns the VIP status without Shiba's approval. You'll want to equip yourself with a psych that can hit multiple enemies at once when taking on this alpha male."
+	},
+	{
+		"name": "ENM_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "A frustrating foe that memorizes any attacks you use and calculates how to avoid and counter them. Be sure to pack plenty of psychs and keep using ones he's yet to encounter."
+	}
+]
+}

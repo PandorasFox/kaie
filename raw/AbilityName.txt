@@ -1,0 +1,1312 @@
+{
+"columns":[
+	{
+		"name": "ABL_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Ability"
+	},
+	{
+		"name": "ABL_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "ATK Boost"
+	},
+	{
+		"name": "ABL_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "ATK Boost II"
+	},
+	{
+		"name": "ABL_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: ATK Boost"
+	},
+	{
+		"name": "ABL_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: ATK Boost II"
+	},
+	{
+		"name": "ABL_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: ATK Boost"
+	},
+	{
+		"name": "ABL_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: ATK Boost II"
+	},
+	{
+		"name": "ABL_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: ATK Boost"
+	},
+	{
+		"name": "ABL_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: ATK Boost II"
+	},
+	{
+		"name": "ABL_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: ATK Boost III"
+	},
+	{
+		"name": "ABL_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: ATK Boost IV"
+	},
+	{
+		"name": "ABL_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: ATK Boost IV"
+	},
+	{
+		"name": "ABL_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: ATK Boost IV"
+	},
+	{
+		"name": "ABL_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "First Blood"
+	},
+	{
+		"name": "ABL_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "First Blood II"
+	},
+	{
+		"name": "ABL_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Turnabout Strength"
+	},
+	{
+		"name": "ABL_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Turnabout Strength II"
+	},
+	{
+		"name": "ABL_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "No Mercy"
+	},
+	{
+		"name": "ABL_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Hearty Strike II"
+	},
+	{
+		"name": "ABL_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Second Wind"
+	},
+	{
+		"name": "ABL_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Second Wind II"
+	},
+	{
+		"name": "ABL_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Strength II"
+	},
+	{
+		"name": "ABL_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Auto-Charge"
+	},
+	{
+		"name": "ABL_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Turbo Gauge"
+	},
+	{
+		"name": "ABL_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Turbo Gauge II"
+	},
+	{
+		"name": "ABL_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Rapid Reboot"
+	},
+	{
+		"name": "ABL_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Rapid Reboot II"
+	},
+	{
+		"name": "ABL_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Turbo Charge"
+	},
+	{
+		"name": "ABL_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0036>"
+	},
+	{
+		"name": "ABL_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0037>"
+	},
+	{
+		"name": "ABL_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0038>"
+	},
+	{
+		"name": "ABL_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0039>"
+	},
+	{
+		"name": "ABL_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0040>"
+	},
+	{
+		"name": "ABL_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0041>"
+	},
+	{
+		"name": "ABL_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Fiery Synergy"
+	},
+	{
+		"name": "ABL_Name_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Frosty Synergy"
+	},
+	{
+		"name": "ABL_Name_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Shocking Synergy"
+	},
+	{
+		"name": "ABL_Name_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Gusty Synergy"
+	},
+	{
+		"name": "ABL_Name_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Watery Synergy"
+	},
+	{
+		"name": "ABL_Name_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Rocky Synergy"
+	},
+	{
+		"name": "ABL_Name_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Temporal Synergy"
+	},
+	{
+		"name": "ABL_Name_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Sonic Synergy"
+	},
+	{
+		"name": "ABL_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Shady Synergy"
+	},
+	{
+		"name": "ABL_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Shining Synergy"
+	},
+	{
+		"name": "ABL_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Kinetic Synergy"
+	},
+	{
+		"name": "ABL_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Booming Synergy"
+	},
+	{
+		"name": "ABL_Name_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Magnetic Synergy"
+	},
+	{
+		"name": "ABL_Name_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Toxic Synergy"
+	},
+	{
+		"name": "ABL_Name_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: TT"
+	},
+	{
+		"name": "ABL_Name_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: JB"
+	},
+	{
+		"name": "ABL_Name_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: TP"
+	},
+	{
+		"name": "ABL_Name_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: CC"
+	},
+	{
+		"name": "ABL_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: RG"
+	},
+	{
+		"name": "ABL_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: GG"
+	},
+	{
+		"name": "ABL_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: IL"
+	},
+	{
+		"name": "ABL_Name_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: SH"
+	},
+	{
+		"name": "ABL_Name_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: JM"
+	},
+	{
+		"name": "ABL_Name_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: MC"
+	},
+	{
+		"name": "ABL_Name_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: NP"
+	},
+	{
+		"name": "ABL_Name_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: HF"
+	},
+	{
+		"name": "ABL_Name_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: GN"
+	},
+	{
+		"name": "ABL_Name_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Resonance: CP"
+	},
+	{
+		"name": "ABL_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: TT"
+	},
+	{
+		"name": "ABL_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: JB"
+	},
+	{
+		"name": "ABL_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: TP"
+	},
+	{
+		"name": "ABL_Name_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: CC"
+	},
+	{
+		"name": "ABL_Name_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: RG"
+	},
+	{
+		"name": "ABL_Name_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: GG"
+	},
+	{
+		"name": "ABL_Name_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: IL"
+	},
+	{
+		"name": "ABL_Name_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: SH"
+	},
+	{
+		"name": "ABL_Name_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: JM"
+	},
+	{
+		"name": "ABL_Name_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: MC"
+	},
+	{
+		"name": "ABL_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: NP"
+	},
+	{
+		"name": "ABL_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: HF"
+	},
+	{
+		"name": "ABL_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: GN"
+	},
+	{
+		"name": "ABL_Name_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: CP"
+	},
+	{
+		"name": "ABL_Name_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "DEF Boost"
+	},
+	{
+		"name": "ABL_Name_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "DEF Boost II"
+	},
+	{
+		"name": "ABL_Name_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "DEF Boost III"
+	},
+	{
+		"name": "ABL_Name_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: DEF Boost"
+	},
+	{
+		"name": "ABL_Name_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: DEF Boost II"
+	},
+	{
+		"name": "ABL_Name_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: DEF Boost III"
+	},
+	{
+		"name": "ABL_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: DEF Boost"
+	},
+	{
+		"name": "ABL_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: DEF Boost II"
+	},
+	{
+		"name": "ABL_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: DEF Boost III"
+	},
+	{
+		"name": "ABL_Name_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: DEF Boost II"
+	},
+	{
+		"name": "ABL_Name_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: DEF Boost"
+	},
+	{
+		"name": "ABL_Name_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: DEF Boost II"
+	},
+	{
+		"name": "ABL_Name_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: DEF Boost III"
+	},
+	{
+		"name": "ABL_Name_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: DEF Boost III"
+	},
+	{
+		"name": "ABL_Name_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: DEF Boost IV"
+	},
+	{
+		"name": "ABL_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: DEF Boost IV"
+	},
+	{
+		"name": "ABL_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: DEF Boost IV"
+	},
+	{
+		"name": "ABL_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Steely Resolve"
+	},
+	{
+		"name": "ABL_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Steely Resolve II"
+	},
+	{
+		"name": "ABL_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Turnabout Defense"
+	},
+	{
+		"name": "ABL_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Turnabout Defense II"
+	},
+	{
+		"name": "ABL_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Defense II"
+	},
+	{
+		"name": "ABL_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Boost"
+	},
+	{
+		"name": "ABL_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Boost III"
+	},
+	{
+		"name": "ABL_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: HP Boost III"
+	},
+	{
+		"name": "ABL_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: HP Boost III"
+	},
+	{
+		"name": "ABL_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: HP Boost III"
+	},
+	{
+		"name": "ABL_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: HP Boost"
+	},
+	{
+		"name": "ABL_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: HP Boost III"
+	},
+	{
+		"name": "ABL_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: HP Boost II"
+	},
+	{
+		"name": "ABL_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: HP Boost IV"
+	},
+	{
+		"name": "ABL_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Regen"
+	},
+	{
+		"name": "ABL_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Regen II"
+	},
+	{
+		"name": "ABL_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Regen III"
+	},
+	{
+		"name": "ABL_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Vampire"
+	},
+	{
+		"name": "ABL_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "HP Vampire II"
+	},
+	{
+		"name": "ABL_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Healthy Erasure"
+	},
+	{
+		"name": "ABL_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Cure Boost"
+	},
+	{
+		"name": "ABL_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Cure Boost II"
+	},
+	{
+		"name": "ABL_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Cure Boost III"
+	},
+	{
+		"name": "ABL_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Cure Boost IV"
+	},
+	{
+		"name": "ABL_Name_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Mother Lode"
+	},
+	{
+		"name": "ABL_Name_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Stepmother Lode"
+	},
+	{
+		"name": "ABL_Name_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Godmother Lode"
+	},
+	{
+		"name": "ABL_Name_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Jackpot"
+	},
+	{
+		"name": "ABL_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Jackpot II"
+	},
+	{
+		"name": "ABL_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Jackpot"
+	},
+	{
+		"name": "ABL_Name_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "EXP Boost"
+	},
+	{
+		"name": "ABL_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "PP Boost"
+	},
+	{
+		"name": "ABL_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Point Boost"
+	},
+	{
+		"name": "ABL_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Point Boost"
+	},
+	{
+		"name": "ABL_Name_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "EXP Rejection"
+	},
+	{
+		"name": "ABL_Name_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "PP Rejection"
+	},
+	{
+		"name": "ABL_Name_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "VIP Boost"
+	},
+	{
+		"name": "ABL_Name_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Perpetual Pain"
+	},
+	{
+		"name": "ABL_Name_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Perpetual Pain II"
+	},
+	{
+		"name": "ABL_Name_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Perpetual Pain III"
+	},
+	{
+		"name": "ABL_Name_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Frozen Foes"
+	},
+	{
+		"name": "ABL_Name_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Frozen Foes II"
+	},
+	{
+		"name": "ABL_Name_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Frozen Foes III"
+	},
+	{
+		"name": "ABL_Name_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Ailing Enemies"
+	},
+	{
+		"name": "ABL_Name_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "Ailing Enemies II"
+	},
+	{
+		"name": "ABL_Name_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "Ailing Enemies III"
+	},
+	{
+		"name": "ABL_Name_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Stunned Foes"
+	},
+	{
+		"name": "ABL_Name_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Stunned Foes II"
+	},
+	{
+		"name": "ABL_Name_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Stunned Foes III"
+	},
+	{
+		"name": "ABL_Name_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Reinforced Chains"
+	},
+	{
+		"name": "ABL_Name_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Reinforced Chains II"
+	},
+	{
+		"name": "ABL_Name_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Reinforced Chains III"
+	},
+	{
+		"name": "ABL_Name_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Subzero Stranglehold"
+	},
+	{
+		"name": "ABL_Name_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Subzero Stranglehold II"
+	},
+	{
+		"name": "ABL_Name_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Subzero Stranglehold III"
+	},
+	{
+		"name": "ABL_Name_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Stony Stranglehold"
+	},
+	{
+		"name": "ABL_Name_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Stony Stranglehold II"
+	},
+	{
+		"name": "ABL_Name_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Stony Stranglehold III"
+	},
+	{
+		"name": "ABL_Name_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Burn Resistance"
+	},
+	{
+		"name": "ABL_Name_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Shock Resistance"
+	},
+	{
+		"name": "ABL_Name_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Poison Resistance"
+	},
+	{
+		"name": "ABL_Name_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Speed Boost"
+	},
+	{
+		"name": "ABL_Name_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Earthbound"
+	},
+	{
+		"name": "ABL_Name_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Healthy Resilience"
+	},
+	{
+		"name": "ABL_Name_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Uninterruptible"
+	},
+	{
+		"name": "ABL_Name_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Stalwart Ally"
+	},
+	{
+		"name": "ABL_Name_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Stalwart Ally II"
+	},
+	{
+		"name": "ABL_Name_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Stalwart Ally III"
+	},
+	{
+		"name": "ABL_Name_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Helping Hand"
+	},
+	{
+		"name": "ABL_Name_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Helping Hand II"
+	},
+	{
+		"name": "ABL_Name_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Jinxed Metabo Boost"
+	},
+	{
+		"name": "ABL_Name_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Metabo Boost"
+	},
+	{
+		"name": "ABL_Name_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Metabo Boost II"
+	},
+	{
+		"name": "ABL_Name_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Swine Time"
+	},
+	{
+		"name": "ABL_Name_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "Hands Off"
+	},
+	{
+		"name": "ABL_Name_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Beatdrop Bonus"
+	},
+	{
+		"name": "ABL_Name_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Groove Boost"
+	},
+	{
+		"name": "ABL_Name_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Killer Remix Boost"
+	},
+	{
+		"name": "ABL_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Time Display"
+	},
+	{
+		"name": "ABL_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Rear Assassin"
+	},
+	{
+		"name": "ABL_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Downed Assassin"
+	},
+	{
+		"name": "ABL_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Knockback Assassin"
+	},
+	{
+		"name": "ABL_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Aerial Assassin"
+	},
+	{
+		"name": "ABL_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Auto-Combo"
+	},
+	{
+		"name": "ABL_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Auto-Assault"
+	},
+	{
+		"name": "ABL_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Auto-Target"
+	},
+	{
+		"name": "ABL_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Aerial Assault"
+	},
+	{
+		"name": "ABL_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Frozen Fatality"
+	},
+	{
+		"name": "ABL_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Killing Blow"
+	},
+	{
+		"name": "ABL_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Groove Boost II"
+	},
+	{
+		"name": "ABL_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Ensemble"
+	},
+	{
+		"name": "ABL_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Yearlong Ensemble"
+	},
+	{
+		"name": "ABL_Name_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Stop-and-Go Ensemble"
+	},
+	{
+		"name": "ABL_Name_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Lustrous Ensemble"
+	},
+	{
+		"name": "ABL_Name_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Heavenly Ensemble"
+	},
+	{
+		"name": "ABL_Name_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Tenka Ensemble"
+	},
+	{
+		"name": "ABL_Name_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Relativity Ensemble"
+	},
+	{
+		"name": "ABL_Name_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Revivify Ensemble"
+	},
+	{
+		"name": "ABL_Name_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Catch-and-Release Ensemble"
+	},
+	{
+		"name": "ABL_Name_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Yokai Ensemble"
+	},
+	{
+		"name": "ABL_Name_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand Ambassador: BHCC"
+	},
+	{
+		"name": "ABL_Name_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Take Five"
+	},
+	{
+		"name": "ABL_Name_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Vibing: Rock & Ice"
+	}
+]
+}

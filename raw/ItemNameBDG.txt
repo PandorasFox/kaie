@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin"
+	},
+	{
+		"name": "ITM_BDG_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Shockwave"
+	},
+	{
+		"name": "ITM_BDG_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Midaregami"
+	},
+	{
+		"name": "ITM_BDG_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Namikuguri"
+	},
+	{
+		"name": "ITM_BDG_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Azamaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Shishio"
+	},
+	{
+		"name": "ITM_BDG_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuchin"
+	},
+	{
+		"name": "ITM_BDG_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Kurorushi"
+	},
+	{
+		"name": "ITM_BDG_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Honebami"
+	},
+	{
+		"name": "ITM_BDG_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly"
+	},
+	{
+		"name": "ITM_BDG_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Onimaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Sayosamonji"
+	},
+	{
+		"name": "ITM_BDG_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Aizen"
+	},
+	{
+		"name": "ITM_BDG_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Kitsunegasaki"
+	},
+	{
+		"name": "ITM_BDG_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Yukimitsu"
+	},
+	{
+		"name": "ITM_BDG_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Spin Twinz"
+	},
+	{
+		"name": "ITM_BDG_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsurumaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Reigetsu"
+	},
+	{
+		"name": "ITM_BDG_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Jupiter of the Monkey II"
+	},
+	{
+		"name": "ITM_BDG_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Hotaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Grin Reaper"
+	},
+	{
+		"name": "ITM_BDG_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Grunge Punch"
+	},
+	{
+		"name": "ITM_BDG_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Jungle King"
+	},
+	{
+		"name": "ITM_BDG_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Primal Roar"
+	},
+	{
+		"name": "ITM_BDG_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Mosh 'n' Mash"
+	},
+	{
+		"name": "ITM_BDG_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Fangs of Ice"
+	},
+	{
+		"name": "ITM_BDG_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Slashcicle"
+	},
+	{
+		"name": "ITM_BDG_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Right Claw"
+	},
+	{
+		"name": "ITM_BDG_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Wicked Howl"
+	},
+	{
+		"name": "ITM_BDG_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigres Assemble!"
+	},
+	{
+		"name": "ITM_BDG_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Rock 'n' Rock"
+	},
+	{
+		"name": "ITM_BDG_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Crusher Rush"
+	},
+	{
+		"name": "ITM_BDG_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Beringei"
+	},
+	{
+		"name": "ITM_BDG_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Just Up Ahead"
+	},
+	{
+		"name": "ITM_BDG_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Honor and Sacrifice"
+	},
+	{
+		"name": "ITM_BDG_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "All or Nothing"
+	},
+	{
+		"name": "ITM_BDG_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "One Day Closer"
+	},
+	{
+		"name": "ITM_BDG_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Time Is Relative"
+	},
+	{
+		"name": "ITM_BDG_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Got Your Back"
+	},
+	{
+		"name": "ITM_BDG_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Take a Chance"
+	},
+	{
+		"name": "ITM_BDG_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "No Turning Back"
+	},
+	{
+		"name": "ITM_BDG_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Trial Without Error"
+	},
+	{
+		"name": "ITM_BDG_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Stinger"
+	},
+	{
+		"name": "ITM_BDG_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "No Plan Required"
+	},
+	{
+		"name": "ITM_BDG_Name_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Don't Be Shocked"
+	},
+	{
+		"name": "ITM_BDG_Name_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Cut Me Down"
+	},
+	{
+		"name": "ITM_BDG_Name_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Quench Your Thirst"
+	},
+	{
+		"name": "ITM_BDG_Name_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Try It Again"
+	},
+	{
+		"name": "ITM_BDG_Name_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Force Rounds"
+	},
+	{
+		"name": "ITM_BDG_Name_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Sugar Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Nighty-Night Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Glitter Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Zip-Zap Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Stylish Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Lovebird Magnum"
+	},
+	{
+		"name": "ITM_BDG_Name_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Garbage Gatling"
+	},
+	{
+		"name": "ITM_BDG_Name_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Top Dog Gatling"
+	},
+	{
+		"name": "ITM_BDG_Name_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Icky Beam"
+	},
+	{
+		"name": "ITM_BDG_Name_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Frog"
+	},
+	{
+		"name": "ITM_BDG_Name_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Freestyle Launcher"
+	},
+	{
+		"name": "ITM_BDG_Name_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Lovely Launcher"
+	},
+	{
+		"name": "ITM_BDG_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Cupid Launcher"
+	},
+	{
+		"name": "ITM_BDG_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuddly Launcher"
+	},
+	{
+		"name": "ITM_BDG_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Heartthrob Launcher"
+	},
+	{
+		"name": "ITM_BDG_Name_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Hobblin' Hippo"
+	},
+	{
+		"name": "ITM_BDG_Name_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "croaky panic"
+	},
+	{
+		"name": "ITM_BDG_Name_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "MONOCROW"
+	},
+	{
+		"name": "ITM_BDG_Name_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "The Idol Within"
+	},
+	{
+		"name": "ITM_BDG_Name_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Be My Last"
+	},
+	{
+		"name": "ITM_BDG_Name_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "All Burned Out"
+	},
+	{
+		"name": "ITM_BDG_Name_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Aspect of Truth"
+	},
+	{
+		"name": "ITM_BDG_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Live Your Truth"
+	},
+	{
+		"name": "ITM_BDG_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus"
+	},
+	{
+		"name": "ITM_BDG_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Rapturous Rabbits"
+	},
+	{
+		"name": "ITM_BDG_Name_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Classical Cacophany"
+	},
+	{
+		"name": "ITM_BDG_Name_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Magical Metamorphosis"
+	},
+	{
+		"name": "ITM_BDG_Name_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Blizzard Bunny"
+	},
+	{
+		"name": "ITM_BDG_Name_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Frosty Friendship"
+	},
+	{
+		"name": "ITM_BDG_Name_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Stellar Self-Portrait"
+	},
+	{
+		"name": "ITM_BDG_Name_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorgeous Gemstone"
+	},
+	{
+		"name": "ITM_BDG_Name_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Hole Bunny"
+	},
+	{
+		"name": "ITM_BDG_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Coochy-Coochy-Coo"
+	},
+	{
+		"name": "ITM_BDG_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "The Great Magma Escape"
+	},
+	{
+		"name": "ITM_BDG_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "The Lonely Space Warrior"
+	},
+	{
+		"name": "ITM_BDG_Name_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "The Great Lunar View"
+	},
+	{
+		"name": "ITM_BDG_Name_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "The Pyramids' Old Secret"
+	},
+	{
+		"name": "ITM_BDG_Name_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "The Great Balloon Voyage"
+	},
+	{
+		"name": "ITM_BDG_Name_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "The Fluffy Ovine Cloud"
+	},
+	{
+		"name": "ITM_BDG_Name_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "The Ever-Moving Machine"
+	},
+	{
+		"name": "ITM_BDG_Name_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Puffer"
+	},
+	{
+		"name": "ITM_BDG_Name_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Out of Your Mine"
+	},
+	{
+		"name": "ITM_BDG_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Be of Two Mines"
+	},
+	{
+		"name": "ITM_BDG_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Boom in the Night"
+	},
+	{
+		"name": "ITM_BDG_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Chain Is Gonna Come"
+	},
+	{
+		"name": "ITM_BDG_Name_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Back on the Chain Bang"
+	},
+	{
+		"name": "ITM_BDG_Name_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Bad to the Bomb"
+	},
+	{
+		"name": "ITM_BDG_Name_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Snake in the Blast"
+	},
+	{
+		"name": "ITM_BDG_Name_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Bee in Your Bomb-et"
+	},
+	{
+		"name": "ITM_BDG_Name_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "I Scream, U Scream!"
+	},
+	{
+		"name": "ITM_BDG_Name_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Bloom 4 U"
+	},
+	{
+		"name": "ITM_BDG_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Takanosu"
+	},
+	{
+		"name": "ITM_BDG_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Kumokiri"
+	},
+	{
+		"name": "ITM_BDG_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Taikokane"
+	},
+	{
+		"name": "ITM_BDG_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Kasen Kanesada"
+	},
+	{
+		"name": "ITM_BDG_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Iwatoshi"
+	},
+	{
+		"name": "ITM_BDG_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Omokage"
+	},
+	{
+		"name": "ITM_BDG_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Wolf"
+	},
+	{
+		"name": "ITM_BDG_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Thunder and Lightning"
+	},
+	{
+		"name": "ITM_BDG_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Let the Storm Rage On"
+	},
+	{
+		"name": "ITM_BDG_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Caught in the Undertow"
+	},
+	{
+		"name": "ITM_BDG_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Let the Rain Fall Down"
+	},
+	{
+		"name": "ITM_BDG_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Taste of Poison Paradise"
+	},
+	{
+		"name": "ITM_BDG_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Diamonds in the Sky"
+	},
+	{
+		"name": "ITM_BDG_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "All Comes Crashing Down"
+	},
+	{
+		"name": "ITM_BDG_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "What a Wicked Game"
+	},
+	{
+		"name": "ITM_BDG_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Where I Break Free"
+	},
+	{
+		"name": "ITM_BDG_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Born of Stormy Skies"
+	},
+	{
+		"name": "ITM_BDG_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Lightning in My Hands"
+	},
+	{
+		"name": "ITM_BDG_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "In the Stars Tonight"
+	},
+	{
+		"name": "ITM_BDG_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Blinded by the Light"
+	},
+	{
+		"name": "ITM_BDG_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "In My Misery"
+	},
+	{
+		"name": "ITM_BDG_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Phoenix"
+	},
+	{
+		"name": "ITM_BDG_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Joli bécot"
+	},
+	{
+		"name": "ITM_BDG_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Angelic Kick"
+	},
+	{
+		"name": "ITM_BDG_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Gust of Gorgeous"
+	},
+	{
+		"name": "ITM_BDG_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Wicked Wind"
+	},
+	{
+		"name": "ITM_BDG_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Sistah Subwoofer"
+	},
+	{
+		"name": "ITM_BDG_Name_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Disco Divekick"
+	},
+	{
+		"name": "ITM_BDG_Name_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Soul Ablaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Killer Princess"
+	},
+	{
+		"name": "ITM_BDG_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Leo Armo"
+	},
+	{
+		"name": "ITM_BDG_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Marvelous Crash"
+	},
+	{
+		"name": "ITM_BDG_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Crater's Kiss"
+	},
+	{
+		"name": "ITM_BDG_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Cranberry Crystal"
+	},
+	{
+		"name": "ITM_BDG_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Pink Matador"
+	},
+	{
+		"name": "ITM_BDG_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Electric Manicure"
+	},
+	{
+		"name": "ITM_BDG_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolt of Beauty"
+	},
+	{
+		"name": "ITM_BDG_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Rex"
+	},
+	{
+		"name": "ITM_BDG_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Cherry Bomb"
+	},
+	{
+		"name": "ITM_BDG_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Jealous Rage"
+	},
+	{
+		"name": "ITM_BDG_Name_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Bad Romance"
+	},
+	{
+		"name": "ITM_BDG_Name_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Cold Cony×Cony"
+	},
+	{
+		"name": "ITM_BDG_Name_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Glacial Getaway"
+	},
+	{
+		"name": "ITM_BDG_Name_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Polar Princess"
+	},
+	{
+		"name": "ITM_BDG_Name_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Creepy Crystal"
+	},
+	{
+		"name": "ITM_BDG_Name_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Velvet Vampire"
+	},
+	{
+		"name": "ITM_BDG_Name_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Calamitous Candle"
+	},
+	{
+		"name": "ITM_BDG_Name_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Bérangère Lapin"
+	},
+	{
+		"name": "ITM_BDG_Name_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Grégoire Lapin"
+	},
+	{
+		"name": "ITM_BDG_Name_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Popguin"
+	},
+	{
+		"name": "ITM_BDG_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Generous"
+	},
+	{
+		"name": "ITM_BDG_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Once Upon a Dream"
+	},
+	{
+		"name": "ITM_BDG_Name_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Music of the Woods"
+	},
+	{
+		"name": "ITM_BDG_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Mom's Secret Ingredient"
+	},
+	{
+		"name": "ITM_BDG_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "A Mysterious Gift"
+	},
+	{
+		"name": "ITM_BDG_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "The World Within"
+	},
+	{
+		"name": "ITM_BDG_Name_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Ingenious"
+	},
+	{
+		"name": "ITM_BDG_Name_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "My Precious Moments"
+	},
+	{
+		"name": "ITM_BDG_Name_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Beloved"
+	},
+	{
+		"name": "ITM_BDG_Name_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "ITM_BDG_Name_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "ShoGun・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "ManjuSage・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "EnJo・Blaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "KoYo・Blaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsubaki・Frost"
+	},
+	{
+		"name": "ITM_BDG_Name_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "HiGan・Frost"
+	},
+	{
+		"name": "ITM_BDG_Name_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "InaZuma・Surge"
+	},
+	{
+		"name": "ITM_BDG_Name_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "RaiJin・Surge"
+	},
+	{
+		"name": "ITM_BDG_Name_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Doku Doku Panic"
+	},
+	{
+		"name": "ITM_BDG_Name_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "KeiRyu・Epoch"
+	},
+	{
+		"name": "ITM_BDG_Name_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "RyuGu・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "HanaDoki・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Slitherin' Snake"
+	},
+	{
+		"name": "ITM_BDG_Name_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "HoGyoku・Gleam"
+	},
+	{
+		"name": "ITM_BDG_Name_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Jelly"
+	},
+	{
+		"name": "ITM_BDG_Name_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Righteous Rabbit"
+	},
+	{
+		"name": "ITM_BDG_Name_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Brooding Bunny"
+	},
+	{
+		"name": "ITM_BDG_Name_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Ring-a-Ling"
+	},
+	{
+		"name": "ITM_BDG_Name_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Flyin' High"
+	},
+	{
+		"name": "ITM_BDG_Name_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Melancony×Melancony"
+	},
+	{
+		"name": "ITM_BDG_Name_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "ConyｘCony"
+	},
+	{
+		"name": "ITM_BDG_Name_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Seraphic Snow"
+	},
+	{
+		"name": "ITM_BDG_Name_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Raven"
+	},
+	{
+		"name": "ITM_BDG_Name_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Balloon Trip"
+	},
+	{
+		"name": "ITM_BDG_Name_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Riled-Up Ribbon"
+	},
+	{
+		"name": "ITM_BDG_Name_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Talented"
+	},
+	{
+		"name": "ITM_BDG_Name_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Catch a Wave"
+	},
+	{
+		"name": "ITM_BDG_Name_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Kappa Panic"
+	},
+	{
+		"name": "ITM_BDG_Name_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "A Forlorn Treasure"
+	},
+	{
+		"name": "ITM_BDG_Name_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Cave of Secrets"
+	},
+	{
+		"name": "ITM_BDG_Name_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "What Can Never Be"
+	},
+	{
+		"name": "ITM_BDG_Name_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Stuck in the Middle"
+	},
+	{
+		"name": "ITM_BDG_Name_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Time in a Bottle"
+	},
+	{
+		"name": "ITM_BDG_Name_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Stay Gold"
+	},
+	{
+		"name": "ITM_BDG_Name_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Stay Beautiful"
+	},
+	{
+		"name": "ITM_BDG_Name_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris"
+	},
+	{
+		"name": "ITM_BDG_Name_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "UFO Rescue"
+	},
+	{
+		"name": "ITM_BDG_Name_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Runaway Rocket"
+	},
+	{
+		"name": "ITM_BDG_Name_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Hogway to Heaven"
+	},
+	{
+		"name": "ITM_BDG_Name_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Rip-Roarin' Red"
+	},
+	{
+		"name": "ITM_BDG_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Never Too Young"
+	},
+	{
+		"name": "ITM_BDG_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Lost in Space"
+	},
+	{
+		"name": "ITM_BDG_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Rainbow Route 66"
+	},
+	{
+		"name": "ITM_BDG_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG Healer"
+	},
+	{
+		"name": "ITM_BDG_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "FANG Defender"
+	},
+	{
+		"name": "ITM_BDG_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Heartful Hot Dog"
+	},
+	{
+		"name": "ITM_BDG_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Rhino"
+	},
+	{
+		"name": "ITM_BDG_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "SuiGen・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "KoCho・Void"
+	},
+	{
+		"name": "ITM_BDG_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "ShiDare・Shade"
+	},
+	{
+		"name": "ITM_BDG_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsuzumi・Echo"
+	},
+	{
+		"name": "ITM_BDG_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Let's Have Fungis!"
+	},
+	{
+		"name": "ITM_BDG_Name_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "AraUmi・Gale"
+	},
+	{
+		"name": "ITM_BDG_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "FuJin・Gale"
+	},
+	{
+		"name": "ITM_BDG_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "IroGoi・Shift"
+	},
+	{
+		"name": "ITM_BDG_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "ShoRyu・Gleam"
+	},
+	{
+		"name": "ITM_BDG_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "The Prismatic Princess"
+	},
+	{
+		"name": "ITM_BDG_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Top o' Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "The Benevolent King"
+	},
+	{
+		"name": "ITM_BDG_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Petals of Love"
+	},
+	{
+		"name": "ITM_BDG_Name_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Adventurous"
+	},
+	{
+		"name": "ITM_BDG_Name_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Fairytale Memories"
+	},
+	{
+		"name": "ITM_BDG_Name_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo the Famished"
+	},
+	{
+		"name": "ITM_BDG_Name_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "The Enchanted Baker"
+	},
+	{
+		"name": "ITM_BDG_Name_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "An Inseparable Pair"
+	},
+	{
+		"name": "ITM_BDG_Name_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Hammond's New Home"
+	},
+	{
+		"name": "ITM_BDG_Name_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Mew"
+	},
+	{
+		"name": "ITM_BDG_Name_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Notice Me Lightning"
+	},
+	{
+		"name": "ITM_BDG_Name_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Oh Em Gee Lightning"
+	},
+	{
+		"name": "ITM_BDG_Name_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Trendy Tornado"
+	},
+	{
+		"name": "ITM_BDG_Name_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Giddy Graviton"
+	},
+	{
+		"name": "ITM_BDG_Name_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Good Mood Graviton"
+	},
+	{
+		"name": "ITM_BDG_Name_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Relative Absoluteness"
+	},
+	{
+		"name": "ITM_BDG_Name_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Snap Crackle Popcorn"
+	},
+	{
+		"name": "ITM_BDG_Name_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "Sunny Side Skillet"
+	},
+	{
+		"name": "ITM_BDG_Name_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "Chef Amphibie"
+	},
+	{
+		"name": "ITM_BDG_Name_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Thirsty Frog"
+	},
+	{
+		"name": "ITM_BDG_Name_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Golden Kappa Panic"
+	},
+	{
+		"name": "ITM_BDG_Name_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Shark"
+	},
+	{
+		"name": "ITM_BDG_Name_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Firestorm"
+	},
+	{
+		"name": "ITM_BDG_Name_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "KaChu・Blaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "AkaFuji・Blaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "GoKa・Blaze"
+	},
+	{
+		"name": "ITM_BDG_Name_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Pachy"
+	},
+	{
+		"name": "ITM_BDG_Name_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "A Day Off Outside"
+	},
+	{
+		"name": "ITM_BDG_Name_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "The Cozy Hilltop Windmill"
+	},
+	{
+		"name": "ITM_BDG_Name_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "The Breezy Ovine Wind"
+	},
+	{
+		"name": "ITM_BDG_Name_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "The Ever-Arctic Treasure"
+	},
+	{
+		"name": "ITM_BDG_Name_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "A Moonlit Night Inside"
+	},
+	{
+		"name": "ITM_BDG_Name_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "The Woolly Triple Axel"
+	},
+	{
+		"name": "ITM_BDG_Name_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Cursed Croaker"
+	},
+	{
+		"name": "ITM_BDG_Name_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Roly Poly Cricket"
+	},
+	{
+		"name": "ITM_BDG_Name_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "A Tasty Ovine Snack"
+	},
+	{
+		"name": "ITM_BDG_Name_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "The Gentle Airplane Pilot"
+	},
+	{
+		"name": "ITM_BDG_Name_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "The Song of Friendship"
+	},
+	{
+		"name": "ITM_BDG_Name_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "The Woolly Jazz Player"
+	},
+	{
+		"name": "ITM_BDG_Name_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "Back to the Ewe-ture"
+	},
+	{
+		"name": "ITM_BDG_Name_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "In the Snipeline"
+	},
+	{
+		"name": "ITM_BDG_Name_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Don't Miss Your Shot"
+	},
+	{
+		"name": "ITM_BDG_Name_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Any Way You Snipe It"
+	},
+	{
+		"name": "ITM_BDG_Name_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "garagara"
+	},
+	{
+		"name": "ITM_BDG_Name_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuel to the Fire"
+	},
+	{
+		"name": "ITM_BDG_Name_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire in the Belly"
+	},
+	{
+		"name": "ITM_BDG_Name_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "A Drawn Conclusion"
+	},
+	{
+		"name": "ITM_BDG_Name_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Gravving at Straws"
+	},
+	{
+		"name": "ITM_BDG_Name_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Ifs, Ands, or Bolts"
+	},
+	{
+		"name": "ITM_BDG_Name_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Sparks Will Fly"
+	},
+	{
+		"name": "ITM_BDG_Name_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Shot in the Dank"
+	},
+	{
+		"name": "ITM_BDG_Name_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "Pig"
+	},
+	{
+		"name": "ITM_BDG_Name_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "Star Quarterback"
+	},
+	{
+		"name": "ITM_BDG_Name_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "Dine 'n' Dash"
+	},
+	{
+		"name": "ITM_BDG_Name_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolt Boar"
+	},
+	{
+		"name": "ITM_BDG_Name_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Fangman"
+	},
+	{
+		"name": "ITM_BDG_Name_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "Burnin' Boar"
+	},
+	{
+		"name": "ITM_BDG_Name_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG FANG"
+	},
+	{
+		"name": "ITM_BDG_Name_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "Big Bang Boar"
+	},
+	{
+		"name": "ITM_BDG_Name_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus"
+	},
+	{
+		"name": "ITM_BDG_Name_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigre PUNKS"
+	},
+	{
+		"name": "ITM_BDG_Name_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "Bright Chord"
+	},
+	{
+		"name": "ITM_BDG_Name_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "Clawed Guardian"
+	},
+	{
+		"name": "ITM_BDG_Name_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "Bootleg Tune"
+	},
+	{
+		"name": "ITM_BDG_Name_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "Discordance"
+	},
+	{
+		"name": "ITM_BDG_Name_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiden Beat"
+	},
+	{
+		"name": "ITM_BDG_Name_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "Headliner"
+	},
+	{
+		"name": "ITM_BDG_Name_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "Aw, That Shucks!"
+	},
+	{
+		"name": "ITM_BDG_Name_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "Watch Your Step"
+	},
+	{
+		"name": "ITM_BDG_Name_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "You Can Overcome"
+	},
+	{
+		"name": "ITM_BDG_Name_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "Look Out Below"
+	},
+	{
+		"name": "ITM_BDG_Name_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "Absolute Relativity"
+	},
+	{
+		"name": "ITM_BDG_Name_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Seductive Snare"
+	},
+	{
+		"name": "ITM_BDG_Name_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Deadly Fragrance"
+	},
+	{
+		"name": "ITM_BDG_Name_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "Leon"
+	},
+	{
+		"name": "ITM_BDG_Name_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Crush"
+	},
+	{
+		"name": "ITM_BDG_Name_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Cards"
+	},
+	{
+		"name": "ITM_BDG_Name_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Comet"
+	},
+	{
+		"name": "ITM_BDG_Name_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Burst"
+	},
+	{
+		"name": "ITM_BDG_Name_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Blades"
+	},
+	{
+		"name": "ITM_BDG_Name_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Cat Burn"
+	},
+	{
+		"name": "ITM_BDG_Name_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Ver's Uppercut"
+	},
+	{
+		"name": "ITM_BDG_Name_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Aestas' Shrapnel"
+	},
+	{
+		"name": "ITM_BDG_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Autumnus' Strike"
+	},
+	{
+		"name": "ITM_BDG_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Hiems' Shotgun"
+	},
+	{
+		"name": "ITM_BDG_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Charge Punch E"
+	},
+	{
+		"name": "ITM_BDG_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Snare Trap E"
+	},
+	{
+		"name": "ITM_BDG_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Just Keep Swimmin'!"
+	},
+	{
+		"name": "ITM_BDG_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "What a Shock!"
+	},
+	{
+		"name": "ITM_BDG_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Stop the Music!"
+	},
+	{
+		"name": "ITM_BDG_Name_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Tenka Juzumaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Tenka Mikazuki"
+	},
+	{
+		"name": "ITM_BDG_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Thanks Very Mochi!"
+	},
+	{
+		"name": "ITM_BDG_Name_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Holy Guacamole!"
+	},
+	{
+		"name": "ITM_BDG_Name_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Exercisin' Gator"
+	},
+	{
+		"name": "ITM_BDG_Name_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Handstandin' Panda"
+	},
+	{
+		"name": "ITM_BDG_Name_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "1 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "5 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "10 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "50 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "100 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "500 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "1,000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "5,000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "10,000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "100,000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "Scarletite"
+	},
+	{
+		"name": "ITM_BDG_Name_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "Rare Metal"
+	},
+	{
+		"name": "ITM_BDG_Name_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "Tektite"
+	},
+	{
+		"name": "ITM_BDG_Name_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "Adamantite"
+	},
+	{
+		"name": "ITM_BDG_Name_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "Orichalcum"
+	},
+	{
+		"name": "ITM_BDG_Name_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "Shadow Matter"
+	},
+	{
+		"name": "ITM_BDG_Name_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "Dark Matter"
+	},
+	{
+		"name": "ITM_BDG_Name_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "Axion"
+	},
+	{
+		"name": "ITM_BDG_Name_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "Dilaton"
+	},
+	{
+		"name": "ITM_BDG_Name_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "Dibaryon"
+	},
+	{
+		"name": "ITM_BDG_Name_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "Sfermion"
+	}
+]
+}

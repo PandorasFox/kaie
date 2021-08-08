@@ -1,0 +1,454 @@
+{
+"columns":[
+	{
+		"name": "Day_Name_w1d0",
+		"speaker": "",
+		"listener": "",
+		"content": "PROLOGUE"
+	},
+	{
+		"name": "Day_Name_w1d1",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 1"
+	},
+	{
+		"name": "Day_Name_w1d2",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 2"
+	},
+	{
+		"name": "Day_Name_w1d3",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 3"
+	},
+	{
+		"name": "Day_Name_w1d4",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 4"
+	},
+	{
+		"name": "Day_Name_w1d5",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 5"
+	},
+	{
+		"name": "Day_Name_w1d6",
+		"speaker": "",
+		"listener": "",
+		"content": "DAY 6"
+	},
+	{
+		"name": "Day_Name_w1d7",
+		"speaker": "",
+		"listener": "",
+		"content": "FINAL DAY"
+	},
+	{
+		"name": "Day_Name_w2d1",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 1"
+	},
+	{
+		"name": "Day_Name_w2d2",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 2"
+	},
+	{
+		"name": "Day_Name_w2d3",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 3"
+	},
+	{
+		"name": "Day_Name_w2d4",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 4"
+	},
+	{
+		"name": "Day_Name_w2d5",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 5"
+	},
+	{
+		"name": "Day_Name_w2d6",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | DAY 6"
+	},
+	{
+		"name": "Day_Name_w2d7",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 2 | FINAL DAY"
+	},
+	{
+		"name": "Day_Name_w3d1",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 1"
+	},
+	{
+		"name": "Day_Name_w3d2",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 2"
+	},
+	{
+		"name": "Day_Name_w3d3",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 3"
+	},
+	{
+		"name": "Day_Name_w3d4",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 4"
+	},
+	{
+		"name": "Day_Name_w3d5",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 5"
+	},
+	{
+		"name": "Day_Name_w3d6",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | DAY 6"
+	},
+	{
+		"name": "Day_Name_w3d7",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | FINAL DAY"
+	},
+	{
+		"name": "Day_Name_w3d8",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | FINAL DAY<MK_1>"
+	},
+	{
+		"name": "Day_Name_w3d9",
+		"speaker": "",
+		"listener": "",
+		"content": "WEEK 3 | FINAL DAY<MK_1><MK_1>"
+	},
+	{
+		"name": "Day_Name_another",
+		"speaker": "",
+		"listener": "",
+		"content": "ANOTHER DAY"
+	},
+	{
+		"name": "Chapter_title_w1d0",
+		"speaker": "",
+		"listener": "",
+		"content": "<CMT>"
+	},
+	{
+		"name": "Chapter_title_w1d1",
+		"speaker": "",
+		"listener": "",
+		"content": "theREAPERS'game"
+	},
+	{
+		"name": "Chapter_title_w1d2",
+		"speaker": "",
+		"listener": "",
+		"content": "GeT×TWiSTeD"
+	},
+	{
+		"name": "Chapter_title_w1d3",
+		"speaker": "",
+		"listener": "",
+		"content": "DeeP DivE"
+	},
+	{
+		"name": "Chapter_title_w1d4",
+		"speaker": "",
+		"listener": "",
+		"content": "REAL(eyes/ize/lies)"
+	},
+	{
+		"name": "Chapter_title_w1d5",
+		"speaker": "",
+		"listener": "",
+		"content": "HEAD2HEAD"
+	},
+	{
+		"name": "Chapter_title_w1d6",
+		"speaker": "",
+		"listener": "",
+		"content": "in2 the ×ing"
+	},
+	{
+		"name": "Chapter_title_w1d7",
+		"speaker": "",
+		"listener": "",
+		"content": "GamE thEorY"
+	},
+	{
+		"name": "Chapter_title_w2d1",
+		"speaker": "",
+		"listener": "",
+		"content": "New Game"
+	},
+	{
+		"name": "Chapter_title_w2d2",
+		"speaker": "",
+		"listener": "",
+		"content": "LiVing LeGend"
+	},
+	{
+		"name": "Chapter_title_w2d3",
+		"speaker": "",
+		"listener": "",
+		"content": "Sound♪Surfer"
+	},
+	{
+		"name": "Chapter_title_w2d4",
+		"speaker": "",
+		"listener": "",
+		"content": "→urbaNlegendZ"
+	},
+	{
+		"name": "Chapter_title_w2d5",
+		"speaker": "",
+		"listener": "",
+		"content": "noisrevni"
+	},
+	{
+		"name": "Chapter_title_w2d6",
+		"speaker": "",
+		"listener": "",
+		"content": "desireDestination"
+	},
+	{
+		"name": "Chapter_title_w2d7",
+		"speaker": "",
+		"listener": "",
+		"content": "CHECKMATE!"
+	},
+	{
+		"name": "Chapter_title_w3d1",
+		"speaker": "",
+		"listener": "",
+		"content": "SuDDeN DeaTH"
+	},
+	{
+		"name": "Chapter_title_w3d2",
+		"speaker": "",
+		"listener": "",
+		"content": "Dearly♥beloveD"
+	},
+	{
+		"name": "Chapter_title_w3d3",
+		"speaker": "",
+		"listener": "",
+		"content": "re:START"
+	},
+	{
+		"name": "Chapter_title_w3d4",
+		"speaker": "",
+		"listener": "",
+		"content": "come→←back"
+	},
+	{
+		"name": "Chapter_title_w3d5",
+		"speaker": "",
+		"listener": "",
+		"content": "VisioN"
+	},
+	{
+		"name": "Chapter_title_w3d6",
+		"speaker": "",
+		"listener": "",
+		"content": "←stabbed"
+	},
+	{
+		"name": "Chapter_title_w3d7",
+		"speaker": "",
+		"listener": "",
+		"content": "S・B・Y"
+	},
+	{
+		"name": "Chapter_title_w3d8",
+		"speaker": "",
+		"listener": "",
+		"content": "SHI・BU・YA"
+	},
+	{
+		"name": "Chapter_title_w3d9",
+		"speaker": "",
+		"listener": "",
+		"content": "SHIBUYA"
+	},
+	{
+		"name": "Chapter_title_another",
+		"speaker": "",
+		"listener": "",
+		"content": "Party in the 'Buya"
+	},
+	{
+		"name": "Chapter_summary_w1d0",
+		"speaker": "",
+		"listener": "",
+		"content": "It was a day like any other for Rindo and Fret, two regular high schoolers enjoying a stroll through Shibuya...that is, until they get dragged into an epic battle and whisked away to a world that feels eerily familiar."
+	},
+	{
+		"name": "Chapter_summary_w1d1",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo and Fret now find themselves caught up in the so-called <MK_11>Reapers' Game.<MK_11> One of their brutish rivals, Susukichi of the Ruinbringers, tells the duo they'll need to look alive and erase some Noise if they hope to stand a chance of survival."
+	},
+	{
+		"name": "Chapter_summary_w1d2",
+		"speaker": "",
+		"listener": "",
+		"content": "While the freshly-formed Wicked Twisters know they have to win in order to escape the Game, the stakes have yet to truly hit home. Their confusion grows when they learn the Shibuya around them is actually the <MK_11>UG,<MK_11> a purgatorial plane cut off entirely from the outside world."
+	},
+	{
+		"name": "Chapter_summary_w1d3",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret suggests the Wicked Twisters will need to boost their numbers if they hope to stand a fighting chance. However, Rindo is wary of buddying up with any unknown quantities. In fact, his trepidation seems more than justified when they meet a certain girl with a passion for pins..."
+	},
+	{
+		"name": "Chapter_summary_w1d4",
+		"speaker": "",
+		"listener": "",
+		"content": "While the Wicked Twisters have bolstered their ranks, Rindo remains unconvinced of Nagi's powers. Meanwhile, Susukichi throws a lifeline to the last-place team: he promises the Twisters plenty of points if they fulfill his request. Rindo accepts the offer with skepticism."
+	},
+	{
+		"name": "Chapter_summary_w1d5",
+		"speaker": "",
+		"listener": "",
+		"content": "Struggling to earn the points they need, the Wicked Twisters follow Minamimoto's advice to steal points from rival teams. Rindo sets his sights on the Deep Rivers Society, but their leader, Fuya, gets the better of the gang, and their fortunes seem worse than ever."
+	},
+	{
+		"name": "Chapter_summary_w1d6",
+		"speaker": "",
+		"listener": "",
+		"content": "Having triumphed over the Deep Rivers Society, everything is looking up for the Wicked Twisters. Although Rindo wishes he could share Fret's confidence about their ability to claim first place, he is afforded little time to reflect as the team gets dragged into a turf war."
+	},
+	{
+		"name": "Chapter_summary_w1d7",
+		"speaker": "",
+		"listener": "",
+		"content": "The Wicked Twisters find first place at their fingertips on the Final Day. Little did they know they need to take down the Ruinbringers in order to make the top spot their own. The gang does their best to track down Susukichi, painfully aware of how much is at stake."
+	},
+	{
+		"name": "Chapter_summary_w2d1",
+		"speaker": "",
+		"listener": "",
+		"content": "Week 2 begins with the Wicked Twisters, sans Minamimoto, down in the dumps. The team agrees their best bet is locating the legendary Player, Neku, and asking for his help. Amid the chaos of the new week, the Ruinbringers' Tsugumi swoops in and takes out the day's target."
+	},
+	{
+		"name": "Chapter_summary_w2d2",
+		"speaker": "",
+		"listener": "",
+		"content": "While the gang struggles to overcome their differences, they receive some unsettling orders: erase Neku. Once again, the Twisters find themselves playing catch-up with the Ruinbringers, managing to track down Neku just as Tsugumi moves in for the kill."
+	},
+	{
+		"name": "Chapter_summary_w2d3",
+		"speaker": "",
+		"listener": "",
+		"content": "It turns out <MK_11>Neku<MK_11> was actually Beat all along! The streetwise veteran decides to join the Wicked Twisters in their search for his old friend, helping them win the day's turf war. Then, out of nowhere, Kanon approaches the gang with an interesting proposal."
+	},
+	{
+		"name": "Chapter_summary_w2d4",
+		"speaker": "",
+		"listener": "",
+		"content": "A group of Reapers who fled Shinjuku when it fell three years ago have taken charge of Shibuya. Frustrated with the unfair nature of this Game, Rindo and the gang decide to cooperate with their rivals in an attempt to turn the tables on the impossibly powerful Ruinbringers."
+	},
+	{
+		"name": "Chapter_summary_w2d5",
+		"speaker": "",
+		"listener": "",
+		"content": "The Wicked Twisters learn that none of them actually died before being sent to the UG. They were instead dragged into the realm by the Player Pins they received in the RG. Unable to grasp what Shiba has planned for them, Rindo ends up taking his frustrations out on Shoka."
+	},
+	{
+		"name": "Chapter_summary_w2d6",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo is shocked to learn Shoka is the target du jour. He teams up with Motoi in an attempt to corner the Reaper, but their plan goes awry when Shoka fells her would-be assailant. Rindo then turns back time to save his idol, but makes an unfortunate discovery..."
+	},
+	{
+		"name": "Chapter_summary_w2d7",
+		"speaker": "",
+		"listener": "",
+		"content": "The Wicked Twisters gain an unlikely ally in the form of Shoka, now stripped of her Reaper status. With help from Kanon and Motoi, the gang succeed in downing both Susukichi and Tsugumi, prompting the leader of the Ruinbringers to finally reveal themselves..."
+	},
+	{
+		"name": "Chapter_summary_w3d1",
+		"speaker": "",
+		"listener": "",
+		"content": "The third and final week of the Game begins with the fate of Shibuya on the line. In a surprise move, Shiba sets himself as the target on Day 1, and unleashes a new breed of Noise. Working together, Kanon and the Wicked Twisters try to figure out its weakness."
+	},
+	{
+		"name": "Chapter_summary_w3d2",
+		"speaker": "",
+		"listener": "",
+		"content": "Another day goes by as the Plague Noise continues to spread throughout Shibuya. Worried by Shiba's plans, Shoka seeks out Ayano, only to discover her dear friend has taken the Noise inside her own body in a desperate attempt to bring Shoka back to her."
+	},
+	{
+		"name": "Chapter_summary_w3d3",
+		"speaker": "",
+		"listener": "",
+		"content": "Suffering from Noise-induced amnesia, Rindo travels back in time to fill in his memory and fix the mess he finds himself in. Meanwhile, Kanon attempts to distance herself from the Wicked Twisters, but the gang cannot figure out her true intentions."
+	},
+	{
+		"name": "Chapter_summary_w3d4",
+		"speaker": "",
+		"listener": "",
+		"content": "After leaning on his time-traveling powers during a fight with Kubo's Noise, Rindo is helpless to stop a powered-up Minamimoto going after Beat. Yet in that moment, when all hope seems lost, a blinding flash of light appears to turn the tables..."
+	},
+	{
+		"name": "Chapter_summary_w3d5",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendary Player Neku has been trying to figure out what destroyed Shinjuku three years ago—and what threatens to destroy Shibuya now. Meanwhile, Shiba has loosed upon the city some <MK_11>old flames,<MK_11> new Noise bearing a spooky resemblance to those no longer among the living."
+	},
+	{
+		"name": "Chapter_summary_w3d6",
+		"speaker": "",
+		"listener": "",
+		"content": "The Wicked Twisters play another game of hide-and-seek with Susukichi in order to learn Shiba's whereabouts but, in their desperation, they end up trapped in the Shibuya River. Meanwhile, Neku voices his concerns about Rindo abusing his time-traveling powers."
+	},
+	{
+		"name": "Chapter_summary_w3d7",
+		"speaker": "",
+		"listener": "",
+		"content": "Moments after Shiba falls to the Twisters, Kubo initiates the destruction of Shibuya. Rindo is horrified to learn the gigantic Noise devouring his friends is in fact a by-product of his powers. Ultimately, he realizes there's only one course of action left to take..."
+	},
+	{
+		"name": "Chapter_summary_w3d8",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo asks Hishima to convince Shiba to join their efforts to prevent Kubo's plan from bearing fruit. Yet Kubo's Noise prove too strong, sending Rindo to the depths of despair—that is, until a literal ray of hope beams down from the heavens and erases Kubo."
+	},
+	{
+		"name": "Chapter_summary_w3d9",
+		"speaker": "",
+		"listener": "",
+		"content": "At first glance, all appears well in Shibuya. However, the town feels empty without Rindo's friends. With the aid of an Angel named Haz, Rindo resolves to use his Replay power one last time. Only time will tell what fate awaits our young hero..."
+	},
+	{
+		"name": "Chapter_summary_another",
+		"speaker": "",
+		"listener": "",
+		"content": "It's the day of the big bash in the 'Buya: Shibuyapalooza! But what's this? The gang has lost their tickets to the party! Will they manage to have the time of their lives!?<BR>(This day depicts a world entirely separate from that of the main story.)"
+	}
+]
+}

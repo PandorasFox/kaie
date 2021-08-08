@@ -1,0 +1,442 @@
+{
+"columns":[
+	{
+		"name": "NPCName_SNS_Sub02_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@TheRealEijiOji"
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_title",
+		"speaker": "",
+		"listener": "",
+		"content": "The Power of Flowers"
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_0000",
+		"speaker": "王子 英二",
+		"listener": "",
+		"content": "A single flower... It makes me think of Iris, my old caretaker... Huh? I feel so drained all of a sudden... I can barely bring myself to move..."
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_0010",
+		"speaker": "王子 英二",
+		"listener": "",
+		"content": "I feel like I'm not myself anymore..."
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_0020",
+		"speaker": "王子 英二",
+		"listener": "",
+		"content": "Such sadness... Like I've lost someone dear to me..."
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_0030",
+		"speaker": "王子 英二",
+		"listener": "",
+		"content": "Oh, Iris... How I miss you... I wish I could see you one more time..."
+	},
+	{
+		"name": "tweet_SNS_Sub02_001_af_0010",
+		"speaker": "王子 英二",
+		"listener": "",
+		"content": "...What <i>was</i> that just now? As soon as I took that flower, a cold emptiness washed over me..."
+	},
+	{
+		"name": "NPCName_SNS_sub06_050",
+		"speaker": "",
+		"listener": "",
+		"content": "@MorallyConfounded"
+	},
+	{
+		"name": "tweet_SNS_sub06_050_title",
+		"speaker": "",
+		"listener": "",
+		"content": "It's Fine, Right?"
+	},
+	{
+		"name": "tweet_SNS_sub06_050_0000",
+		"speaker": "財布を拾った青年",
+		"listener": "",
+		"content": "I could just keep this wallet I found. I mean, <i>someone</i>'s gonna take it, so it might as well be me!"
+	},
+	{
+		"name": "tweet_SNS_sub06_050_0010",
+		"speaker": "財布を拾った青年",
+		"listener": "",
+		"content": "Think of it as payback for when I lost my wallet and never got it back..."
+	},
+	{
+		"name": "tweet_SNS_sub06_050_0020",
+		"speaker": "財布を拾った青年",
+		"listener": "",
+		"content": "I bet whoever dropped this is freaking out right now..."
+	},
+	{
+		"name": "tweet_SNS_sub06_050_0030",
+		"speaker": "財布を拾った青年",
+		"listener": "",
+		"content": "What kind of low-life steals someone's money? You're better than that, self!"
+	},
+	{
+		"name": "tweet_SNS_sub06_050_af_0010",
+		"speaker": "財布を拾った青年",
+		"listener": "",
+		"content": "What was I thinking? I have to give this wallet back to its rightful owner! It's what a decent person would do!<BR>...Hm? I wonder what that guy's looking for..."
+	},
+	{
+		"name": "NPCName_SNS_sub31_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@YuseiIseya"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_title",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "Cram School Sucks"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_0000",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "I don't wanna go to cram school—I've got more important things to focus on! But if I skip and go home, I'll be in big trouble... I just wanna run away…"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_0010",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "I've got the perfect formula...but no one will listen to me!"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_0020",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "I'm gonna get a Fields Medal someday... I won't let anyone stop me!"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_0030",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "I'll never be a great mathematician at this rate... And I'll never solve for the truth!"
+	},
+	{
+		"name": "tweet_SNS_sub31_001_af_0010",
+		"speaker": "伊勢谷 ユウセイ",
+		"listener": "",
+		"content": "Hang on... If I do the stuff I don't like first, I'll enjoy the stuff I <i>do</i> like even more! Once I'm done studying, I'm gonna do as much math as I want!"
+	},
+	{
+		"name": "NPCName_SNS_sub32_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@ShuntaroHarima"
+	},
+	{
+		"name": "tweet_SNS_sub32_001_title",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "To Care or Not to Care"
+	},
+	{
+		"name": "tweet_SNS_sub32_001_0000",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "My beloved is dating that slimy playboy <i>Kashiki</i>!? She calls herself a clean freak, but then ignores the purest love of all: mine!"
+	},
+	{
+		"name": "tweet_SNS_sub32_001_0010",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "<MK_11>Mysophobe<MK_11>? More like a myso-<i>phony</i>! Blech!"
+	},
+	{
+		"name": "tweet_SNS_sub32_001_0020",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "This hurts... I'll need more than two meters of social distance..."
+	},
+	{
+		"name": "tweet_SNS_sub32_001_0030",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "All that money I spent on merch...and all I got was a broken heart!"
+	},
+	{
+		"name": "tweet_SNS_sub32_001_af_0010",
+		"speaker": "播磨 シュンタロウ",
+		"listener": "",
+		"content": "I'm done wasting my time on her. I'll just find a new idol to adore! So many to choose from, so little time..."
+	},
+	{
+		"name": "NPCName_SNS_sub33_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@MissBanksOfficial"
+	},
+	{
+		"name": "tweet_SNS_sub33_001_title",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "Idol Thoughts"
+	},
+	{
+		"name": "tweet_SNS_sub33_001_0000",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "Now the whole world knows I'm dating Kashiki! What's so wrong with that? I just want to be with the person I love..."
+	},
+	{
+		"name": "tweet_SNS_sub33_001_0010",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "All those rumors... No one even cares if they're true or not..."
+	},
+	{
+		"name": "tweet_SNS_sub33_001_0020",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "Oh, why did I become an idol in the first place?"
+	},
+	{
+		"name": "tweet_SNS_sub33_001_0030",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "And who the hell is this <MK_11>Informant A<MK_11>!?"
+	},
+	{
+		"name": "tweet_SNS_sub33_001_af_0010",
+		"speaker": "現役アイドル カワよす",
+		"listener": "",
+		"content": "Not being allowed to date is a stupid rule anyway! It's not like Kashiki and I are just messing around. We're serious! That's it: I'm gonna speak to my manager!"
+	},
+	{
+		"name": "NPCName_SNS_sub34_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@TakuIhama"
+	},
+	{
+		"name": "tweet_SNS_sub34_001_title",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "For My Sister"
+	},
+	{
+		"name": "tweet_SNS_sub34_001_0000",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "I came all the way from Kansai to buy some Gatto Nero for my kid sister, but...that cashier was so cute, I bought a ton of stuff just to see her smile. Hope I can still afford rent..."
+	},
+	{
+		"name": "tweet_SNS_sub34_001_0010",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "She was so perfect... But once I go back to Kansai, it's goodbye forever."
+	},
+	{
+		"name": "tweet_SNS_sub34_001_0020",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "I can't shake the feeling we might be soulmates..."
+	},
+	{
+		"name": "tweet_SNS_sub34_001_0030",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "I can't afford to drop this much money all at once... What was I thinking!?"
+	},
+	{
+		"name": "tweet_SNS_sub34_001_0040",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "I'm such a pushover. No wonder no one likes me..."
+	},
+	{
+		"name": "tweet_SNS_sub34_001_af_0010",
+		"speaker": "飯浜 タク",
+		"listener": "",
+		"content": "Well, it was fun while it lasted, but it's time to move on... Still stuck with all these Mr. Mew dolls, though. My sister's getting more presents than she bargained for!"
+	},
+	{
+		"name": "NPCName_SNS_sub35_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@GoModoriyama"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_title",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "JotM for Life"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_0000",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "Don't get me wrong, I'm thrilled to be working at Jupiter of the Monkey. I just wish they'd let me out of the back room. The only thing standing in my way...is that Keiichi Okada!"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_0010",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "I'll show Keiichi what I'm made of! I can rap with the best of them!"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_0020",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "Uhn-tss, uhn-tss, uhn-tss, uhn-tss, BWRRRWUBWUB!"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_0030",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "BrrrRRRWUB, chicka-chicka WUB-tss, WHIRRRUH-AH-UH-AH ZHRMMMmmm..."
+	},
+	{
+		"name": "tweet_SNS_sub35_001_0040",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "Gah! That was terrible!"
+	},
+	{
+		"name": "tweet_SNS_sub35_001_af_0010",
+		"speaker": "毛戸利山 ゴウ",
+		"listener": "",
+		"content": "Well, I'm still a new hire, so I'll give it some more time. But maybe I should leave the rapping to Keiichi and embrace my true calling: beatboxing!"
+	},
+	{
+		"name": "NPCName_SNS_sub36_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@ItBoyKashiki"
+	},
+	{
+		"name": "tweet_SNS_sub36_001_title",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "Main Character Blues"
+	},
+	{
+		"name": "tweet_SNS_sub36_001_0000",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "If my character in this TV series is supposed to be the hero, then how come he barely has any lines!? What—like my face is all I have going for me? Ugh, I never should've quit music for this..."
+	},
+	{
+		"name": "tweet_SNS_sub36_001_0010",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "I haven't practiced my guitar in forever... I probably suck now..."
+	},
+	{
+		"name": "tweet_SNS_sub36_001_0020",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "Miss Banks gets to sing, so why don't I? I wanna express myself, too!"
+	},
+	{
+		"name": "tweet_SNS_sub36_001_0030",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "Oh, Miss Banks... I wish you were here with me now... Why can't they just let us be in love!?"
+	},
+	{
+		"name": "tweet_SNS_sub36_001_0040",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "But rules are rules. We knew that going into this. If we break 'em, that's it for our careers..."
+	},
+	{
+		"name": "tweet_SNS_sub36_001_af_0010",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "Maybe I'm asking for too much... If my character only has a few lines, I'll just have to make every one count! Quality over quantity, right?"
+	},
+	{
+		"name": "NPCName_SNS_sub37_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@RikoSekinohara"
+	},
+	{
+		"name": "tweet_SNS_sub37_001_title",
+		"speaker": "関野原 リョウコ",
+		"listener": "",
+		"content": "So Cold..."
+	},
+	{
+		"name": "tweet_SNS_sub37_001_0000",
+		"speaker": "関野原 リョウコ",
+		"listener": "",
+		"content": "It's cold... So cold... Where...am I? My favorite park...the government building...all gone..."
+	},
+	{
+		"name": "tweet_SNS_sub37_001_0010",
+		"speaker": "関野原 リョウコ",
+		"listener": "",
+		"content": "What...happened to me? No... No, I'm not ready to die!"
+	},
+	{
+		"name": "tweet_SNS_sub37_001_af_0010",
+		"speaker": "関野原 リョウコ",
+		"listener": "",
+		"content": "I knew it... It's time for me to move on. Goodbye... I'm gonna go be with Mom."
+	},
+	{
+		"name": "NPCName_SNS_sub38_001",
+		"speaker": "",
+		"listener": "",
+		"content": "@MarinoOrihara"
+	},
+	{
+		"name": "tweet_SNS_sub38_001_title",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Can't Focus"
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0000",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Argh! How am I supposed to focus on studying when there's a new chapter of <i>EleStra</i> waiting for me? But if my grades drop any lower, I'm done for..."
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0010",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "World history is too hard! I can't remember any of this junk!"
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0020",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Goodbye, reality! Hellooo, Lord Tomonami..."
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0030",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Something, ancient Athens, something something acropowhatever, something... I'm doomed, aren't I?"
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0040",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Goodbye, reality! Hellooo, mysterious new sergeant who just got introduced this chapter..."
+	},
+	{
+		"name": "tweet_SNS_sub38_001_0050",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Blah blah Gandhara art blah blah blah... Yep. This isn't happening."
+	},
+	{
+		"name": "tweet_SNS_sub38_001_af_0010",
+		"speaker": "折原 マリノ",
+		"listener": "",
+		"content": "Hang on... If I just imagine all these concepts as hot guys... Oh wow, that's <i>way</i> easier to remember now! I've got a whole narrative and favorite characters and everything!"
+	}
+]
+}

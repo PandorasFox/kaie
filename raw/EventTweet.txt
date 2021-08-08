@@ -1,0 +1,1138 @@
+{
+"columns":[
+	{
+		"name": "NPCName_w1d1_SNS_Eve000",
+		"speaker": "",
+		"listener": "",
+		"content": "@DayDreamer"
+	},
+	{
+		"name": "tweet_w1d1_SNS_Eve000_1_title",
+		"speaker": "妄想が止まらない女子",
+		"listener": "",
+		"content": "Teenage Heartthrob"
+	},
+	{
+		"name": "tweet_w1d1_SNS_Eve000_1_0010",
+		"speaker": "妄想が止まらない女子",
+		"listener": "",
+		"content": "This is my first class reunion in ten whole years! What do I do if I fall for my first love all over again? Should I break up with my boyfriend? Decisions, decisions."
+	},
+	{
+		"name": "NPCName_w1d1_SNS_Eve006",
+		"speaker": "",
+		"listener": "",
+		"content": "@Showoff"
+	},
+	{
+		"name": "tweet_w1d1_SNS_Eve006_1_title",
+		"speaker": "見せびらかしたい男性",
+		"listener": "",
+		"content": "Arm Art"
+	},
+	{
+		"name": "tweet_w1d1_SNS_Eve006_1_0010",
+		"speaker": "見せびらかしたい男性",
+		"listener": "",
+		"content": "I finally inked my arm with the tattoo of my dreams! My girl doesn't dig the <CRE>purple skull</C>, but I think it looks sick. Besides, it's just a wash-off sticker."
+	},
+	{
+		"name": "NPCName_w1d2_SNS_Eve002",
+		"speaker": "",
+		"listener": "",
+		"content": "@MoralManiac"
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve002_1_title",
+		"speaker": "風紀にうるさい男",
+		"listener": "",
+		"content": "Vexing Graffiti"
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve002_1_0010",
+		"speaker": "風紀にうるさい男",
+		"listener": "",
+		"content": "I have a feeling that orange-hooded hoodlum is up to no good, but they ran off toward <CRE>O-EAST</C> before I could stop them..."
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve002_1_0020",
+		"speaker": "風紀にうるさい男",
+		"listener": "",
+		"content": "Man, there's nothing I hate more than graffiti."
+	},
+	{
+		"name": "NPCName_w1d2_SNS_Eve050",
+		"speaker": "",
+		"listener": "",
+		"content": "@MKN"
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve050_1_title",
+		"speaker": "ＭＫＮ",
+		"listener": "",
+		"content": "Creative Freedom"
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve050_1_0010",
+		"speaker": "ＭＫＮ",
+		"listener": "",
+		"content": "Is this supposed to be <CRE>104</C>? Uh-uh—we aren't glorifying capitalism on my watch. Time to spray over it!"
+	},
+	{
+		"name": "tweet_w1d2_SNS_Eve050_1_0020",
+		"speaker": "ＭＫＮ",
+		"listener": "",
+		"content": "I <i>do</i> feel kinda dirty graffitiing over someone else's work, but in a way, it's like an impromptu collaboration. That's art!"
+	},
+	{
+		"name": "NPCName_w1d3_SNS_Eve000",
+		"speaker": "",
+		"listener": "",
+		"content": "@Player004"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve000_1_title",
+		"speaker": "死神ゲーム参加者",
+		"listener": "",
+		"content": "LKJLKSasnfjk"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve000_1_0010",
+		"speaker": "死神ゲーム参加者",
+		"listener": "",
+		"content": "?>?>ASasjdfklhghcnbmc;dop"
+	},
+	{
+		"name": "NPCName_w1d3_SNS_Eve007",
+		"speaker": "",
+		"listener": "",
+		"content": "@GrumpyGirl"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve007_1_title",
+		"speaker": "プチ不満女子",
+		"listener": "",
+		"content": "That It?"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve007_1_0010",
+		"speaker": "プチ不満女子",
+		"listener": "",
+		"content": "Y'know, I feel like the Hachiko Café needs to try a bit harder if they want to call this a <MK_11>special menu.<MK_11> It's pretty damn boring."
+	},
+	{
+		"name": "NPCName_w1d3_SNS_Eve008",
+		"speaker": "",
+		"listener": "",
+		"content": "@FlusteredTeen"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve008_1_title",
+		"speaker": "慌てるＪＫ",
+		"listener": "",
+		"content": "Gotta Hurry!"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve008_1_0010",
+		"speaker": "慌てるＪＫ",
+		"listener": "",
+		"content": "I read online the Hachiko Café is gonna stop serving their special menu soon. Time to get a move on!"
+	},
+	{
+		"name": "NPCName_w1d3_SNS_Eve009",
+		"speaker": "",
+		"listener": "",
+		"content": "@MadameCollector"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve009_1_title",
+		"speaker": "限定品コレクターＯＬ",
+		"listener": "",
+		"content": "That Voucher's Mine"
+	},
+	{
+		"name": "tweet_w1d3_SNS_Eve009_1_0010",
+		"speaker": "限定品コレクターＯＬ",
+		"listener": "",
+		"content": "If you don't even care about the vouchers they're giving out at Hachiko Café, then don't take one. Seriously."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve001",
+		"speaker": "",
+		"listener": "",
+		"content": "@MissSweetTooth"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve001_1_title",
+		"speaker": "ラグジュアリー女子",
+		"listener": "",
+		"content": "Time to Dig In"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve001_1_0010",
+		"speaker": "ラグジュアリー女子",
+		"listener": "",
+		"content": "I'm so excited to devour this <COR>high-quality</C> cheesecake the second I get home!"
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve003",
+		"speaker": "",
+		"listener": "",
+		"content": "@GamerBoi"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve003_1_title",
+		"speaker": "ゲームに夢中な男",
+		"listener": "",
+		"content": "One More Try"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve003_1_0010",
+		"speaker": "ゲームに夢中な男",
+		"listener": "",
+		"content": "Okay, that boss just one-shotted me, but I think I've got a strategy now. This time, I'll <COR>protect</C> the princess for sure!<BR>...Crap, I just died again."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve005",
+		"speaker": "",
+		"listener": "",
+		"content": "@ModernDayAdonis"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve005_1_title",
+		"speaker": "自分に酔いしれる男",
+		"listener": "",
+		"content": "It's Fate"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve005_1_0010",
+		"speaker": "自分に酔いしれる男",
+		"listener": "",
+		"content": "We may have parted ways for now, but we're destined to <COR>meet</C> again in another world—I just know it. All I need to do is wait... Until then, farewell, my angel."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve012",
+		"speaker": "",
+		"listener": "",
+		"content": "@BusinessTripster"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve012_1_title",
+		"speaker": "出張中のビジネスマン",
+		"listener": "",
+		"content": "Damn Signal"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve012_1_0010",
+		"speaker": "出張中のビジネスマン",
+		"listener": "",
+		"content": "Why's the signal so bad here anyway? Just when I need to check my email, too... Guess I'll go to a café and hope their <COR>internet</C> is a little better."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve022",
+		"speaker": "",
+		"listener": "",
+		"content": "@SimpleIsBest"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_1_title",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "The Bare Necessities"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_1_0010",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Wow, I feel great after throwing away all that useless junk! I won't buy anything I don't need ever again."
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_1_0020",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "A cute pig plushie that'll <MK_11><CRE>protect my peace of mind</C><MK_11>? Geez, just take my wallet already!"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_1_0030",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Man, that was a good purchase. Who knew they sold such cool stuff on the streets?"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_1_0040",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Ugh, I don't feel so great all of a sudden... Weird. I felt amazing when I woke up this morning..."
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_2_title",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "The Bare Necessities"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_2_0010",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Wow, I feel great after throwing away all that useless junk! I won't buy anything I don't need ever again."
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_2_0020",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "It's <MK_11>time for me to <CRE>meet my new best buddy</C><MK_11>? This little piggy fits the bill... That's it—I'm buying it!"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_2_0030",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Man, that was a good purchase. Who knew they sold such cool stuff on the streets?"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve022_2_0040",
+		"speaker": "節約志向のフリーター",
+		"listener": "",
+		"content": "Ugh, I don't feel so great all of a sudden... Weird. I felt amazing when I woke up this morning..."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve031",
+		"speaker": "",
+		"listener": "",
+		"content": "@HighSchoolGourmand"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve031_1_title",
+		"speaker": "グルメな女子高生",
+		"listener": "",
+		"content": "I'll Be Back"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve031_1_0010",
+		"speaker": "グルメな女子高生",
+		"listener": "",
+		"content": "That rice bowl was so good, it nourished my body AND <COR>soul</C>. I'll be back tomorrow!"
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve032",
+		"speaker": "",
+		"listener": "",
+		"content": "@FightingSpirit"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve032_1_title",
+		"speaker": "闘争心に燃える男子",
+		"listener": "",
+		"content": "That Guy"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve032_1_0010",
+		"speaker": "闘争心に燃える男子",
+		"listener": "",
+		"content": "That guy I just fought... He's the one—my ultimate Tin Pin <COR>rival</C>! No way he's gonna beat me next time we play!"
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve033",
+		"speaker": "",
+		"listener": "",
+		"content": "@FilmFanatic"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve033_1_title",
+		"speaker": "映画好きの青年",
+		"listener": "",
+		"content": "A Real Tearjerker"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve033_1_0010",
+		"speaker": "映画好きの青年",
+		"listener": "",
+		"content": "Haven't seen a movie that good in a long time... Ugh, just thinking of that scene where the protagonist starts to <COR>cry</C> gets me right in the feels..."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve046",
+		"speaker": "",
+		"listener": "",
+		"content": "@PetPerfection"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve046_1_title",
+		"speaker": "初ペットに心躍る男",
+		"listener": "",
+		"content": "My Silly Rabbit"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve046_1_0010",
+		"speaker": "初ペットに心躍る男",
+		"listener": "",
+		"content": "Today's the day I officially adopt my new bunny buddy! He's gonna be the most <COR>important</C> man in my life from now on."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve047",
+		"speaker": "",
+		"listener": "",
+		"content": "@New2Shibuya"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve047_1_title",
+		"speaker": "渋谷に慣れたい女子",
+		"listener": "",
+		"content": "Baby's First Shopping Spree"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve047_1_0010",
+		"speaker": "渋谷に慣れたい女子",
+		"listener": "",
+		"content": "Ugh, I wanna go in here but I'm too nervous. I've always been really <COR>bad</C> at going into stores for the first time... Okay, enough stalling. I'm going in!"
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve048",
+		"speaker": "",
+		"listener": "",
+		"content": "@ShogiChamp"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve048_1_title",
+		"speaker": "息抜き中の棋士",
+		"listener": "",
+		"content": "Next Match"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve048_1_0010",
+		"speaker": "息抜き中の棋士",
+		"listener": "",
+		"content": "C'mon—you can do this! Just gotta maintain the right <COR>attitude</C>. I can't let that punk kid wipe the floor with me!"
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve059",
+		"speaker": "",
+		"listener": "",
+		"content": "@OutOfShapeCeleb"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve059_1_title",
+		"speaker": "運動不足のセレブ",
+		"listener": "",
+		"content": "Endless Stairs"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve059_1_0010",
+		"speaker": "運動不足のセレブ",
+		"listener": "",
+		"content": "Were the stairs on Spain Hill always this bad? I can see Parco, but I'm so tired... Oh well, just gotta push on and keep <COR>going up</C>."
+	},
+	{
+		"name": "NPCName_w1d5_SNS_Eve070",
+		"speaker": "",
+		"listener": "",
+		"content": "@TapiocaTrekker"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve070_1_title",
+		"speaker": "タピりたいオヤジ",
+		"listener": "",
+		"content": "At Long Last"
+	},
+	{
+		"name": "tweet_w1d5_SNS_Eve070_1_0010",
+		"speaker": "タピりたいオヤジ",
+		"listener": "",
+		"content": "I'm finally at the <COR>bubble tea café</C> of my dreams. Time to go inside and have a drink!"
+	},
+	{
+		"name": "NPCName_w1d7_SNS_Eve001",
+		"speaker": "",
+		"listener": "",
+		"content": "@HeadOverHills"
+	},
+	{
+		"name": "tweet_w1d7_SNS_Eve001_1_title",
+		"speaker": "坂マニアのエンジニア",
+		"listener": "",
+		"content": "A Slippery Slope"
+	},
+	{
+		"name": "tweet_w1d7_SNS_Eve001_1_0010",
+		"speaker": "坂マニアのエンジニア",
+		"listener": "",
+		"content": "Dogenzaka's a much gentler slope than Spain Hill. According to my calculations, there's a <CRE>3.5-degree</C> difference in steepness between the two. Shibuya truly is a great place for hillthusiasts."
+	},
+	{
+		"name": "w2d1_SNS_Eve003",
+		"speaker": "",
+		"listener": "",
+		"content": "@Crazy4Crustaceans"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve003_1_title",
+		"speaker": "甲殻類大好き女子",
+		"listener": "",
+		"content": "My Mind's Made Up"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve003_1_0010",
+		"speaker": "甲殻類大好き女子",
+		"listener": "",
+		"content": "That floral egg crab keychain they were selling at that shop was super <COR>cute</C>. That's it—I'm buying it!"
+	},
+	{
+		"name": "w2d1_SNS_Eve005",
+		"speaker": "",
+		"listener": "",
+		"content": "@OldFashionedGurl"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve005_1_title",
+		"speaker": "ノームコア系女子",
+		"listener": "",
+		"content": "If It Ain't Broke"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve005_1_0010",
+		"speaker": "ノームコア系女子",
+		"listener": "",
+		"content": "I can't believe someone combined <COR>pancakes</C> with cookies and called them <MK_11>panookies.<MK_11> I don't need some new concoction: just gimme the classics!"
+	},
+	{
+		"name": "w2d1_SNS_Eve007",
+		"speaker": "",
+		"listener": "",
+		"content": "@CakeFiend"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve007_1_title",
+		"speaker": "ケーキ屋巡り中の大学生",
+		"listener": "",
+		"content": "Let Me Eat Cake"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve007_1_0010",
+		"speaker": "ケーキ屋巡り中の大学生",
+		"listener": "",
+		"content": "This Mont Blanc looks delish... Wait—they're all reserved until March!? Must be really <COR>tasty</C>. Guess I'd better order one and start waiting!"
+	},
+	{
+		"name": "NPCName_w2d1_SNS_Eve011",
+		"speaker": "",
+		"listener": "",
+		"content": "@KashikiUnderKover"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve011_1_title",
+		"speaker": "人気俳優　カシキ",
+		"listener": "",
+		"content": "No One Knows"
+	},
+	{
+		"name": "tweet_w2d1_SNS_Eve011_1_0010",
+		"speaker": "人気俳優 カシキ",
+		"listener": "",
+		"content": "Stay calm, Kashiki: no one knows it's you. That guy just now <i>totally</i> thought you were a girl. Man, I oughta thank my makeup artist for teaching me how to beat my mug so well!"
+	},
+	{
+		"name": "NPCName_w2d2_SNS_Eve004",
+		"speaker": "",
+		"listener": "",
+		"content": "@AllWork&NoPlay"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve004_1_title",
+		"speaker": "サビ残が憎い若者",
+		"listener": "",
+		"content": "I Want My Life Back"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve004_1_0010",
+		"speaker": "サビ残が憎い若者",
+		"listener": "",
+		"content": "My damn manager keeps asking me to do overtime 'cause I live close to the <COR>office</C>. I can't even go to the convenience store without running into someone from work... Maybe it's time to move."
+	},
+	{
+		"name": "NPCName_w2d2_SNS_Eve005",
+		"speaker": "",
+		"listener": "",
+		"content": "@CapCrazyDJ"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve005_1_title",
+		"speaker": "キャップ愛が深いＤＪ",
+		"listener": "",
+		"content": "Go It Alone"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve005_1_0010",
+		"speaker": "キャップ愛が深いＤＪ",
+		"listener": "",
+		"content": "I'm itching to <COR>work</C>, but every time I start somewhere new, I get in a fight over the stuff we stock. Guess I oughta just open up a <COR>boutique</C> of my own!"
+	},
+	{
+		"name": "NPCName_w2d2_SNS_Eve021",
+		"speaker": "",
+		"listener": "",
+		"content": "@FirstTimeRapper"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve021_1_title",
+		"speaker": "小心者のラッパー",
+		"listener": "",
+		"content": "What a Creep"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve021_1_0010",
+		"speaker": "小心者のラッパー",
+		"listener": "",
+		"content": "What's that hooded guy's deal? He kept bumping into people like he was doing it on purpose!  I wanted to go to <CRE>Dogenzaka</C>, but <CRE>he headed there, too</C>. Guess I'll take a rain check..."
+	},
+	{
+		"name": "NPCName_w2d2_SNS_Eve030",
+		"speaker": "",
+		"listener": "",
+		"content": "@Pureheart"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve030_1_title",
+		"speaker": "ピュアハートメンバー",
+		"listener": "",
+		"content": "?>D>>Smk"
+	},
+	{
+		"name": "tweet_w2d2_SNS_Eve030_1_0010",
+		"speaker": "ピュアハートメンバー",
+		"listener": "",
+		"content": "AIJADsjfdlksflksdmf><FDSf:.g:;dl[@tl:;]r:s5%"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve011",
+		"speaker": "",
+		"listener": "",
+		"content": "@LostLady"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve011_1_title",
+		"speaker": "方向オンチ女子",
+		"listener": "",
+		"content": "Eerie Arrows"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve011_1_0010",
+		"speaker": "方向オンチ女子",
+		"listener": "",
+		"content": "I wonder if that's the graffiti <CRE>machastree</C> was talking about... He said <CRE>anyone who follows those arrows disappears</C>, right? Seems kinda sketchy to me."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve011_1_0020",
+		"speaker": "方向オンチ女子",
+		"listener": "",
+		"content": "I'll be fine now that I'm above ground. That maze of an underground sure had me feeling defeated, though... Glad I got out in one piece!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve012",
+		"speaker": "",
+		"listener": "",
+		"content": "@Mad4Machastree"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve012_1_title",
+		"speaker": "まはつんファンの男性",
+		"listener": "",
+		"content": "I Love Legends"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve012_1_0010",
+		"speaker": "まはつんファンの男性",
+		"listener": "",
+		"content": "Pretty sure that <CRE>overpass</C> is the one <CRE>machastree</C> featured in one of his urban legend videos—the one right by <CRE>Shibuya Hikarie</c>. I'll have to check it out later."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve012_1_0020",
+		"speaker": "まはつんファンの男性",
+		"listener": "",
+		"content": "Huh, someone's discovered a new urban legend... Something about a <MK_11>manic flower.<MK_11> I love how Shibuya's always giving birth to new stories. Our neighbors up north in Ikebukuro oughta tune in to the supernatural like us!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve022",
+		"speaker": "",
+		"listener": "",
+		"content": "@Waiting4ADate"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve022_1_title",
+		"speaker": "待ち合わせ中の女性",
+		"listener": "",
+		"content": "Something Smells"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve022_1_0010",
+		"speaker": "待ち合わせ中の女性",
+		"listener": "",
+		"content": "I feel like this place was in one of <CRE>machastree</C>'s videos, right? Something about <CRE>getting in an accident if you throw your trash in the wrong can</C>. I never do that, so there's nothing for me to worry about!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve022_1_0020",
+		"speaker": "待ち合わせ中の女性",
+		"listener": "",
+		"content": "Still, something about this spot really stinks. Must be coming from the trash cans over there... Ugh, I should've picked a better place to meet my date."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve023",
+		"speaker": "",
+		"listener": "",
+		"content": "@InOneEar"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve023_1_title",
+		"speaker": "忘れっぽい男",
+		"listener": "",
+		"content": "I Didn't See Nothing!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve023_1_0010",
+		"speaker": "忘れっぽい男",
+		"listener": "",
+		"content": "Did I just see a red crow? Heh, no way. This can't be one of <CRE>machastree's urban legends</C>... Wait—there was one about getting <CRE>cursed by a red raven if you throw your garbage in the wrong trash can</C>, right?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve023_1_0020",
+		"speaker": "忘れっぽい男",
+		"listener": "",
+		"content": "Not that it matters—I didn't see anything after all! Seriously. Nothing at all. In fact, I've forgotten everything that happened today! Nope, definitely not cursed!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve032",
+		"speaker": "",
+		"listener": "",
+		"content": "@CountryBumpkin"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve032_1_title",
+		"speaker": "都内の村出身者",
+		"listener": "",
+		"content": "Waste of a Trip"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve032_1_0010",
+		"speaker": "都内の村出身者",
+		"listener": "",
+		"content": "Wasn't the <CRE>telephone pole from machastree's urban legend</C> over here on Cat Street? Said you're supposed to be able to <CRE>hear the voices of the dead if you get close enough</C>..."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve032_1_0020",
+		"speaker": "都内の村出身者",
+		"listener": "",
+		"content": "Ugh! Figures they'd be sold out of that T-shirt after I came all this way. Just my luck... Why don't they have an online shop?"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve041",
+		"speaker": "",
+		"listener": "",
+		"content": "@Shopaholic"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve041_1_title",
+		"speaker": "買い物中の男",
+		"listener": "",
+		"content": "Hearing Things"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve041_1_0010",
+		"speaker": "買い物中の男",
+		"listener": "",
+		"content": "Could've sworn I just heard someone groaning to my left... But there's no one there."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve042",
+		"speaker": "",
+		"listener": "",
+		"content": "@ModelStudent"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve042_1_title",
+		"speaker": "習い事に向かう女子高生",
+		"listener": "",
+		"content": "Yuck!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve042_1_0010",
+		"speaker": "習い事に向かう女子高生",
+		"listener": "",
+		"content": "Eww! I'm pretty sure some weirdo behind me was just moaning to himself... Why am I such a creep magnet!?"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve043",
+		"speaker": "",
+		"listener": "",
+		"content": "@Chill2TheMax"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve043_1_title",
+		"speaker": "休憩中の女性",
+		"listener": "",
+		"content": "Am I Hearing Things?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve043_1_0010",
+		"speaker": "休憩中の女性",
+		"listener": "",
+		"content": "That was a person groaning just now, right? It sounded like they were hurt... Pretty sure it came from somewhere in front of me...but where?"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve044",
+		"speaker": "",
+		"listener": "",
+		"content": "@Time2Kill"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve044_1_title",
+		"speaker": "暇つぶし中の男",
+		"listener": "",
+		"content": "Time to Investigate"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve044_1_0010",
+		"speaker": "暇つぶし中の男",
+		"listener": "",
+		"content": "Looks like something just spooked that lady over there real good. Maybe I'll go check it out myself!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve045",
+		"speaker": "",
+		"listener": "",
+		"content": "@ScaredyCat"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve045_1_title",
+		"speaker": "ビビり女子",
+		"listener": "",
+		"content": "Whoa!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve045_1_0010",
+		"speaker": "ビビり女子",
+		"listener": "",
+		"content": "Whoa! That lady got so scared, she practically scared <i>me</i> half to death. Total scareception!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve046",
+		"speaker": "",
+		"listener": "",
+		"content": "@WalkingGramps"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve046_1_title",
+		"speaker": "散歩中のおじさん",
+		"listener": "",
+		"content": "A Place for Grown-ups"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve046_1_0010",
+		"speaker": "散歩中のおじさん",
+		"listener": "",
+		"content": "Gotta say, I love this area. You'd never know you're still in Shibuya! So much quieter over here than it is by the station."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve047",
+		"speaker": "",
+		"listener": "",
+		"content": "@NightOwl"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve047_1_title",
+		"speaker": "夜が待ち遠しい女子",
+		"listener": "",
+		"content": "Too Damn Quiet"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve047_1_0010",
+		"speaker": "夜が待ち遠しい女子",
+		"listener": "",
+		"content": "This place is way too quiet considering for a street that connects Shibuya and Harajuku. All this silence makes me wanna go clubbin' and make some noise!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve062",
+		"speaker": "",
+		"listener": "",
+		"content": "@IdolFan"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve062_1_title",
+		"speaker": "アイドルの追っかけ女子",
+		"listener": "",
+		"content": "Tight Purse Strings"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve062_1_0010",
+		"speaker": "アイドルの追っかけ女子",
+		"listener": "",
+		"content": "Man, when is that place gonna show on the big screen? <CRE>machastree</C> said <CRE>some place in Shibuya appears on the jumbotron for one second every day</C>."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve062_1_0020",
+		"speaker": "アイドルの追っかけ女子",
+		"listener": "",
+		"content": "I guess <CRE>urban legends</C> are just that—legends. Who cares if <CRE>some place in Shibuya</C> gets shown once a day anyway?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve062_1_0030",
+		"speaker": "アイドルの追っかけ女子",
+		"listener": "",
+		"content": "Ugh, and I still have so much time until the concert starts. Wonder where I can hang out without spending any money... MIYASHITA PARK, I guess?"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve063",
+		"speaker": "",
+		"listener": "",
+		"content": "@PunctualPerfection"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve063_1_title",
+		"speaker": "タイトスケジュール女子",
+		"listener": "",
+		"content": "Gonna 'Buya 'Til I Drop"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve063_1_0010",
+		"speaker": "タイトスケジュール女子",
+		"listener": "",
+		"content": "That's the jumbotron <CRE>machastree</C> mentioned, right? The one that shows some place for a split second, and if you go there you die in seven days' time?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve063_1_0020",
+		"speaker": "タイトスケジュール女子",
+		"listener": "",
+		"content": "Wait, what do you have to do there to die again? Think he said you have to <CRE>walk around counterclockwise one time</C>... Like, who would even do that?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve063_1_0030",
+		"speaker": "タイトスケジュール女子",
+		"listener": "",
+		"content": "Oh, man. Look at the time! I've gotta hurry—I wanted to swing by 104 and TOWER RECORDS before I meet my friend for dessert at Shibuya Hikarie!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve066",
+		"speaker": "",
+		"listener": "",
+		"content": "@CuriousKitty"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve066_1_title",
+		"speaker": "好奇心旺盛女子",
+		"listener": "",
+		"content": "Longing for Love"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve066_1_0010",
+		"speaker": "好奇心旺盛女子",
+		"listener": "",
+		"content": "Kinda wanna check out that <CRE>urban legend</C> on Center Street <CRE>machastree</C> was talking about—the one where <CRE>people step into a changing room and suddenly disappear</C>."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve066_1_0020",
+		"speaker": "好奇心旺盛女子",
+		"listener": "",
+		"content": "The guy working at HOG FANG was a total hunk! And the fact that he's so shy is, like, super adorable... Although the guy at garagara is pretty dreamy, too~♥"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve071",
+		"speaker": "",
+		"listener": "",
+		"content": "@TroubledTraveler"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve071_1_title",
+		"speaker": "向こう側に行きたい男性",
+		"listener": "",
+		"content": "Where Am I?"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve071_1_0010",
+		"speaker": "向こう側に行きたい男性",
+		"listener": "",
+		"content": "Huh? I swear I just saw something on the big screen. Looked like a <CRE>building with an arch</C>."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve071_1_0020",
+		"speaker": "向こう側に行きたい男性",
+		"listener": "",
+		"content": "Hang on—I'm back here again!? Why is this crossing making life so hard for me..."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve072",
+		"speaker": "",
+		"listener": "",
+		"content": "@SneakerLover"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve072_1_title",
+		"speaker": "スニーカー好きの青年",
+		"listener": "",
+		"content": "Shib Sneakers"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve072_1_0010",
+		"speaker": "スニーカー好きの青年",
+		"listener": "",
+		"content": "Man, I know I've seen that place that just showed up on the big screen... It's <CRE>sandwiched between two streets</C>...somewhere around here."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve072_1_0020",
+		"speaker": "スニーカー好きの青年",
+		"listener": "",
+		"content": "My feet are always dead after walking around Shibuya. Must be 'cause of all the hills. Maybe I'll wear my cushioned sneakers next time."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve073",
+		"speaker": "",
+		"listener": "",
+		"content": "@VintageAfficionado"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve073_1_title",
+		"speaker": "ビンテージＴ収集家",
+		"listener": "",
+		"content": "Shopping for Clothes"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve073_1_0010",
+		"speaker": "ビンテージＴ収集家",
+		"listener": "",
+		"content": "What's the deal with that place that just flashed on the jumbotron for a sec? Looked like <CRE>a building covered in plants</C>. Screen must be on the fritz..."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve073_1_0020",
+		"speaker": "ビンテージＴ収集家",
+		"listener": "",
+		"content": "Anyway, time to go check out some vintage clothing shops! Cat Street never disappoints."
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve082",
+		"speaker": "",
+		"listener": "",
+		"content": "@BeyondPoor"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve082_1_title",
+		"speaker": "貯金ゼロ女子",
+		"listener": "",
+		"content": "Monthly Shop"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve082_1_0010",
+		"speaker": "貯金ゼロ女子",
+		"listener": "",
+		"content": "Hmm. <CRE>machastree</C> said anyone who <CRE>sets foot on the eighteenth step of the Spain Hill stairs goes straight to Hell</C>... Let's just go up without counting!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve082_1_0020",
+		"speaker": "貯金ゼロ女子",
+		"listener": "",
+		"content": "Can't wait to splurge at PARCO. Spending all my money from my part-time job in one go is my favorite way to destress!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve090",
+		"speaker": "",
+		"listener": "",
+		"content": "@SuperScared"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve090_1_title",
+		"speaker": "おびえる女性",
+		"listener": "",
+		"content": "Spooked"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve090_1_0010",
+		"speaker": "おびえる女性",
+		"listener": "",
+		"content": "Oh, that was so scary... I've never been so terrified just slipping on the steps. I felt a shiver go down my spine!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve097",
+		"speaker": "",
+		"listener": "",
+		"content": "@CosmeticQueen"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve097_1_title",
+		"speaker": "コスメ好き女子",
+		"listener": "",
+		"content": "It's Gone!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve097_1_0010",
+		"speaker": "コスメ好き女子",
+		"listener": "",
+		"content": "<CRE>machastree</C> said <CRE>stepping on one of the white lines on the crossing in front of 104 gives you real bad luck</C>. Gonna have to avoid all of these lines just to be safe!"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve097_1_0020",
+		"speaker": "コスメ好き女子",
+		"listener": "",
+		"content": "Oh, no! I came to 104 to visit my favorite make-up store, but it's gone! That was the only one in all of Japan... Maybe I already have bad luck!"
+	},
+	{
+		"name": "NPCName_w2d4_SNS_Eve098",
+		"speaker": "",
+		"listener": "",
+		"content": "@Boy2Man"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve098_1_title",
+		"speaker": "あか抜けたい男子",
+		"listener": "",
+		"content": "Wardrobe Upgrade"
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve098_1_0010",
+		"speaker": "あか抜けたい男子",
+		"listener": "",
+		"content": "This is the crossing in front of 104... I remember seeing <CRE>some video</C> about a guy who got into an accident and cursed the place..."
+	},
+	{
+		"name": "tweet_w2d4_SNS_Eve098_1_0020",
+		"speaker": "あか抜けたい男子",
+		"listener": "",
+		"content": "Huh... So <i>that's</i> the kind of accessory that goes with that jacket. Seeing what people wear in Shibuya gives me so many outfit ideas!"
+	},
+	{
+		"name": "NPCName_w2d6_SNS_Eve001",
+		"speaker": "",
+		"listener": "",
+		"content": "@Pureheart"
+	},
+	{
+		"name": "tweet_w2d6_SNS_Eve001_1_title",
+		"speaker": "ピュアハートメンバー",
+		"listener": "",
+		"content": ";*?A*+<>*+SKL+"
+	},
+	{
+		"name": "tweet_w2d6_SNS_Eve001_1_0010",
+		"speaker": "ピュアハートメンバー",
+		"listener": "",
+		"content": "ALksjaidjL+KDS<BR>K`AL:;]sdlf:];.sdf:]<BR>SA+*DLfdkl@pdjg<BR>opfg.:;zz.?＼.:/.fd＼/s"
+	},
+	{
+		"name": "NPCName_w3d1_SNS_Eve011",
+		"speaker": "",
+		"listener": "",
+		"content": "@TiredGameDev"
+	},
+	{
+		"name": "tweet_w3d1_SNS_Eve011_1_title",
+		"speaker": "寝不足のゲームクリエイター",
+		"listener": "",
+		"content": "Need Sleep..."
+	},
+	{
+		"name": "tweet_w3d1_SNS_Eve011_1_0010",
+		"speaker": "寝不足のゲームクリエイター",
+		"listener": "",
+		"content": "Huh? I can see something over there in the Scramble Crossing. Looks like some kind of translucent monster... Maybe they're shooting a movie? Or I'm just seeing things..."
+	},
+	{
+		"name": "tweet_w3d1_SNS_Eve011_1_0020",
+		"speaker": "寝不足のゲームクリエイター",
+		"listener": "",
+		"content": "Need...sleep... I worked until the last train yesterday and then that thing I saw had me so freaked out I couldn't sleep a wink. I need to move closer to work..."
+	}
+]
+}
