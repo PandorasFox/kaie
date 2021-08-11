@@ -1,0 +1,604 @@
+{
+"columns":[
+	{
+		"name": "SR_01_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Voilà trois ans que le Jeu ayant attiré l'attention du Plan supérieur s'est déroulé. Les observations sont toujours en cours, mais depuis l'UG, il semble qu'une nouvelle catastrophe va se produire à Shibuya.<BR><BR>Je ne peux intervenir directement dans le Jeu cette fois-ci. Je vais devoir me contenter de documenter l'évolution du RG et de l'UG dans ce rapport."
+	},
+	{
+		"name": "SR_01_2",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Exécuteur s'est infiltré dans Shibuya il y a trois ans. Avec l'aide du Compositeur de Shibuya, cet Ange de Shinjuku a lancé une Partie illicite qui a entraîné la destruction de sa ville natale.<BR><BR>Il aurait dû être réprimandé dès son arrivée, mais les élites ont curieusement fermé les yeux sur ses actes. Probablement parce que la majorité des habitants du Plan supérieur reste opposée à l'impurification de la ville."
+	},
+	{
+		"name": "SR_01_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette Partie ressemble à cette impurification, surtout parce qu'elle repose sur un ensemble de circonstances atténuantes permettant de la maintenir en équilibre :<BR><BR>1) un conflit découlant d'une divergence d'opinions quant à la destruction de Shibuya ;<BR>2) l'absence du Compositeur ;<BR>3) l'intervention de deux mandataires dans la Partie ;<BR>4) l'ingérence directe de l'Exécuteur."
+	},
+	{
+		"name": "SR_01_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ni l'Exécuteur, qui souhaite purifier Shibuya par la destruction, ni le Compositeur, qui a empêché cette destruction jusqu'à maintenant, n'a le droit d'intervenir directement dans l'UG. Pour ce faire, ils doivent faire appel à un mandataire.<BR><BR>Celui de l'Exécuteur pour cette Partie est le Chef d'orchestre Shiba Miyakaze, et celui du Compositeur est Rindo Kanade, un Joueur humain."
+	},
+	{
+		"name": "SR_01_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba Miyakaze sera ci-après nommé<NBSP>« Chef d'orchestre », et Rindo Kanade sera nommé<NBSP>« mandataire ».<BR><BR>D'autre part, Sho Minamimoto, Reaper déchu, est sorti de son silence pour se manifester de nouveau. La présence du mandataire a dû motiver sa réapparition. D'autre part, je ressens les mêmes ondes qu'émettait Shinjuku peu de temps avant sa purification. Elles demeurent faibles, mais je tâcherai de les surveiller."
+	},
+	{
+		"name": "SR_02_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Comme cette Partie substitue un mandataire au Compositeur, elle se retrouve lourdement bouleversée, notamment par les règles loufoques instaurées par le Chef d'orchestre.<BR><BR>On peut par exemple citer la formation d'équipes de Joueurs, règle probablement héritée de Shinjuku."
+	},
+	{
+		"name": "SR_02_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce système voit les différentes équipes s'affronter chaque semaine pour obtenir le plus de points. À la fin de la semaine, celle qui en a obtenu le plus décide de rejouer ou d'arrêter.<BR><BR>Si elle arrête, elle peut retourner dans le RG. Pourtant, seul le Compositeur peut renvoyer les Joueurs là-bas. Le Chef d'orchestre n'a en aucun cas le droit d'imposer cette règle, et ne dispose pas des compétences pour l'exécuter."
+	},
+	{
+		"name": "SR_02_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Il est donc dans son intérêt que l'équipe victorieuse ne souhaite jamais quitter le Jeu. Ainsi, il est de connivence avec une équipe qui décide toujours de rejouer : les Ruinbringers."
+	},
+	{
+		"name": "SR_02_4",
+		"speaker": "",
+		"listener": "",
+		"content": "La valeur de chaque équipe se mesure par son score. Si elle perd, ce sont tous ses membres qui perdent.<BR><BR>Il est impossible de déterminer le moment exact où ces règles ont été implémentées à Shinjuku, mais dans tous les cas, elles ont pour but d'éliminer purement et simplement les Joueurs, ce qui est contraire aux valeurs du Jeu."
+	},
+	{
+		"name": "SR_03_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Un nouveau Joueur a rejoint l'équipe du mandataire. Le Compositeur et moi-même, le Producteur, ne pouvons intervenir, mais Shibuya a ses chances de s'en sortir grâce à Minamimoto et cette nouvelle recrue.<BR><BR>Cette dernière, Nagi Usui, est à la fois ouverte d'esprit et refermée sur elle-même. Sa nature, aux antipodes de celle de Tosai Furesawa, assure un équilibre intéressant. Une grande variété de personnalités et de capacités devrait profiter à leur équipe."
+	},
+	{
+		"name": "SR_03_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Le mandataire use déjà abondamment et aisément de ses pouvoirs. Jamais je n'aurais imaginé qu'on puisse posséder une capacité latente aussi puissante.<BR><BR>Ces pouvoirs sont uniques à chacun et sont révélés par les ondes d'accord. Ces ondes, provenant du Plan supérieur, atteignent le cœur de chaque Âme et se transforment en pouvoirs latents. D'ailleurs, il s'agit des mêmes ondes utilisées pour se déplacer d'un plan à l'autre."
+	},
+	{
+		"name": "SR_03_3",
+		"speaker": "",
+		"listener": "",
+		"content": "L'apparition successive de Joueurs possédant des pouvoirs latents est tout à fait inhabituelle. J'ai le sentiment que les badges disséminés dans le RG contenaient des ondes afin de localiser ces individus, et plus ces badges circulent, plus les chances de trouver de nouveaux Joueurs prometteurs augmentent.<BR><BR>Toutefois, le pouvoir du mandataire représente une déviation significative des pouvoirs latents habituels."
+	},
+	{
+		"name": "SR_03_4",
+		"speaker": "",
+		"listener": "",
+		"content": "C'est un pouvoir bien trop dangereux. Si j'avais pu, j'aurais fait en sorte qu'il demeure latent. Il en va de la stabilité de l'UG et du RG. Il a le potentiel de déformer, voire de briser le code des plans inférieurs.<BR><BR>C'est à se demander si c'est la raison pour laquelle le Compositeur a choisi ce mandataire en particulier."
+	},
+	{
+		"name": "SR_04_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Quel est précisément le but du Jeu des Reapers ? Revenons sur ce sujet.<BR><BR>Le but du Jeu est de localiser des individus exceptionnels. Les Joueurs possédant une Imagination puissante auront la possibilité d'accéder au Plan supérieur en tant que Reaper ou Ange afin de contribuer au maintien de l'ordre de leur ville."
+	},
+	{
+		"name": "SR_04_2",
+		"speaker": "",
+		"listener": "",
+		"content": "L'UG est situé sur un plan supérieur par rapport au RG. On peut le comparer à l'au-delà : lorsque la mort a lieu dans le RG, l'Âme est modulée et transférée vers l'UG.<BR><BR>Cependant, le mandataire et ses coéquipiers ont rejoint l'UG sans modulation. Ils se sont déjà rendu compte que quelque chose ne tournait pas rond, à la fois pour eux, mais aussi pour les Ruinbringers."
+	},
+	{
+		"name": "SR_04_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Reapers devraient lutter, tout comme les Joueurs, mais la hiérarchie interne de Shibuya est au point mort.<BR><BR>Il y a trois ans, le Compositeur et le Chef d'orchestre de Shibuya ont lancé une Partie afin de déterminer l'avenir de la ville. L'appellation<NBSP>« l'impurification de Shibuya » désigne les événements qui en découlèrent. La paralysie hiérarchique s'explique sûrement par l'opposition massive à cette impurification."
+	},
+	{
+		"name": "SR_04_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Aujourd'hui, vers la fin de la journée, j'ai senti la présence de nouvelles ondes dans l'UG.<BR><BR>Ces badges semblent avoir encore éveillé de nouveaux pouvoirs chez un individu avant de les moduler pour lui permettre d'entrer dans l'UG, comme le mandataire.<BR><BR>Il s'agit d'ailleurs d'un individu que le Compositeur et moi-même connaissons bien."
+	},
+	{
+		"name": "SR_05_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Le<NBSP>« Tabassage piéton », une guerre de territoires, vient d'être lancé.<BR><BR>Les Ruinbringers ont décidé de ne pas concourir. Heureusement d'ailleurs, car ils auraient sans doute gagné, ce qui aurait entraîné une chute du moral chez tous les autres participants. Je pense que cette farce a pour seul but de divertir le Chef d'orchestre, car elle force les Joueurs à s'en prendre aux autres équipes, plutôt qu'aux Échos."
+	},
+	{
+		"name": "SR_05_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette semaine se déroule la 104e Partie du Chef d'orchestre actuel. La Deep Rivers Society, les Variabeauties et les Purehearts en ont chacun subi au moins une trentaine. Ils semblent tous particulièrement démoralisés, probablement parce qu'ils se rendent compte qu'il est impossible de l'emporter face aux Ruinbringers.<BR><BR>Cet état d'esprit impacte lourdement le bien-être des Joueurs."
+	},
+	{
+		"name": "SR_05_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Même si l'équipe du mandataire parvient à éviter la dernière place, il est très peu probable qu'elle puisse surpasser les Ruinbringers et arriver première. Néanmoins, tout est possible dans ce Jeu. Je ne suis pas à l'abri d'une surprise.<BR><BR>Minamimoto a remarqué les pouvoirs du mandataire. J'ai l'impression qu'il a une idée derrière la tête."
+	},
+	{
+		"name": "SR_06_1",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Âme du mandataire a entamé une transformation. Contre toute attente, elle semble s'orienter vers la stagnation plutôt que le développement. Un peu comme si la portée de ses ondes se réduisait.<BR><BR>À mon avis, tout ceci provient de sa propension à accepter les opinions et les valeurs d'autrui, allant jusqu'à les prendre pour les siennes. Le pire, c'est que ce procédé est inconscient : il ne s'en rendra peut-être jamais compte."
+	},
+	{
+		"name": "SR_06_2",
+		"speaker": "",
+		"listener": "",
+		"content": "En temps normal, les Joueurs qui intègrent le Jeu de Shibuya paient un droit d'entrée à leur arrivée, grâce auquel le Compositeur leur offre une chance de se remettre en question. En revanche, ce Jeu n'a pas de droit d'entrée.<BR><BR>Les règles de Shinjuku n'encouragent ni ne permettent l'épanouissement ou le développement personnel, ce qui fait du Jeu une simple compétition visant à accumuler des points pour prouver sa valeur."
+	},
+	{
+		"name": "SR_06_3",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Âme stagnante du mandataire est un atout idéal dans l'utilisation de ses pouvoirs latents. Il est ainsi capable de produire des niveaux d'Imagination anormalement élevés, ce qui améliore grandement la fidélité de ses Recommencements.<BR><BR>Les coïncidences sont nombreuses et opportunes. J'espère simplement que je tire des conclusions un peu trop hâtives."
+	},
+	{
+		"name": "SR_07_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Conformément aux règles du Jeu, la Deep Rivers Society vient d'être effacée. L'Âme de tous ses membres, y compris celle du meneur, ont disparu.<BR><BR>Leur effacement va à l'encontre des valeurs du Jeu : évaluer les capacités individuelles. Mais au vu des intentions du Chef d'orchestre, ce n'est pas si surprenant. Les ondes du mandataire ont encore diminué après avoir assisté à cet effacement. Son recul émotionnel grandissant risque de poser problème."
+	},
+	{
+		"name": "SR_07_2",
+		"speaker": "",
+		"listener": "",
+		"content": "L'individu qui s'est montré lors de l'instant de détresse du mandataire est bel et bien à l'origine des ondes que j'ai détectées récemment.<BR><BR>De toute évidence, le Compositeur n'a rien à voir avec l'apparition spontanée de notre vieil ami. Contrairement à l'Exécuteur, infatigable et frénétique, le Compositeur semble attendre son heure."
+	},
+	{
+		"name": "SR_07_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Bien que je ne puisse entrer en contact avec lui pour l'affirmer, je crois que le retour de ce personnage est bénéfique pour Shibuya.<BR><BR>D'autre part, Minamimoto a totalement abandonné le mandataire. Son sigle d'épuration d'Échos amplifie largement son Imagination, ce qui explique sûrement le fait qu'il ait repéré les capacités du mandataire si rapidement."
+	},
+	{
+		"name": "SR_07_4",
+		"speaker": "",
+		"listener": "",
+		"content": "J'ai ma petite idée sur ce qu'il a en tête. Je sais que c'est dangereux, mais je ne peux pas intervenir.<BR><BR>Au passage, le sigle d'épuration des Échos n'est qu'une simple reproduction, et l'œuvre d'un Reaper. Sa conformité, ou plutôt l'absence de celle-ci a peut-être joué dans le changement subtil observé chez les vibrations élémentaires de Minamimoto."
+	},
+	{
+		"name": "SR_08_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Quatre équipes demeurent dans la course : les Ruinbringers, les Purehearts, les Variabeauties et les Wicked Twisters. Une seule parviendra à remporter la victoire.<BR><BR>Par chance, le Jeu touche bientôt à sa fin."
+	},
+	{
+		"name": "SR_08_2",
+		"speaker": "",
+		"listener": "",
+		"content": "D'après les règles de Shinjuku, les capacités des nouveaux Joueurs doivent être supérieures à l'Imagination moyenne de tous ceux déjà en Jeu.<BR><BR>Au fil des semaines et des éliminations d'équipes inférieures, la moyenne augmente, ce qui rend l'arrivée de nouveaux Joueurs de plus en plus difficile."
+	},
+	{
+		"name": "SR_08_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Après l'effacement de la Deep Rivers Society et la démonstration impressionnante des Wicked Twisters, l'Imagination moyenne est montée en flèche.<BR><BR>Désormais, seuls des individus exceptionnellement puissants pourront rejoindre la Partie.<BR><BR>On peut donc affirmer avec quasi-certitude qu'une autre arrivée n'est à prévoir."
+	},
+	{
+		"name": "SR_08_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Jeu tiendra au plus deux semaines. Cependant, le Chef d'orchestre n'a toujours pas contacté le Compositeur. Peut-être ignore-t-il le protocole de purification du Plan supérieur ?<BR><BR>Si tout se déroule comme prévu, il remportera cette Partie."
+	},
+	{
+		"name": "SR_09_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Notre nouvel arrivant a rejoint l'équipe du mandataire, reprenant le poste tout juste délaissé par Minamimoto.<BR><BR>Daisukenojo Bito, couramment appelé Beat, était l'un des Joueurs dans la Partie qui a entraîné l'impurification de Shibuya. Il est doté d'une force, d'une Âme et d'une Imagination remarquables. Le mandataire trouvera en lui un allié de choix."
+	},
+	{
+		"name": "SR_09_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Malgré tout, l'Âme du mandataire poursuit sa stagnation. Il serait même plus juste de dire qu'elle stagne davantage.<BR><BR>J'ai ressenti ce même bouleversement lorsque Minamimoto a rejoint l'équipe il y a huit jours.<BR><BR>À cause de l'immaturité fondamentale du mandataire, son élévation risque dêtre compliquée, contrairement à celle de Neku lors de l'impurification."
+	},
+	{
+		"name": "SR_09_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Le mandataire a réalisé un autre Recommencement, aujourd'hui. La recrudescence des distorsions interplans qu'il a provoquées indique la probabilité d'un accroissement exponentiel s'il continue à faire usage de son pouvoir.<BR><BR>Mais le badge du mandataire absorbe ces distorsions, ce qui pour l'instant épargne l'UG et les plans inférieurs de tout désagrément."
+	},
+	{
+		"name": "SR_10_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Tous les Reapers présents à Shibuya, Chef d'orchestre inclus, sont les<NBSP>« Reapers de Shibuya », mais les conflits incessants ont entraîné une différenciation avec les<NBSP>« Reapers de Shinjuku ».<BR><BR>L'Inversion de cette ville trois ans plus tôt a déclenché sa purification, forçant ses Reapers à fuir vers Shibuya. L'Inversion a lieu lorsque la frontière entre l'UG et le RG se désintègre, ce qui engendre une purification."
+	},
+	{
+		"name": "SR_10_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Elle se produit quand le Compositeur et le Chef d'orchestre ne trouvent pas d'accord sur la purification, ce qui est extrêmement rare.<BR><BR>Un Reaper n'a pas besoin de l'autorisation du Compositeur pour travailler ailleurs. Il lui faut en revanche celle du Chef d'orchestre.<BR><BR>Dans notre cas, le Chef d'orchestre temporaire de Shibuya avait à l'époque autorisé le transfert de tous les Reapers de Shinjuku."
+	},
+	{
+		"name": "SR_10_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Je n'ai encore repéré ni signe ni onde du Chef d'orchestre de Shinjuku. Je pense qu'il a disparu avec sa cité.<BR><BR>Lorsqu'une purification est amorcée, le Chef d'orchestre est convié à rejoindre le Plan supérieur. Il semblerait qu'un tel transfert de personnel après la disparition d'un Chef d'orchestre n'ait jamais eu lieu auparavant.<BR><BR>Enfin, il semblerait..."
+	},
+	{
+		"name": "SR_10_4",
+		"speaker": "",
+		"listener": "",
+		"content": "À l'issue de longues recherches, j'ai recensé quatre cas similaires, dans lesquels la zone affectée avait perdu tout équilibre avant sa purification. Parmi eux figure l'impurification de Shibuya.<BR><BR>Le Compositeur devrait établir un rapport sur les circonstances ayant mené à la purification de Shinjuku d'ici peu. Mais je ne m'attends pas à un travail consciencieux, étant donné son mépris pour les plans inférieurs."
+	},
+	{
+		"name": "SR_10_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Compositeur de Shibuya approuvant tacitement les actes des Reapers de Shinjuku, ceux de sa propre ville ne peuvent que se plier aux règles.<BR><BR>En dépit des circonstances, Shiba Miyakaze est bel et bien devenu le Chef d'orchestre de la plus légitime des manières, puisque ce rôle lui a été attribué par ses pairs."
+	},
+	{
+		"name": "SR_11_1",
+		"speaker": "",
+		"listener": "",
+		"content": "L'agitation s'empare peu à peu des meneurs des équipes adverses, mais la santé mentale du mandataire est loin d'être au beau fixe. Espérons qu'il tiendra jusqu'à la fin de la semaine.<BR><BR>Le Groove élémentaire de son équipe est au plus bas. Étant donné le système en place, cette baisse flagrante risque d'avoir des effets néfastes sur l'issue de la Partie."
+	},
+	{
+		"name": "SR_11_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Le RNS est un réseau créé spécifiquement pour ce Jeu. Grâce à lui, il est très simple de mesurer les ondes et l'Imagination des Joueurs comme des Reapers.<BR><BR>Cependant, en rendant l'information visuelle, cela signifie qu'elle peut être également lue depuis le RG."
+	},
+	{
+		"name": "SR_11_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tout individu ayant connaissance de l'existence de l'UG et des systèmes de piratage de réseaux pourrait tomber dessus. Aucune modulation n'est requise pour communiquer ainsi d'un plan à l'autre, bien que des effets indésirables risquent de se produire.<BR><BR>Communiquer à travers le réseau pourrait inhiber l'Imagination, car il est impossible de capturer l'essence et l'Imagination qui se cachent derrière une œuvre d'art sur un écran."
+	},
+	{
+		"name": "SR_11_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Si jamais un jour je reprends mes activités en tant que CAT, je prêterai particulièrement attention à la représentation de mes œuvres dans le monde virtuel et je modifierai mes moyens d'expression pour m'y adapter.<BR><BR>Je demanderai conseil au développeur du RNS."
+	},
+	{
+		"name": "SR_12_1",
+		"speaker": "",
+		"listener": "",
+		"content": "L'état mental du mandataire s'est amélioré, tout comme les relations entre les membres de son équipe. C'est une bonne nouvelle.<BR><BR>En revanche, son Âme est toujours aussi stagnante.<BR><BR>Je n'ai pas pu analyser l'étendue de ce problème, car je suis toujours dans l'incapacité d'agir. Je ne peux qu'observer et croiser les doigts."
+	},
+	{
+		"name": "SR_12_2",
+		"speaker": "",
+		"listener": "",
+		"content": "D'après les règles de Shinjuku, les Reapers possèdent un champ d'action limité. Ils ne peuvent pas entraver la progression des Joueurs.<BR><BR>Cette tâche repose sur les autres Joueurs, autrement dit, les équipes adverses. Ainsi, pour atteindre la première place, il faut s'en prendre aux premiers : les Ruinbringers."
+	},
+	{
+		"name": "SR_12_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Le mandataire et son équipe semblent avoir adopté une toute différente stratégie contre les Ruinbringers. Reste à voir si leur approche va à l'encontre des règles en place ou non.<BR><BR>Je doute que le Chef d'orchestre se contente de les regarder faire ce qui leur plaît sans riposter. S'il se retrouve contraint à agir, la Partie se terminera soit de la meilleure des manières, soit en cauchemar."
+	},
+	{
+		"name": "SR_12_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Comme mentionné précédemment, les Reapers n'ont pas le droit d'interférer avec le Jeu. Pourtant, c'est exactement ce qu'une Reaper est en train de faire.<BR><BR>Elle perdra très probablement son statut, ce qui la placera dans une délicate posture à la fin de la Partie."
+	},
+	{
+		"name": "SR_13_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Le meneur des Purehearts, un certain Motoi Anazawa, est en danger.<BR><BR>Durant sa vie, le mandataire était un de ses admirateurs dévoués. S'il se fait effacer, le mandataire risque d'en être perturbé, bien que j'ignore dans quelle mesure."
+	},
+	{
+		"name": "SR_13_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La communication en ligne apporte son lot de bonnes et mauvaises conséquences, tout comme les discussions physiques. Malgré tout, l'anonymat et l'opacité qu'apporte le virtuel peut plus aisément induire en erreur ses participants.<BR><BR>Le mandataire a dû subir un choc conséquent lorsqu'il a découvert la véritable nature que dissimulait Motoi Anazawa, nature qui lui était invisible en ligne."
+	},
+	{
+		"name": "SR_13_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Comme je l'avais imaginé, Shoka Sakurane a perdu son statut de Reaper. En guise de punition pour être intervenue dans la Partie, elle fait désormais partie des Joueurs.<BR><BR>Les comptes RNS des Reapers sont très peu limités. Ils peuvent par exemple interagir avec le RG tant qu'ils ne révèlent pas leur identité. Mais en cas de perte de poste, leur compte est supprimé et ils obtiennent à la place un compte de Joueur."
+	},
+	{
+		"name": "SR_13_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Maintenant que son compte est désactivé, Shoka Sakurane ne peut plus interagir avec le mandataire sous son alias, à moins qu'elle ne décide de lui avouer la vérité.<BR><BR>Jusqu'à présent, son assistance a été uniquement apportée par message, mais maintenant que cette option n'est plus envisageable, elle va devoir adopter une nouvelle stratégie."
+	},
+	{
+		"name": "SR_14_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Chef d'orchestre a fait part de ses intentions aux Joueurs. Pourtant, il lui est impossible de détruire Shibuya seul, en tant que Chef d'orchestre, mais il pense être également l'Exécuteur, envoyé depuis le Plan supérieur afin de purifier la ville.<BR><BR>Les Purehearts ont été effacés, sans surprise. Sans compter les Ruinbringers, il ne reste plus que deux équipes."
+	},
+	{
+		"name": "SR_14_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Maintenant que la véritable nature des Ruinbringers est révélée au grand jour, il est très probable que les règles de la prochaine Partie changent, afin d'opposer les Joueurs restants aux Reapers.<BR><BR>J'ai repéré des ondes singulières émanant d'un objet inanimé. J'ai été quelque peu surpris de découvrir qu'il s'agissait d'une vieille peluche, mais en réalité, elle héberge une Âme perturbée."
+	},
+	{
+		"name": "SR_14_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Chef d'orchestre de Shinjuku a épargné cette Âme, au prix de son propre effacement.<BR><BR>Pour la libérer il faudra la puissance d'un Ange, mais je n'ai toujours pas observé un seul signe de la part du Compositeur. Quant à moi, je ne peux intervenir.<BR><BR>Je doute que l'Exécuteur soit enclin à l'aider, étant donné qu'il est sûrement responsable de son emprisonnement."
+	},
+	{
+		"name": "SR_14_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Notre choix se limite à conserver l'Âme ainsi ou à trouver quelqu'un capable de la libérer. Je pense que la créatrice de cette peluche, une Joueuse étant parvenue à rejoindre le RG il y a trois ans, pourrait apporter son aide.<BR><BR>Malheureusement, elle n'est actuellement pas à Shibuya."
+	},
+	{
+		"name": "SR_15_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les règles du Jeu ont changé du tout au tout. Désormais, les Joueurs, les Reapers et même le Chef d'orchestre peuvent effacer leurs adversaires vaincus.<BR><BR>En parallèle, Shiba a déployé une tactique inattendue contre Shibuya.<BR><BR>Une Inversion vient d'être amorcée."
+	},
+	{
+		"name": "SR_15_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos libérés par le Chef d'orchestre ont perturbé le code de toute la ville. Les plans inférieurs, y compris le RG et l'UG, sont très instables.<BR><BR>Le code regroupe un ensemble de propriétés qui lient toutes les Âmes existantes entre elles, comme de boulons qui maintiendraient une structure debout."
+	},
+	{
+		"name": "SR_15_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Malheureusement, certains boulons de Shibuya se desserrent, et d'autres sont même dévissés, laissant la ville au bord de l'effondrement. L'équilibre de la ville est donc plus que précaire.<BR><BR>La détérioration de la frontière entre le RG et l'UG est accélérée par la démultiplication exponentielle des Échos. Si elle vient à disparaître, la ville sera ravagée avant d'être ensuite purifiée."
+	},
+	{
+		"name": "SR_15_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Au sein du Plan supérieur, nombreux considèrent que la purification normale n'a aucun sens, puisqu'elle maintient la structure planaire existante. Néanmoins, tout le monde croit que l'Inversion n'est pas une solution, puisqu'elle entraîne l'aliénation totale de la zone lors de la destruction et de la reconstruction de son cadre.<BR><BR>Malgré le danger que court Shibuya, le même qu'a subi Shinjuku auparavant, le Compositeur reste en retrait."
+	},
+	{
+		"name": "SR_15_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Même si Shibuya a profondément changé, l'état mental du mandataire reste étonnamment stable. Peut-être parce qu'il est en plein développement personnel depuis qu'il a pleinement conscience de la situation dans laquelle il se trouve, et les responsabilités qui lui incombent.<BR><BR>Shoka Sakurane a rejoint son équipe. Elle est une alliée bienvenue grâce à ses pouvoirs exceptionnels."
+	},
+	{
+		"name": "SR_16_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Reaper de Shinjuku vient d'être effacé. On dirait que le Chef d'orchestre s'y attendait.<BR><BR>Les Anges émettent des ondes assez puissantes pour altérer les esprits des êtres des plans inférieurs. D'ailleurs, de nombreux Reapers de Shinjuku ont décelé le changement de personnalité de Shiba Miyakaze.<BR><BR>Je suis curieux de voir sa réaction lorsqu'il aura retrouvé ses esprits, une fois l'Exécuteur parti."
+	},
+	{
+		"name": "SR_16_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Le mandataire a déjà eu recours au Recommencement huit fois. À chaque fois, son badge a absorbé les distorsions interplans tout en changeant légèrement d'apparence. Pour l'instant, aucun effet indésirable ne s'est manifesté.<BR><BR>Cependant, ce changement d'apparence me préoccupe. Il pourrait indiquer que ce badge diffère fondamentalement des autres."
+	},
+	{
+		"name": "SR_16_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Finalement, le Recommencement n'est peut-être pas une capacité latente. Ses effets sont extrêmement puissants, semblables à un don octroyé au mandataire à l'aide de son badge de Joueur.<BR><BR>Il a très probablement été façonné par l'Exécuteur. En tant qu'Ange, il est capable d'en créer à volonté."
+	},
+	{
+		"name": "SR_16_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Difficile de déterminer dans quelles circonstances le mandataire a obtenu son badge. Il l'a certainement reçu le jour où il a rejoint l'UG.<BR><BR>Tout ce que je sais avec certitude, c'est que plusieurs facteurs pouvant influencer le destin du mandataire étaient en jeu ce jour-là.<BR><BR>Dans tous les cas, donner un tel badge au mandataire du Compositeur s'avère soit audacieux, soit inconscient."
+	},
+	{
+		"name": "SR_17_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Variabeauties ont été effacés. C'est un coup dur pour l'équipe du mandataire : Kanon Tachibana était un soutien émotionnel capital pour eux.<BR><BR>L'Âme de Tosai Furesawa est particulièrement bouleversée, même s'il tente de le dissimuler par tous les moyens possibles."
+	},
+	{
+		"name": "SR_17_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Il est difficile de se détacher de certaines convictions, surtout lorsqu'elles ont prouvé leur utilité par le passé. Souvent, cette situation provoque peine et amertume.<BR><BR>Reste à savoir combien de temps Tosai Furesawa va pouvoir contenir ces émotions. La réponse va dépendre lourdement du mandataire et de ses coéquipiers."
+	},
+	{
+		"name": "SR_17_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Mais l'heure n'est pas aux spéculations.<BR><BR>Il s'agit de la dernière équipe en lice.<BR><BR>Le Chef d'orchestre est obsédé par l'état instable de celle-ci. Je dirais même que ses ennemis le fascinent beaucoup plus que le Jeu lui-même. D'ici quelque temps, il est d'ailleurs possible qu'il accepte de se joindre au mandataire."
+	},
+	{
+		"name": "SR_17_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Maintenant que le plan du Chef d'orchestre a été révélé, tous les Reapers, et plus particulièrement ceux de Shibuya, vont devoir choisir un camp.<BR><BR>Certains me connaissant tentent de me contacter, mais je ne peux pas leur répondre.<BR><BR>Les Reapers de Shibuya sont livrés à eux-mêmes. S'ils veulent s'en tirer, ils vont devoir s'adapter."
+	},
+	{
+		"name": "SR_17_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Mon ancien café sur Cat Street, mon Q.G. de l'époque, leur est grand ouvert. Il paraît d'ailleurs que certains s'y rendent de temps à autre.<BR><BR>D'autre part, les faibles ondes que je ressentais à Shinjuku ont recouvré leur pleine puissance. Elles présagent l'arrivée d'un individu. Un individu qui fera basculer le destin de Shibuya."
+	},
+	{
+		"name": "SR_18_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba est de retour à Shibuya. Les ondes que j'ai ressenties il y a dix-sept jours étaient bel et bien les siennes.<BR><BR>Depuis qu'ils sont la seule équipe en Jeu, les Wicked Twisters se sont unis plus que jamais, mais c'est Daisukenojo Bito qui semble vouloir porter à lui seul toute son équipe sur les épaules."
+	},
+	{
+		"name": "SR_18_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Loin de moi l'envie d'insinuer que ses actes envers Minamimoto étaient imprudents, néanmoins, si Neku n'était pas intervenu, ce Reaper déchu aurait eu raison de lui.<BR><BR>C'est toute l'équipe qui a frôlé de peu la catastrophe. Espérons qu'ils continuent sur leur lancée."
+	},
+	{
+		"name": "SR_18_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Lorsque Minamimoto s'est transformé en une sorte d'Écho en furie, il concentrait ses efforts uniquement sur les distorsions interplans. Même s'il ne peut pas mesurer avec précision les distorsions de l'UG, il peut tout de même les ressentir, ce qui est déjà très impressionnant.<BR><BR>Je crois d'ailleurs qu'il le sait. De plus, il commence à prendre conscience de ses propres distorsions, qui ne peuvent être détectées depuis l'UG."
+	},
+	{
+		"name": "SR_18_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto soutiendrait-il la même hypothèse que moi ?<BR><BR>Le Recommencement est trop puissant pour être une simple capacité révélée par un être du plan inférieur.<BR><BR>Je commence à voir clair dans la stratégie de l'Exécuteur."
+	},
+	{
+		"name": "SR_18_5",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Âme du mandataire me préoccupe toujours autant.<BR><BR>Alors qu'elle semblait se dissiper, la stagnation est revenue de plus belle. La cause doit se trouver dans son environnement : sa peur de Minamimoto, ou son incertitude vis-à-vis de Neku pourraient être une explication."
+	},
+	{
+		"name": "SR_19_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba s'est allié au mandataire. Le Compositeur l'avait transféré à Shinjuku lors de la purification, sûrement pour maintenir la situation sous contrôle, mais aussi pour l'isoler de ceux qui pourraient s'en prendre à lui en raison de ses capacités.<BR><BR>L'Âme du mandataire demeure stagnante, et je n'en ai toujours pas identifié la cause. Tout serait bien plus simple si je pouvais parler de vive voix avec lui."
+	},
+	{
+		"name": "SR_19_2",
+		"speaker": "",
+		"listener": "",
+		"content": "À force de relances appuyées, j'ai enfin le rapport de la purification de Shinjuku. En apparence, un différend entre les Reapers et le Chef d'orchestre s'est produit lors de la Partie. Mais en vérité, le Compositeur, désireux de purifier Shinjuku, a dissimulé l'Exécuteur parmi les Reapers afin de les convaincre d'éliminer le Chef d'orchestre.<BR><BR>Cela explique l'effacement du Chef d'orchestre a été effacé et pourquoi le transfert des Reapers."
+	},
+	{
+		"name": "SR_19_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi Matsunae était sur le point de démasquer l'Exécuteur, alors il a scellé son Âme par mesure de précaution. Il lui a même retiré le statut de Reaper lorsqu'elle s'est alliée à son frère aîné, le Chef d'orchestre de Shinjuku.<BR><BR>Là-bas, un Reaper déchu est condamné à l'effacement. Mais se sachant vaincu, le Chef d'orchestre a sacrifié ses dernières forces pour sauver l'Âme de sa sœur grâce à une peluche."
+	},
+	{
+		"name": "SR_19_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet objet appartenait à une certaine Shiki Misaki. Un Reaper de Shibuya a dû l'apporter à Shinjuku.<BR><BR>Par conséquent, Tsugumi Matsunae fut la seule rescapée de la purification de Shinjuku. Elle a retrouvé son statut de Reaper, mais elle demeure emprisonnée, sous l'œil vigilant de l'Exécuteur."
+	},
+	{
+		"name": "SR_19_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Son Âme étant détenue par un Écho, elle a donc agi sans aucun libre arbitre. Cependant, elle est parvenue à communiquer avec le mandataire grâce à sa capacité latente de Vision.<BR><BR>L'Écho qui la gardait a désormais disparu. Si la peluche qui contient son Âme peut être rapiécée, elle sera de nouveau libre."
+	},
+	{
+		"name": "SR_20_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La rivière de Shibuya est un lieu particulier, même aux yeux de ceux du Plan supérieur. Puisant sa source à Shinjuku, elle aurait dû disparaître au moment de la purification. Pourtant, elle continue de couler mystérieusement sur son propre plan.<BR><BR>C'est l'endroit idéal pour héberger des Âmes et leur épargner la purification."
+	},
+	{
+		"name": "SR_20_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaichi Susuki adorait le Jeu, et tenait à tous les Reapers de Shinjuku plus que quiconque. Ses actes parlent d'eux-mêmes.<BR><BR>La plupart de ces Reapers sont restés soudés grâce à leur expérience à Shinjuku. J'ignore quel genre de Reaper était Shiba Miyakaze avant d'être sous l'emprise de l'Exécuteur, mais d'après la dévotion inflexible de tous ces Reapers, il devait faire preuve d'un charisme hors du commun."
+	},
+	{
+		"name": "SR_20_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Il est pour l'heure impossible de savoir si Shiba Miyakaze sera libéré de l'influence de l'Exécuteur une fois la Partie terminée.<BR><BR>Mais s'il redevient lui-même, il devra malheureusement assumer la perte de ses amis par sa seule et unique faute."
+	},
+	{
+		"name": "SR_20_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba se méfie des pouvoirs du mandataire. Le badge absorbe sans broncher les distorsions... Cependant, il ne les détruit pas. Il y a probablement une bonne raison derrière tout ça.<BR><BR>Je suis curieux de savoir ce qu'en pense le Compositeur... Toujours aucun signe de vie de sa part. J'espère au moins qu'il a un plan. Seul le temps nous le dira."
+	},
+	{
+		"name": "SR_21_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les distorsions interplans provoquées par le Recommencement faisaient partie du plan de l'Exécuteur depuis le début. Elles lui permettront de purifier Shibuya. Le mandataire et ses coéquipiers se retrouvent dans une terrible situation.<BR><BR>La capacité à transformer les distorsions en Échos est inédite. C'est une capacité propre à l'Exécuteur, qui lui permet de créer des Échos ou d'hériter de pouvoirs similaires."
+	},
+	{
+		"name": "SR_21_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Les distorsions sont en fait des restes d'Âmes. Elles apparaissent lorsqu'une chronologie se soustrait à l'Histoire canonique, là où ces entités sont censées exister.<BR><BR>Le badge du mandataire absorbe ces distorsions nées de chronologies abandonnées, les poussant à agir comme leurs pensées sources et à créer de nouvelles distorsions. Ainsi, son badge, en emmagasinant les distorsions, les démultiplie à chaque voyage dans le temps."
+	},
+	{
+		"name": "SR_21_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Les oiseaux repérés par le mandataire sont de nouvelles distorsions produites par celles enfermées dans son badge sous une forme familière et pratique à regrouper.<BR><BR>En général, les Âmes ont besoin d'un catalyseur pour prendre forme. C'est un rôle qu'assume très probablement le badge de l'Exécuteur, générant à l'avance les Échos pour ensuite leur implanter l'Imagination des distorsions."
+	},
+	{
+		"name": "SR_21_4",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Exécuteur est très doué avec les Échos.<BR><BR>La forme aviaire des Échos est sans aucun doute transitoire, et changera à un moment donné.<BR><BR>Si cette forme est en perpétuelle évolution, le mandataire et ses compagnons vont au-devant d'un combat difficile.<BR><BR>Shibuya court un grave danger."
+	},
+	{
+		"name": "SR_22_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya vient d'accueillir un visiteur de marque, le Compositeur en personne doit en être surpris. C'est lui-même qui a rédigé le rapport sur l'Inversion de Shinjuku.<BR><BR>Que fait-il à Shibuya ? Il n'est sûrement pas là pour s'occuper de l'Exécuteur : il attendra la purification avant de régler ses éventuels problèmes avec Tanzo Kubo."
+	},
+	{
+		"name": "SR_22_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hazuki Mikagi, le Compositeur de Shinjuku, semble avoir éliminé les Échos de l'Exécuteur, offrant ainsi au mandataire une seconde chance. Je crois savoir pourquoi. Cet événement a dû sidérer le Compositeur de Shibuya."
+	},
+	{
+		"name": "SR_22_3",
+		"speaker": "",
+		"listener": "",
+		"content": "J'ai enfin trouvé la cause de la stagnation de l'Âme du mandataire : sa crainte des responsabilités.<BR><BR>Chaque allié imposant, comme Minamimoto, Daisukenojo Bito ou Neku Sakuraba, décidait de la ligne de conduite à suivre, lui permettant de laisser son esprit dans un état de végétation.<BR><BR>Ironie du sort : il a fallu l'intervention du Compositeur de Shinjuku pour que j'en vienne à cette conclusion."
+	},
+	{
+		"name": "SR_22_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya doit désormais son existence au Recommencement du mandataire, qui évite à chaque fois sa destruction.<BR><BR>C'est lui qui décide de remonter le temps ou non. Il en a le pouvoir.<BR><BR>La ville a évité la fin jusqu'alors, mais elle va devoir faire face à un danger inégalé. Personne ne pourra se dérober à ce qui nous attend."
+	},
+	{
+		"name": "SR_23_1",
+		"speaker": "",
+		"listener": "",
+		"content": "L'équipe du mandataire a affronté un Écho en forme d'oiseau géant. Il a pris forme à partir des Échos instables d'oiseaux noirs, d'abord détruits, puis reconstitués. Il s'agit d'une interférence claire du Compositeur de Shinjuku.<BR><BR>Grâce à lui, le mandataire et son équipe ont pu concentrer leurs efforts sur une seule et unique cible."
+	},
+	{
+		"name": "SR_23_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaque plume sur la queue du phénix symbolise la représentation karmique d'un retour temporel.<BR><BR>Il s'agit peut-être là d'une manifestation du conflit interne qui tiraille le Compositeur de Shinjuku : ses intentions de purifier Shibuya n'ont pas changé, pour autant, il semble s'attacher au mandataire et à ses coéquipiers."
+	},
+	{
+		"name": "SR_23_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Je pense que ses interférences (confronter l'Exécuteur, entrer en contact avec le mandataire et s'opposer aux distorsions) représentent bien plus que de simples excuses envers Shibuya.<BR><BR>C'était l'occasion idéale pour provoquer une réaction quelconque de la part du Compositeur de Shibuya.<BR><BR>Il n'est cependant pas tombé dans le piège, et demeure inactif."
+	},
+	{
+		"name": "SR_23_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Lorsque l'équipe du mandataire s'est synchronisée à l'Imagination de Shibuya, il leur est apparu, non pas pour les aider, mais pour stabiliser l'esprit de Neku Sakuraba en lui rappelant sa présence.<BR><BR>L'examen des ondes enregistrées par le RNS ne révèle aucune preuve d'une quelconque interférence extérieure. L'équipe du mandataire a vaincu le cantus phoenix grâce à sa propre force et à celle de Shibuya."
+	},
+	{
+		"name": "SR_24_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Maintenant que la Partie est terminée, j'ai enfin l'autorisation de contacter le Compositeur.<BR><BR>Plusieurs jours se sont écoulés depuis, ce qui lui a permis de s'occuper de deux tâches.<BR><BR>À commencer par Neku Sakuraba."
+	},
+	{
+		"name": "SR_24_2",
+		"speaker": "",
+		"listener": "",
+		"content": "À partir de l'échantillon d'un monde parallèle dans lequel Neku ne s'est jamais rendu à Shinjuku, mais a vécu trois ans dans le RG, le Compositeur a réussi à altérer l'espace et les souvenirs l'entourant, afin qu'il puisse rejoindre le RG sans soucis.<BR><BR>C'est une opération loin d'être extraordinaire : la démarche est la même lorsqu'on renvoie un Reaper dans le RG."
+	},
+	{
+		"name": "SR_24_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Il a ensuite fallu s'occuper du cas de Shoka Sakurane.<BR><BR>Son statut de Reaper perdu, son effacement à la fin de la Partie était inévitable. Pourtant, le Compositeur a réussi à épargner son Âme juste à temps. Elle a pu rejoindre Shibuya dans le RG.<BR><BR>Ce genre de geste altruiste est très rare de la part du Compositeur. Surtout qu'il est destiné au mandataire."
+	},
+	{
+		"name": "SR_24_4",
+		"speaker": "",
+		"listener": "",
+		"content": "D'ailleurs, le mandataire a pu reprendre le cours de sa vie dans le RG. Grâce à lui, j'ai beaucoup appris sur le réseau en tant que plan d'existence simulé, et ses effets sur les émotions humaines.<BR><BR>Il permet d'agrandir largement son univers personnel, c'est indéniable. Néanmoins, c'est à l'utilisateur d'explorer et d'expérimenter consciencieusement cet univers en expansion, sans quoi il ne s'agirait que d'une simulation sans intérêt."
+	},
+	{
+		"name": "SR_24_5",
+		"speaker": "",
+		"listener": "",
+		"content": "« Profiter de l'instant présent »...<NBSP>« Persévérer ». À travers son refus d'intervenir, le Compositeur voulait peut-être montrer à Shibuya l'importance d'accepter sa situation et de prendre son destin en main.<BR><BR>Une dernière note pour le mandataire, Rindo Kanade.<BR><BR>Ta décision était courageuse, et je t'en remercie. J'espère sincèrement pouvoir te rencontrer un jour."
+	}
+]
+}

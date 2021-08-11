@@ -1,0 +1,1672 @@
+{
+"columns":[
+	{
+		"name": "ITM_EQU_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Ausrüstung"
+	},
+	{
+		"name": "ITM_EQU_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Blumenhaarreif"
+	},
+	{
+		"name": "ITM_EQU_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleifenhaarreif"
+	},
+	{
+		"name": "ITM_EQU_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Topo-Kappe"
+	},
+	{
+		"name": "ITM_EQU_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Romantische Bluse"
+	},
+	{
+		"name": "ITM_EQU_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Flauschiger Pullover"
+	},
+	{
+		"name": "ITM_EQU_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Top o’ Topo-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Wallender Tüllrock"
+	},
+	{
+		"name": "ITM_EQU_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochwasserhosen"
+	},
+	{
+		"name": "ITM_EQU_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Geschmackvolles Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Marinekleid"
+	},
+	{
+		"name": "ITM_EQU_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Pumps mit Schleifen"
+	},
+	{
+		"name": "ITM_EQU_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Rüschensandalen"
+	},
+	{
+		"name": "ITM_EQU_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Bequeme Slipper"
+	},
+	{
+		"name": "ITM_EQU_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Tasche mit Schleife"
+	},
+	{
+		"name": "ITM_EQU_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlichte Tragetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Kuschelige Strickjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Luftiger Rock"
+	},
+	{
+		"name": "ITM_EQU_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Blumen-Haargummi"
+	},
+	{
+		"name": "ITM_EQU_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Funkelnde Jeanskappe"
+	},
+	{
+		"name": "ITM_EQU_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Hut mit Kuhprint"
+	},
+	{
+		"name": "ITM_EQU_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Riemenkappe mit Kuhprint"
+	},
+	{
+		"name": "ITM_EQU_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeansjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Düstere Strickjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Schulterfreies Top"
+	},
+	{
+		"name": "ITM_EQU_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Spitzen-Bustier"
+	},
+	{
+		"name": "ITM_EQU_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Fetzenjeans"
+	},
+	{
+		"name": "ITM_EQU_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Marmorprint-Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Leder-Minirock"
+	},
+	{
+		"name": "ITM_EQU_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Pinker Rüschenrock"
+	},
+	{
+		"name": "ITM_EQU_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Trendiger Zweiteiler"
+	},
+	{
+		"name": "ITM_EQU_Name_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Glitzernde Sandalen"
+	},
+	{
+		"name": "ITM_EQU_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Kniehohe Schnürstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Rote Stiefeletten"
+	},
+	{
+		"name": "ITM_EQU_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Lederschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Glitzernde Handyhülle"
+	},
+	{
+		"name": "ITM_EQU_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Künstliche pinke Fingernägel"
+	},
+	{
+		"name": "ITM_EQU_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Goldenes Feuerzeug"
+	},
+	{
+		"name": "ITM_EQU_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Rosa Sonnenbrille"
+	},
+	{
+		"name": "ITM_EQU_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Rotes Irokesenset"
+	},
+	{
+		"name": "ITM_EQU_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigerkappe mit Nieten"
+	},
+	{
+		"name": "ITM_EQU_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Lederkappe mit Nieten"
+	},
+	{
+		"name": "ITM_EQU_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiger-Irokesenset"
+	},
+	{
+		"name": "ITM_EQU_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Motorradjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Motorradjacke mit Aufnähern"
+	},
+	{
+		"name": "ITM_EQU_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Rote Motorradweste"
+	},
+	{
+		"name": "ITM_EQU_Name_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiger-Motorradweste"
+	},
+	{
+		"name": "ITM_EQU_Name_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Roter karierter Mantel"
+	},
+	{
+		"name": "ITM_EQU_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Weißes Leinenhemd"
+	},
+	{
+		"name": "ITM_EQU_Name_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Bondage-Hose"
+	},
+	{
+		"name": "ITM_EQU_Name_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Bondage-Hose mit Rock"
+	},
+	{
+		"name": "ITM_EQU_Name_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Bondage-Shorts"
+	},
+	{
+		"name": "ITM_EQU_Name_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Karierte Hose"
+	},
+	{
+		"name": "ITM_EQU_Name_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Nietenstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Weiße Leisetreter"
+	},
+	{
+		"name": "ITM_EQU_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiger-Leisetreter"
+	},
+	{
+		"name": "ITM_EQU_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Riemenstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Stachelarmband"
+	},
+	{
+		"name": "ITM_EQU_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Stachelhalsband"
+	},
+	{
+		"name": "ITM_EQU_Name_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Mini-Umhängetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigerrucksack"
+	},
+	{
+		"name": "ITM_EQU_Name_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Pfirsichblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleifenblume"
+	},
+	{
+		"name": "ITM_EQU_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuersalbei"
+	},
+	{
+		"name": "ITM_EQU_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Veilchen"
+	},
+	{
+		"name": "ITM_EQU_Name_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Lilie"
+	},
+	{
+		"name": "ITM_EQU_Name_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Gipskraut"
+	},
+	{
+		"name": "ITM_EQU_Name_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Calla"
+	},
+	{
+		"name": "ITM_EQU_Name_0407",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Kamelie"
+	},
+	{
+		"name": "ITM_EQU_Name_0408",
+		"speaker": "",
+		"listener": "",
+		"content": "Petunie"
+	},
+	{
+		"name": "ITM_EQU_Name_0409",
+		"speaker": "",
+		"listener": "",
+		"content": "Stockrose"
+	},
+	{
+		"name": "ITM_EQU_Name_0410",
+		"speaker": "",
+		"listener": "",
+		"content": "Klee"
+	},
+	{
+		"name": "ITM_EQU_Name_0411",
+		"speaker": "",
+		"listener": "",
+		"content": "Hyazinthe"
+	},
+	{
+		"name": "ITM_EQU_Name_0412",
+		"speaker": "",
+		"listener": "",
+		"content": "Ranunkel"
+	},
+	{
+		"name": "ITM_EQU_Name_0413",
+		"speaker": "",
+		"listener": "",
+		"content": "Blumenrohr"
+	},
+	{
+		"name": "ITM_EQU_Name_0414",
+		"speaker": "",
+		"listener": "",
+		"content": "Dahlie"
+	},
+	{
+		"name": "ITM_EQU_Name_0415",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Tollkirsche"
+	},
+	{
+		"name": "ITM_EQU_Name_0416",
+		"speaker": "",
+		"listener": "",
+		"content": "Bougainvillea"
+	},
+	{
+		"name": "ITM_EQU_Name_0417",
+		"speaker": "",
+		"listener": "",
+		"content": "Flamingoblume"
+	},
+	{
+		"name": "ITM_EQU_Name_0418",
+		"speaker": "",
+		"listener": "",
+		"content": "Pfingstrose"
+	},
+	{
+		"name": "ITM_EQU_Name_0419",
+		"speaker": "",
+		"listener": "",
+		"content": "Blaue Rose"
+	},
+	{
+		"name": "ITM_EQU_Name_0420",
+		"speaker": "",
+		"listener": "",
+		"content": "Minirose"
+	},
+	{
+		"name": "ITM_EQU_Name_0421",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Rose"
+	},
+	{
+		"name": "ITM_EQU_Name_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Rabenschwarze Blüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Stockrosenblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Kornblumenblaues Kopftuch"
+	},
+	{
+		"name": "ITM_EQU_Name_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Sakura auf Stroh"
+	},
+	{
+		"name": "ITM_EQU_Name_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Kobalt-Bishamon"
+	},
+	{
+		"name": "ITM_EQU_Name_0505",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Scharlachblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0506",
+		"speaker": "",
+		"listener": "",
+		"content": "Nuancierte Chrysantheme"
+	},
+	{
+		"name": "ITM_EQU_Name_0507",
+		"speaker": "",
+		"listener": "",
+		"content": "Lapislazuli-Chrysantheme"
+	},
+	{
+		"name": "ITM_EQU_Name_0508",
+		"speaker": "",
+		"listener": "",
+		"content": "Goldsperling"
+	},
+	{
+		"name": "ITM_EQU_Name_0509",
+		"speaker": "",
+		"listener": "",
+		"content": "Fließendes Indigo"
+	},
+	{
+		"name": "ITM_EQU_Name_0510",
+		"speaker": "",
+		"listener": "",
+		"content": "Fließendes Silber"
+	},
+	{
+		"name": "ITM_EQU_Name_0511",
+		"speaker": "",
+		"listener": "",
+		"content": "Porzellanblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0512",
+		"speaker": "",
+		"listener": "",
+		"content": "Violetter Ebenholz-Fingerhut"
+	},
+	{
+		"name": "ITM_EQU_Name_0513",
+		"speaker": "",
+		"listener": "",
+		"content": "Purpurrote Sandblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0514",
+		"speaker": "",
+		"listener": "",
+		"content": "Jungfernblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0515",
+		"speaker": "",
+		"listener": "",
+		"content": "Vergoldeter Bambus"
+	},
+	{
+		"name": "ITM_EQU_Name_0516",
+		"speaker": "",
+		"listener": "",
+		"content": "Flammenblüte"
+	},
+	{
+		"name": "ITM_EQU_Name_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Übergroße Mütze"
+	},
+	{
+		"name": "ITM_EQU_Name_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Leinenhaarband"
+	},
+	{
+		"name": "ITM_EQU_Name_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Türkis-Haarreif"
+	},
+	{
+		"name": "ITM_EQU_Name_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternatives T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternativer Pullover"
+	},
+	{
+		"name": "ITM_EQU_Name_0605",
+		"speaker": "",
+		"listener": "",
+		"content": "Poncho"
+	},
+	{
+		"name": "ITM_EQU_Name_0606",
+		"speaker": "",
+		"listener": "",
+		"content": "Mantel"
+	},
+	{
+		"name": "ITM_EQU_Name_0607",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternative Hose"
+	},
+	{
+		"name": "ITM_EQU_Name_0608",
+		"speaker": "",
+		"listener": "",
+		"content": "Pluderhose"
+	},
+	{
+		"name": "ITM_EQU_Name_0609",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternativer Rock"
+	},
+	{
+		"name": "ITM_EQU_Name_0610",
+		"speaker": "",
+		"listener": "",
+		"content": "Hippie-Latzhose"
+	},
+	{
+		"name": "ITM_EQU_Name_0611",
+		"speaker": "",
+		"listener": "",
+		"content": "Hippie-Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_0612",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternatives Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_0613",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternative Sandalen"
+	},
+	{
+		"name": "ITM_EQU_Name_0614",
+		"speaker": "",
+		"listener": "",
+		"content": "Perlenverzierte Sandalen"
+	},
+	{
+		"name": "ITM_EQU_Name_0615",
+		"speaker": "",
+		"listener": "",
+		"content": "Alternative Schlupfschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0616",
+		"speaker": "",
+		"listener": "",
+		"content": "Mokassinstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_0617",
+		"speaker": "",
+		"listener": "",
+		"content": "Türkis-Halskette"
+	},
+	{
+		"name": "ITM_EQU_Name_0618",
+		"speaker": "",
+		"listener": "",
+		"content": "Türkis-Armreif"
+	},
+	{
+		"name": "ITM_EQU_Name_0619",
+		"speaker": "",
+		"listener": "",
+		"content": "Hippie-Umhängetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Compagno"
+	},
+	{
+		"name": "ITM_EQU_Name_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Galassia"
+	},
+	{
+		"name": "ITM_EQU_Name_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Bellezza suprema"
+	},
+	{
+		"name": "ITM_EQU_Name_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "Onore"
+	},
+	{
+		"name": "ITM_EQU_Name_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Tradizione"
+	},
+	{
+		"name": "ITM_EQU_Name_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Rispetto"
+	},
+	{
+		"name": "ITM_EQU_Name_0706",
+		"speaker": "",
+		"listener": "",
+		"content": "Innovazione"
+	},
+	{
+		"name": "ITM_EQU_Name_0707",
+		"speaker": "",
+		"listener": "",
+		"content": "Inimitabile"
+	},
+	{
+		"name": "ITM_EQU_Name_0708",
+		"speaker": "",
+		"listener": "",
+		"content": "Notte romantica"
+	},
+	{
+		"name": "ITM_EQU_Name_0709",
+		"speaker": "",
+		"listener": "",
+		"content": "Futuro"
+	},
+	{
+		"name": "ITM_EQU_Name_0710",
+		"speaker": "",
+		"listener": "",
+		"content": "Infinito"
+	},
+	{
+		"name": "ITM_EQU_Name_0711",
+		"speaker": "",
+		"listener": "",
+		"content": "Sentiero"
+	},
+	{
+		"name": "ITM_EQU_Name_0712",
+		"speaker": "",
+		"listener": "",
+		"content": "Vacanza"
+	},
+	{
+		"name": "ITM_EQU_Name_0713",
+		"speaker": "",
+		"listener": "",
+		"content": "Denaro e potere"
+	},
+	{
+		"name": "ITM_EQU_Name_0714",
+		"speaker": "",
+		"listener": "",
+		"content": "Amore e desiderio"
+	},
+	{
+		"name": "ITM_EQU_Name_0715",
+		"speaker": "",
+		"listener": "",
+		"content": "Pigliatutto"
+	},
+	{
+		"name": "ITM_EQU_Name_0716",
+		"speaker": "",
+		"listener": "",
+		"content": "Fiore di cristallo"
+	},
+	{
+		"name": "ITM_EQU_Name_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Anglerhut"
+	},
+	{
+		"name": "ITM_EQU_Name_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Haarspange"
+	},
+	{
+		"name": "ITM_EQU_Name_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Schäfchen-T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Polohemd"
+	},
+	{
+		"name": "ITM_EQU_Name_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Rollkragenpullover"
+	},
+	{
+		"name": "ITM_EQU_Name_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Weißes Hemd"
+	},
+	{
+		"name": "ITM_EQU_Name_0806",
+		"speaker": "",
+		"listener": "",
+		"content": "Daunenjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0807",
+		"speaker": "",
+		"listener": "",
+		"content": "Chinohose"
+	},
+	{
+		"name": "ITM_EQU_Name_0808",
+		"speaker": "",
+		"listener": "",
+		"content": "Cordhose"
+	},
+	{
+		"name": "ITM_EQU_Name_0809",
+		"speaker": "",
+		"listener": "",
+		"content": "Knielanger Rock"
+	},
+	{
+		"name": "ITM_EQU_Name_0810",
+		"speaker": "",
+		"listener": "",
+		"content": "Wickelrock"
+	},
+	{
+		"name": "ITM_EQU_Name_0811",
+		"speaker": "",
+		"listener": "",
+		"content": "Hemdkleid"
+	},
+	{
+		"name": "ITM_EQU_Name_0812",
+		"speaker": "",
+		"listener": "",
+		"content": "Riemchenpumps"
+	},
+	{
+		"name": "ITM_EQU_Name_0813",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlupfschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0814",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochwertige Reisetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0815",
+		"speaker": "",
+		"listener": "",
+		"content": "Wollschal"
+	},
+	{
+		"name": "ITM_EQU_Name_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Wasserfester Hut"
+	},
+	{
+		"name": "ITM_EQU_Name_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Pfauenkappe"
+	},
+	{
+		"name": "ITM_EQU_Name_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Bodhidharma-Tanktop"
+	},
+	{
+		"name": "ITM_EQU_Name_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Varuna-T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Amitabha-Regenjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Virupaksa-Kapuzenpulli"
+	},
+	{
+		"name": "ITM_EQU_Name_0906",
+		"speaker": "",
+		"listener": "",
+		"content": "Maitreya-Trikot"
+	},
+	{
+		"name": "ITM_EQU_Name_0907",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaisravana-Jacke"
+	},
+	{
+		"name": "ITM_EQU_Name_0908",
+		"speaker": "",
+		"listener": "",
+		"content": "Blitz-Shorts"
+	},
+	{
+		"name": "ITM_EQU_Name_0909",
+		"speaker": "",
+		"listener": "",
+		"content": "Skanda-Jogginghose"
+	},
+	{
+		"name": "ITM_EQU_Name_0910",
+		"speaker": "",
+		"listener": "",
+		"content": "Kumbhira-Jogginghose"
+	},
+	{
+		"name": "ITM_EQU_Name_0911",
+		"speaker": "",
+		"listener": "",
+		"content": "Yama-Jogginghose"
+	},
+	{
+		"name": "ITM_EQU_Name_0912",
+		"speaker": "",
+		"listener": "",
+		"content": "Om-Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0913",
+		"speaker": "",
+		"listener": "",
+		"content": "Gekirin-Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0914",
+		"speaker": "",
+		"listener": "",
+		"content": "Kshana-Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0915",
+		"speaker": "",
+		"listener": "",
+		"content": "Samsara-Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0916",
+		"speaker": "",
+		"listener": "",
+		"content": "Karma-Umhängetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0917",
+		"speaker": "",
+		"listener": "",
+		"content": "Naraka-Rucksack"
+	},
+	{
+		"name": "ITM_EQU_Name_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Kappe"
+	},
+	{
+		"name": "ITM_EQU_Name_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Mütze"
+	},
+	{
+		"name": "ITM_EQU_Name_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Jacke"
+	},
+	{
+		"name": "ITM_EQU_Name_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Kapuzenpulli"
+	},
+	{
+		"name": "ITM_EQU_Name_1005",
+		"speaker": "",
+		"listener": "",
+		"content": "Tanktop mit Kreuzträgern"
+	},
+	{
+		"name": "ITM_EQU_Name_1006",
+		"speaker": "",
+		"listener": "",
+		"content": "Sarouel-Hose"
+	},
+	{
+		"name": "ITM_EQU_Name_1007",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Shorts"
+	},
+	{
+		"name": "ITM_EQU_Name_1008",
+		"speaker": "",
+		"listener": "",
+		"content": "Sportlicher Minirock"
+	},
+	{
+		"name": "ITM_EQU_Name_1009",
+		"speaker": "",
+		"listener": "",
+		"content": "Sportliches Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_1010",
+		"speaker": "",
+		"listener": "",
+		"content": "Lederturnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Sportsandalen"
+	},
+	{
+		"name": "ITM_EQU_Name_1012",
+		"speaker": "",
+		"listener": "",
+		"content": "Sportstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_1013",
+		"speaker": "",
+		"listener": "",
+		"content": "Monochrom-Uhr"
+	},
+	{
+		"name": "ITM_EQU_Name_1014",
+		"speaker": "",
+		"listener": "",
+		"content": "Erkennungsmarken"
+	},
+	{
+		"name": "ITM_EQU_Name_1015",
+		"speaker": "",
+		"listener": "",
+		"content": "Bauchtasche"
+	},
+	{
+		"name": "ITM_EQU_Name_1016",
+		"speaker": "",
+		"listener": "",
+		"content": "Maske"
+	},
+	{
+		"name": "ITM_EQU_Name_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochkarätiger Hut"
+	},
+	{
+		"name": "ITM_EQU_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Strohhut"
+	},
+	{
+		"name": "ITM_EQU_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Süßes Top"
+	},
+	{
+		"name": "ITM_EQU_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Crossover-Strickjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Chesterfield-Mantel"
+	},
+	{
+		"name": "ITM_EQU_Name_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Maßgeschneiderte Jacke"
+	},
+	{
+		"name": "ITM_EQU_Name_1106",
+		"speaker": "",
+		"listener": "",
+		"content": "Gestreiftes Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_1107",
+		"speaker": "",
+		"listener": "",
+		"content": "Schickes Anzughemd"
+	},
+	{
+		"name": "ITM_EQU_Name_1108",
+		"speaker": "",
+		"listener": "",
+		"content": "Weiße Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_1109",
+		"speaker": "",
+		"listener": "",
+		"content": "Ausgestellter Rock"
+	},
+	{
+		"name": "ITM_EQU_Name_1110",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarze Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_1111",
+		"speaker": "",
+		"listener": "",
+		"content": "Bequeme Latzhose"
+	},
+	{
+		"name": "ITM_EQU_Name_1112",
+		"speaker": "",
+		"listener": "",
+		"content": "Entzückendes Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_1113",
+		"speaker": "",
+		"listener": "",
+		"content": "Engelhaftes Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_1114",
+		"speaker": "",
+		"listener": "",
+		"content": "Zauberhaftes Kleid"
+	},
+	{
+		"name": "ITM_EQU_Name_1115",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlichte Mules"
+	},
+	{
+		"name": "ITM_EQU_Name_1116",
+		"speaker": "",
+		"listener": "",
+		"content": "PVC-Pumps"
+	},
+	{
+		"name": "ITM_EQU_Name_1117",
+		"speaker": "",
+		"listener": "",
+		"content": "Chukka-Stiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_1118",
+		"speaker": "",
+		"listener": "",
+		"content": "Standardkrawatte"
+	},
+	{
+		"name": "ITM_EQU_Name_1119",
+		"speaker": "",
+		"listener": "",
+		"content": "Strickkrawatte"
+	},
+	{
+		"name": "ITM_EQU_Name_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Mütze mit geradem Schirm"
+	},
+	{
+		"name": "ITM_EQU_Name_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Baseballkappe"
+	},
+	{
+		"name": "ITM_EQU_Name_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Mütze im Vintage-Look"
+	},
+	{
+		"name": "ITM_EQU_Name_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Haarband mit Draht"
+	},
+	{
+		"name": "ITM_EQU_Name_1204",
+		"speaker": "",
+		"listener": "",
+		"content": "Daunenweste"
+	},
+	{
+		"name": "ITM_EQU_Name_1205",
+		"speaker": "",
+		"listener": "",
+		"content": "Kapuzenpullover"
+	},
+	{
+		"name": "ITM_EQU_Name_1206",
+		"speaker": "",
+		"listener": "",
+		"content": "Bedrucktes T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_1207",
+		"speaker": "",
+		"listener": "",
+		"content": "Flanellhemd"
+	},
+	{
+		"name": "ITM_EQU_Name_1208",
+		"speaker": "",
+		"listener": "",
+		"content": "Armeejacke M-1951"
+	},
+	{
+		"name": "ITM_EQU_Name_1209",
+		"speaker": "",
+		"listener": "",
+		"content": "Jacke im Vintage-Look"
+	},
+	{
+		"name": "ITM_EQU_Name_1210",
+		"speaker": "",
+		"listener": "",
+		"content": "Umgeschlagene Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_1211",
+		"speaker": "",
+		"listener": "",
+		"content": "Zerrissene Vintage-Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_1212",
+		"speaker": "",
+		"listener": "",
+		"content": "Tarnfarben-Cargohose"
+	},
+	{
+		"name": "ITM_EQU_Name_1213",
+		"speaker": "",
+		"listener": "",
+		"content": "Enger Jeansrock"
+	},
+	{
+		"name": "ITM_EQU_Name_1214",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeans-Hemdkleid"
+	},
+	{
+		"name": "ITM_EQU_Name_1215",
+		"speaker": "",
+		"listener": "",
+		"content": "Arbeitsstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_1216",
+		"speaker": "",
+		"listener": "",
+		"content": "Hohe Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1217",
+		"speaker": "",
+		"listener": "",
+		"content": "Flache Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1218",
+		"speaker": "",
+		"listener": "",
+		"content": "Motiv-Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1219",
+		"speaker": "",
+		"listener": "",
+		"content": "Panzerkette"
+	},
+	{
+		"name": "ITM_EQU_Name_1220",
+		"speaker": "",
+		"listener": "",
+		"content": "Geldbeutelkette"
+	},
+	{
+		"name": "ITM_EQU_Name_1221",
+		"speaker": "",
+		"listener": "",
+		"content": "Sonnenbrille"
+	},
+	{
+		"name": "ITM_EQU_Name_1222",
+		"speaker": "",
+		"listener": "",
+		"content": "Retro-Boombox"
+	},
+	{
+		"name": "ITM_EQU_Name_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeansmütze"
+	},
+	{
+		"name": "ITM_EQU_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Baskenmütze"
+	},
+	{
+		"name": "ITM_EQU_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Hemd mit Schnallenärmeln"
+	},
+	{
+		"name": "ITM_EQU_Name_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Hemd mit Reißverschluss"
+	},
+	{
+		"name": "ITM_EQU_Name_1304",
+		"speaker": "",
+		"listener": "",
+		"content": "Schulterfreies Top"
+	},
+	{
+		"name": "ITM_EQU_Name_1305",
+		"speaker": "",
+		"listener": "",
+		"content": "Hemdjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_1306",
+		"speaker": "",
+		"listener": "",
+		"content": "Mikro-Minirock aus Jeansstoff"
+	},
+	{
+		"name": "ITM_EQU_Name_1307",
+		"speaker": "",
+		"listener": "",
+		"content": "Asymmetrischer Minirock"
+	},
+	{
+		"name": "ITM_EQU_Name_1308",
+		"speaker": "",
+		"listener": "",
+		"content": "Fransen-Cargohose"
+	},
+	{
+		"name": "ITM_EQU_Name_1309",
+		"speaker": "",
+		"listener": "",
+		"content": "Asymmetrische Jeans"
+	},
+	{
+		"name": "ITM_EQU_Name_1310",
+		"speaker": "",
+		"listener": "",
+		"content": "Zweiteiler mit Glockenärmeln"
+	},
+	{
+		"name": "ITM_EQU_Name_1311",
+		"speaker": "",
+		"listener": "",
+		"content": "Overall"
+	},
+	{
+		"name": "ITM_EQU_Name_1312",
+		"speaker": "",
+		"listener": "",
+		"content": "Stiefeletten"
+	},
+	{
+		"name": "ITM_EQU_Name_1313",
+		"speaker": "",
+		"listener": "",
+		"content": "Halbhohe Stiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_1314",
+		"speaker": "",
+		"listener": "",
+		"content": "Netzstrümpfe"
+	},
+	{
+		"name": "ITM_EQU_Name_1315",
+		"speaker": "",
+		"listener": "",
+		"content": "Taillentasche"
+	},
+	{
+		"name": "ITM_EQU_Name_1316",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr.-Miau-Kapuzenpulli"
+	},
+	{
+		"name": "ITM_EQU_Name_1317",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr.-Miau-Handyhülle"
+	},
+	{
+		"name": "ITM_EQU_Name_1318",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr.-Miau-Tasche"
+	},
+	{
+		"name": "ITM_EQU_Name_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Regenbogen-Afro-Perücke"
+	},
+	{
+		"name": "ITM_EQU_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Samurai-Perücke"
+	},
+	{
+		"name": "ITM_EQU_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Dienstmädchen-Bunny-Haarreif"
+	},
+	{
+		"name": "ITM_EQU_Name_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Weltraumkätzchen-T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_1404",
+		"speaker": "",
+		"listener": "",
+		"content": "Weihnachtlicher Mantel"
+	},
+	{
+		"name": "ITM_EQU_Name_1405",
+		"speaker": "",
+		"listener": "",
+		"content": "Frosch-Schwimmreifen"
+	},
+	{
+		"name": "ITM_EQU_Name_1406",
+		"speaker": "",
+		"listener": "",
+		"content": "Weihnachtliche Hose"
+	},
+	{
+		"name": "ITM_EQU_Name_1407",
+		"speaker": "",
+		"listener": "",
+		"content": "Dienstmädchenkostüm"
+	},
+	{
+		"name": "ITM_EQU_Name_1408",
+		"speaker": "",
+		"listener": "",
+		"content": "Ninja-Kostüm"
+	},
+	{
+		"name": "ITM_EQU_Name_1409",
+		"speaker": "",
+		"listener": "",
+		"content": "Stelzen"
+	},
+	{
+		"name": "ITM_EQU_Name_1410",
+		"speaker": "",
+		"listener": "",
+		"content": "Rollschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1411",
+		"speaker": "",
+		"listener": "",
+		"content": "Halbherziges Sommergeschenk"
+	},
+	{
+		"name": "ITM_EQU_Name_1412",
+		"speaker": "",
+		"listener": "",
+		"content": "Scherzbrille"
+	},
+	{
+		"name": "ITM_EQU_Name_1413",
+		"speaker": "",
+		"listener": "",
+		"content": "Tomonamis Klinge"
+	},
+	{
+		"name": "ITM_EQU_Name_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Panamahut"
+	},
+	{
+		"name": "ITM_EQU_Name_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Baseballkappe"
+	},
+	{
+		"name": "ITM_EQU_Name_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-T-Shirt"
+	},
+	{
+		"name": "ITM_EQU_Name_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Motorradjacke"
+	},
+	{
+		"name": "ITM_EQU_Name_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Lederhose"
+	},
+	{
+		"name": "ITM_EQU_Name_1505",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Shorts"
+	},
+	{
+		"name": "ITM_EQU_Name_1506",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Schuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_1507",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Schlupfstiefel"
+	},
+	{
+		"name": "ITM_EQU_Name_1508",
+		"speaker": "",
+		"listener": "",
+		"content": "B.H.C.C.-Tragetasche"
+	},
+	{
+		"name": "ITM_EQU_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendärer Kopfhörer"
+	},
+	{
+		"name": "ITM_EQU_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendäres Tanktop"
+	},
+	{
+		"name": "ITM_EQU_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendäre Shorts"
+	},
+	{
+		"name": "ITM_EQU_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendäre Turnschuhe"
+	},
+	{
+		"name": "ITM_EQU_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Legendärer MP3-Player"
+	}
+]
+}

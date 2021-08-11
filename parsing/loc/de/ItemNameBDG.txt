@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin"
+	},
+	{
+		"name": "ITM_BDG_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Schockwelle"
+	},
+	{
+		"name": "ITM_BDG_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Midaregami"
+	},
+	{
+		"name": "ITM_BDG_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Namikuguri"
+	},
+	{
+		"name": "ITM_BDG_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Azamaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Shishio"
+	},
+	{
+		"name": "ITM_BDG_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuchin"
+	},
+	{
+		"name": "ITM_BDG_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Kurorushi"
+	},
+	{
+		"name": "ITM_BDG_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Honebami"
+	},
+	{
+		"name": "ITM_BDG_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly"
+	},
+	{
+		"name": "ITM_BDG_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Onimaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Sayosamonji"
+	},
+	{
+		"name": "ITM_BDG_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Aizen"
+	},
+	{
+		"name": "ITM_BDG_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Kitsunegasaki"
+	},
+	{
+		"name": "ITM_BDG_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Yukimitsu"
+	},
+	{
+		"name": "ITM_BDG_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Doppelquappe"
+	},
+	{
+		"name": "ITM_BDG_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsurumaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Reigetsu"
+	},
+	{
+		"name": "ITM_BDG_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Jupiter of the Monkey II"
+	},
+	{
+		"name": "ITM_BDG_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Hotaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Gruselgrinsen"
+	},
+	{
+		"name": "ITM_BDG_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Grunge-Kracher"
+	},
+	{
+		"name": "ITM_BDG_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Dschungelkönig"
+	},
+	{
+		"name": "ITM_BDG_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Urschrei"
+	},
+	{
+		"name": "ITM_BDG_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Nietenband"
+	},
+	{
+		"name": "ITM_BDG_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Eisfänge"
+	},
+	{
+		"name": "ITM_BDG_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Eisschlitzer"
+	},
+	{
+		"name": "ITM_BDG_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigre-Pranke"
+	},
+	{
+		"name": "ITM_BDG_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Rote Reißzähne"
+	},
+	{
+		"name": "ITM_BDG_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigres, zu mir!"
+	},
+	{
+		"name": "ITM_BDG_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Rock ’n’ Rock"
+	},
+	{
+		"name": "ITM_BDG_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuerramme"
+	},
+	{
+		"name": "ITM_BDG_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorilla"
+	},
+	{
+		"name": "ITM_BDG_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Einen Schritt voraus"
+	},
+	{
+		"name": "ITM_BDG_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Ehre und Opfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Alles oder nichts"
+	},
+	{
+		"name": "ITM_BDG_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Einen Tag näher"
+	},
+	{
+		"name": "ITM_BDG_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeit ist relativ"
+	},
+	{
+		"name": "ITM_BDG_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Für dich da"
+	},
+	{
+		"name": "ITM_BDG_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Sei todesmutig!"
+	},
+	{
+		"name": "ITM_BDG_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Kein Zurück mehr"
+	},
+	{
+		"name": "ITM_BDG_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Keine Fehler, trotzdem klug"
+	},
+	{
+		"name": "ITM_BDG_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Skorpion"
+	},
+	{
+		"name": "ITM_BDG_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Brauch kein’ Plan"
+	},
+	{
+		"name": "ITM_BDG_Name_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Lass dich nicht schocken"
+	},
+	{
+		"name": "ITM_BDG_Name_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Stich mich ab"
+	},
+	{
+		"name": "ITM_BDG_Name_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Durstlöscher"
+	},
+	{
+		"name": "ITM_BDG_Name_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Versuch’s noch mal"
+	},
+	{
+		"name": "ITM_BDG_Name_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Powermunition"
+	},
+	{
+		"name": "ITM_BDG_Name_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Seifenblasen"
+	},
+	{
+		"name": "ITM_BDG_Name_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Gute-Nacht-Strahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Glitzerstrahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Zipp-Zapp-Strahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Stylischer Strahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Turteltäubchen-Magnum"
+	},
+	{
+		"name": "ITM_BDG_Name_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Schrott-Gatling"
+	},
+	{
+		"name": "ITM_BDG_Name_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Pfoten-Gatling"
+	},
+	{
+		"name": "ITM_BDG_Name_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Ekelstrahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Frosch"
+	},
+	{
+		"name": "ITM_BDG_Name_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Freestyle-Werfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Wohlfühlwerfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Amor-Werfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Kuschelwerfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Herzschmerzwerfer"
+	},
+	{
+		"name": "ITM_BDG_Name_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Hopsendes Nilpferd"
+	},
+	{
+		"name": "ITM_BDG_Name_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "croaky panic"
+	},
+	{
+		"name": "ITM_BDG_Name_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "MONOCROW"
+	},
+	{
+		"name": "ITM_BDG_Name_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Die innere Krähe"
+	},
+	{
+		"name": "ITM_BDG_Name_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Letzte Feder"
+	},
+	{
+		"name": "ITM_BDG_Name_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Ausgebrannt"
+	},
+	{
+		"name": "ITM_BDG_Name_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Aspekt der Wahrheit"
+	},
+	{
+		"name": "ITM_BDG_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Lebe deine Wahrheit"
+	},
+	{
+		"name": "ITM_BDG_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus"
+	},
+	{
+		"name": "ITM_BDG_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Hervorragende Hasen"
+	},
+	{
+		"name": "ITM_BDG_Name_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Klassische Kakophonie"
+	},
+	{
+		"name": "ITM_BDG_Name_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Magische Metamorphose"
+	},
+	{
+		"name": "ITM_BDG_Name_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Hagelhase"
+	},
+	{
+		"name": "ITM_BDG_Name_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Frostige Freundschaft"
+	},
+	{
+		"name": "ITM_BDG_Name_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Super-Selbstporträt"
+	},
+	{
+		"name": "ITM_BDG_Name_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Eklektischer Edelstein"
+	},
+	{
+		"name": "ITM_BDG_Name_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Kosmisches Kaninchen"
+	},
+	{
+		"name": "ITM_BDG_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Humorvoller Hummer"
+	},
+	{
+		"name": "ITM_BDG_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Die flauschige Magma-Flucht"
+	},
+	{
+		"name": "ITM_BDG_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Der einsame Weltraumkrieger"
+	},
+	{
+		"name": "ITM_BDG_Name_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Kuschelziel Mond"
+	},
+	{
+		"name": "ITM_BDG_Name_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Das alte Geheimnis der Pyramiden"
+	},
+	{
+		"name": "ITM_BDG_Name_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Die große Ballonreise"
+	},
+	{
+		"name": "ITM_BDG_Name_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Die flauschige Schäfchenwolke"
+	},
+	{
+		"name": "ITM_BDG_Name_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Lauf, Schäfchen, lauf"
+	},
+	{
+		"name": "ITM_BDG_Name_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Kugelfisch"
+	},
+	{
+		"name": "ITM_BDG_Name_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Mine Güte"
+	},
+	{
+		"name": "ITM_BDG_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Geteilter Minung"
+	},
+	{
+		"name": "ITM_BDG_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Nachts kracht’s"
+	},
+	{
+		"name": "ITM_BDG_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Kettenreaktion"
+	},
+	{
+		"name": "ITM_BDG_Name_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Gesprengte Ketten"
+	},
+	{
+		"name": "ITM_BDG_Name_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Böse Bombe"
+	},
+	{
+		"name": "ITM_BDG_Name_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Knallschlangen"
+	},
+	{
+		"name": "ITM_BDG_Name_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "In den Sprengkopf gesetzt"
+	},
+	{
+		"name": "ITM_BDG_Name_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Frosch in der Waffel"
+	},
+	{
+		"name": "ITM_BDG_Name_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich blüh für dich"
+	},
+	{
+		"name": "ITM_BDG_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Takanosu"
+	},
+	{
+		"name": "ITM_BDG_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Kumokiri"
+	},
+	{
+		"name": "ITM_BDG_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Taikokane"
+	},
+	{
+		"name": "ITM_BDG_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Kasen Kanesada"
+	},
+	{
+		"name": "ITM_BDG_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Iwatoshi"
+	},
+	{
+		"name": "ITM_BDG_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Omokage"
+	},
+	{
+		"name": "ITM_BDG_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Wolf"
+	},
+	{
+		"name": "ITM_BDG_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Alles geht in Flammen auf"
+	},
+	{
+		"name": "ITM_BDG_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Und ein Sturm zieht auf"
+	},
+	{
+		"name": "ITM_BDG_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Meer zwischen mir und allem"
+	},
+	{
+		"name": "ITM_BDG_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich schreib auf deine Mauer"
+	},
+	{
+		"name": "ITM_BDG_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Zeit steht still und es wird Herbst"
+	},
+	{
+		"name": "ITM_BDG_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Du bist schön wie ein Diamant"
+	},
+	{
+		"name": "ITM_BDG_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich sitze hier und esse Steine"
+	},
+	{
+		"name": "ITM_BDG_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Stadt spielt Schach"
+	},
+	{
+		"name": "ITM_BDG_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich sprenge diese schweren Ketten"
+	},
+	{
+		"name": "ITM_BDG_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeden Atemzug mit jeder Zelle spüren"
+	},
+	{
+		"name": "ITM_BDG_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie Blitz und Donner"
+	},
+	{
+		"name": "ITM_BDG_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Mein Leuchtfeuer in jeder Nacht"
+	},
+	{
+		"name": "ITM_BDG_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Da ist ein Licht in uns"
+	},
+	{
+		"name": "ITM_BDG_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Königin Schwermut"
+	},
+	{
+		"name": "ITM_BDG_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Phönix"
+	},
+	{
+		"name": "ITM_BDG_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Joli bécot"
+	},
+	{
+		"name": "ITM_BDG_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Hacken hoch"
+	},
+	{
+		"name": "ITM_BDG_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Wundervolle Windböe"
+	},
+	{
+		"name": "ITM_BDG_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Wütender Wind"
+	},
+	{
+		"name": "ITM_BDG_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Miss Psychedelic"
+	},
+	{
+		"name": "ITM_BDG_Name_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Discofeger"
+	},
+	{
+		"name": "ITM_BDG_Name_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Seelenfeuer"
+	},
+	{
+		"name": "ITM_BDG_Name_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Killerprinzessin"
+	},
+	{
+		"name": "ITM_BDG_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Leo Armo"
+	},
+	{
+		"name": "ITM_BDG_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Wellen im Weltraum"
+	},
+	{
+		"name": "ITM_BDG_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Mächtige Meteoriten"
+	},
+	{
+		"name": "ITM_BDG_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Knackiger Kristall"
+	},
+	{
+		"name": "ITM_BDG_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Pinker Matador"
+	},
+	{
+		"name": "ITM_BDG_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektromaniküre"
+	},
+	{
+		"name": "ITM_BDG_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Schockende Schönheit"
+	},
+	{
+		"name": "ITM_BDG_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Rex"
+	},
+	{
+		"name": "ITM_BDG_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Kirschbombe"
+	},
+	{
+		"name": "ITM_BDG_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Wütende Eifersucht"
+	},
+	{
+		"name": "ITM_BDG_Name_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Romantische Tragödie"
+	},
+	{
+		"name": "ITM_BDG_Name_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Cony×Cony Eiskalt"
+	},
+	{
+		"name": "ITM_BDG_Name_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Eisiges Entkommen"
+	},
+	{
+		"name": "ITM_BDG_Name_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Polarprinzessin"
+	},
+	{
+		"name": "ITM_BDG_Name_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Beklemmender Kristall"
+	},
+	{
+		"name": "ITM_BDG_Name_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Verführerischer Vampir"
+	},
+	{
+		"name": "ITM_BDG_Name_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Gespenstische Kerze"
+	},
+	{
+		"name": "ITM_BDG_Name_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Bérangère Lapin"
+	},
+	{
+		"name": "ITM_BDG_Name_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Grégoire Lapin"
+	},
+	{
+		"name": "ITM_BDG_Name_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Popguin"
+	},
+	{
+		"name": "ITM_BDG_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Großzügige Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Einst einmal im Traum"
+	},
+	{
+		"name": "ITM_BDG_Name_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Musik des Waldes"
+	},
+	{
+		"name": "ITM_BDG_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Mamas Geheimzutat"
+	},
+	{
+		"name": "ITM_BDG_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Mysteriöses Geschenk"
+	},
+	{
+		"name": "ITM_BDG_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Welt im Inneren"
+	},
+	{
+		"name": "ITM_BDG_Name_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Geniale Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Kostbare Momente"
+	},
+	{
+		"name": "ITM_BDG_Name_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Geliebte Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "ITM_BDG_Name_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "ShoGun・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "ManjuSage・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "EnJo・Entflammt"
+	},
+	{
+		"name": "ITM_BDG_Name_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "KoYo・Entflammt"
+	},
+	{
+		"name": "ITM_BDG_Name_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsubaki・Frost"
+	},
+	{
+		"name": "ITM_BDG_Name_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "HiGan・Frost"
+	},
+	{
+		"name": "ITM_BDG_Name_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "InaZuma・Blitz"
+	},
+	{
+		"name": "ITM_BDG_Name_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "RaiJin・Blitz"
+	},
+	{
+		"name": "ITM_BDG_Name_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Hypno-Frosch"
+	},
+	{
+		"name": "ITM_BDG_Name_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "KeiRyu・Epoche"
+	},
+	{
+		"name": "ITM_BDG_Name_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "RyuGu・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "HanaDoki・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlängelnde Schlange"
+	},
+	{
+		"name": "ITM_BDG_Name_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "HoGyoku・Glanz"
+	},
+	{
+		"name": "ITM_BDG_Name_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Qualle"
+	},
+	{
+		"name": "ITM_BDG_Name_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Heiliger Hase"
+	},
+	{
+		"name": "ITM_BDG_Name_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochkonzentrierter Hase"
+	},
+	{
+		"name": "ITM_BDG_Name_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Jedes Pünktchen gibt ein Tönchen"
+	},
+	{
+		"name": "ITM_BDG_Name_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Klapperfrosch"
+	},
+	{
+		"name": "ITM_BDG_Name_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Melancony×Melancony"
+	},
+	{
+		"name": "ITM_BDG_Name_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "ConyｘCony"
+	},
+	{
+		"name": "ITM_BDG_Name_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Engelsschöner Schnee"
+	},
+	{
+		"name": "ITM_BDG_Name_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Rabe"
+	},
+	{
+		"name": "ITM_BDG_Name_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Ballonreise"
+	},
+	{
+		"name": "ITM_BDG_Name_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Katzenbuckel"
+	},
+	{
+		"name": "ITM_BDG_Name_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Talentierte Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "König der Wellen"
+	},
+	{
+		"name": "ITM_BDG_Name_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Kappa-Panik"
+	},
+	{
+		"name": "ITM_BDG_Name_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein verlorener Schatz"
+	},
+	{
+		"name": "ITM_BDG_Name_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Höhle der Geheimnisse"
+	},
+	{
+		"name": "ITM_BDG_Name_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Was niemals sein darf"
+	},
+	{
+		"name": "ITM_BDG_Name_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Festgenagelt"
+	},
+	{
+		"name": "ITM_BDG_Name_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Sanduhr"
+	},
+	{
+		"name": "ITM_BDG_Name_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochkarätig"
+	},
+	{
+		"name": "ITM_BDG_Name_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Gläserne Schönheit"
+	},
+	{
+		"name": "ITM_BDG_Name_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris"
+	},
+	{
+		"name": "ITM_BDG_Name_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "Rettendes Raumschiff"
+	},
+	{
+		"name": "ITM_BDG_Name_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Fluchtrakete"
+	},
+	{
+		"name": "ITM_BDG_Name_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Hogway to Heaven"
+	},
+	{
+		"name": "ITM_BDG_Name_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Red for Speed"
+	},
+	{
+		"name": "ITM_BDG_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Alter ist nur eine Zahl"
+	},
+	{
+		"name": "ITM_BDG_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Verloren im Weltraum"
+	},
+	{
+		"name": "ITM_BDG_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Rainbow Route 66"
+	},
+	{
+		"name": "ITM_BDG_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG-Heiler"
+	},
+	{
+		"name": "ITM_BDG_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "FANG-Verteidiger"
+	},
+	{
+		"name": "ITM_BDG_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Herzlicher Hotdog"
+	},
+	{
+		"name": "ITM_BDG_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Nashorn"
+	},
+	{
+		"name": "ITM_BDG_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "SuiGen・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "KoCho・Leere"
+	},
+	{
+		"name": "ITM_BDG_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "ShiDare・Schatten"
+	},
+	{
+		"name": "ITM_BDG_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsuzumi・Echo"
+	},
+	{
+		"name": "ITM_BDG_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Pilzpolka"
+	},
+	{
+		"name": "ITM_BDG_Name_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "AraUmi・Sturm"
+	},
+	{
+		"name": "ITM_BDG_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "FuJin・Sturm"
+	},
+	{
+		"name": "ITM_BDG_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "IroGoi・Gezeiten"
+	},
+	{
+		"name": "ITM_BDG_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "ShoRyu・Glanz"
+	},
+	{
+		"name": "ITM_BDG_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Prismatische Prinzessin"
+	},
+	{
+		"name": "ITM_BDG_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Top o’ Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Der gütige König"
+	},
+	{
+		"name": "ITM_BDG_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Blütenblätter der Liebe"
+	},
+	{
+		"name": "ITM_BDG_Name_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Abenteuerlustige Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Märchenhafte Erinnerungen"
+	},
+	{
+		"name": "ITM_BDG_Name_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Ausgehungerte Topo"
+	},
+	{
+		"name": "ITM_BDG_Name_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Die verzauberte Bäckerin"
+	},
+	{
+		"name": "ITM_BDG_Name_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein unzertrennliches Paar"
+	},
+	{
+		"name": "ITM_BDG_Name_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Hammonds neues Heim"
+	},
+	{
+		"name": "ITM_BDG_Name_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Miau"
+	},
+	{
+		"name": "ITM_BDG_Name_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Jetzt blitzt’s gleich"
+	},
+	{
+		"name": "ITM_BDG_Name_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Kugelblitz"
+	},
+	{
+		"name": "ITM_BDG_Name_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Trendiger Tornado"
+	},
+	{
+		"name": "ITM_BDG_Name_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufgedrehtes Graviton"
+	},
+	{
+		"name": "ITM_BDG_Name_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Gute-Laune-Graviton"
+	},
+	{
+		"name": "ITM_BDG_Name_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Relative Absolutheit"
+	},
+	{
+		"name": "ITM_BDG_Name_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Poppiges Popcorn"
+	},
+	{
+		"name": "ITM_BDG_Name_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "Spiegeleipfanne"
+	},
+	{
+		"name": "ITM_BDG_Name_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "Amphibischer Chefkoch"
+	},
+	{
+		"name": "ITM_BDG_Name_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Durstiger Frosch"
+	},
+	{
+		"name": "ITM_BDG_Name_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Goldene Kappa-Panik"
+	},
+	{
+		"name": "ITM_BDG_Name_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Hai"
+	},
+	{
+		"name": "ITM_BDG_Name_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuersturm"
+	},
+	{
+		"name": "ITM_BDG_Name_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "KaChu・Entflammt"
+	},
+	{
+		"name": "ITM_BDG_Name_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "AkaFuji・Entflammt"
+	},
+	{
+		"name": "ITM_BDG_Name_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "GoKa・Entflammt"
+	},
+	{
+		"name": "ITM_BDG_Name_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Mammut"
+	},
+	{
+		"name": "ITM_BDG_Name_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "Flauschig-freier Tag"
+	},
+	{
+		"name": "ITM_BDG_Name_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "Die kuschelige Windmühle"
+	},
+	{
+		"name": "ITM_BDG_Name_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "Schäfchen in den Lüften"
+	},
+	{
+		"name": "ITM_BDG_Name_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "Der große Schatz der Antarktis"
+	},
+	{
+		"name": "ITM_BDG_Name_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "Mondhelle Nacht im Iglu"
+	},
+	{
+		"name": "ITM_BDG_Name_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Schlittschuhschaf"
+	},
+	{
+		"name": "ITM_BDG_Name_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Verfluchter Frosch"
+	},
+	{
+		"name": "ITM_BDG_Name_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Pummelgrille"
+	},
+	{
+		"name": "ITM_BDG_Name_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein leckerer Schäfchen-Snack"
+	},
+	{
+		"name": "ITM_BDG_Name_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "Der sanfte Flugzeugpilot"
+	},
+	{
+		"name": "ITM_BDG_Name_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Lied der Freundschaft"
+	},
+	{
+		"name": "ITM_BDG_Name_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "Der pelzige Jazzmusiker"
+	},
+	{
+		"name": "ITM_BDG_Name_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "Tag-und-Nacht-Schaf"
+	},
+	{
+		"name": "ITM_BDG_Name_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "In der Schusslinie"
+	},
+	{
+		"name": "ITM_BDG_Name_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeder Schuss zählt"
+	},
+	{
+		"name": "ITM_BDG_Name_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Beide Augen offen"
+	},
+	{
+		"name": "ITM_BDG_Name_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "garagara"
+	},
+	{
+		"name": "ITM_BDG_Name_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Öl ins Feuer"
+	},
+	{
+		"name": "ITM_BDG_Name_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuer im Bauch"
+	},
+	{
+		"name": "ITM_BDG_Name_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "In der Schlinge der Schlange"
+	},
+	{
+		"name": "ITM_BDG_Name_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Boa Gravictor"
+	},
+	{
+		"name": "ITM_BDG_Name_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Blitzgeviper"
+	},
+	{
+		"name": "ITM_BDG_Name_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Funken fliegen"
+	},
+	{
+		"name": "ITM_BDG_Name_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Auf die Myzel"
+	},
+	{
+		"name": "ITM_BDG_Name_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "Grunzer"
+	},
+	{
+		"name": "ITM_BDG_Name_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "Star-Quarterback"
+	},
+	{
+		"name": "ITM_BDG_Name_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "Rein ins Diner"
+	},
+	{
+		"name": "ITM_BDG_Name_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "Donnerkeiler"
+	},
+	{
+		"name": "ITM_BDG_Name_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "Lorbeer-Keiler"
+	},
+	{
+		"name": "ITM_BDG_Name_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "Entflammter Eber"
+	},
+	{
+		"name": "ITM_BDG_Name_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG FANG"
+	},
+	{
+		"name": "ITM_BDG_Name_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "Knallerkeiler"
+	},
+	{
+		"name": "ITM_BDG_Name_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus"
+	},
+	{
+		"name": "ITM_BDG_Name_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigre PUNKS"
+	},
+	{
+		"name": "ITM_BDG_Name_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "Hell und laut"
+	},
+	{
+		"name": "ITM_BDG_Name_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "Pranke des Wächters"
+	},
+	{
+		"name": "ITM_BDG_Name_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "Raubkopie"
+	},
+	{
+		"name": "ITM_BDG_Name_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "Diskordanz"
+	},
+	{
+		"name": "ITM_BDG_Name_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "Dornenherz"
+	},
+	{
+		"name": "ITM_BDG_Name_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "Hier spielt die Musik"
+	},
+	{
+		"name": "ITM_BDG_Name_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "Och nö, wie mies, Muschel!"
+	},
+	{
+		"name": "ITM_BDG_Name_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "Vorsicht!"
+	},
+	{
+		"name": "ITM_BDG_Name_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "Du schaffst das!"
+	},
+	{
+		"name": "ITM_BDG_Name_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "Achtung, da unten!"
+	},
+	{
+		"name": "ITM_BDG_Name_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "Absolute Relativität"
+	},
+	{
+		"name": "ITM_BDG_Name_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Verführerische Falle"
+	},
+	{
+		"name": "ITM_BDG_Name_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Tödlicher Duft"
+	},
+	{
+		"name": "ITM_BDG_Name_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "Leon"
+	},
+	{
+		"name": "ITM_BDG_Name_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Erdrückende Samtpfoten"
+	},
+	{
+		"name": "ITM_BDG_Name_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Samtpfotenkarten"
+	},
+	{
+		"name": "ITM_BDG_Name_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Samtpfoten von oben"
+	},
+	{
+		"name": "ITM_BDG_Name_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Durchbohrende Samtpfoten"
+	},
+	{
+		"name": "ITM_BDG_Name_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Krallenpfoten"
+	},
+	{
+		"name": "ITM_BDG_Name_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Tobende Samtpfoten"
+	},
+	{
+		"name": "ITM_BDG_Name_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Vers Kinnhaken"
+	},
+	{
+		"name": "ITM_BDG_Name_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Aestas’ Schrapnell"
+	},
+	{
+		"name": "ITM_BDG_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Autumnus’ Schlag"
+	},
+	{
+		"name": "ITM_BDG_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "St. Hiems’ Schrotflinte"
+	},
+	{
+		"name": "ITM_BDG_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufgeladener Schlag E"
+	},
+	{
+		"name": "ITM_BDG_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlingenfalle E"
+	},
+	{
+		"name": "ITM_BDG_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Einfach schwimmen!"
+	},
+	{
+		"name": "ITM_BDG_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Was für ein Schock!"
+	},
+	{
+		"name": "ITM_BDG_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Schluss mit der Musik!"
+	},
+	{
+		"name": "ITM_BDG_Name_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Tenka Juzumaru"
+	},
+	{
+		"name": "ITM_BDG_Name_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Tenka Mikazuki"
+	},
+	{
+		"name": "ITM_BDG_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Mochi beaucoup!"
+	},
+	{
+		"name": "ITM_BDG_Name_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Ach, du grüne Guacamole!"
+	},
+	{
+		"name": "ITM_BDG_Name_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Muckigator"
+	},
+	{
+		"name": "ITM_BDG_Name_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Handstand-Panda"
+	},
+	{
+		"name": "ITM_BDG_Name_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "1 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "5 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "10 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "50 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "100 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "500 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "1.000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "5.000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "10.000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "100.000 Yen"
+	},
+	{
+		"name": "ITM_BDG_Name_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "Scharlachit"
+	},
+	{
+		"name": "ITM_BDG_Name_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "Glanzmetall"
+	},
+	{
+		"name": "ITM_BDG_Name_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "Tektit"
+	},
+	{
+		"name": "ITM_BDG_Name_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "Adamantit"
+	},
+	{
+		"name": "ITM_BDG_Name_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "Orichalkum"
+	},
+	{
+		"name": "ITM_BDG_Name_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "Schattenmaterie"
+	},
+	{
+		"name": "ITM_BDG_Name_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "Dunkle Materie"
+	},
+	{
+		"name": "ITM_BDG_Name_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "Axion"
+	},
+	{
+		"name": "ITM_BDG_Name_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "Dilaton"
+	},
+	{
+		"name": "ITM_BDG_Name_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "Hexaquark"
+	},
+	{
+		"name": "ITM_BDG_Name_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "Sfermion"
+	}
+]
+}

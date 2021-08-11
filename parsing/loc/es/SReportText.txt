@@ -1,0 +1,604 @@
+{
+"columns":[
+	{
+		"name": "SR_01_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Han pasado tres años desde que el Juego llamara la atención del plano superior. La vigilancia continúa, pero el IM deja entrever que Shibuya está al borde de la catástrofe de nuevo.<BR><BR>Esta vez tengo prohibido intervenir en el Juego, así que tendré que contentarme con dejar constancia del inestable estado del MR y del IM en este informe."
+	},
+	{
+		"name": "SR_01_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ejecutor pisó Shibuya por primera vez hace tres años. Este ángel, originario de Shinjuku, comenzó un Juego clandestino junto al Compositor de Shibuya, que culminó con la destrucción de Shinjuku.<BR><BR>La élite debería haberlo sancionado apenas se presentó en Shibuya, pero por algún motivo están haciendo la vista gorda. Quizá porque la mayoría de los habitantes del plano superior siguen oponiéndose a la corrupción de Shibuya."
+	},
+	{
+		"name": "SR_01_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El Juego se parece a dicha corrupción porque está sometido a una serie de circunstancias extenuantes que lo mantienen en equilibrio. A saber:<BR><BR>1) Diferencias de opinión y conflicto emergente en cuanto a la destrucción de Shibuya.<BR>2) Ausencia del Compositor.<BR>3) Participación en el Juego mediante dos representantes.<BR>4) Intervención directa por parte del Ejecutor."
+	},
+	{
+		"name": "SR_01_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ni el Ejecutor, que desea que Shibuya sea destruida para iniciar su purificación, ni el Compositor, que ha logrado impedirlo hasta ahora, pueden intervenir directamente en los eventos del IM. Si cualquiera de ellos desea hacerlo, deben usar un representante.<BR><BR>El del Ejecutor es el Director, Shiba Miyakaze, y el del Compositor es un humano llamado Rindo Kanade."
+	},
+	{
+		"name": "SR_01_5",
+		"speaker": "",
+		"listener": "",
+		"content": "En lo sucesivo, me referiré a Shiba Miyakaze como el <MK_11>Director<MK_11> y a Rindo Kanade como el <MK_11>representante<MK_11>.<BR><BR>Tal vez por la aparición del representante, el exsegador Sho Minamimoto ha reanudado su actividad tras un largo silencio. Además, las vibraciones emitidas son similares a las de Shinjuku en momentos previos a su purificación. Son aún leves, pero las vigilaré de cerca."
+	},
+	{
+		"name": "SR_02_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Con el representante en lugar del Compositor, el Juego se ve afectado por el hecho de que el Director se dedica a implantar reglas sin fundamento.<BR><BR>Una de ellas es la división de los jugadores en equipos, supuestamente adoptada de las normas de Shinjuku."
+	},
+	{
+		"name": "SR_02_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Con este sistema de equipos, el que gane más puntos a lo largo de una semana puede elegir continuar el Juego o no.<BR><BR>Si los jugadores deciden abandonar, pueden volver al MR si así lo desean. Sin embargo, solo el Compositor puede enviar a los jugadores de vuelta al MR. El Director no tiene derecho a implantar dicha regla ni capacidad para ponerla en acción."
+	},
+	{
+		"name": "SR_02_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Por ello, al Director lo que le interesa es que el equipo ganador quiera seguir jugando. Para asegurarse de ello, se ha aliado con uno de los equipos que claramente desea continuar el Juego de manera indefinida: los Ruinbringers."
+	},
+	{
+		"name": "SR_02_4",
+		"speaker": "",
+		"listener": "",
+		"content": "El valor relativo de cada equipo se mide comparando su puntuación con la de los demás. El fracaso del equipo es el fracaso individual de sus miembros.<BR><BR>No está claro cuándo se implantaron estas reglas en Shinjuku, pero parecen especialmente diseñadas para deshacerse de jugadores, lo que va en contra del objetivo del Juego."
+	},
+	{
+		"name": "SR_03_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El equipo del representante tiene una incorporación. La incapacidad para intervenir del Compositor y la mía, como Productor, deja a Shibuya desamparada, aunque la nueva recluta podría ayudar a cambiar las tornas.<BR><BR>Nagi Usui, la nueva, es de carácter abierto y, al mismo tiempo, cerrado. Esto sirve a la perfección como soporte para la de Tosai Furesawa. Esta variedad de personalidades y habilidades debería jugar a su favor."
+	},
+	{
+		"name": "SR_03_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El representante ha empezado a usar sus poderes. Me cuesta creer que alguien pueda poseer tal habilidad de forma latente.<BR><BR>Estos poderes son habilidades únicas y despiertan con vibraciones en sintonía. Estas vibraciones proceden del plano superior y conectan con el alma, convirtiéndola en un poder inactivo. Casualmente, son estas vibraciones las que facilitan el viaje entre planos."
+	},
+	{
+		"name": "SR_03_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Es muy raro que aparezcan de manera sucesiva jugadores con poderes latentes. Creo que los pines del MR están impregnados de estas vibraciones para dar con tales individuos; cuanto mayor sea el número de manos por el que pasen, mayor será la probabilidad de hallar nuevos y prometedores jugadores.<BR><BR>Aun así, las habilidades del representante suponen una desviación de los poderes latentes normales."
+	},
+	{
+		"name": "SR_03_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Es demasiado peligroso. Por el bien del IM y del MR, me habría asegurado de que estas habilidades siguieran ocultas. Pueden deformar y destruir el código de los planos inferiores.<BR><BR>Tal vez el Compositor lo sabe y es lo que le hizo elegir a su representante."
+	},
+	{
+		"name": "SR_04_1",
+		"speaker": "",
+		"listener": "",
+		"content": "¿Cuál es el objetivo del Juego de los Segadores, exactamente? Veamos.<BR><BR>El objetivo explícito es localizar individuos con poderes excepcionales. Los jugadores con gran Imaginación van al plano superior. Allí, ya como segadores o como ángeles, se les encarga la supervisión de una región."
+	},
+	{
+		"name": "SR_04_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El IM está en un plano superior al del MR. Tras la muerte del cuerpo en el MR, el alma se somete a unos ajustes y se envía al IM, que se considera como el <MK_11>más allá<MK_11>.<BR><BR>No obstante, el representante y sus compañeros llegaron al IM sin modular. Ya han empezado a sospechar que pasa algo raro, tanto con ellos mismos como con los Ruinbringers."
+	},
+	{
+		"name": "SR_04_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Como cualquier jugador, los segadores tendrían que luchar por sus vidas, pero su organización interna está estancada.<BR><BR>Hace tres años, el Compositor en funciones de Shibuya y su Director organizaron un Juego para decidir el futuro de la ciudad. Lo que sucedió se conoce como la corrupción de Shibuya. Y el impasse jerárquico podría deberse a los opositores de dicha corrupción."
+	},
+	{
+		"name": "SR_04_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Al terminar el día, he detectado nuevas vibraciones.<BR><BR>Creo que esos pines han despertado nuevos poderes en alguien y lo han modulado para acceder al IM, igual que al representante.<BR><BR>Esta vez, es alguien que el Compositor y yo conocemos bien."
+	},
+	{
+		"name": "SR_05_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Acaba de tener lugar una lucha territorial conocida como <MK_11>Conquistas cruzadas<MK_11>.<BR><BR>Los Ruinbringers no han querido participar. De haberlo hecho, seguro que hubieran ganado, lo que habría minado la moral del resto. Me da que este jueguecito, en el que los jugadores se enfrentan entre sí, no tiene más propósito que el de entretener al Director."
+	},
+	{
+		"name": "SR_05_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta semana es la número 104 a las órdenes del Director actual. Los de la Deep Rivers Society, los Variabeauties y los Purehearts han pasado por unas 30 iteraciones del Juego. Sus miembros empiezan a mostrar signos de cansancio, seguramente por la sensación de impotencia frente a los Ruinbringers.<BR><BR>Percibir que jamás podrán ganar el Juego ha supuesto un revés en el bienestar general."
+	},
+	{
+		"name": "SR_05_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El equipo del representante podrá evitar quedar en último lugar, pero no será fácil superar a los Ruinbringers para alzarse con la victoria. Aunque puede pasar cualquier cosa en este Juego. Puede que me sorprendan y todo.<BR><BR>Minamimoto se ha dado cuenta de los poderes del representante y parece que planea algo."
+	},
+	{
+		"name": "SR_06_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El alma del representante está cambiando. Aunque parezca extraño, en vez de desarrollarse, se está estancando. Parece como si la amplitud de sus vibraciones se acortara.<BR><BR>Creo que esto se puede deber a su predisposición para aceptar opiniones y sugerencias de los demás pensando que son las suyas propias. No parece darse cuenta de lo que hace. Puede que nunca se dé cuenta a este paso."
+	},
+	{
+		"name": "SR_06_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Lo normal es que los jugadores de Shibuya paguen un derecho de entrada al llegar. Así, el Compositor les ofrece la oportunidad de revaluarse a sí mismos. En cambio, este Juego no tiene derecho de entrada.<BR><BR>Las normas de Shinjuku no promueven ni permiten el crecimiento personal: este Juego es una simple competición para ganar puntos y demostrar lo que uno vale."
+	},
+	{
+		"name": "SR_06_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El alma estancada del representante lo hace perfecto para hacer uso de su habilidad latente. Su retentiva le permite mantener sus niveles de Imaginación a un nivel ridículo, aumentando así la precisión cada vez que viaja en el tiempo.<BR><BR>Las piezas encajan a la perfección. Espero que solo sean cosas mías."
+	},
+	{
+		"name": "SR_07_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La Deep Rivers Society ha sido eliminada de acuerdo a las reglas del Juego. Las almas de sus socios, incluido el líder, se han esfumado.<BR><BR>Su eliminación contradice el objetivo de juzgar las habilidades de cada jugador, pero no sorprende viniendo del Director actual. Tras presenciar dicho evento, las vibraciones del representante han vuelto a debilitarse. Habrá que vigilar su estado emocional, cada vez más endurecido."
+	},
+	{
+		"name": "SR_07_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Como sospechaba, el individuo que llegó cuando el representante más lo necesitaba era el origen de las vibraciones que capté el otro día.<BR><BR>Creo que el Compositor no ha tenido nada que ver en la llegada de nuestro viejo amigo. En contraste con el desenfreno del Ejecutor, parece que el Compositor se está tomando su tiempo."
+	},
+	{
+		"name": "SR_07_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Aunque no puedo contactarle para confirmarlo, creo que la aparición de este individuo va a ser un punto a favor para Shibuya.<BR><BR>Minamimoto, por su parte, ha estado al lado del representante continuamente. Su sigilo de la refinería incrementa exponencialmente su Imaginación y puede que, por ello, sea capaz de reconocer las habilidades del representante."
+	},
+	{
+		"name": "SR_07_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Creo que sé lo que planea. Es algo peligroso, pero no puedo detenerlo.<BR><BR>Cabe mencionar que su sigilo de la refinería de Ruido es una reproducción del original copiada por cierto segador. Su completitud, o carencia de ella, podría ser un factor en lo que respecta al cambio sutil en las vibraciones fundamentales de Minamimoto."
+	},
+	{
+		"name": "SR_08_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Quedan cuatro equipos: los Ruinbringers, los Purehearts, los Variabeauties y los Wicked Twisters. Solo uno puede sobrevivir y alzarse con la victoria.<BR><BR>Al fin, parece que el Juego va a concluir."
+	},
+	{
+		"name": "SR_08_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Las normas de Shinjuku permiten la entrada de nuevos jugadores si sus habilidades superan la media total de Imaginación de los jugadores en activo.<BR><BR>Según el Juego avanza, se elimina a los equipos más débiles, haciendo que dicha media aumente y sea cada vez más difícil que entre un jugador nuevo."
+	},
+	{
+		"name": "SR_08_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Sin contar ya con la Deep Rivers Society, las impresionantes habilidades de los Wicked Twisters han permitido que la media de Imaginación aumente sobremanera.<BR><BR>Ahora, solo un jugador legendario podría entrar al Juego.<BR><BR>Cabe esperar que el Juego continúe y concluya sin ninguna incorporación más."
+	},
+	{
+		"name": "SR_08_4",
+		"speaker": "",
+		"listener": "",
+		"content": "El Juego continuará al menos dos semanas, pero el Director aún no ha contactado con el Compositor. Es posible que sea ajeno al protocolo de purificación que sigue el plano superior.<BR><BR>Si todo sigue de acuerdo al plan del Director, él será quien se alce victorioso en el Juego."
+	},
+	{
+		"name": "SR_09_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Nuestro recién llegado se ha unido al equipo del representante, como si viniera a ocupar el espacio dejado por Minamimoto.<BR><BR>Daisukenojo Bito, o Beat, participó en el Juego que llevó a la corrupción de Shibuya. Su fortaleza, junto a su Alma e Imaginación, son admirables. Va a ser un aliado importante para el representante."
+	},
+	{
+		"name": "SR_09_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El alma del representante sigue estancada. O podría decirse que se ha estancado aún más.<BR><BR>Sentí algo parecido cuando Minamimoto se unió al equipo hace ocho días.<BR><BR>Si se trata de la inmadurez elemental del Alma del representante, será complicado hacerle ver la luz, al contrario que en el caso de Neku, que culminó con la corrupción."
+	},
+	{
+		"name": "SR_09_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El representante ha vuelto a viajar en el tiempo. La distorsión planar ha crecido tanto que, a este paso, puedo prever un aumento explosivo en unos cuantos viajes más.<BR><BR>Aun así, el pin del representante se encarga de absorber eficazmente las distorsiones planares, evitando que el IM y los planos inferiores se vean afectados por ahora."
+	},
+	{
+		"name": "SR_10_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los <MK_11>Segadores de Shibuya<MK_11> eran quienes supervisaban dicha zona. El conflicto entre facciones ha provocado que aparezcan los <MK_11>Segadores de Shinjuku<MK_11> como contragrupo.<BR><BR>Hace tres años, la Inversión de Shinjuku dio lugar a su purificación, y forzó a los segadores de allí a huir a Shibuya.  Una Inversión sucede cuando la frontera entre el IM y el MR se desvanece y fuerza la purificación del lugar."
+	},
+	{
+		"name": "SR_10_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiene lugar, en contadas ocasiones, cuando el Compositor y el Director no concuerdan en cuanto a la purificación.<BR><BR>Un segador puede ir a trabajar a otra zona sin permiso expreso del Compositor. Estos traslados dependen del Director.<BR><BR>En este caso, el Director provisional de Shibuya de entonces autorizó el traslado de todos los segadores de Shinjuku a Shibuya."
+	},
+	{
+		"name": "SR_10_3",
+		"speaker": "",
+		"listener": "",
+		"content": "No detecto al Director de Shinjuku ni sus vibraciones. Supongo que desapareció junto con su región.<BR><BR>Una vez se inicia una purificación, lo normal es invitar al Director a ascender a un plano superior. Apenas hay constancia de que se hayan producido traslados de personal masivos tras la eliminación de un Director.<BR><BR>Apenas."
+	},
+	{
+		"name": "SR_10_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Tras revisar los archivos, he hallado cuatro casos con el área afectada en desequilibrio antes de que se decidiera su purificación. Uno de esos casos es la corrupción de Shibuya.<BR><BR>El Compositor debería redactar un informe sobre las circunstancias que llevaron a la purificación de Shinjuku. Aunque dudo que el suyo fuera un trabajo exhaustivo, visto el desinterés hacia los planos inferiores."
+	},
+	{
+		"name": "SR_10_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Dado que el Compositor de Shibuya aceptó tácitamente a los segadores de Shinjuku, los de Shibuya no tienen más opción que seguir las normas que les han asignado.<BR><BR>Independientemente de las circunstancias, Shiba Miyakaze se ha convertido de manera legal en el Director, al ser considerado apto para el cargo."
+	},
+	{
+		"name": "SR_11_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La inquietud crece entre los líderes, y el estado psicológico del representante está lejos de ser óptimo. Espero que aguante esta semana.<BR><BR>El ritmo de base del equipo es extremadamente bajo. En un sistema que depende del trabajo en equipo, ciertas irregularidades tienen mayores repercusiones en el resultado del Juego."
+	},
+	{
+		"name": "SR_11_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La red llamada RNS se creó específicamente para este Juego. La facilidad con la que mide las vibraciones y la Imaginación de cada individuo hacen de ella una útil herramienta en la gestión de jugadores y segadores.<BR><BR>Aun así, al hacerla pública, se puede acceder a esta información desde el MR."
+	},
+	{
+		"name": "SR_11_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Al menos solo la pueden encontrar aquellos que conocen la existencia del IM y son expertos en redes. No se requiere modulación para comunicarse así entre planos, aunque no está claro qué otros efectos puede provocar.<BR><BR>Puede que, al comunicarse a través de la red, la Imaginación quede inhibida, al igual que no se puede capturar el significado y la imaginación de una obra de arte en una pantalla."
+	},
+	{
+		"name": "SR_11_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ya no sigo en activo como CAT, pero cuando retome mi trabajo, debo tener en cuenta cómo se percibirán mis obras al compartirlas digitalmente y, por tanto, alterar mis métodos de expresión.<BR><BR>Quien haya programado la RNS podría ofrecerme su interpretación del asunto."
+	},
+	{
+		"name": "SR_12_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El estado psicológico del representante ha cambiado. Y la relación con los miembros de su equipo ha mejorado también. Son buenas noticias.<BR><BR>No obstante, el Alma del representante sigue estancadísima.<BR><BR>Aún no he podido analizar dicho estancamiento, ya que solo puedo limitarme a observar y esperar que todo salga bien."
+	},
+	{
+		"name": "SR_12_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Según las normas de Shinjuku, las acciones de los segadores están limitadas. Está claro que obstruir a los jugadores no está permitido a nivel básico.<BR><BR>Los enemigos principales de los jugadores son los jugadores de otros equipos. Así, cualquier equipo que apunte alto tendrá que pasar por los Ruinbringers."
+	},
+	{
+		"name": "SR_12_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El representante y su equipo abordan de modo diferente la supuesta invencibilidad de los Ruinbringers. Está por ver hasta qué punto este enfoque va en contra de las normas del Juego.<BR><BR>No creo que el Director pase del asunto y les dejé campar a sus anchas. Si se ve obligado a intervenir, las cosas pueden acabar muy bien... o muy mal."
+	},
+	{
+		"name": "SR_12_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Como decía anteriormente, los segadores no pueden intervenir en el Juego. Pero uno de ellos está haciendo justamente eso.<BR><BR>Es posible que le quiten el rango de segadora, pero ¿qué le pasará entonces cuando termine el Juego?"
+	},
+	{
+		"name": "SR_13_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El líder de los Purehearts, un tal Motoi Anazawa, se ha metido en un buen lío.<BR><BR>Mientras estaba vivo, su personalidad digital tenía al representante como leal admirador. Si el tal Motoi tiene que ser suprimido, seguro que esto tendrá un efecto devastador en el representante. Ya veremos hasta qué punto."
+	},
+	{
+		"name": "SR_13_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La comunicación en las redes sociales tiene aspectos positivos y negativos, como los tiene la comunicación en persona. Aunque es cierto que la opacidad y el anonimato que acompañan a la comunicación digital puede producir mayores malentendidos.<BR><BR>Ver la verdadera naturaleza de Motoi Anazawa, oculta digitalmente, ha debido de suponer todo un golpe para el representante."
+	},
+	{
+		"name": "SR_13_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Según suponía, como castigo por ayudar a los jugadores directamente, Shoka Sakurane ha sido despojada de su condición de segadora.<BR><BR>Los segadores no tienen mayores restricciones en el uso de la RNS. Pueden interactuar con el MR libremente mientras no revelen su identidad. Pero si son degradados, su cuenta se borra y se crea una nueva cuenta de jugador en su lugar."
+	},
+	{
+		"name": "SR_13_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Como han desactivado su vieja cuenta, Shoka Sakurane ya no puede interactuar con el representante como antes, a no ser que decida revelarle su identidad.<BR><BR>Le ha estado ayudando mediante mensajes todo el tiempo, pero ahora ya no tiene esa opción, así que no es posible saber qué hará a continuación."
+	},
+	{
+		"name": "SR_14_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El Director ha dejado claras sus intenciones a los jugadores. Aunque sería imposible que en su cargo de Director pudiera llevar a cabo la destrucción de Shibuya, él se cree que es también el Ejecutor, enviado desde el plano superior para purificar la ciudad.<BR><BR>Los Purehearts han sido eliminados, como era de esperar. Ya solo quedan dos equipos, si no contamos a los Ruinbringers."
+	},
+	{
+		"name": "SR_14_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ahora que se ha revelado la verdadera naturaleza de los Ruinbringers, es posible que las normas cambien en el Juego para reflejar que los jugadores se enfrentan a segadores.<BR><BR>He detectado vibraciones peculiares emanando de un objeto inanimado. Me parecía extraño que hiciera aparición un peluche viejo, pero, por lo que se ve, alberga temporalmente un Alma en desgracia."
+	},
+	{
+		"name": "SR_14_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El Director de Shinjuku salvó al Alma que se esconde en el peluche, dando su vida a cambio.<BR><BR>Para liberar esta Alma, hace falta el poder de un ángel, pero el Compositor sigue desaparecido y yo no puedo participar en el Juego.<BR><BR>Dudo que el Ejecutor tenga a bien ayudar, sobre todo porque probablemente fue él quien encerró al Alma ahí."
+	},
+	{
+		"name": "SR_14_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Solo tenemos dos opciones, que son dejar al Alma encerrada para siempre o encontrar a alguien que pueda liberarla. Supongo que quien creó el peluche, una jugadora que regresó al MR hace tres años, podría ser de ayuda.<BR><BR>Lamentablemente, no está en Shibuya ahora mismo."
+	},
+	{
+		"name": "SR_15_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Las normas del Juego han cambiado considerablemente. Los jugadores, los segadores y hasta el Director pueden decidir suprimir a sus oponentes al derrotarlos.<BR><BR>En el momento en que cambiaron las normas, Shiba puso en marcha algo contra Shibuya.<BR><BR>Está preparando una Inversión."
+	},
+	{
+		"name": "SR_15_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido liberado por el Director ha desestabilizado el código de toda Shibuya. Los planos inferiores, como el IM y el MR, se han vuelto inestables.<BR><BR>El código es un conjunto de leyes que une las Almas que conforman toda existencia. Son como los tornillos que unen las piezas de un todo."
+	},
+	{
+		"name": "SR_15_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Podría decirse que a Shibuya se le han caído algunos tornillos y otros se están aflojando, y la ciudad se apoya en su propio peso. Vamos, que está al borde del colapso.<BR><BR>El deterioro de la frontera entre el MR y el IM se ve acelerado por el Ruido que no cesa de multiplicarse. Si la frontera desaparece, la ciudad se verá destruida y purificada."
+	},
+	{
+		"name": "SR_15_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Muchos en el plano superior piensan que la purificación normal es inútil, ya que conserva la infraestructura planar vigente. Hay un acuerdo acerca del uso limitado de las Inversiones, pues conllevan la pérdida de carácter del área, según su infraestructura se somete a un proceso de destrucción y reconstrucción.<BR><BR>Con todo, el Compositor sigue en silencio aunque Shibuya parece abocada al mismo destino que Shinjuku."
+	},
+	{
+		"name": "SR_15_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Aunque Shibuya ha experimentado grandes cambios, el estado psicológico del representante sigue estable. Puede verse como parte de su crecimiento personal: ha llegado a comprender la situación en la que se encuentra inmerso, así como las acciones que debe emprender en respuesta.<BR><BR>Shoka Sakurane se ha unido a su grupo. Sus extraordinarios poderes la convierten en un fichaje estrella."
+	},
+	{
+		"name": "SR_16_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Han eliminado a uno de los segadores de Shinjuku. El Director lo sospechaba.<BR><BR>Los ángeles vibran tan fuerte que pueden alterar a los que se hallan en planos inferiores. Por lo visto, muchos de los segadores de Shinjuku han notado un cambio muy marcado en la personalidad de Shiba Miyakaze.<BR><BR>Me pregunto qué pensará de todo esto cuando el Ejecutor se marche y lo deje volver a su propio yo."
+	},
+	{
+		"name": "SR_16_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El representante ha usado la habilidad Repetir ocho veces. Su pin ha absorbido las distorsiones planares generadas y ha ido cambiado de apariencia. Por el momento, no parecen darse efectos negativos.<BR><BR>Me intriga el hecho de que el pin cambie físicamente. Puede significar que es fundamentalmente diferente del resto de pines."
+	},
+	{
+		"name": "SR_16_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tal vez la habilidad de viajar en el tiempo no está tan latente. Es demasiado poderosa y tendría más sentido si hubiera sido un regalo concedido al representante a través de su pin.<BR><BR>Los pines de jugador los creó el Ejecutor. Al ser un ángel, puede elaborar pines especiales a su antojo."
+	},
+	{
+		"name": "SR_16_4",
+		"speaker": "",
+		"listener": "",
+		"content": "No está claro cuándo o cómo adquirió el representante su pin. Debería haber sido cuando llegó al IM.<BR><BR>Lo único que sé con certeza es que aquel día entraron en juego varios factores que influyeron en el destino del representante.<BR><BR>Sea como sea, otorgarle este pin sabiendo que es el representante del Compositor es un acto de valentía... o de rebeldía."
+	},
+	{
+		"name": "SR_17_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los Variabeauties han sido eliminados. Es un golpe duro para el equipo del representante, ya que Kanon Tachibana les ofrecía apoyo emocional.<BR><BR>Tosai Furesawa es el más afectado, a pesar de que intenta ser evasivo y no muestra fácilmente sus verdaderos sentimientos."
+	},
+	{
+		"name": "SR_17_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando la experiencia obliga a uno a mostrarse o pensar de cierto modo, es difícil cambiar de actitud. Esto suele llevar a desarrollar amargura o angustia.<BR><BR>Me pregunto cuánta más podrá soportar Tosai Furesawa. La respuesta depende del representante y el resto de compañeros de equipo."
+	},
+	{
+		"name": "SR_17_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Dejemos eso a un lado.<BR><BR>El equipo del representante es el único que queda en pie.<BR><BR>El Director está extrañamente obsesionado con la inestabilidad del equipo. Diría incluso que se ve más preocupado por sus enemigos que por la batalla en sí. Según se está desarrollando la historia, no me extrañaría que se aliara con el representante."
+	},
+	{
+		"name": "SR_17_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Con las cartas sobre la mesa, los segadores, en especial los de Shibuya, tienen que elegir un bando.<BR><BR>Los que me conocen, intentan contactarme de vez en cuando, pero no puedo responderles.<BR><BR>Tendrán que crecer y adaptarse si quieren sobrevivir a tantos cambios."
+	},
+	{
+		"name": "SR_17_5",
+		"speaker": "",
+		"listener": "",
+		"content": "La cafetería de la calle del Gato, mi centro de operaciones hace tres años, siempre está abierta. Parece que algunos se pasan por ahí de vez en cuando.<BR><BR>Por cierto, las leves vibraciones que capté de Shinjuku han recuperado toda su fuerza. Alguien se acerca. Alguien que puede decidir el destino de Shibuya."
+	},
+	{
+		"name": "SR_18_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba ha vuelto a Shibuya. Como sospechaba, las vibraciones que capté hace 17 días eran las suyas.<BR><BR>Al ser los últimos que quedan, se ha desarrollado el sentido de la unidad en los Wicked Twisters, aunque Daisukenojo Bito está empeñado en hacerse el responsable del equipo."
+	},
+	{
+		"name": "SR_18_2",
+		"speaker": "",
+		"listener": "",
+		"content": "No quiero decir que se equivocara en cuanto a Minamimoto, pero probablemente hubiera sido eliminado si no aparece Neku en el momento preciso.<BR><BR>El equipo pudo evitar el desastre por muy poco. Espero que puedan seguir con su buena racha."
+	},
+	{
+		"name": "SR_18_3",
+		"speaker": "",
+		"listener": "",
+		"content": "La atención de Minamimoto se centraba en las distorsiones planares cuando se convirtió en medio Ruido. Puede que no sea capaz de medir con precisión las distorsiones del IM, pero puede percibirlas y eso es en sí toda una hazaña.<BR><BR>Creo que también se ha dado cuenta de sus propias distorsiones internas y de que no deberían detectarse desde el IM."
+	},
+	{
+		"name": "SR_18_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto ha llegado a la misma conclusión que yo:<BR><BR>viajar en el tiempo es una habilidad demasiado poderosa para alguien de un plano inferior.<BR><BR>Creo que empiezo a ver cuál es el plan del Ejecutor."
+	},
+	{
+		"name": "SR_18_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Una cosa que me preocupa también es el Alma del representante.<BR><BR>Su estancamiento ha reaparecido, cuando parecía que era cosa del pasado. Tiene que haber un motivo para ello, bien sea el miedo que le tiene a Minamimoto o la incertidumbre que rodea su relación con Neku."
+	},
+	{
+		"name": "SR_19_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba se ha unido al equipo del representante. El Compositor lo sacó de Shibuya y lo mandó a Shinjuku durante su purificación, al parecer como muestra de confianza en él y manteniéndolo aislado y a salvo de aquellos que irían tras él por sus habilidades formidables.<BR><BR>Por otro lado, el Alma del representante sigue estancada. Tengo que averiguar qué le impide avanzar. Esto sería muy simple si pudiera sentarme a hablar con él."
+	},
+	{
+		"name": "SR_19_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Tras solicitarlo sin descanso, al fin me han dejado el informe de la purificación de Shinjuku. Por lo visto, el Juego supuso un conflicto entre el Director y los segadores. En realidad, el Compositor, que ansiaba purificar Shinjuku, metió al Ejecutor entre los segadores para que se opusiera y destronara al Director.<BR><BR>Esto explica que este Director fuera suprimido y los segadores trasladados."
+	},
+	{
+		"name": "SR_19_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi Matsunae tenía sus dudas acerca del Ejecutor, por lo que decidió salvaguardar su Alma. Era una de los segadores hasta que el Ejecutor la degradó por aliarse con su hermano mayor, el Director de Shinjuku.<BR><BR>Allí, perder la condición de segador equivalía a ser eliminado. Al verse derrotado, el Director de Shinjuku usó las fuerzas que le quedaban para salvar a su hermana confinando su alma en un peluche."
+	},
+	{
+		"name": "SR_19_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ese peluche era de Shiki Misaki. Alguien de Shibuya lo había dejado en Shinjuku.<BR><BR>Así, Tsugumi Matsunae resultó ser la única superviviente de la purificación de Shinjuku. Seguía siendo segadora, pero estaba atrapada y era vigilada por el Ejecutor."
+	},
+	{
+		"name": "SR_19_5",
+		"speaker": "",
+		"listener": "",
+		"content": "No pudo oponerse cuando el Ruido atrapó su Alma. Aun así, todavía podía mandar mensajes al representante usando su habilidad latente.<BR><BR>Ahora ya se ha deshecho del Ruido que la poseía. Si se arregla el daño ocasionado al peluche, su Alma podrá ser libre."
+	},
+	{
+		"name": "SR_20_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El río de Shibuya es un lugar único, incluso entre aquellos que habitan planos superiores. Nace en Shinjuku, por lo que debería haber desaparecido con la purificación. Aun así, continúa su curso en su propio plano.<BR><BR>Fue una idea estupenda esconder allí almas que se salvarían de la purificación."
+	},
+	{
+		"name": "SR_20_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaichi Susuki amaba el Juego y se preocupaba por sus compatriotas más que cualquier segador de Shinjuku. Sus actos no dejan lugar a dudas.<BR><BR>La mayoría de los segadores de Shinjuku mantienen los vínculos que los unían anteriormente. No sé qué tipo de segador era Shiba Miyakaze antes de ser corrompido por el Ejecutor. Pero, a juzgar por la devoción sin igual de los otros segadores de Shinjuku, debía de ser alguien carismático."
+	},
+	{
+		"name": "SR_20_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Aún no se sabe si Shiba Miyakaze podrá librarse de la influencia del Ejecutor al finalizar el Juego.<BR><BR>Pero aunque vuelva a ser el de antes, tendrá que encarar la tragedia que supone la pérdida de sus amigos debido a sus propias acciones."
+	},
+	{
+		"name": "SR_20_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba teme a los poderes del representante. El pin continúa absorbiendo las distorsiones que se generan, pero no las destruye. Es como si las conservara con algún propósito.<BR><BR>Me pregunto qué pensará el Compositor de todo esto... Sigue sin haber noticias de él. ¿Acaso tiene un plan concreto? Mañana lo sabremos."
+	},
+	{
+		"name": "SR_21_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Las distorsiones planares causadas al viajar en el tiempo eran parte del plan del Ejecutor para purificar Shibuya. El estado del representante y sus amigos ha empeorado.<BR><BR>La habilidad de crear Ruido a partir de energía distorsionada es algo único. Debe de ser un poder latente en el Ejecutor, que le permite crear Ruido o le otorga algún tipo de poder."
+	},
+	{
+		"name": "SR_21_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Resumiendo, las distorsiones eran Almas. Se manifiestan a partir de los pensamientos y del tiempo perdido de aquellos cuyas líneas temporales fueron arrancadas de su historia.<BR><BR>El pin del representante almacena las distorsiones de cada línea temporal abandonada, lo que provoca comportamientos similares a los pensamientos de origen. Es decir, el pin permite a las distorsiones crecer y multiplicarse con cada nuevo viaje."
+	},
+	{
+		"name": "SR_21_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Los pájaros que vio el representante son distorsiones originadas por el pin. Obedecen órdenes y son fáciles de transportar.<BR><BR>Por lo general, las Almas necesitan un catalizador que les dé forma. El pin del Ejecutor es el catalizador en este caso: genera Ruido de antemano y trasplanta la Imaginación de las distorsiones en ellos."
+	},
+	{
+		"name": "SR_21_4",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ejecutor es tremendamente bueno controlando Ruido.<BR><BR>Es posible que el Ruido que tiene forma de pájaro sea temporal y cambie en algún momento.<BR><BR>Si su forma es indefinida y en cambio constante, el representante y su equipo no lo tendrán fácil en la batalla.<BR><BR>Shibuya corre grave peligro."
+	},
+	{
+		"name": "SR_22_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya tiene un nuevo visitante. Alguien a quien ni el Compositor esperaba. Es la misma persona que escribió el informe sobre la Inversión de Shinjuku.<BR><BR>¿Por qué habrá venido a Shibuya? No creo que sea para hacerse cargo del Ejecutor. Tanzo Kubo puede esperar a que la purificación concluya."
+	},
+	{
+		"name": "SR_22_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Parece ser que el Compositor de Shinjuku, un tal Hazuki Mikagi, ha eliminado el Ruido del Ejecutor y ha dado al representante otra oportunidad. Creo que sé por qué. El Compositor de Shibuya, sin embargo, debe de estar decepcionado."
+	},
+	{
+		"name": "SR_22_3",
+		"speaker": "",
+		"listener": "",
+		"content": "He logrado averiguar la causa que estancaba el Alma del representante: su miedo a asumir responsabilidades.<BR><BR>Cuando aparecieron compañeros de los que fiarse como Minamimoto, Daisukenojo Bito o Neku, el alivio de verse libre de la responsabilidad dio paz a su mente.<BR><BR>Es curioso que fuera el nada empático Compositor de Shinjuku el que me llevó a esta conclusión."
+	},
+	{
+		"name": "SR_22_4",
+		"speaker": "",
+		"listener": "",
+		"content": "La existencia de Shibuya depende ahora del representante y sus viajes en el tiempo para evitar su destrucción.<BR><BR>Es decisión del representante si quiere o no volver atrás. Tiene ese derecho.<BR><BR>Shibuya ha visto la destrucción, pero ahora el peligro es mucho mayor. Es un reto al que no nos podemos resistir."
+	},
+	{
+		"name": "SR_23_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El equipo del representante se enfrentó a un Ruido con forma de pájaro gigante. Renació de los inestables Ruidos con forma de pájaro negro que, tras ser destruidos, fueron reagrupados. Es una clara interferencia por parte del Compositor de Shinjuku.<BR><BR>Esto permitió al representante y a su equipo centrar sus esfuerzos en un único objetivo."
+	},
+	{
+		"name": "SR_23_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cada pluma de la cola del fénix es la representación kármica de cada uno de los cambios en las líneas temporales.<BR><BR>Tal vez sea una manifestación del conflicto interno del Compositor de Shinjuku: aunque le guste el representante y su equipo, no ceja en su empeño por purificar Shibuya."
+	},
+	{
+		"name": "SR_23_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Creo que su intervención al ocuparse del Ejecutor, contactar al representante y encargarse de las distorsiones va más allá de una simple disculpa hacia Shibuya.<BR><BR>Le proporcionó la excusa perfecta para dar el paso y actuar directamente.<BR><BR>Sin embargo, el Compositor de Shibuya no la aprovechó y siguió inactivo hasta el final."
+	},
+	{
+		"name": "SR_23_4",
+		"speaker": "",
+		"listener": "",
+		"content": "El motivo de aparecer ante Neku Sakuraba y los demás mientras se conectaban a la Imaginación de Shibuya no era el de ayudarles, sino estabilizar la mente de Neku Sakuraba recordándole su existencia.<BR><BR>Las vibraciones registradas por la RNS no revelan ninguna interferencia externa. El equipo del representante derrotó al Cantus phoenix uniendo sus fuerzas a las de Shibuya."
+	},
+	{
+		"name": "SR_24_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Ahora que el Juego ha terminado, al fin me han dado permiso para contactar al Compositor.<BR><BR>Han pasado ya varios días y ya ha completado dos órdenes del día.<BR><BR>Una de ellas concerniente a Neku Sakuraba."
+	},
+	{
+		"name": "SR_24_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Utilizando una muestra de un mundo paralelo, en el cual Neku nunca había ido a Shinjuku y había vivido tranquilo en el MR durante tres años, el Compositor modificó el espacio y los recuerdos de Neku para que pudiera volver a vivir en el MR sin problemas.<BR><BR>Tal acción no es exclusiva, ya que se realiza cada vez que se devuelve a un segador al MR."
+	},
+	{
+		"name": "SR_24_3",
+		"speaker": "",
+		"listener": "",
+		"content": "El otro asunto es sobre Shoka Sakurane.<BR><BR>Su eliminación al acabar el Juego era algo seguro por perder su condición de segadora. Aun así, el Compositor salvó su Alma en el momento en que se difuminaba. Ha podido renacer en el MR en Shibuya.<BR><BR>Creo que esta sí es una rara expresión de gratitud por parte del Compositor. Gratitud hacia el representante, se entiende."
+	},
+	{
+		"name": "SR_24_4",
+		"speaker": "",
+		"listener": "",
+		"content": "El representante también ha sido devuelto sano y salvo al MR. Gracias a él, he aprendido mucho acerca de la red como plano simulado de la existencia, así como sus efectos en las emociones humanas.<BR><BR>Está claro que actúa como herramienta que amplía horizontes. Aun así, depende del usuario enteramente explorar y experimentar ese mundo abierto para que no sea una mera simulación."
+	},
+	{
+		"name": "SR_24_5",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Disfruta del presente<MK_11> y <MK_11>sigue adelante<MK_11>. Puede que al negarse a interferir hasta el final, el Compositor quisiese transmitir a Shibuya la importancia de aceptar tus circunstancias y actuar en consecuencia.<BR><BR>Yo tengo un mensaje personal para el representante, Rindo Kanade:<BR><BR>la decisión que tomaste requería valor, y te agradezco que lo hicieras. Ojalá podamos conocernos en persona algún día."
+	}
+]
+}

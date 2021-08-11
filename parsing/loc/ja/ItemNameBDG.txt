@@ -1,0 +1,3010 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジ",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショックウェイヴ",
+		"comment": "PSY［無/無］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミダレガミ",
+		"comment": "PSY［猿/無］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナミクグリ",
+		"comment": "PSY［猿/無］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アザマル",
+		"comment": "PSY［猿/炎］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シシオウ",
+		"comment": "PSY［猿/炎］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フウチン",
+		"comment": "PSY［猿/風］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロウルシ",
+		"comment": "PSY［猿/闇］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホネバミ",
+		"comment": "PSY［猿/闇］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グリズ",
+		"comment": "PSY［無/無］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オニマル",
+		"comment": "PSY［猿/無］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サヨサモンジ",
+		"comment": "PSY［猿/無］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイゼン",
+		"comment": "PSY［猿/無］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キツネガサキ",
+		"comment": "PSY［猿/炎］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ユキミツ",
+		"comment": "PSY［猿/炎］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ふたごクルクル",
+		"comment": "PSY［蛙/水］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ツルマル",
+		"comment": "PSY［猿/風］ボルテックスセイバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レイゲツ",
+		"comment": "PSY［猿/風］ボルテックスセイバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "続・サルの木星",
+		"comment": "PSY［猿/光］ボルテックスセイバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホタル",
+		"comment": "PSY［猿/光］ボルテックスセイバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スマイルDEATH",
+		"comment": "PSY［虎/無］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グランジパンチ",
+		"comment": "PSY［虎/無］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プロミネンスパンチ",
+		"comment": "PSY［虎/炎］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラウドラピッド",
+		"comment": "PSY［虎/炎］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ランブルモッシュ",
+		"comment": "PSY［虎/炎］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フリーザフリーザ",
+		"comment": "PSY［虎/氷］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイススラッシュ",
+		"comment": "PSY［虎/氷］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライトハンド",
+		"comment": "PSY［虎/音］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハウリング",
+		"comment": "PSY［虎/音］ハードパンチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TPフライヤー",
+		"comment": "PSY［虎/無］ハードパンチャースラム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロック×ロック",
+		"comment": "PSY［虎/岩］ハードパンチャースラム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラッシュラッシュ",
+		"comment": "PSY［虎/岩］ハードパンチャースラム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベリンゲイ",
+		"comment": "PSY［無/岩］ハードパンチャースラム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ユビサスサキニ",
+		"comment": "PSY［鳥/無］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メイヨトギセイ",
+		"comment": "PSY［鳥/無］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゼンザイサン",
+		"comment": "PSY［鳥/無］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シマデノカウント",
+		"comment": "PSY［鳥/時］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チュウヤギャクテン",
+		"comment": "PSY［鳥/時］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セナカノトモダチ",
+		"comment": "PSY［鳥/闇］アサシンランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブルロシアン",
+		"comment": "PSY［鳥/闇］アサシンランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トリカエシフカノウ",
+		"comment": "PSY［鳥/毒］アサシンランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジッケンセイコウ",
+		"comment": "PSY［鳥/毒］アサシンランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スコル",
+		"comment": "PSY［無/毒］アサシンランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンロムケイカク",
+		"comment": "PSY［鳥/雷］グレイブマーカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドンテンノヘキレキ",
+		"comment": "PSY［鳥/雷］グレイブマーカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヨクナイカンケイ",
+		"comment": "PSY［鳥/雷］グレイブマーカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スイブンホキュウ",
+		"comment": "PSY［鳥/毒］グレイブマーカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジッケンシッパイ",
+		"comment": "PSY［鳥/毒］グレイブマーカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バレットショット",
+		"comment": "PSY［無/無］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スイートビーム",
+		"comment": "PSY［犬/無］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "よふかしビーム",
+		"comment": "PSY［犬/無］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "花よりビーム",
+		"comment": "PSY［犬/雷］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビビビビーム",
+		"comment": "PSY［犬/雷］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "なりふりビーム",
+		"comment": "PSY［犬/氷］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0054",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "告られマグナム",
+		"comment": "PSY［犬/氷］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0055",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "がらくたマシンガン",
+		"comment": "PSY［犬/アポーツ］スクラップショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0056",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "わがままマシンガン",
+		"comment": "PSY［犬/アポーツ］スクラップショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0057",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クタクタビーム",
+		"comment": "PSY［犬/毒］スクラップショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0058",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フログ",
+		"comment": "PSY［無/水］スクラップショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0059",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "気まぐれランチャ",
+		"comment": "PSY［犬/氷］バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0060",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイラブランチャ",
+		"comment": "PSY［犬/音］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "いただきランチャ",
+		"comment": "PSY［犬/音］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0062",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "温もりランチャ",
+		"comment": "PSY［犬/光］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0063",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ずっきゅんランチャ",
+		"comment": "PSY［犬/光］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0064",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トコトコかばさん",
+		"comment": "PSY［蛙/無］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0065",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クローキー・パニック",
+		"comment": "PSY［蛙/無］エナジーショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0066",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロウ",
+		"comment": "PSY［鳥/無］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0067",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アンイナグウゾウ",
+		"comment": "PSY［鳥/無］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0068",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイゴノオオトリ",
+		"comment": "PSY［鳥/炎］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0069",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モエツキシンドローム",
+		"comment": "PSY［鳥/炎］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0070",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンジツノソクメン",
+		"comment": "PSY［鳥/闇］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キミダケノクオリア",
+		"comment": "PSY［鳥/闇］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0072",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルース",
+		"comment": "PSY［無/闇］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0073",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラプチャーラビット",
+		"comment": "PSY［兎/爆発］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0074",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラシカルブラスト",
+		"comment": "PSY［兎/爆発］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0075",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メタモルフォーゼ",
+		"comment": "PSY［兎/爆発］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0076",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイシーラビット",
+		"comment": "PSY［兎/氷］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0077",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リレーションフロイデ",
+		"comment": "PSY［兎/氷］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0078",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セルフポートレイト",
+		"comment": "PSY［兎/岩］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0079",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラグジュアリースピア",
+		"comment": "PSY［兎/岩］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0080",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アトラクトラビット",
+		"comment": "PSY［兎/重力］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォッフォッフォッフォッ",
+		"comment": "PSY［無/毒］ダーツボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0082",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マグマ救出大作戦",
+		"comment": "PSY［羊/爆発］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0083",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "孤独な宇宙戦争",
+		"comment": "PSY［羊/アポーツ］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0084",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "月面調査で大発見",
+		"comment": "PSY［羊/アポーツ］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0085",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピラミッドの秘密",
+		"comment": "PSY［羊/アポーツ］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0086",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "あこがれの熱気球",
+		"comment": "PSY［羊/風］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0087",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "そして雲になる",
+		"comment": "PSY［羊/風］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0088",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "努力の永久機関",
+		"comment": "PSY［羊/雷］フォーメーションボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0089",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポキュパ",
+		"comment": "PSY［無/毒］フォーメーションボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0090",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "度肝を抜かれるマインボム",
+		"comment": "PSY［蛇/爆発］フォーメーションボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "出端を挫くマインボム",
+		"comment": "PSY［蛇/爆発］フォーメーションボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0092",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "泣く子も黙るマインボム",
+		"comment": "PSY［蛇/爆発］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0093",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "二の足を踏むチェーンボム",
+		"comment": "PSY［蛇/無（鎖）］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0094",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "高を括るチェーンボム",
+		"comment": "PSY［蛇/無（鎖）］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0095",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "骨身に染みるマインボム",
+		"comment": "PSY［蛇/毒］フォーメーションボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0096",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "辛酸舐めるマインボム",
+		"comment": "PSY［蛇/毒］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0097",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "魔が差すボンバー",
+		"comment": "PSY［蛇/闇］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0098",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケロケロクリーム",
+		"comment": "PSY［蛙/水］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0099",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケロケロフラワー",
+		"comment": "PSY［蛙/水］タイムボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タカノス",
+		"comment": "PSY［猿/無］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クモキリ",
+		"comment": "PSY［猿/無］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タイコカネ",
+		"comment": "PSY［猿/音］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カセンカネサダ",
+		"comment": "PSY［猿/音］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イワトオシ",
+		"comment": "PSY［猿/岩］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オモカゲ",
+		"comment": "PSY［猿/岩］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウルフ",
+		"comment": "PSY［無/無］ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "catastrophe",
+		"comment": "PSY［馬/雷］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "propaganda",
+		"comment": "PSY［馬/雷］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "apocalypsis",
+		"comment": "PSY［馬/水］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "sanctuary",
+		"comment": "PSY［馬/水］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "aufheben",
+		"comment": "PSY［馬/毒］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "schrodinger",
+		"comment": "PSY［馬/アポーツ］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "arkadia",
+		"comment": "PSY［馬/アポーツ］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "judgement",
+		"comment": "PSY［馬/雷］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "sacrifice",
+		"comment": "PSY［馬/無（鎖）］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "punishment",
+		"comment": "PSY［馬/雷］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "reflection",
+		"comment": "PSY［馬/雷］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "phenomenon",
+		"comment": "PSY［馬/光］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "absolute",
+		"comment": "PSY［馬/光］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "schadenfreude",
+		"comment": "PSY［馬/闇］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フェニックス",
+		"comment": "PSY［無/無］ライトニングアレスタ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジョリ・ベコ",
+		"comment": "PSY［牛/無］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エンジェルキック",
+		"comment": "PSY［牛/無］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビューティーウインド",
+		"comment": "PSY［牛/風］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェネロジテ",
+		"comment": "PSY［牛/風］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウーファーウーマン",
+		"comment": "PSY［牛/音］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0127",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミリオンディスコ",
+		"comment": "PSY［牛/音］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0128",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プレストンス",
+		"comment": "PSY［牛/炎］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0129",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プリンセスマーダー",
+		"comment": "PSY［牛/炎］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レオアルミス",
+		"comment": "PSY［無/時］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エメイヴェイモン",
+		"comment": "PSY［牛/岩］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クレーターキッス",
+		"comment": "PSY［牛/岩］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストロベリーストーン",
+		"comment": "PSY［牛/岩］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロージーバイソン",
+		"comment": "PSY［牛/雷］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレクトリックハンド",
+		"comment": "PSY［牛/雷］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビューティーヴォルト",
+		"comment": "PSY［牛/雷］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レクス",
+		"comment": "PSY［無/岩］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワンダーチェリー",
+		"comment": "PSY［牛/アポーツ］アポーツビークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェラシードロップ",
+		"comment": "PSY［牛/アポーツ］アポーツビークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0140",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デッドリーロマンス",
+		"comment": "PSY［牛/アポーツ］アポーツビークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0141",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コニコニコールド",
+		"comment": "PSY［兎/氷］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0142",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスドールハウス",
+		"comment": "PSY［兎/氷］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0143",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フリーズヴェルヴェット",
+		"comment": "PSY［兎/氷］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0144",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックドナイトメア",
+		"comment": "PSY［兎/岩］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0145",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァージンヴァンパイア",
+		"comment": "PSY［兎/岩］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0146",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラックキャンドル",
+		"comment": "PSY［兎/炎］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0147",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベランジェール★ラパン",
+		"comment": "PSY［兎/光］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0148",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グレゴワール★ラパン",
+		"comment": "PSY［兎/光］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0149",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ペンギ",
+		"comment": "PSY［無/氷］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "とっぽのおくりもの",
+		"comment": "PSY［鼠/爆発］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "さいごにみた夢",
+		"comment": "PSY［鼠/爆発］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0152",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フルート吹きの約束",
+		"comment": "PSY［鼠/音］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かあさんの秘密",
+		"comment": "PSY［鼠/毒］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "不思議な贈り物",
+		"comment": "PSY［鼠/毒］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "私がいる本当の世界",
+		"comment": "PSY［鼠/光］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0156",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "発明家とっぽ",
+		"comment": "PSY［鼠/光］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0157",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "いつかおわる刻",
+		"comment": "PSY［鼠/時］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0158",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゆりかごととっぽ",
+		"comment": "PSY［鼠/時］ヘビーグレネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0159",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シイバ",
+		"comment": "PSY［無/無］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0160",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ShoGun・虚",
+		"comment": "PSY［龍/無］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0161",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ManjuSage・虚",
+		"comment": "PSY［龍/無］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0162",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "EnJou・焔",
+		"comment": "PSY［龍/炎］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0163",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "KouYou・焔",
+		"comment": "PSY［龍/炎］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0164",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Tubaki・凛",
+		"comment": "PSY［龍/氷］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0165",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HiGan・凛",
+		"comment": "PSY［龍/氷］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0166",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "InaZuma・電",
+		"comment": "PSY［龍/雷］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0167",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RaiJin・電",
+		"comment": "PSY［龍/雷］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0168",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドクドクパニック",
+		"comment": "PSY［蛙/毒］エンタングルメントGHZ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0169",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "KeiRyu・刻",
+		"comment": "PSY［龍/時］エンタングルメントGHZ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0170",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RyuGu・無",
+		"comment": "PSY［龍/無］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0171",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HanaDoki・無",
+		"comment": "PSY［龍/無］エンタングルメント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0172",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ニョロニョロスネーク",
+		"comment": "PSY［蛙/毒］エンタングルメントGHZ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0173",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HouGyoku・陽",
+		"comment": "PSY［龍/光］エンタングルメントGHZ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0174",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェリ",
+		"comment": "PSY［無/無］エンタングルメントGHZ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0175",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イノセントラビット",
+		"comment": "PSY［兎/無］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0176",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メランコリーラビット",
+		"comment": "PSY［兎/無］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0177",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンリンダイヤル",
+		"comment": "PSY［蛙/アポーツ］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0178",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ひこうきエンジョイ",
+		"comment": "PSY［蛙/アポーツ］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0179",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メランコリー×メランコリー",
+		"comment": "PSY［兎/重力］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0180",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コニー×コニー",
+		"comment": "PSY［兎/重力］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0181",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アンジェリークスノウ",
+		"comment": "PSY［兎/氷］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0182",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レイブン",
+		"comment": "PSY［無/風］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0183",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "あおぞらさんぽ",
+		"comment": "PSY［鼠/爆発］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0184",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リボンが安らぐとき",
+		"comment": "PSY［鼠/爆発］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0185",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "音楽家とっぽ",
+		"comment": "PSY［鼠/音］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0186",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "なみのりエンジョイ",
+		"comment": "PSY［蛙/水］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0187",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かっぱパニック",
+		"comment": "PSY［蛙/水］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0188",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "もう、いらない。",
+		"comment": "PSY［鼠/闇］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0189",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ひみつのほら穴",
+		"comment": "PSY［鼠/闇］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0190",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "antinomy",
+		"comment": "PSY［馬/無］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0191",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "pragmatism",
+		"comment": "PSY［馬/重力］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0192",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "aeternum",
+		"comment": "PSY［馬/時］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0193",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "vinculum [lux]",
+		"comment": "PSY［馬/光］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0194",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "vinculum [nox]",
+		"comment": "PSY［馬/闇］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0195",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イーリス",
+		"comment": "PSY［無/無］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0196",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミューティレーション",
+		"comment": "PSY［猪/光］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0197",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かけおちROCKET",
+		"comment": "PSY［猪/光］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0198",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボタンTHEヘブン",
+		"comment": "PSY［猪/時］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0199",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レッドカーレッカー",
+		"comment": "PSY［猪/無］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アンダーエイティーン",
+		"comment": "PSY［猪/無］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロンリーエイリアン",
+		"comment": "PSY［猪/無］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レインボールート66",
+		"comment": "PSY［猪/風］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ｈサイドヒーリング",
+		"comment": "PSY［猪/風］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ｆサイドデフレクター",
+		"comment": "PSY［猪/岩］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "恋するホットドッグ",
+		"comment": "PSY［猪/光］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライノ",
+		"comment": "PSY［無/岩］デフレクター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SuiGen・空",
+		"comment": "PSY［龍/無］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "KoCho・空",
+		"comment": "PSY［龍/無］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SiDare・陰",
+		"comment": "PSY［龍/闇］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Tuzumi・響",
+		"comment": "PSY［龍/音］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "らんららん。らんららん。",
+		"comment": "PSY［無/水］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0212",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "AraUmi・嵐",
+		"comment": "PSY［龍/風］ガーディアンソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "FuuJin・嵐",
+		"comment": "PSY［龍/風］ガーディアンソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "IroGoi・転",
+		"comment": "PSY［龍/アポーツ］ガーディアンソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ShoRyu・陽",
+		"comment": "PSY［龍/光］ガーディアンソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "とらわれの虹姫",
+		"comment": "PSY［鼠/光］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トポトッポ",
+		"comment": "PSY［鼠/光］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "命令しない王様",
+		"comment": "PSY［鼠/雷］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ほのおのきもち",
+		"comment": "PSY［鼠/炎］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "とっぽのお店",
+		"comment": "PSY［鼠/炎］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "王子のおもいで",
+		"comment": "PSY［鼠/氷］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "とっぽと冬の国",
+		"comment": "PSY［鼠/氷］ディフュージョンビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0223",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "魔法のパティシエ",
+		"comment": "PSY［鼠/氷］ディフュージョンビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0224",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "きっと ずっと いっしょ",
+		"comment": "PSY［鼠/重力］レーザーインフェルノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0225",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "はむぞうの一軒家",
+		"comment": "PSY［鼠/闇］ディフュージョンビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0226",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタン",
+		"comment": "PSY［無/光］ディフュージョンビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0227",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かまってトラップ",
+		"comment": "PSY［犬/雷］ライトニングサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0228",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神さまトラップ",
+		"comment": "PSY［犬/雷］ライトニングサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0229",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イマドキトルネード",
+		"comment": "PSY［犬/岩］ストームサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0230",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "わくわくワームホール",
+		"comment": "PSY［犬/重力］グラビティサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0231",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ごきげんワームホール",
+		"comment": "PSY［犬/重力］グラビティサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0232",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ソウタイテキゼッタイ",
+		"comment": "PSY［鳥/重力］グラビティサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0233",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポンポンポップコーン",
+		"comment": "PSY［蛙/無］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0234",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハッピーフライパン",
+		"comment": "PSY［蛙/水］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0235",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケロケロクッキング",
+		"comment": "PSY［蛙/毒］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0236",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケロケロドリンク",
+		"comment": "PSY［蛙/光］ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0237",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かっぱパニック・ゴールド",
+		"comment": "PSY［蛙/光］ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0238",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャーク",
+		"comment": "PSY［無/水］ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0239",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレイムサークル",
+		"comment": "PSY［無/炎］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0240",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "KaChu・焔",
+		"comment": "PSY［龍/炎］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0241",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "AkaFuji・焔",
+		"comment": "PSY［龍/炎］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0242",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "GouKa・焔",
+		"comment": "PSY［龍/炎］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0243",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレファ",
+		"comment": "PSY［無/岩］ストームサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0244",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "縁側の休日",
+		"comment": "PSY［羊/風］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0245",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "高台の風車小屋",
+		"comment": "PSY［羊/風］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0246",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "そして風になる",
+		"comment": "PSY［羊/風］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0247",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "永久凍土の秘宝",
+		"comment": "PSY［羊/氷］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0248",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "月明かりで一泊",
+		"comment": "PSY［羊/氷］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0249",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "銀盤の羊毛",
+		"comment": "PSY［羊/氷］トルネードランブル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0250",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲロゲロマジック",
+		"comment": "PSY［蛙/闇］ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0251",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コロコロコオロギ",
+		"comment": "PSY［蛙/闇］ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0252",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "そして餌になる",
+		"comment": "PSY［羊/風］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0253",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "親切な飛行機乗り",
+		"comment": "PSY［羊/風］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0254",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ともだちの歌",
+		"comment": "PSY［羊/音］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0255",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "異国でアンサンブル",
+		"comment": "PSY［羊/音］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0256",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "決意の旅立ち",
+		"comment": "PSY［羊/時］ブラストウェーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0257",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "白羽の矢が立つスナイパー",
+		"comment": "PSY［蛇/無］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0258",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "惰眠を貪るスナイパー",
+		"comment": "PSY［蛇/無］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0259",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "兎にも角にもスナイパー",
+		"comment": "PSY［蛇/無（鎖）］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0260",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "garagara",
+		"comment": "PSY［蛇/無（鎖）］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0261",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "顔から火が出るファイアーソード",
+		"comment": "PSY［蛇/炎］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0262",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "固唾を呑むほどファイアーソード",
+		"comment": "PSY［蛇/炎］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0263",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "挙句の果てにキャプチャー",
+		"comment": "PSY［蛇/重力］キャプチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0264",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "止むに止まれぬグラビティ",
+		"comment": "PSY［蛇/重力］キャプチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0265",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "四の五の言わずにサンダーソード",
+		"comment": "PSY［蛇/雷］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0266",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "逆鱗触れるサンダーソード",
+		"comment": "PSY［蛇/雷］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0267",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "物議を醸したスナイパー",
+		"comment": "PSY［蛇/毒］ロックオンロケット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0268",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグ",
+		"comment": "PSY［無/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0269",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クォーターバック先輩",
+		"comment": "PSY［猪/無］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0270",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイナーフィーバー",
+		"comment": "PSY［猪/無］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0271",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スーススクローファ",
+		"comment": "PSY［猪/雷］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0272",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mr.ファングマン",
+		"comment": "PSY［猪/雷］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0273",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シシ オン ザ ストリート",
+		"comment": "PSY［猪/炎］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0274",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HOG FANG!!!!!",
+		"comment": "PSY［猪/炎］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0275",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "爆発☆DANGER",
+		"comment": "PSY［猪/爆発］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0276",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケルウス",
+		"comment": "PSY［無/爆発］サスティンアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0277",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ティガー・パンクス",
+		"comment": "PSY［虎/光］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0278",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オプティカルコード",
+		"comment": "PSY［虎/光］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0279",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガーディアン",
+		"comment": "PSY［虎/光］ヒーリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0280",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブートレグチューン",
+		"comment": "PSY［虎/音］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0281",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディスコード",
+		"comment": "PSY［虎/音］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0282",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メイデンビート",
+		"comment": "PSY［虎/音］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0283",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヘッドライナー",
+		"comment": "PSY［虎/時］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0284",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "うそでしょ？ このまま！？",
+		"comment": "PSY［無/音］メディテーション",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0285",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トビダシチュウイ",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0286",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コエラレナイカベ",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0287",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タカミノケンブツ",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0288",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゼッタイテキソウタイ",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0289",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディープホールド",
+		"comment": "PSY［牛/重力］テレキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0290",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リスキーフレグランス",
+		"comment": "PSY［牛/重力］テレキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0291",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カメレ",
+		"comment": "PSY［無/重力］テレキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0292",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのスラストランス",
+		"comment": "PSY［猫/光］スラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0293",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのフォーチューンカード",
+		"comment": "PSY［猫/雷］フォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0294",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのアポーツストーン",
+		"comment": "PSY［猫/炎］アポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0295",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのピアシングピラー",
+		"comment": "PSY［猫/アポーツ］ピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0296",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのゴーストソード",
+		"comment": "PSY［猫/氷］ゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0297",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロネコのフレイムサークル",
+		"comment": "PSY［猫/闇］フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0298",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "陽春のセイントアッパー",
+		"comment": "PSY［猫/光］ボルカニックアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0299",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "盛夏のセイントスクラップ",
+		"comment": "PSY［猫/光］スクラップショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "錦秋のセイントアタック",
+		"comment": "PSY［猫/光］マッシヴアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "玄冬のセイントショット",
+		"comment": "PSY［猫/光］ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャージパンチ・Ｅ",
+		"comment": "PSY［猫/時］チャージパンチ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャプチャー・Ｅ",
+		"comment": "PSY［猫/重力］キャプチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "解体されてたまるかいっ",
+		"comment": "PSY［無/水］ボルテックスセイバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "あ、電気つけっぱ！",
+		"comment": "PSY［無/雷］パラノーマルレイン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "全力で踊ってみた",
+		"comment": "PSY［無/爆発］パトロールショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0307",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テンカ・ジュズマル",
+		"comment": "PSY［猿/光］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0308",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テンカ・ミカヅキ",
+		"comment": "PSY［猿/闇］ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ここはどこ？ わたしはモチ。",
+		"comment": "PSY［無/重力］キャプチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0310",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "安心せい、みねうちじゃ",
+		"comment": "PSY［無/炎］ガーディアンソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0311",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "これで痩せんねん",
+		"comment": "PSY［無/重力］テレキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0312",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "雑技団はいりたい",
+		"comment": "PSY［無/アポーツ］サイコキネシス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0313",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0314",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "５ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0315",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１０ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "５０ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "５００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0319",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１０００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0320",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "５０００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0321",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１００００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0322",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "１０００００ＹＥＮ",
+		"comment": "お金 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0323",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒヒイロカネ",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0324",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアメタル",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0325",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テクタイト",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0326",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アダマンタイト",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0327",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オリハルコン",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0328",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャドーマター",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0329",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークマター",
+		"comment": "素材 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0330",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アクシオン",
+		"comment": "素材",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0331",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディラトン",
+		"comment": "素材",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0332",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイバリオン",
+		"comment": "素材",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Name_0333",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スフェルミオン",
+		"comment": "素材",
+		"annotation": ""
+	}
+]
+}

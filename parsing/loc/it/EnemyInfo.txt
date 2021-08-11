@@ -1,0 +1,502 @@
+{
+"columns":[
+	{
+		"name": "ENM_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Appunti sui Rumori"
+	},
+	{
+		"name": "ENM_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore ursino dalla forza devastante. Subendo un assalto diretto ti ritroverai con molto più di qualche graffio."
+	},
+	{
+		"name": "ENM_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Scappa a gambe levate se lo senti rugliare. Questo Rumore è agile e può raggiungerti in men che non si dica."
+	},
+	{
+		"name": "ENM_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Il Rumore ursino più potente. Schiantando a terra le zampe, produce un'onda d'urto che si propaga in ogni direzione. Preparati a scappare quando lo vedi sollevare gli arti."
+	},
+	{
+		"name": "ENM_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore simile a un corvo che attacca gli avversari beccandoli in testa. Scappa se ti sceglie come preda."
+	},
+	{
+		"name": "ENM_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore massiccio che usa i suoi robusti artigli per intrappolare saldamente gli avversari. Se l'Oriencorvo dovesse mettere le grinfie su un alleato, tempestalo di attacchi per costringerlo a liberarlo."
+	},
+	{
+		"name": "ENM_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore perfido capace di scagliare le sue piume affilatissime a distanza, intrappolare avversari ignari e fornire supporto ai propri alleati. Se ne incontri uno, assicurati di cancellarlo al più presto, prima che possa metterti in difficoltà."
+	},
+	{
+		"name": "ENM_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Simile a una rana, questo Rumore è solitamente docile, almeno finché non si sente minacciato. Potrebbe mettersi a saltellare qua e là, ma è tutto fuorché temibile."
+	},
+	{
+		"name": "ENM_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore da non sottovalutare, che attacca a distanza con bolle letali. Queste rimangono sospese in aria per un po', quindi ricordati di evitarle."
+	},
+	{
+		"name": "ENM_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore che calpesta chiunque abbia di fronte. Appena si accinge a farlo, arretra o ti schiaccerà."
+	},
+	{
+		"name": "ENM_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Il re delle rane. Questo malvagio Rumore potenzia i suoi simili e si unisce a loro per tempestare gli avversari di getti d'acqua. Spara più bolle dei suoi simili e sa anche calpestare i nemici. Vedi di non sottovalutarlo."
+	},
+	{
+		"name": "ENM_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore canide che corre sfrenatamente in cerca della prossima preda. Se dovesse morderti, il resto del branco ti raggiungerà in un baleno. Prima di attaccarlo, la cosa migliore è aspettare che rallenti."
+	},
+	{
+		"name": "ENM_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore canide che si lascia dietro una scia di fiamme. Usa uno psico che lo blocchi sul posto se non vuoi ritrovarti dentro un cerchio di fuoco."
+	},
+	{
+		"name": "ENM_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Il capobranco. Quando corre, questo Rumore è così veloce che è impossibile seguire i suoi spostamenti. Colpiscilo prima che inizi a sfrecciare."
+	},
+	{
+		"name": "ENM_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore fluttuante, simile a una medusa, che si clona ripetutamente. Impara a riconoscere i cloni dai loro tratti rivelatori e attacca invece il Rumore originale."
+	},
+	{
+		"name": "ENM_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore predatore che sfrutta i tentacoli per folgorare gli avversari. Non lasciare che si moltiplichi o la situazione potrebbe farsi caotica."
+	},
+	{
+		"name": "ENM_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore dai tentacoli velenosi particolarmente pericoloso. Tieniti a distanza mentre li agita e attaccalo da lontano."
+	},
+	{
+		"name": "ENM_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore snervante che crea copie esatte di sé. Trattalo come un bersaglio prioritario, se dovessi avere la sfortuna di incontrarlo."
+	},
+	{
+		"name": "ENM_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore aggressivo che carica a vista ogni nemico. Anteriormente, la pelle è durissima e funge da scudo impenetrabile."
+	},
+	{
+		"name": "ENM_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore molto aggressivo che crea nubi di polvere quando si inferocisce. Resta sempre all'erta, anche quando pensi di essere al sicuro."
+	},
+	{
+		"name": "ENM_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Il Rumore rinoceronte più brutale e duro a morire. Il suo corno è robusto e funge sia da protezione, sia da devastante strumento d'offesa. Affrontarlo faccia a faccia è molto sconsigliato."
+	},
+	{
+		"name": "ENM_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore squaliforme che si nasconde nuotando sottoterra. Gli attacchi alla pinna sono poco efficaci, quindi aspetta che risalga in superficie."
+	},
+	{
+		"name": "ENM_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Questi enormi mostri riemergono improvvisamente sotto le prede per ingoiarle in un sol boccone. Fai il possibile per evitare il loro assalto e poi passa al contrattacco."
+	},
+	{
+		"name": "ENM_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Il famigerato attacco in salto di questi Rumori ha effetti devastanti, ma è anche il loro punto debole, visto che li lascia esposti in superficie per diverso tempo. Attenzione, però: quando atterrano, lo schianto è poderoso."
+	},
+	{
+		"name": "ENM_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore che compensa la sua scarsa mobilità con un potente laser a distanza. Non c'è scampo nelle sue vicinanze."
+	},
+	{
+		"name": "ENM_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa bestia di un Rumore inizia a pestare se minacciata, generando onde d'urto immense e letali."
+	},
+	{
+		"name": "ENM_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Un nemico temibile equiparabile a un cannone ambulante. Tempesta le prede di laser e le insegue allo sfinimento. Chi viene scelto come bersaglio difficilmente avrà scampo."
+	},
+	{
+		"name": "ENM_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Possono sembrare animali mansueti, ma se abbasserai la guardia ti caricheranno in massa. Tieni sempre d'occhio dove sono posizionati, se li affronti in gruppo."
+	},
+	{
+		"name": "ENM_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Sono avversari ostici, avendo la tendenza ad attaccare in formazioni serrate. Se li vedi mettersi in posizione, preparati a difenderti."
+	},
+	{
+		"name": "ENM_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore che comanda a bacchetta gli altri suoi simili. Come se non bastasse, rafforza costantemente i suoi alleati finché resta sul campo di battaglia."
+	},
+	{
+		"name": "ENM_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Questi pesci irritanti esplodono se sconfitti, ma anche se lasciati stare. Fortunatamente, l'esplosione danneggia anche gli altri Rumori."
+	},
+	{
+		"name": "ENM_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore irto di aculei che spara in ogni direzione. Non dimenticare che esplode una volta sconfitto."
+	},
+	{
+		"name": "ENM_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore codardo che spara proiettili velenosi a distanza. Fai attenzione, perché quando spara gli aculei, lancia anche delle spine dal corpo."
+	},
+	{
+		"name": "ENM_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Il Rumore pesce palla più forte. Se si imbatte in un nemico, si gonfia a dismisura per cercare di intimidirlo. In questo stato, non solo può scagliare i suoi aculei più lontano, ma provoca esplosioni decisamente più devastanti."
+	},
+	{
+		"name": "ENM_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo Rumore scontroso indebolisce gli avversari tagliandoli con le chele o pungendoli con la coda, inoculando in ogni caso una tossina."
+	},
+	{
+		"name": "ENM_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore minaccioso che libera un gas velenoso dalla coda. Per fortuna, le chele sono inoffensive visto lo scarso utilizzo."
+	},
+	{
+		"name": "ENM_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore letale capace di uccidere gli avversari con le chele, sommergerli di gas velenoso o intrappolarli con la coda. Quando si affrontano queste bestie, è sempre meglio avere con sé qualche dose d'antidoto."
+	},
+	{
+		"name": "ENM_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore difficile da individuare, capace di mimetizzarsi con l'ambiente. Se ha messo gli occhi su di te, riconoscerai subito il reticolo a mirino."
+	},
+	{
+		"name": "ENM_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa creatura è equiparabile a un cecchino. Attaccala quando le brillano gli occhi mentre prende la mira."
+	},
+	{
+		"name": "ENM_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "La lingua molto particolare di questo Rumore gli consente di rigenerare salute agli alleati e a sé stesso. Se non vuoi che lo scontro vada per le lunghe, abbattilo al più presto."
+	},
+	{
+		"name": "ENM_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pericoloso Rumore dinosauro. Si lascia andare a una furia sfrenata quando colpisce una preda. Tuttavia, dai suoi movimenti è facile capire quando sta per inferocirsi, perciò puoi prepararti per tempo."
+	},
+	{
+		"name": "ENM_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore spietato che ha imparato a usare la propria coda come arma. Bisogna prestare particolare attenzione quando si inferocisce, poiché diventa molto rapido."
+	},
+	{
+		"name": "ENM_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Un minaccioso bestione che infligge danno anche solo con il ruggito. Questo attacco diventa ancora più letale quando si infuria, arrivando a coprire l'intero campo di battaglia."
+	},
+	{
+		"name": "ENM_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore pressoché innocuo dalle sembianze suine. Assicurati di <CRE>eliminarlo prima che finisca il tempo</C> o se la darà a gambe!"
+	},
+	{
+		"name": "ENM_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Sua <MK_11>suinità<MK_11>. Dovrai <CRE>tirare fuori l'artiglieria pesante</C> per mettere al tappeto questo potente monarca."
+	},
+	{
+		"name": "ENM_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Ben pochi attacchi possono scalfire questo maiale d'oro. Tuttavia, se <CRE>riesci a mantenere l'assalto</C>, alla fine riuscirai a cancellarlo."
+	},
+	{
+		"name": "ENM_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Può sembrare autentico a un primo sguardo, ma osservandolo da vicino si vede che è un'imitazione. Per giunta, <CRE>non sarà difficile</C> infliggergli danno."
+	},
+	{
+		"name": "ENM_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Un fastidioso maialino che <CRE>subisce danno solo dall'elemento a cui ha un'affinità letale</C>. Ogni esemplare ha una debolezza diversa, quindi prepara molti psico."
+	},
+	{
+		"name": "ENM_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Una strana creatura che non sa decidere se clonarsi o restare un singolo Rumore. È una buona idea <CRE>attaccare il maiale e i cloni con un colpo ad ampio raggio prima che si riuniscano</C>."
+	},
+	{
+		"name": "ENM_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Delle creature tenaci che cambiano colore e si rianimano a ogni sconfitta. Possono sembrare invincibili all'inizio, ma aspetta soltanto che <CRE>tutti i Maiali valzer diventino dello stesso colore</C>."
+	},
+	{
+		"name": "ENM_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore fastidioso che si fa esplodere a intervalli regolari. Queste esplosioni danneggiano anche i suoi alleati, quindi <CRE>scaglialo verso di loro e non farti colpire</C>."
+	},
+	{
+		"name": "ENM_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo maiale è ferocemente leale e duro a morire. Puoi ottenere risultati più favorevoli se <CRE>elimini contemporaneamente questo maiale e il suo partner</C>."
+	},
+	{
+		"name": "ENM_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo maiale non andrà al tappeto finché i suoi alleati rimangono in forze. Puoi ottenere risultati più favorevoli se <CRE>elimini contemporaneamente questo maiale e il suo partner</C>."
+	},
+	{
+		"name": "ENM_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Giocatori introversi affiliati alla Deep Rivers Society. Sono abili nel combattere a distanza, ma delle frane in mischia."
+	},
+	{
+		"name": "ENM_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Giocatori appartenenti alla squadra più pura del Gioco. Se la cavano in ogni stile di combattimento, quindi sfrutta ogni occasione di colpire o momento di debolezza."
+	},
+	{
+		"name": "ENM_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Giocatori estroversi e paladini della bellezza. Prediligono combattere in mischia, perciò prova a tenere le distanze e a colpirli da lontano."
+	},
+	{
+		"name": "ENM_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. Non sono tra i nemici più forti, ma sono in grado di ridurre il Groove della squadra."
+	},
+	{
+		"name": "ENM_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. Scatenano un attacco feroce che riduce di molto il Groove della squadra."
+	},
+	{
+		"name": "ENM_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. I loro attacchi velenosi sono devastanti e riducono il Groove della squadra."
+	},
+	{
+		"name": "ENM_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. Cerca di non toccarne i tentacoli, o i PF e il Groove ne risentiranno."
+	},
+	{
+		"name": "ENM_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. Singolarmente non costituiscono una minaccia, ma un attacco in branco può far cadere a picco il Groove."
+	},
+	{
+		"name": "ENM_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Una nuova specie di Rumori che minaccia di portare Shibuya alla rovina. Evita le onde d'urto che generano o PF e Groove ne risentiranno considerevolmente."
+	},
+	{
+		"name": "ENM_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Il re dei Rumori appestati simili a rane, creato da Shiba in persona. Chi si lascia schiacciare dalle sue zampe si ritrova pieno di lividi e con il Groove abbassato."
+	},
+	{
+		"name": "ENM_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Il re dei Rumori appestati simili a meduse, creato da Shiba in persona. Fa oscillare il corpo flessibile per clonarsi e creare un esercito inarrestabile."
+	},
+	{
+		"name": "ENM_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Rumore primate dall'aspetto massiccio, ma solo in apparenza. Colpisci ripetutamente le braccia e gliele distruggerai. Purtroppo si rigenerano col tempo, ma almeno per un po' gli impedirai di usare certi attacchi."
+	},
+	{
+		"name": "ENM_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "L'introverso leader della Deep Rivers Society. Evita di sporcarsi le mani usando gli attacchi degli alleati come diversivo e piazzando bombe ovunque. Reagisci in fretta se non vuoi che abbia la meglio."
+	},
+	{
+		"name": "ENM_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Star del web e leader dei Purehearts. Usa il suo psico per paralizzare i nemici. Non può eseguire molti attacchi senza i suoi compagni, perciò mettili fuori gioco per primi."
+	},
+	{
+		"name": "ENM_Info_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Un trio di gatti di peluche controllati da Tsugumi. Ognuno è di dimensione diversa e possiede abilità offensive differenti. Tuttavia, tutti e tre condividono la stessa forza vitale."
+	},
+	{
+		"name": "ENM_Info_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "I felpati felini sono tornati e sono ancor più numerosi! Sta a te scegliere chi prendere di mira per primo: il Mr. Miao piccolo ma agile o il Mr. Miao burbero e massiccio."
+	},
+	{
+		"name": "ENM_Info_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ragazza robotica di poche parole alleatasi con i Ruinbringers. Le sue azioni in battaglia rispecchiano la sua personalità e si possono prevedere, se la osservi con attenzione."
+	},
+	{
+		"name": "ENM_Info_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "L'unica Demone che ha da sempre a cuore gli interessi di Shoka. Non avvicinarti troppo o i simboli a forma di chakram che le vorticano attorno ti spazzeranno via."
+	},
+	{
+		"name": "ENM_Info_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Un individuo alto e massiccio affiliato ai Ruinbringers. L'aura che lo circonda varia da bianca a nera e determina gli attacchi che può scatenare. In generale, se è bianca significa che cercherà di placcarti, mentre se è nera significa che vuole prendere a pugni qualcuno."
+	},
+	{
+		"name": "ENM_Info_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Lo scimmione è tornato e fa sul serio! Ora può contare su altri tipi di aure, tutte ispirate da Othello. Stai particolarmente all'erta quando vedi cambiarne il colore!"
+	},
+	{
+		"name": "ENM_Info_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "La forma demoniaca definitiva di Susukichi. Nelle sue corna scorre la potenza dei fulmini e le usa come arma. Tuttavia, si dà il caso che esse siano anche il suo principale punto debole, quindi attaccale senza pietà."
+	},
+	{
+		"name": "ENM_Info_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Un lupo solitario mosso da un'insaziabile sete di potere. Nello stato normale è molto veloce e fluido nei movimenti, ma, in caso di necessità, può rintanarsi nell'armatura per aspettare il momento propizio per colpire."
+	},
+	{
+		"name": "ENM_Info_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "L'unico e inimitabile Game Master. Usa i suoi poteri per creare dei cloni e ingannare gli avversari. Tieni gli occhi aperti e non cadere nelle sue trappole."
+	},
+	{
+		"name": "ENM_Info_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa creatura è in grado di trasformarsi in qualsiasi Rumore e incarna tutto ciò che si è opposto ai Wicked Twisters finora. Dovrai sfruttare tutti i trucchi che hai appreso combattendo, se vorrai avere la meglio!"
+	},
+	{
+		"name": "ENM_Info_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Un avversario ostico capace di attaccare a distanza con le sue tredici code, nonché di sputare fuoco dal becco. Non perdere le speranze, però: se inizialmente ti sembrerà ingestibile, una volta distrutte tutte le code sarai più ottimista."
+	},
+	{
+		"name": "ENM_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Una guardia del corpo muscolosa che protegge Kanon al suo posto di controllo dello Spasso dei Demoni. Evita i suoi attacchi elettrici e colpisci appena ne hai l'occasione."
+	},
+	{
+		"name": "ENM_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Una dei Demoni che gestiscono i posti di controllo dello Spasso dei Demoni e fan sfegatata dei Def Märch al pari di Nagi. All'inizio i suoi attacchi sembreranno inevitabili, ma studiando i suoi movimenti non sarà più così imbattibile."
+	},
+	{
+		"name": "ENM_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Lavoratrice part time allo Spasso dei Demoni. I chakram che le ruotano attorno sono così numerosi che non sarà facile scalfire la sua armatura. La tattica migliore è colpirla con un flusso continuo di attacchi a distanza."
+	},
+	{
+		"name": "ENM_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "La vera sfida del round bonus dello Spasso dei Demoni. È Shiba a decidere chi può essere elevato a VIP. Conviene equipaggiare uno psico che può colpire più nemici insieme per fronteggiare questo maschio alfa."
+	},
+	{
+		"name": "ENM_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Un avversario estenuante che memorizza gli attacchi usati e calcola come evitarli o contrastarli. Conviene equipaggiare molti psico e usare quelli che ancora non conosce."
+	}
+]
+}

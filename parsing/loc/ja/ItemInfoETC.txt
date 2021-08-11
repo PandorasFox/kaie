@@ -1,0 +1,1624 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_Info_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイテムInfo",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_VAL_Info_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターポイント",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ある人物によって記された謎のレポート\n全て集めると…",
+		"comment": "シークレットレポート＃1～24 共通",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "街での移動について",
+		"comment": "Tips_0000",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンについて１",
+		"comment": "Tips_0001",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンについて２",
+		"comment": "Tips_0002",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジ（サイキック）による攻撃について",
+		"comment": "Tips_0003",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル中の移動や回避について",
+		"comment": "Tips_0004",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジのリブートについて",
+		"comment": "Tips_0005",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロコンボについて",
+		"comment": "Tips_0006",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マッシュアップについて",
+		"comment": "Tips_0007",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "必殺技について",
+		"comment": "Tips_0008",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジ装備について",
+		"comment": "Tips_0009",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ファッションアイテム装備について",
+		"comment": "Tips_0010",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル難易度・LEVELについて",
+		"comment": "Tips_0011",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルから逃げるについて",
+		"comment": "Tips_0012",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウメモについて",
+		"comment": "Tips_0013",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードについて１",
+		"comment": "Tips_0014",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードについて２",
+		"comment": "Tips_0015",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップについて",
+		"comment": "Tips_0016",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Shibuya Payについて",
+		"comment": "Tips_0017",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "食事について",
+		"comment": "Tips_0018",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "インプリントについて",
+		"comment": "Tips_0019",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットのリマインドについて",
+		"comment": "Tips_0020",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギのダイブについて",
+		"comment": "Tips_0021",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカのジャンプについて",
+		"comment": "Tips_0022",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトのサウンドサーフについて",
+		"comment": "Tips_0023",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウのリスタートについて１",
+		"comment": "Tips_0024",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウのリスタートについて２",
+		"comment": "Tips_0025",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャプター画面について",
+		"comment": "Tips_0026",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0127",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エネミー画面について",
+		"comment": "Tips_0027",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0128",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グラフィティ画面について",
+		"comment": "Tips_0028",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0129",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コレクション画面について",
+		"comment": "Tips_0029",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷スクランブルバトルについて",
+		"comment": "Tips_0030",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ファイナルタイムアタックについて",
+		"comment": "Tips_0031",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ANOTHER DAYとやりこみについて",
+		"comment": "Tips_0032",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "強化マッシュアップについて",
+		"comment": "Tips_0033",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メンバーの追加について",
+		"comment": "Tips_0034",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神クラスバッジについて",
+		"comment": "Tips_0035",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "連戦について",
+		"comment": "Tips_0036",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズノイズについて",
+		"comment": "Tips_0037",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロチャンス：ボーナスエリアについて",
+		"comment": "Tips_0038",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ達を成長させよう",
+		"comment": "Tips_0039",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0200_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0200_1>",
+		"comment": "チームでバトル_1P\nPF\nバトルでは複数のキャラクターを\n同時に操作することが可能だ\nいろいろなボタンを押すことで対応する\nキャラクターが即座に攻撃するぞ！",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0200_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "複数のキャラクターをつぎつぎと使って\n攻撃を途切れさせないように立ち回るのが\nバトルのコツだ！",
+		"comment": "チームでバトル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0201_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックをエネミーに当てるとシンクロ\nチャンスが発生し、円形のゲージが出現する\nこのゲージの表示中に別のキャラクターが\nサイキックを当てるとシンクロコンボとなり\nシンクロ率がアップするぞ！\n積極的に狙ってシンクロ率を高めよう",
+		"comment": "シンクロコンボ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0201_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ファッションアイテムのアビリティや\nキャラクターボードのスキルの中には\nシンクロ率を上げやすくなるものが\n存在するぞ！",
+		"comment": "シンクロコンボ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0202_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0202_1>",
+		"comment": "回避行動_1P\nPF\n敵の攻撃はBボタンの回避アクションで\n避けることができる\n敵の攻撃モーションをよく見て\n回避のタイミングをつかもう！",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0202_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回避した瞬間は無敵なので、うまく使えば\n敵の強力な攻撃もかわすことができる\nキャラクターボードで獲得できるスキルには\n無敵時間を延長できるスキルも存在するぞ",
+		"comment": "回避行動_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0203_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズにサイキックを当て続けていると\nカウンター攻撃を行ってくる場合がある\nカウンター攻撃中のノイズは\n攻撃を当てても怯まないため危険だ",
+		"comment": "ノイズの反撃_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0203_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズが体に赤いオーラをまとうのが\nカウンター攻撃を仕掛けてくる合図\n赤いオーラが見えたら一度攻撃を中断して\n距離を取るか回避の準備をしよう",
+		"comment": "ノイズの反撃_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0204_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵には複数の弱点となる属性があり\nその属性で攻撃すると与ダメージが増加する\nバッジには属性が付与されているので\n敵の弱点を突けるように装備を変更すれば\nバトルが楽になるはずだ",
+		"comment": "属性について_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0204_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性には「無」「発火」「氷結」「電気」\n「風力」「液化」「石化」「毒素」「爆破」\n「音波」「閃光」「暗黒」「引力」「転移」\n「時空」があるぞ！",
+		"comment": "属性について_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0205_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ達や敵は、特定の攻撃を受けると\n状態異常に陥ることがある\n状態異常になるとHP減少や行動不能\nといったデメリットが発生するが\n一定時間が経てば元に戻るぞ！",
+		"comment": "状態異常_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0205_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常には、HPが少しずつ減る「毒」\n「感電」「炎上」や、行動不能になる\n「スタン」「チェーンバインド」\n「アイスバインド」「ロックバインド」\nなどがある\n状態異常を防ぐアイテムも利用しよう！",
+		"comment": "状態異常_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0206_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を倒すとEXPとBPが手に入る\nEXPはいわゆる経験値で\nリンドウ達のレベルアップに必要だ\nBPはバッジの経験値で\nバトルで使用したバッジにのみ加算される",
+		"comment": "経験値について_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0206_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BPは連戦数が多いほど\n敵を全て倒すまでの時間が短いほど\nそして被ダメージが少ないほど\nボーナスが発生してより多くもらえるぞ！",
+		"comment": "経験値について_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0207_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "空中に打ち上げたり吹き飛ばした敵は\nしばらく身動きが取れなくなるため\nこの隙に集中攻撃を行うのがオススメ\nサイキックを組み合わせて、打ち上げや\n吹き飛ばしを誘発するコンボを作れば\n攻撃チャンスが各段に増えるぞ",
+		"comment": "バトルのコツ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0207_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "打ち上げや吹き飛びが効かない敵もいる\nバトルスタイルを固定するのではなく\n敵に応じて柔軟に対処できるようにしたい",
+		"comment": "バトルのコツ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0208_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロ率を200％以上溜めることで\nより強力なマッシュアップを発動できるぞ！",
+		"comment": "強化版マッシュアップ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0208_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "発動するマッシュアップは最後に発動した\nシンクロコンボのサイキック属性によって\n変化する\n発動するまでに参加した人数が多いほど\n威力がアップするという特性もある",
+		"comment": "強化版マッシュアップ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0209_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロ率300％で必殺技が発動できる！\n発動するまでに参加した人数が多いほど\n必殺技の発動時間が長くなり\n威力も大幅にアップするぞ",
+		"comment": "必殺技について_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0209_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "必殺技には発動後にリンドウ達のHPを\n回復する効果もある\n回復するHP量は発動するまでに参加した\n人数が多いほど多くなるぞ",
+		"comment": "必殺技について_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0211_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を倒すとまれにバッジを落とす\n（ドロップする）ことがある\n落とすバッジはノイズの種類とバトル難易度\nによって決まっており、DROP RATEが\n高いほどバッジを落としやすくなる",
+		"comment": "バッジドロップ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0211_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "連戦数が多いほどDROP RATEが上がる\nさらに、自分でプレイヤーLEVELを下げる\nことでDROP RATEをかなりアップできる！\nレアなバッジを入手するため、プレイヤー\nLEVELを下げて連戦に挑戦してみよう！",
+		"comment": "バッジドロップ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0212_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジの中にはレベルアップ時に\n進化するものがある\n特別な条件を満たすと進化するバッジもあり\n全てのバッジを集めるには進化の謎を\n解き明かす必要があるだろう…",
+		"comment": "バッジ進化_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0212_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジを進化させるかどうかは任意で\n選ぶことができる\n進化させずにそのバッジのまま\n成長させきるのもひとつの手段だ！",
+		"comment": "バッジ進化_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0213_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジの中にはセットで装備すると特別な\n効果を発揮するバッジが存在するらしい…",
+		"comment": "アンサンブルバッジ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0213_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "どのバッジがセットで装備すると\n特別な効果があるバッジなのか？\nBADGE画面のバッジ情報にヒントが\n隠されているぞ！",
+		"comment": "アンサンブルバッジ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0214_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "どこかに「神クラス」と呼ばれる\n強力なバッジが存在するらしい…\nそのバッジはそのままでは装備できない\n装備するにはキャラクターボードで\n獲得できる特殊なスキルが必要となるようだ",
+		"comment": "神クラスバッジ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0214_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードで特殊なスキルを\n複数獲得すれば、神クラスバッジも同時に\n複数装備できるようになるらしい",
+		"comment": "神クラスバッジ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0215_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジのコンプリートを目指す者に教えよう\nバッジはショップ、バトル、イベントでしか\nゲットできないバッジのほか\n進化でしかゲットできない物もあるぞ",
+		"comment": "バッジコンプについて_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0215_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "どのエネミーがどのバッジを落とすのか？\nメニューのREPORT内にあるエネミー\n画面を利用しよう\n対象のエネミーを倒すことでエネミーの\nいろいろな情報を知ることができるぞ",
+		"comment": "バッジコンプについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0216_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0216_1>",
+		"comment": "デッキについて_1P\nPF\nBADGE画面でバッジスロットを選択し\n＋ボタンを押すとデッキを切り替えられる\nバランス型、コンボ特化型、高火力型など\n自分好みのデッキを登録しておこう",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0216_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デッキの最大数はキャラクターボードの\nスキルによって増やすことができるらしい…",
+		"comment": "デッキについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0217_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0217_1>",
+		"comment": "スキャンについて_1P\nPF\nフィールドでRボタンを押すとスキャン\nフィールドが発生する\nここではテレパシーを使って周りにいる人の\n思考を読むことができるぞ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0217_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "周りの人の思考を読むときは\n近寄ってくるノイズシンボルに注意しよう！\nノイズシンボルに接触すると\nバトルが始まってしまうぞ",
+		"comment": "スキャンについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0218_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズシンボルにはいくつか種類があり\nその形状は、バトルに突入した際\nメインで出現するノイズを表している\nバトルで特定のノイズと戦いたいときは\nシンボルの形を気にしてみよう！",
+		"comment": "ノイズシンボルの形_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0218_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズシンボルに触れたくない！\nそんな人にうれしいアビリティを持つ\nファッションアイテムがあるとか…",
+		"comment": "ノイズシンボルの形_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0219_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0219_1>",
+		"comment": "バトルの開始と連戦_1P\nPF\nバトルはノイズシンボルに触れてから\n一定時間が経つと自動的に始まるが\nAボタンを押せばすぐにスタートする\nバトル開始までに複数のノイズシンボルに\n触れると連戦になるぞ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0219_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジのドロップなどを目的にあえて連戦\nする場合は、ノイズシンボルを引き寄せる\nスキル「ノイズ引き寄せ」が便利だ\nちなみに、最大連戦数には上限があるが\nキャラクターボードのスキルによって\n増やすことができる",
+		"comment": "バトルの開始と連戦_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0220_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンフィールドに漂う赤色のシンボルは\n「ザコノイズシンボル」と呼ばれる\nザコとはいえ、強力なノイズが紛れている\nこともあるので侮れない",
+		"comment": "赤のノイズシンボル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0220_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ザコノイズシンボルはほかのシンボルと違い\nエリア移動することで何度でも復活する\nそのエリアのザコノイズを倒し尽くしても\n一度別のエリアに移動して戻ってくれば\n復活したザコノイズと再び戦えるぞ",
+		"comment": "赤のノイズシンボル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0221_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンフィールドに漂う青色のシンボルは\n「ボスノイズシンボル」と呼ばれる\nこのシンボルからはザコノイズシンボルより\n強力なノイズが出現することが多い",
+		"comment": "青のノイズシンボル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0221_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボスノイズシンボルは普段は見つける\nことができない！\nキャラクターボードで獲得できる\n特殊なスキルがあれば見えるようになるぞ",
+		"comment": "青のノイズシンボル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0222_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンフィールドに漂うピンク色の\nシンボルは「ピグノイズシンボル」と呼ばれ\n触れるとピグ系のノイズが現れる\nピグノイズは倒せば必ずバッジを落とす！\nアイテムゲットのチャンスだ",
+		"comment": "ピンクのノイズシンボル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0222_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フィールドでスキャンを行うと\nブタの鳴き声が聞こえることがある\nその鳴き声は、リンドウ達がいるエリアの\nどこかにピグノイズがいるという証だ！",
+		"comment": "ピンクのノイズシンボル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0223_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグの中には、闇雲にサイキックを当てる\nだけでは倒せないヤツがいる\nいろいろなサイキックを使ってみたり\n倒すべきタイミングを見極めることで\n道が拓けるかも？",
+		"comment": "ピグとのバトル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0223_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグとのバトルで厄介なのが制限時間\n制限時間を延ばすアビリティを持つ\nファッションアイテムを入手すれば\n焦らず戦えるようになるので探してみよう",
+		"comment": "ピグとのバトル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0224_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンフィールドを漂う青白いシンボルは\n「レアノイズシンボル」と呼ばれる\nリンドウ達がいることに気付くと逃げ出す\n不思議なノイズシンボルだ",
+		"comment": "青白のノイズシンボル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0224_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアノイズシンボルがいるバトルでは\nDROP RATEがとてもアップするぞ！\nレアノイズシンボルと他のノイズで\nたくさん連戦して大量のバッジをゲット\nしよう！",
+		"comment": "青白のノイズシンボル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0225_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スクランブルバトル中にだけ出現する\nオレンジ色のノイズシンボルは\n「ポイントノイズシンボル」と呼ばれる\nこのノイズシンボルに攻撃を与えたり\n倒したりするとスクランブルポイントを\nゲットできる",
+		"comment": "オレンジのノイズシンボル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0225_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポイントノイズシンボルがいるバトルでは\n他のノイズもスクランブルポイントを落とす\nようになるぞ！\nポイントノイズシンボルと他のノイズで\nたくさん連戦して大量のスクランブル\nポイントをゲットしよう",
+		"comment": "オレンジのノイズシンボル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0226_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブはクリア時間によって金・銀・銅の\nいずれかの評価がもらえる\nダイブを早くクリアすることができれば\nキャラクターボードでスキルを\n開放するのに必要なCPがもらえるぞ！",
+		"comment": "CP集めのコツ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0226_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブのクリア時間をより早くするためには\nバッジ・装備・食事・レベルアップなどで\nリンドウ達を鍛えることが重要だ！",
+		"comment": "CP集めのコツ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0227_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブバトルで出現する赤色のノイズは\n「怒りノイズ」と呼ばれる",
+		"comment": "感情ノイズ：怒り_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0227_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "怒りノイズは攻撃力が非常に高く\nとても危険だ！\n攻撃を受けないように気をつけながら倒そう",
+		"comment": "感情ノイズ：怒り_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0228_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブバトルで出現する青色のノイズは\n「悲しみノイズ」と呼ばれる",
+		"comment": "感情ノイズ：悲しみ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0228_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "悲しみノイズがバトルフィールドにいる\nだけでリンドウ達のHPが減っていくぞ！\n悲しみノイズの数が多ければ多いほどHPの\n減る量は大きくなる\n時間が経過するほど危険なので優先して\n倒していこう",
+		"comment": "感情ノイズ：悲しみ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0229_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブバトルで出現する緑色のノイズは\n「やすらぎノイズ」と呼ばれる",
+		"comment": "感情ノイズ：やすらぎ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0229_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "このノイズを倒すとリンドウ達のHPを\n回復させることができるぞ\n倒すタイミングは良く考えよう",
+		"comment": "感情ノイズ：やすらぎ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0230_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブバトルで出現する紫色のノイズは\n「恐怖ノイズ」と呼ばれる",
+		"comment": "感情ノイズ：恐怖_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0230_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "恐怖ノイズは通常のノイズよりも大きく\nどんな攻撃でも怯まないのが厄介\n反撃を受けやすいので深追いは厳禁だ",
+		"comment": "感情ノイズ：恐怖_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0231_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵からドロップしたバッジを売却すると\nShibuya Pay（渋Pay）という\n電子マネーに換金される\nショッピングにはShibuya Payが必要\n不要なバッジはドンドン売却していこう",
+		"comment": "渋Payについて_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0231_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードのスキル\n「渋Pay：自動チャージ」をゲットすると\nお金バッジが自動的にShibuya Payに\n換金されるようになる\n売却の手間がはぶけるので早めに入手する\nのがオススメだぞ",
+		"comment": "渋Payについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0232_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0232_1>",
+		"comment": "アビリティの確認_1P\nPF\nFASHION画面で－ボタンを押すことで\n現在装備しているアイテムの開放された\nアビリティを全て見ることができるぞ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0232_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アビリティには特定の人物が装備しないと\n効果が出ないものがあるらしい…\n専用装備は誰でも装備できるものよりも\n良い効果が得られるぞ",
+		"comment": "アビリティの確認_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0233_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ファッションアイテムのアビリティは\nキャラクターのSENSEの値が\nアイテムごとに設定された値より高くないと\n効果が発動しないので要注意！\nSENSEのステータスは主に\nフードアイテムを食べると上昇するぞ",
+		"comment": "SENSEについて_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0233_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルで有利に働くものからフィールドで\n便利なものまでアビリティの効果は多種多様\n一風変わった効果を持つアビリティも\nあるので探して試してみよう",
+		"comment": "SENSEについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0234_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップのアイテムでQUESTと書かれた\n商品はお金では買うことができない\nアイテムヘルプのクエスト達成条件に\n書かれたアイテムが必要だ！",
+		"comment": "ショップクエスト_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0234_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "素材が足りているかいないかはQUESTの\n文字の色でわかる\nグレーになっている場合は素材が足りて\nいないので集めに行こう",
+		"comment": "ショップクエスト_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0235_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同じショップで買い物すればするほど\nそのショップの店員と仲良くなれる\n店員と仲良くなると接客態度が変化したり\nとっておきの商品が買えるようになるぞ",
+		"comment": "常連への道_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0235_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "VIP RANKのあるブランドショップは\nそのブランドのバッジや服を装備して\nバトルすることでもRANKが上がり\n店員と仲良くなれるようだ",
+		"comment": "常連への道_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0236_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "食事をすると、食べたフードに応じて\nリンドウ達のパラメーターがアップする\n食事の効果が切れてパラメーターが下がる…\nということはなく、上がったパラメーターは\n永続するので食べれば食べるほどお得だ",
+		"comment": "食事について_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0236_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "食事をして満腹度ゲージが100％を超えると\nそれ以上食べられなくなるが\nバトルをこなせば満腹度が下がる\nよく食べてよく戦うことがリンドウ達を\n成長させるのだ",
+		"comment": "食事について_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0237_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ達にはフードアイテムに対して\nそれぞれ好みがある\n好きなフードアイテムを食べると上昇する\nパラメーターにボーナスが加算される",
+		"comment": "好物について_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0237_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "食事をした時のキャラクターの反応を見て\n誰がどのフードを好きなのかチェックしよう\n苦手なフードを食べた時の反応を見るのも\n一興かもしれない！？",
+		"comment": "好物について_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0238_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇田川町路地裏の壁グラフィティには\nメニューのREPORT内にある\nグラフィティ画面でエディットした内容が\n反映される\n君だけのカッコイイ壁グラを完成させよう",
+		"comment": "宇田川町路地裏の壁グラ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0238_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グラフィティは渋谷の街でいろいろなことを\n達成すると入手できる\nどうすればグラフィティをゲットできるか？\nそのヒントもグラフィティ画面で確認する\nことができるぞ",
+		"comment": "宇田川町路地裏の壁グラ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0239_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷スクランブルバトル時のバトルでは\n頭上にJACKPOTのアイコンがついた敵が\n出現する\nこの敵を倒すとスクランブルポイントを\nより多く放出する",
+		"comment": "渋谷スクランブルバトルのコツ_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0239_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロコンボをたくさん出すほどゲット\nできるスクランブルポイントは多くなる\n頭上にJACKPOTのアイコンがついた敵を\n最後に倒すと、よりたくさんのポイントを\n獲得することが可能だ",
+		"comment": "渋谷スクランブルバトルのコツ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0240_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BOK_Info_0240_1>",
+		"comment": "リンドウメモ_1P\nPF\nフィールドでLボタンを押すと開く\nリンドウメモには、ストーリーの進行で\n得た情報が記されていく\n何をしたら良いか行き詰まったら\nリンドウメモを確認してみよう",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0240_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウメモは特別な謎解きのイベント中\nにも開くことができる\nメモを見ながら、じっくり問題を解いて\nみよう！",
+		"comment": "リンドウメモ_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0241_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ANALYZE画面のキャラクターボードに\n並んだキャラクターからスキルをゲット\nできる！\nスキルをゲットする際、CPを消費するぞ",
+		"comment": "キャラクターボードのスキル_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0241_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードに表示される人物は\nストーリーを進めたり、街の人の悩みを解決\nしたり、店員と仲良くなることで増えていき\n関係性が繋がっていくぞ",
+		"comment": "キャラクターボードのスキル_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0242_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "街の人との間に発生するイベントの中には\nクリアしなくてもシナリオ進行に影響しない\nものもある\nだがクリアすることでアイテムやCPを\nゲットできるぞ\n困っている人がいたら助けてあげよう！",
+		"comment": "サブイベントについて_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0242_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "まだ解決していないイベントがどのDAYに\nあるのか？REPORT内にあるチャプター\n画面でクリア済みのDAYを選択することで\n確認できるぞ",
+		"comment": "サブイベントについて_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0243_1",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メニューのREPORT内にある\nチャプター画面からはクリア済みのDAYに\nいつでも戻ることができる\n取り逃したアイテムがあったり\n現在のDAYで苦戦していると感じたら\n過去のDAYに戻るのも手だ",
+		"comment": "チャプターセレクト_1P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Info_0243_2",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "過去のDAYに戻っても、それまでに得た\nアイテム・仲間・ステータスは失われない\n見逃したイベントをクリアするもよし\n以前は倒せなかった敵に再挑戦するもよしだ",
+		"comment": "チャプターセレクト_2P",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Wander Around Shibuya』\nついにきた新しい物語の幕開け\n落ち着いたグルーヴにブラスセクションが\n熱い展開を予兆させる至高の逸品",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『INCONGRUOUS』\n予定調和な様式美など必要ない\n自由という定義すら不自由だ\n予測不能のミクスチャーサウンド",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Your Ocean』\n乾いたギターにアンニュイなボーカル\n個性こそ正義であり王道\nそんな時代のストレートナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Insomnia』\n聴いた瞬間ウズウズと湧き出る好奇心\n誰もが街の喧騒の探求者になる\n疾走するシンセフレーズが印象の逸品",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Breaking Free』\n立ち塞がる者が何であれ走り続けよう\n歌い上げる旋律が魂をゆさぶる\nメロディアスなロックナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Hustle and Bustle』\nシンセベースに絡むＣＵＴＥなフレーズ\n今立っているこの街は紛れもなくアジア\n心地よいＭＩＸが癖になるエレクトロニカ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Shibuya Survivor』\nアンダーグラウンドなギターサウンド\nブレイクビーツにのった寛やかなボーカル\n全てが絶妙に絡み合うシリアスなナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Kill the Itch』\n動き出した大掛かりな企みは\nもはや誰にも止めることができない\n威風堂々スウィングロックの名盤",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『unconscious』\n目の前の世界はかりそめなのでは？\n誰もがふとした瞬間脳裏によぎる\nフシギな感覚を刺激する楽曲",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Rockin' Rockin'』\nリズムの鼓動は大地の脈動\nオーディエンスが一体となり\n強烈なうねりを生み出すキラーナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Unpainted』\nあの日の心の痛みは今のあなたの表情\nときには全てを忘れて心を空にし\nこの曲につつまれ身を委ねてみよう",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『DIVIDE』\nありえないふたつの真理\n分断されるからこそ求め合う\n意識を揺さぶるエモーショナルサウンド",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『We're Losing You』\n白なのか黒なのか？もう沈黙は許さない\n突き抜けるハードコアサウンドは\nあなたの秘めたるノイズに共鳴する",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『LAST CALL』\n高速ＢＰＭのアンビエントサウンド\n非日常な空間のなかに突如現れる\n真正面の歌声が心地よい新感覚チューン",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Storm』\nファンキーなトラックにノリノリのフロウ\nたたきつけるＫＯ必至のパンチライン\nこの音源のバイブスは取り扱い要注意",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『The Beginning of a Happy Life』\n高らかで勇ましいシンセフレーズに\n力強く邁進するスラップなベースライン\nまた再び始まる新たなＤＡＹへの行進曲",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『CHASE』\nアコースティックかつ強烈なビート\n時代は繰り返すのではなく積み上がるモノ\nこれはまさしく２０年代のナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『bird in the hand』\n馴れ合うことなく掛け合うボーカル\nワンコードから開放されるリフレイン\n中毒性高いヘビーローテーショントラック",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Beyond Oblivion』\nいつかの友は思い出のなか\nその思い出も夢なのかもしれない\n傷心するものへ捧げるエレジー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『World Is Yours』\nよみがえる不死鳥 よみがえる旋律\n刻むビートで仲間の鼓動を高めろ\nすばらしきトラックの集大成",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『take away』\nいらっしゃいませ！\nあの人の笑顔が見たくて通いつづける\n今日も忘れず渋ペイチャージ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『NEW GAME』\nカウントダウンはもう止まらない\nこのギターリフこそ新たなアンセム\n新すばらしきこのテーマ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『リトルシングス』\n陽光の交差点で見た日常\nピアノの音色がこのせかいを暖かく包み\n力強いリズムで全ての時空が刻まれる",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『hopeless』\nただ一筋の光もない絶望\nこれを受け入れた先に未来はあるのか\n失意するものへ捧げるノクターン",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『disturbance』\n不穏な予感に本能が総毛立つ\n抗えないその感情はまさしく恐怖\n戦慄するものへ捧げるカプリチオ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『death throes』\n差し迫る危機に張り詰めた緊張の糸\n仲間と乗り越えることはできるのか\n窮地のものへ捧げるパッション",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『a tranquil mind』\n非日常に舞い降りたひとときの安息\n不条理の支配がおよばない死角\n癒しを求めるものへ捧げるアリア",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『act the fool』\n違和感に沸き起こる奇妙な感情\nいわゆるジワジワくるアレ\n緊張からの緩和に捧げるスケルツォ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『ENCOUNTER』\n虎視眈々と機を計りその時がきた\nさあ もうやるしかない\n覚悟するものへ捧げるトッカータ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『peaceful day』\n苦難を乗り越えついに訪れた充実\n明日は友人に会いにゆこう\n到達したものへ捧げるキャロル",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Twister -NEO MIX-』\nマスターピースがたどり着いた新境地\nある種の達観すら感じる音楽の力\n<MK_11>That power is yet unknown<MK_11>",
+		"comment": "1行目：曲名\n※タグ<MK_11>：引用符",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Revelation -NEO MIX-』\n感情を喚起させるイントロのシンセ\n力強いボーカルにあの日が蘇り\n再び新たな友と新たな戦いが始まる",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『March On -NEO MIX-』\nある種ディストピアな男たちのシャウト\nクールなのに情熱的なボーカル\nイージーリスニング厳禁のポップナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Calling -NEO MIX-』\nＳＨＯＷの始まりはいつもこの曲から\nブレないトラックがあなたに問いかける\n<MK_11>Dear firend, once more<MK_11>",
+		"comment": "1行目：曲名\n※タグ<MK_11>：引用符",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Hybrid -NEO MIX-』\n疾走感ある爽やかなサウンドのナンバー\nチルアウト的パートから駆け上がるさまは\nDANGER ZONEを疾走するランナー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『オーパーツ -NEO MIX-』\nカチカチの価値観をあざ笑うような\nジャンルもオーディエンスも定義しない\nいつの時代にきいてもそれはオーパーツ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Jump Over Yourself -NEO MIX-』\n耳にしたら忘れることのないイントロ\n閉塞感ある先の見えない日常\nだが道を振り返ればヒントはそこにある",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『サムデイ -NEO MIX-』\n定番チューンのハードロックリミックス\nギターサウンドに日本語リリックが心地いい\n<MK_11>いつか笑って見せる 曇り空の下から<MK_11>",
+		"comment": "1行目：曲名\n※タグ<MK_11>：引用符",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Make or Break -NEO MIX-』\n思わず口ずさむメロディーライン\nキャッチーなシンセにリバービーなドラムス\nすこし青春の香りがする粋なナンバー",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『SCRAMBLE』\n荘厳な導入から強烈なコーラスパート\n小気味良いギターと巧みなベースライン\nポップでクセになる王道チューンアレンジ",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『リベレイション -NEO MIX-』\nドラマチックな旋律をまといながら\nどっしりと落ち着いた歌声が貫徹する\n儚くも運命に翻弄されない強さを感じる",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Transformation -NEO MIX-』\nストリングスでよりドラマチックなアレンジ\n勝負が計測不能になったとき\n神はしびれを切らせてサイコロを振るのか",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Three Minutes Clapping -NEO MIX-』\n歓声聴こえるゴキゲンファンクサウンド\nあなたもクラップ リンドウステップ\nノイズも踊ってＥＲＡＳＥＤ！",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『The One Star -NEO MIX-』\nバッキングギターの低音が堪らない\n爽快ハードロックナンバー\nドンシャリヘッドフォンで聴いてみよう",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『OWARI-HAJIMARI -NEO MIX-』\nジャンルフリーなゴージャスアレンジ\nOWARI-HAJIMARIなんでもARI\n大音量でファンキーなグルーヴを味わおう",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『オワリハジマリ -NEO MIX-』\nジャンルフリーなゴージャスアレンジ\nオワリハジマリなんでもアリ\n大音量でファンキーなグルーヴを味わおう",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Twister』\nこれはあえての初代『Twister』\n無印に価値がでるのは進化の証\nアイツも私もあなたも今が一番最新版",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Someday -NEO MIX-』\n定番チューンのハードロックリミックス\nガーリーな英語ボーカルがクールでキュート\nちょっとした疲れも吹っ飛ぶ元気になる音",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『ハイブリッド -NEO MIX-』\n疾走感ある爽やかなサウンドのナンバー\nこちらは日本語ボーカルバージョン\nあなたはどちらが好きですか？",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『Rockin' Rockin' -Live ver-』\n伝説のアクトにあがる会場のテンション\n今はただ心地よい嵐を全身に浴びよう\nこの夢の終わりを決めるのはあなた自身",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_MSC_Info_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "『LITTLE THINGS』\n交差点でふたたび始まるこの世界\nすべての可能性は同時にそこに存在し\n認識できる可能性だけが運命を確定する",
+		"comment": "1行目：曲名",
+		"annotation": ""
+	}
+]
+}

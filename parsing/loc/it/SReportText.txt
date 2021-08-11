@@ -1,0 +1,604 @@
+{
+"columns":[
+	{
+		"name": "SR_01_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Sono passati tre anni dal Gioco che ha attirato l'attenzione del Piano Superiore. L'osservazione è ancora in corso, ma dal PS, sembra che Shibuya sia ancora una volta sull'orlo della catastrofe.<BR><BR>Stavolta non mi è possibile intervenire, quindi dovrò accontentarmi di registrare il cambiamento di stato sia del PR, sia del PS in questo report."
+	},
+	{
+		"name": "SR_01_2",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Esecutore si è infiltrato a Shibuya tre anni fa per la prima volta. Originario di Shinjuku, ha organizzato un Gioco non ufficiale con il Compositore di Shibuya, risultato nella distruzione di Shinjuku.<BR><BR>Avrebbe dovuto essere rimproverato subito dopo il suo arrivo a Shibuya, ma i piani alti hanno deciso di chiudere un occhio. Forse perché la maggior parte degli abitanti del Piano Superiore si oppone ancora alla contaminazione di Shibuya."
+	},
+	{
+		"name": "SR_01_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo Gioco è simile a detta contaminazione in quanto è soggetto a una serie di circostanze attenuanti che lo mantengono in equilibrio, che sono:<BR><BR>1) una differenza di opinioni con un relativo conflitto sul tema della distruzione di Shibuya,<BR>2) l'assenza del Compositore,<BR>3) due delegati che giocano al Gioco e<BR>4) un'interferenza diretta da parte dell'Esecutore."
+	},
+	{
+		"name": "SR_01_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Né l'Esecutore, che desidera che Shibuya venga distrutta e purificata, né il Compositore, che è riuscito a evitare ciò fino ad ora, possono interferire direttamente con gli eventi del PS. Se desiderano agire, devono farlo attraverso un delegato.<BR><BR>Per questo Gioco, il delegato dell'Esecutore è il Direttore, Shiba Miyakaze, mentre quello del Compositore è un Giocatore umano, Rindo Kanade."
+	},
+	{
+		"name": "SR_01_5",
+		"speaker": "",
+		"listener": "",
+		"content": "D'ora in poi indicherò Shiba Miyakaze come <MK_11>Direttore<MK_11> e Rindo Kanade, invece, come <MK_11>delegato<MK_11>.<BR><BR>Forse motivato dalla comparsa del delegato, l'ex Demone Sho Minamimoto è tornato in attività dopo un lungo periodo di silenzio. Inoltre, sto percependo delle vibrazioni analoghe a quelle emesse da Shinjuku subito prima della sua purificazione. Sono ancora deboli per il momento, ma le terrò monitorate."
+	},
+	{
+		"name": "SR_02_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Con un delegato a fare le veci del Compositore, il Gioco può essere influenzato in molteplici modi, e quello più significativo è l'implementazione di regole fasulle da parte del Direttore.<BR><BR>Una di esse è la divisione dei Giocatori in squadre, apparentemente adottata dal regolamento di Shinjuku."
+	},
+	{
+		"name": "SR_02_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Con il sistema a squadre, la squadra che guadagna più punti durante la settimana può scegliere se continuare a giocare o meno.<BR><BR>Se i membri decidono di non proseguire, possono tornare nel PR, se è ciò che desiderano. Tuttavia, solo il Compositore può riportare i Giocatori nel PR. Il Direttore non ha il diritto di implementare questa regola, né la capacità di metterla in pratica."
+	},
+	{
+		"name": "SR_02_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Per questo, è nell'interesse del Direttore che la squadra vincente scelga di continuare a giocare. Per assicurarsi di ciò, si è alleato con un team chiaramente intenzionato a far proseguire il Gioco in eterno: i Ruinbringers."
+	},
+	{
+		"name": "SR_02_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Il valore relativo di ogni squadra viene misurato in base al punteggio che ottiene, e una sconfitta per la squadra è una sconfitta per ogni suo membro.<BR><BR>Non si sa quando queste regole siano state implementate per la prima volta a Shinjuku, ma sembra che alla base di esse ci sia l'intento di eliminare i Giocatori, il che è in contrasto con l'obiettivo del Gioco."
+	},
+	{
+		"name": "SR_03_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Un nuovo Giocatore si è unito alla squadra del delegato. L'incapacità di intervenire del Compositore, nonché la mia (il Produttore), mette Shibuya in svantaggio, ma Minamimoto e la nuova recluta potrebbero cambiare le cose.<BR><BR>Nagi Usui è allo stesso tempo di mentalità aperta e riservata. Ciò la rende l'esatto opposto di Tosai Furesawa. Una sana varietà di personalità e abilità dovrebbe rappresentare un vantaggio per la loro squadra."
+	},
+	{
+		"name": "SR_03_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Il delegato ha iniziato a sfruttare seriamente i suoi poteri. Quasi non riesco a credere che qualcuno possa avere delle capacità latenti così forti.<BR><BR>I poteri latenti sono doti naturali e uniche, risvegliate dalle vibrazioni intonanti. Esse vengono emesse dal Piano Superiore e vanno a risuonare con le Anime degli individui, intonandole con i loro poteri sopiti. Per inciso, queste sono le stesse vibrazioni che permettono di spostarsi tra i piani."
+	},
+	{
+		"name": "SR_03_3",
+		"speaker": "",
+		"listener": "",
+		"content": "È molto insolito che spuntino fuori in successione diversi Giocatori con poteri latenti. Sospetto che le spille trovate nel PR siano intrise di vibrazioni intonanti, con l'esplicito scopo di cercare tali individui; tante più persone trovano queste spille, maggiori sono le possibilità di trovare nuovi Giocatori promettenti.<BR><BR>Tuttavia, l'abilità del delegato rappresenta una deviazione significativa dai poteri latenti comuni."
+	},
+	{
+		"name": "SR_03_4",
+		"speaker": "",
+		"listener": "",
+		"content": "È davvero troppo pericolosa. Se avessi potuto, avrei fatto in modo che rimanesse dormiente, per il bene sia del PS che del PR. È in grado non solo di distorcere, ma di demolire il codice alla base dei piani inferiori.<BR><BR>Mi chiedo se il Compositore lo sapesse, scegliendo il suo delegato per questo."
+	},
+	{
+		"name": "SR_04_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Quindi, qual è esattamente lo scopo del Gioco dei Demoni? Analizziamo la questione.<BR><BR>L'obiettivo esplicito del Gioco è trovare individui eccezionali. I Giocatori di straordinaria Immaginazione, infatti, vengono elevati al Piano Superiore e convertiti in Demoni o Angeli per collaborare alla supervisione di una determinata regione."
+	},
+	{
+		"name": "SR_04_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Il PS si trova su un piano più elevato rispetto al PR. È considerato come l'aldilà, poiché l'Anima viene spostata nel PS e modulata solo dopo la morte del corpo nel PR.<BR><BR>Eppure, il delegato e i suoi compagni sono arrivati nel PS senza modulazione. Hanno già iniziato ad avere dei sospetti, sia riguardo loro stessi sia riguardo i Ruinbringers."
+	},
+	{
+		"name": "SR_04_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Come i Giocatori, i Demoni dovrebbero combattere per le loro vite, ma la gerarchia interna di Shibuya è in fase di stallo.<BR><BR>Tre anni fa, il Compositore incaricato e il Direttore di Shibuya hanno organizzato un Gioco per determinarne il destino. Gli eventi che seguirono sono ora noti come la contaminazione di Shibuya. Il congelamento delle gerarchie deriva presumibilmente dall'opposizione alla contaminazione."
+	},
+	{
+		"name": "SR_04_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Alla fine della giornata ho rilevato delle vibrazioni nuove nel PS.<BR><BR>Sembra che le spille abbiano risvegliato i poteri di qualcuno, riportandolo nel PS, proprio come il delegato.<BR><BR>Stavolta, è qualcuno che il Compositore ed io conosciamo bene."
+	},
+	{
+		"name": "SR_05_1",
+		"speaker": "",
+		"listener": "",
+		"content": "C'è stata una guerra per il territorio chiamata <MK_11>Zuffa e baruffa<MK_11>.<BR><BR>I Ruinbringers non hanno partecipato. Se lo avessero fatto, avrebbero vinto sicuramente, facendo crollare il morale degli altri. Credo che questo diversivo, che fa scontrare i Giocatori tra di loro, invece che contro i Rumori, servisse solo a far divertire il Direttore."
+	},
+	{
+		"name": "SR_05_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Quello di questa settimana è 104° Gioco governato dall'attuale Direttore. La Deep Rivers Society, i Variabeauties e i Purehearts sono almeno al loro 30° giro. Iniziano ad apparire stremati, poiché percepiscono probabilmente l'impossibilità di vincere contro i Ruinbringers.<BR><BR>Percepire il Gioco come invincibile ha un notevole effetto negativo sulla salute dei Giocatori."
+	},
+	{
+		"name": "SR_05_3",
+		"speaker": "",
+		"listener": "",
+		"content": "La squadra del delegato ha il potenziale per evitare l'ultimo posto, ma le possibilità che strappi la vittoria ai Ruinbringers sono esigue. Ciononostante, tutto può succedere in questo Gioco. Quei ragazzi potrebbero ancora sorprendermi.<BR><BR>Minamimoto si è accorto dei poteri del delegato e sembra tramare qualcosa."
+	},
+	{
+		"name": "SR_06_1",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Anima del delegato sta cominciando a cambiare. Stranamente, non è un'evoluzione che tende a un progresso, ma a una stasi. È come se la gamma delle sue vibrazioni si stesse restringendo.<BR><BR>Credo che in parte c'entri la sua prontezza ad abbracciare le opinioni e i valori altrui, nella convinzione errata che siano propri. Probabilmente avviene a livello inconscio. Infatti, non sembra accorgersene."
+	},
+	{
+		"name": "SR_06_2",
+		"speaker": "",
+		"listener": "",
+		"content": "In circostanze normali, nel Gioco di Shibuya i Giocatori devono pagare un biglietto d'ingresso al momento del loro arrivo. È una sorta di invito del Compositore a farsi un'auto-analisi. Questo Gioco non ha biglietto d'ingresso.<BR><BR>Il regolamento di Shinjuku non incoraggia e non consente una crescita personale, trasformando il Gioco in una misera gara a chi totalizza più punti."
+	},
+	{
+		"name": "SR_06_3",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Anima statica del delegato lo rende il candidato perfetto per il suo potere latente. Nel bene e nel male, riesce a mantenere livelli altissimi di Immaginazione e ciò incrementa la precisione di ogni Replay.<BR><BR>È strano come i pezzi si incastrino così perfettamente. Spero che sia solo una mia paranoia."
+	},
+	{
+		"name": "SR_07_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La Deep Rivers Society è stata cancellata, come da regolamento del Gioco. Le Anime di tutti i membri, leader incluso, si sono dissolte.<BR><BR>Ciò va contro lo scopo di valutare le doti individuali dei Giocatori, ma non mi sorprende, viste le intenzioni del Direttore. Dopo che il delegato ha assistito alla cancellazione, le sue vibrazioni si sono indebolite ancora. La sua crescente insensibilità potrebbe essere motivo di preoccupazione."
+	},
+	{
+		"name": "SR_07_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Come sospettavo, l'individuo giunto in soccorso del delegato era la fonte delle vibrazioni che avevo rilevato alcuni giorni fa.<BR><BR>Non sembra che il Compositore c'entri con l'improvvisa ricomparsa del nostro vecchio amico. In netto contrasto l'Esecutore, che è sempre all'opera, il Compositore sembra piuttosto passivo."
+	},
+	{
+		"name": "SR_07_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Anche se non posso stabilire un contatto per confermarlo, credo che la ricomparsa di questo particolare individuo giochi a favore di Shibuya.<BR><BR>Minamimoto, in compenso, ha troncato la sua alleanza con il delegato. Il suo sigillo di raffinazione dei Rumori accentua la sua Immaginazione, il che potrebbe spiegare perché riconosca così chiaramente le capacità del delegato."
+	},
+	{
+		"name": "SR_07_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Credo di sapere che cosa abbia in mente. È pericoloso, ma non ho modo di impedirglielo.<BR><BR>Fra l'altro, il sigillo di raffinazione dei Rumori è una riproduzione di quello creato da un particolare Demone. Il fatto che esso sia o meno completo può essere causa del cambiamento nelle vibrazioni fondamentali di Minamimoto."
+	},
+	{
+		"name": "SR_08_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Restano quattro squadre: i Ruinbringers, i Purehearts, i Variabeauties e i Wicked Twisters. Solo una sopravviverà fino alla vittoria.<BR><BR>Finalmente il Gioco si avvicina alla conclusione."
+	},
+	{
+		"name": "SR_08_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Affiché i nuovi Giocatori siano ammessi al Gioco, le loro abilità devono superare la media totale di Immaginazione di quelli attuali. Questo dice il regolamento di Shinjuku.<BR><BR>Man mano che il Gioco procede e le squadre più deboli vengono eliminate, la media si alza e diventa sempre più difficile partecipare per i nuovi Giocatori."
+	},
+	{
+		"name": "SR_08_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Con l'eliminazione della Deep Rivers Society, e considerando i poteri latenti strabilianti dei Wicked Twisters, la media dell'Immaginazione è aumentata vertiginosamente.<BR><BR>Ormai, solo un Giocatore immensamente potente potrebbe entrare nel Gioco.<BR><BR>È lecito aspettarsi che il Gioco proceda e si concluda con gli attuali Giocatori."
+	},
+	{
+		"name": "SR_08_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Il Gioco potrebbe durare al massimo un'altra settimana dopo la prossima, ma il Direttore deve ancora contattare il Compositore. È possibile che non sia al corrente del protocollo di purificazione del Piano Superiore.<BR><BR>Se tutto andrà secondo i piani del Direttore, sarà lui stesso il vincitore del Gioco."
+	},
+	{
+		"name": "SR_09_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Il nuovo arrivato si è unito alla squadra del delegato, quasi come a riempire il vuoto lasciato da Minamimoto.<BR><BR>Daisukenojo Bito, soprannominato Beat, è stato uno dei partecipanti al Gioco che ha portato alla contaminazione di Shibuya. Il suo coraggio è sorprendente, così come la sua Anima e la sua Immaginazione. Credo si dimostrerà un alleato potente per il delegato."
+	},
+	{
+		"name": "SR_09_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nonostante tutto, l'Anima del delegato rimane statica. O meglio, continua a diventarlo sempre di più.<BR><BR>Ho percepito un mutamento simile otto giorni fa, quando Minamimoto si era unito alla squadra.<BR><BR>Se alla base di questo c'è l'immaturità dell'Anima del delegato, sarà difficile far venire alla luce la sua Anima, a differenza di quella di Neku prima della contaminazione."
+	},
+	{
+		"name": "SR_09_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Oggi il delegato ha avviato un altro Replay. Il drastico aumento nelle distorsioni planari che ne è conseguito indica che, di questo passo, è probabile un incremento esplosivo con i prossimi utilizzi.<BR><BR>Tuttavia, la spilla del delegato assorbe le distorsioni, evitando che, al momento, i piani inferiori e il PS ne vengano influenzati."
+	},
+	{
+		"name": "SR_10_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Fino a poco tempo fa, tutti i Demoni di stanza a Shibuya, incluso il Direttore, venivano chiamati <MK_11>Demoni di Shibuya<MK_11>, ma ora, visto il conflitto in corso con quelli originari di Shinjuku, viene operata una distinzione.<BR><BR>L'Inversione di Shinjuku tre anni fa ne ha scatenato la purificazione, costringendo i Demoni locali a fuggire a Shibuya. Un'Inversione si verifica quando il confine tra PS e PR si dissolve, portando alla purificazione."
+	},
+	{
+		"name": "SR_10_2",
+		"speaker": "",
+		"listener": "",
+		"content": "È un evento assai raro, che avviene quando il Compositore e il Direttore non si accordano sulla purificazione.<BR><BR>Non è necessario il permesso del Compositore perché un Demone possa andare a lavorare in una nuova zona. È il Direttore a occuparsi di ciò.<BR><BR>In questo caso, il Direttore temporaneo di Shibuya a quei tempi autorizzò il trasferimento di tutti i Demoni da Shinjuku a Shibuya."
+	},
+	{
+		"name": "SR_10_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Al momento, non percepisco tracce o vibrazioni del Direttore di Shinjuku. Ritengo che sia stato eliminato insieme a Shinjuku stessa.<BR><BR>Quando una purificazione ha inizio, è consuetudine che il Direttore venga invitato al Piano Superiore. Sembra che sia stato il primo trasferimento di massa di personale dopo la cancellazione di un Direttore.<BR><BR>Sembra."
+	},
+	{
+		"name": "SR_10_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Riesaminando i registri, ho trovato quattro casi in cui la zona colpita versava in condizioni di squilibrio prima che la sua purificazione fosse decisa. Uno di questi casi era la contaminazione di Shibuya.<BR><BR>Prima o poi, il Compositore dovrà scrivere un report sulle circostanze che hanno portato alla purificazione di Shinjuku. Tuttavia, dubito che farà un lavoro meticoloso, visto lo scarso interesse che ha per i piani inferiori."
+	},
+	{
+		"name": "SR_10_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Poiché il Compositore di Shibuya sta dando il suo tacito assenso ai Demoni di Shinjuku, quelli di Shibuya sono obbligati a seguire le regole che vengono loro imposte.<BR><BR>A prescindere dalle circostanze reali, Shiba Miyakaze è diventato Direttore legittimamente, poiché è stato giudicato idoneo al ruolo."
+	},
+	{
+		"name": "SR_11_1",
+		"speaker": "",
+		"listener": "",
+		"content": "I leader delle squadre sono sempre più irrequieti e il delegato versa in condizioni psicologiche tutt'altro che ottimali. Spero solo che arrivi a fine settimana.<BR><BR>Il Groove della squadra segna un insolito picco negativo. In un sistema basato sul lavoro di squadra, tali irregolarità non possono che avere enormi ripercussioni sull'esito del Gioco."
+	},
+	{
+		"name": "SR_11_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Una rete chiamata SRD è stata creata appositamente per questo Gioco. La facilità con cui misura le vibrazioni e l'Immaginazione di ciascuno la rende un utile strumento di gestione sia dei Giocatori sia dei Demoni.<BR><BR>Tuttavia, il fatto che queste informazioni siano visibili le rende accessibili dal PR."
+	},
+	{
+		"name": "SR_11_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Può reperirle solo un individuo che sa dell'esistenza del PS e che ha una certa dimestichezza con le reti. Questo metodo di comunicazione tra piani non richiede alcuna modulazione, ma non è ancora chiaro se possano esserci altre problematiche.<BR><BR>È possibile che comunicare attraverso la rete inibisca l'Immaginazione, così come non si possono cogliere il pieno significato e l'Immaginazione di un'opera d'arte su uno schermo."
+	},
+	{
+		"name": "SR_11_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Non sono più attivo come CAT, ma, se e quando tornerò, dovrò tenere conto di come le mie opere verranno percepite in digitale e modificare il mio metodo di esprimermi di conseguenza.<BR><BR>Forse lo sviluppatore dell'SRD potrebbe darmi qualche consiglio in merito."
+	},
+	{
+		"name": "SR_12_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Si è verificato un cambiamento nello stato psicologico del delegato, così come un miglioramento nel rapporto tra i membri della sua squadra. È una buona notizia.<BR><BR>Tuttavia, l'Anima del delegato permane in stasi.<BR><BR>Devo ancora effettuare un'analisi a riguardo, visto che al momento posso soltanto osservare e sperare per il meglio."
+	},
+	{
+		"name": "SR_12_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Il regolamento di Shinjuku prevede dei limiti all'agire dei Demoni. Ovviamente, ostacolare i Giocatori non è permesso, di base.<BR><BR>I principali nemici dei Giocatori sono quelli delle altre squadre. Pertanto, chiunque miri al primo posto deve vedersela con i Ruinbringers."
+	},
+	{
+		"name": "SR_12_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Il delegato e la sua squadra hanno scelto di adottare un approccio diverso contro gli <MK_11>imbattibili<MK_11> Ruinbringers. Fino a che punto ciò vada contro le regole è ancora da capire.<BR><BR>Dubito che il Direttore se ne starà a guardare e li lascerà fare come credono. Se si troverà costretto ad agire, potrebbe finire molto male, ma anche molto bene."
+	},
+	{
+		"name": "SR_12_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Come ho già affermato, i Demoni non possono interferire con il Gioco. Eppure, una di loro lo sta facendo.<BR><BR>È possibile che verrà spogliata del suo titolo, ma poi cosa ne sarà di lei quando il Gioco sarà terminato?"
+	},
+	{
+		"name": "SR_13_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Il leader dei Purehearts, Motoi Anazawa, si è cacciato in una terribile situazione.<BR><BR>In vita era una celebrità di Internet e il delegato era un suo ammiratore fedele. Un eventuale cancellazione di Motoi Anazawa potrebbe sconvolgere il delegato, ma fino a che punto è ancora da capire."
+	},
+	{
+		"name": "SR_13_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La comunicazione online può avere esiti positivi o negativi, proprio come quando lo si fa a quattrocchi. Tuttavia, l'anonimato e l'opacità che caratterizzano la comunicazione digitale lasciano ampio spazio a fraintendimenti.<BR><BR>Deve essere stato un shock per il delegato scoprire la reale natura di Motoi Anazawa, un'indole che non traspariva online."
+	},
+	{
+		"name": "SR_13_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Come previsto, Shoka Sakurane è stata declassata da Demone a Giocatore, come punizione per aver interferito nel Gioco e aiutato i partecipanti.<BR><BR>I Demoni hanno ben poche restrizioni sull'SRD. Possono interagire con il PR liberamente, fintanto che non svelano la propria identità. In caso di declassamento, però, il loro account viene eliminato e sostituito da un account da Giocatore."
+	},
+	{
+		"name": "SR_13_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ora che il suo vecchio account è stato disattivato, Shoka Sakurane non può più interagire con il delegato sotto pseudonimo, a meno che non scelga di uscire allo scoperto.<BR><BR>Finora ha aiutato il delegato via messaggio, ma non avendo più questa possibilità, chissà cosa sceglierà di fare."
+	},
+	{
+		"name": "SR_14_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Il Direttore ha dichiarato le sue intenzioni ai Giocatori. Anche se sarebbe impossibile per lui distruggere Shibuya solamente come Direttore, è convinto di essere anche l'Esecutore, inviato dal Piano Superiore per purificare la città.<BR><BR>I Purehearts sono stati cancellati, come previsto. Restano solo due squadre, se non si contano i Ruinbringers."
+	},
+	{
+		"name": "SR_14_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ora che la verità sui Ruinbringers è stata svelata, credo che al prossimo Gioco le regole cambieranno, per riflettere il fatto che non sarà più uno scontro tra Giocatori, ma tra loro e i Demoni.<BR><BR>Ho individuato un oggetto inanimato che emette delle vibrazioni molto peculiari. Mi ha fatto strano rivedere quel vecchio peluche, ma a quanto a pare ospita un'Anima disturbata."
+	},
+	{
+		"name": "SR_14_3",
+		"speaker": "",
+		"listener": "",
+		"content": "È stato il Direttore di Shinjuku a salvare quell'Anima, sacrificandosi.<BR><BR>Serve il potere di un Angelo per liberare l'Anima imprigionata, ma il Compositore continua a latitare e a me è proibito interferire.<BR><BR>In più, dubito che l'Esecutore sarebbe disposto ad aiutare, siccome è probabile che sia stato lui a rinchiuderla lì dentro."
+	},
+	{
+		"name": "SR_14_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Le uniche alternative sono o lasciare l'Anima imprigionata, oppure trovare qualcun altro con i mezzi per liberarla. Sospetto che la creatrice di quel peluche, che ha partecipato al Gioco tre anni fa ed è riuscita a tornare nel PR, potrebbe risolvere la questione.<BR><BR>Purtroppo, al momento non si trova a Shibuya."
+	},
+	{
+		"name": "SR_15_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Le regole del Gioco sono cambiate in modo significativo. I Giocatori, come anche i Demoni e il Direttore, possono cancellare gli avversari una volta che li hanno sconfitti.<BR><BR>Contemporaneamente e all'improvviso, Shiba si è mosso contro Shibuya.<BR><BR>È in atto una nuova Inversione."
+	},
+	{
+		"name": "SR_15_2",
+		"speaker": "",
+		"listener": "",
+		"content": "I Rumori liberati dal Direttore hanno destabilizzato il codice di tutta l'area di Shibuya. I piani inferiori, tra cui il PS e il PR, sono particolarmente instabili.<BR><BR>Il codice è un insieme di leggi che lega insieme tutte le Anime che costituiscono l'esistenza. Sono un po' come le viti che tengono insieme ogni cosa."
+	},
+	{
+		"name": "SR_15_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Al momento, alcune delle viti di Shibuya sono allentate, mentre altre sono state rimosse del tutto, e ora la città si regge soltanto sul proprio peso. In altre parole, Shibuya è sull'orlo del collasso.<BR><BR>Il deterioramento del confine tra PR e PS sta venendo accelerato da dei Rumori capaci di moltiplicarsi in tempi rapidi. Se il confine si dissolverà, la città verrà devastata e purificata."
+	},
+	{
+		"name": "SR_15_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Molti nel Piano Superiore ritengono che una normale purificazione non abbia senso, poiché manterrebbe la struttura planare esistente. Tuttavia, si ritiene che le Inversioni siano da evitare, dato che l'area coinvolta subisce uno snaturamento totale che ne distrugge e ricostruisce la struttura.<BR><BR>Il Compositore resta però in silenzio, nonostante Shibuya stia per fare la stessa fine di Shinjuku."
+	},
+	{
+		"name": "SR_15_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Anche se Shibuya ha subito cambiamenti drastici, lo stato psicologico del delegato è incredibilmente stabile. Lo si potrebbe vedere come il segnale di una crescita personale positiva: ha compreso la situazione in cui è stato trascinato, ma anche come deve agire e reagire.<BR><BR>Shoka Sakurane si è unita alla squadra del delegato. Considerati i suoi poteri straordinari, credo sarà un'ottima aggiunta."
+	},
+	{
+		"name": "SR_16_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Uno dei Demoni di Shinjuku è stato eliminato. Sospetto che il Direttore lo avesse previsto.<BR><BR>Gli Angeli emettono vibrazioni abbastanza potenti da alterare la mente di chi abita i piani inferiori. Molti Demoni di Shinjuku affermano di aver percepito un cambiamento nella personalità di Shiba Miyakaze. Quando l'Esecutore se ne andrà, lui tornerà in sé stesso. A quel punto, chissà cosa penserà di tutto questo."
+	},
+	{
+		"name": "SR_16_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Il delegato ha lanciato l'abilità Replay otto volte. A ogni utilizzo, la sua spilla ha assorbito le distorsioni planari risultanti e ha cambiato aspetto. Al momento, non si sono verificati effetti collaterali evidenti.<BR><BR>Sono preoccupato dai mutamenti fisici della spilla del delegato. Potrebbero indicare che essa è sostanzialmente diversa da tutte le altre."
+	},
+	{
+		"name": "SR_16_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Forse il Replay non è affatto un'abilità latente. Data la sua potenza, avrebbe più senso che si tratti di un dono conferito dalla spilla stessa.<BR><BR>Quasi sicuramente, le spille del Giocatore sono una creazione dell'Esecutore. In quanto Angelo, la capacità di produrne di speciali di certo non gli manca."
+	},
+	{
+		"name": "SR_16_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Non è chiaro quando e come il delegato abbia ottenuto la sua spilla. A rigor di logica, direi il giorno in cui è approdato nel PS.<BR><BR>So di per certo che, quel giorno, erano in gioco diversi fattori che influenzavano il destino del delegato.<BR><BR>Comunque sia, concedergli un simile strumento sapendo che è il delegato del Compositore è un atto di incredibile coraggio, o di smisurata insolenza."
+	},
+	{
+		"name": "SR_17_1",
+		"speaker": "",
+		"listener": "",
+		"content": "I Variabeauties sono stati cancellati. È un duro colpo per la squadra del delegato: Kanon Tachibana forniva loro un sostegno emotivo fondamentale.<BR><BR>L'Anima di Tosai Furesawa è quella che ne ha risentito maggiormente, anche se per sua natura cerca di mascherare quello che prova."
+	},
+	{
+		"name": "SR_17_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando l'esperienza ci porta ad avere certe convinzioni, è difficile cambiare mentalità. Spesso, di conseguenza, si prova angoscia e amarezza.<BR><BR>Ciò che mi chiedo è: quanta amarezza sarà in grado di sopportare Tosai Furesawa? La risposta potrebbe benissimo dipendere dal delegato e dai suoi compagni di squadra."
+	},
+	{
+		"name": "SR_17_3",
+		"speaker": "",
+		"listener": "",
+		"content": "In ogni caso, non è il momento per le chiacchiere.<BR><BR>La squadra del delegato è l'unica rimasta.<BR><BR>Il Direttore ha una strana fissazione per l'instabilità della squadra. Oserei dire che sembra più preoccupato dei suoi avversari che della battaglia stessa. Con lo svolgersi degli eventi, non è impensabile che potrebbe allearsi con il delegato."
+	},
+	{
+		"name": "SR_17_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ora che il piano del Direttore è stato svelato, ogni Demone, ma in particolare quelli di Shibuya, dovrà scegliere da che parte stare.<BR><BR>Alcuni di loro, che sanno cosa io sia, provano a contattarmi ogni tanto, ma non ho modo di rispondere.<BR><BR>I Demoni di Shibuya devono crescere e adattarsi per superare questa situazione."
+	},
+	{
+		"name": "SR_17_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Il mio vecchio bar a Cat Street, quello che usavo come base tre anni fa, è sempre aperto a loro. So che, di tanto in tanto, ci fanno una capatina.<BR><BR>C'è una novità: le vibrazioni deboli che ho percepito provenire da Shinjuku hanno riacquistato piena potenza. Sta per arrivare qualcuno. Qualcuno che aiuterà a determinare il destino di Shibuya."
+	},
+	{
+		"name": "SR_18_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba è tornato a Shibuya. Come sospettavo, le vibrazioni che ho rilevato diciassette giorni fa erano sue.<BR><BR>Essere l'ultima squadra rimasta ha rafforzato la coesione dei Wicked Twisters, ma Daisukenojo Bito sembra credere che la vittoria della squadra dipenda solamente da lui."
+	},
+	{
+		"name": "SR_18_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Non posso criticare il suo agire verso Minamimoto, ma resta il fatto che, se non fosse intervenuto Neku, l'ex Demone lo avrebbe probabilmente cancellato.<BR><BR>La squadra è scampata al disastro per un soffio. Spero si mantengano in questa condizione positiva."
+	},
+	{
+		"name": "SR_18_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto era totalmente concentrato sulle distorsioni planari quando si è parzialmente trasformato in Rumore ed è impazzito. Forse dal PS non è in grado di misurare con precisione le distorsioni, ma il fatto che possa percepirle è già di per sé strabiliante.<BR><BR>Sospetto che si stia rendendo conto delle distorsioni che ha dentro di sé, come pure del fatto che non dovrebbe poterle percepire dal PS."
+	},
+	{
+		"name": "SR_18_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Credo che Minamimoto sia giunto alla mia stessa conclusione: il Replay è un potere troppo potente per un individuo dei piani inferiori.<BR><BR>Sto iniziando a decifrare il piano dell'Esecutore."
+	},
+	{
+		"name": "SR_18_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Un'altra cosa che mi preoccupa è l'Anima del delegato.<BR><BR>Il problema della stasi è tornato in tutta la sua forza, proprio quando sembrava che stesse sparendo. La causa potrebbe essere il suo timore verso Minamimoto o l'incertezza che sottende le sue interazioni con Neku."
+	},
+	{
+		"name": "SR_19_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba ha unito le forze con il delegato. Il Compositore lo aveva inviato da Shibuya a Shinjuku durante la sua purificazione, forse per gestire la situazione, mantenendolo isolato e al sicuro da chi lo avrebbe preso di mira per le sue formidabili capacità.<BR><BR>L'Anima del delegato rimane statica. Devo ancora capire esattamente che cosa le impedisca di crescere. Sarebbe tutto più facile se potessi farmi una chiacchierata con lui."
+	},
+	{
+		"name": "SR_19_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Dopo molteplici richieste, finalmente ho ricevuto il report sulla purificazione di Shinjuku. In apparenza, il Gioco fu teatro di un conflitto fra il Direttore e i Demoni. In realtà, però, il Compositore, ansioso di purificare Shinjuku, piazzò l'Esecutore tra i Demoni perché si ribellassero ed eliminassero il Direttore.<BR><BR>Questo spiega perché il Direttore fu cancellato e i Demoni furono trasferiti in una nuova zona."
+	},
+	{
+		"name": "SR_19_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi Matsunae nutriva dei sospetti sull'Esecutore, ed egli sigillò l'Anima di lei per non correre rischi. In precedenza era una Demone, ma l'Esecutore l'aveva spogliata del titolo dopo la sua alleanza col fratello maggiore, il Direttore di Shinjuku.<BR><BR>A Shinjuku, perdere lo status di Demone significava la cancellazione dal Gioco. Certo della sua sconfitta, il Direttore di Shinjuku utilizzò le sue ultime forze per custodire l'Anima della sorella dentro un peluche."
+	},
+	{
+		"name": "SR_19_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Quel peluche apparteneva a Shiki Misaki. Immagino che fosse stato un Demone di Shibuya a portarlo a Shinjuku.<BR><BR>Dunque, Tsugumi Matsunae è stata l'unica sopravvissuta alla purificazione di Shinjuku e a Shibuya è tornata una Demone, seppure sotto stretta sorveglianza dell'Esecutore."
+	},
+	{
+		"name": "SR_19_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Per lungo tempo ha agito senza una volontà propria, con l'Anima intrappolata da un Rumore. Tuttavia, è stata in grado di inviare messaggi al delegato usando il suo potere latente.<BR><BR>Ora, il Rumore che la vincolava è scomparso. Se sarà possibile riparare il danno al peluche, la sua Anima sarà libera."
+	},
+	{
+		"name": "SR_20_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Il fiume di Shibuya è notoriamente un posto speciale, anche per le entità del Piano Superiore. La sua fonte è a Shinjuku, dunque sarebbe dovuto sparire nel processo di purificazione. Eppure, continua a scorrere invisibile nel proprio piano.<BR><BR>La trovo un'idea eccellente nascondere le Anime al suo interno per risparmiarle alla purificazione."
+	},
+	{
+		"name": "SR_20_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaichi Susuki amava il Gioco e teneva ai suoi compagni più di ogni altro Demone di Shinjuku. Le sue azioni ne sono la prova.<BR><BR>In generale, i Demoni di Shinjuku hanno mantenuto gli stessi rapporti che li legavano prima del trasferimento. Non so che tipo fosse Shiba Miyakaze prima che l'Esecutore lo trasformasse, ma a giudicare dalla fede incrollabile dei Demoni di Shinjuku nei suoi confronti, deduco che fosse assai carismatico."
+	},
+	{
+		"name": "SR_20_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Non è ancora dato sapere se, al termine del Gioco, Shiba Miyakaze verrà liberato dall'influenza dell'Esecutore.<BR><BR>Eppure, nel caso tornasse quello di un tempo, dovrà affrontare una tragica realtà: la perdita dei suoi amici è stata causata dalle sue azioni."
+	},
+	{
+		"name": "SR_20_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba è diffidente dei poteri del delegato. La spilla continua ad assorbire le distorsioni generate. Le assorbe, ma non le distrugge. Dev'esserci un motivo se vengono conservate.<BR><BR>Chissà cosa pensa il Compositore di tutto questo. Tutt'ora, non sembra aver fatto alcuna mossa. Ma avrà almeno un piano? Forse, domani avremo una risposta."
+	},
+	{
+		"name": "SR_21_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Le distorsioni planari causate dal Replay facevano parte del piano dell'Esecutore per purificare Shibuya. Le condizioni del delegato e della sua squadra sono peggiorate drasticamente.<BR><BR>La capacità di trasformare l'energia distorta in Rumori è assolutamente eccezionale. Credo sia il potere latente dell'Esecutore e ciò gli permette di generare quelle creature a piacimento, o comunque qualcosa di simile."
+	},
+	{
+		"name": "SR_21_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Essenzialmente, un tempo, le distorsioni erano Anime. Esse nascono dai pensieri e dal tempo perduto da coloro le cui sequenze temporali sono state eliminate.<BR><BR>La spilla del delegato conserva le distorsioni nate dalle sequenze temporali perdute, rendendole simili ai pensieri che le generano e creando nuove distorsioni. La spilla permette alle distorsioni di espandersi e moltiplicarsi a ogni viaggio temporale."
+	},
+	{
+		"name": "SR_21_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Gli uccelli visti dal delegato non sono altro che nuove distorsioni generate da quelle conservate nella spilla, in una forma ordinata e facilmente immagazzinabile.<BR><BR>In genere, alle Anime serve un catalizzatore per prendere forma. In questo caso, credo sia la spilla dell'Esecutore a svolgere tale funzione, prima generando i Rumori e poi trasferendo in loro l'Immaginazione delle distorsioni."
+	},
+	{
+		"name": "SR_21_4",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Esecutore è molto abile a governare i Rumori.<BR><BR>È assai probabile che la forma da volatile dei Rumori sia solo temporanea.<BR><BR>Se si tratta di una forma indefinita e mutevole, è probabile che al delegato e alla sua squadra aspetti una dura battaglia.<BR><BR>Shibuya è in grave pericolo."
+	},
+	{
+		"name": "SR_22_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya ha ricevuto una nuova visita. Credo che nemmeno il Compositore se lo aspettasse. Si tratta dello stesso individuo che ha compilato il report dell'Inversione di Shinjuku.<BR><BR>Ma perché è venuto a Shibuya? Dubito per occuparsi dell'Esecutore. Insomma, può pensare a Tanzo Kubo dopo la purificazione."
+	},
+	{
+		"name": "SR_22_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Pare che il Compositore di Shinjuku, Hazuki Mikagi, abbia eliminato i Rumori dell'Esecutore e dato un'altra chance al delegato. Credo di sapere il perché. Immagino che il Compositore di Shibuya ne sia contrariato."
+	},
+	{
+		"name": "SR_22_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Finalmente ho determinato la causa della stasi nell'Anima del delegato: la sua paura di assumersi responsabilità.<BR><BR>Ogni volta che alleati fidati, come Minamimoto, Daisukenojo Bito e Neku Sakuraba, sono comparsi e hanno preso le redini, il risultante sollievo ha messo in stasi la mente del delegato.<BR><BR>Ironicamente, è stato il Compositore di Shinjuku, notoriamente insensibile, a portarmi a questa conclusione."
+	},
+	{
+		"name": "SR_22_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Perché Shibuya continui a esistere, il delegato deve usare il Replay e annullare la sua distruzione.<BR><BR>La scelta di tornare o meno indietro nel tempo è sua. È, senza dubbio, un suo diritto.<BR><BR>Shibuya ha già guardato in faccia la distruzione, ma questa volta la minaccia è molto più pericolosa. La sfida che ci attende non può essere ignorata."
+	},
+	{
+		"name": "SR_23_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La squadra del delegato ha affrontato un enorme Rumore uccello. È stato generato distruggendo gli instabili Rumori uccello neri e poi riassemblandoli. C'è chiaramente lo zampino del Compositore di Shinjuku.<BR><BR>Tutto questo ha permesso al delegato e alla sua squadra di concentrarsi su un unico bersaglio."
+	},
+	{
+		"name": "SR_23_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ogni piuma della coda della fenice è una rappresentazione karmica di una singola inversione temporale.<BR><BR>Potrebbe essere una manifestazione del conflitto interno del Compositore di Shinjuku: benché incuriosito dal delegato e dai suoi compagni, continua infatti a desiderare la purificazione di Shibuya."
+	},
+	{
+		"name": "SR_23_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Ritengo che la sua intromissione, ovvero occuparsi dell'Esecutore, contattare il delegato e interferire con le distorsioni, non sia stato un semplice atto di scusa verso Shibuya.<BR><BR>Era il pretesto perfetto per spingere il Compositore di Shibuya a fare la sua mossa.<BR><BR>Tuttavia, egli non è caduto nel tranello e non ha agito fino all'ultimo."
+	},
+	{
+		"name": "SR_23_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Mentre si connettevano all'Immaginazione di Shibuya, egli non è apparso a Neku Sakuraba e agli altri per aiutarli, ma per stabilizzare la mente di Neku ricordandogli che lui era lì.<BR><BR>Osservando le vibrazioni registrate dall'SRD, non c'è traccia di un'interferenza esterna. Il team del delegato ha sconfitto la Phoenix Cantus con la propria forza, oltre a quella di Shibuya."
+	},
+	{
+		"name": "SR_24_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Ora che il Gioco è terminato, finalmente ho il permesso di contattare il Compositore.<BR><BR>Sono passati diversi giorni da allora e il Compositore ha già completato due ordini del giorno.<BR><BR>Uno di questi riguardava Neku Sakuraba."
+	},
+	{
+		"name": "SR_24_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Sfruttando un campione di un mondo parallelo, un mondo in cui Neku non è mai andato a Shinjuku e ha invece vissuto tranquillamente nel PR per tre anni, il Compositore ha modificato lo spazio e i ricordi che circondano Neku, così che possa tornare a risiedere nel PR senza problemi.<BR><BR>Non è particolarmente insolito: quando un Demone viene riportato nel PR, bisogna seguire lo stesso procedimento."
+	},
+	{
+		"name": "SR_24_3",
+		"speaker": "",
+		"listener": "",
+		"content": "L'altra questione riguarda Shoka Sakurane. Non essendo più Demone, la sua distruzione al termine del Gioco era praticamente certa.<BR><BR>Tuttavia, il Compositore ha salvato la sua Anima nell'esatto momento in cui si avviava alla cancellazione. Ora è rinata. A Shibuya. Nel PR.<BR><BR>Credo si tratti di una rara espressione di gratitudine del Compositore. Gratitudine verso il delegato, ovviamente."
+	},
+	{
+		"name": "SR_24_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Anche il delegato è tornato alla sua vita nel PR. Grazie a lui, ho appreso molto sulla rete in quanto piano di esistenza simulato, come anche sugli effetti che produce sulle emozioni umane.<BR><BR>Non si può negare che sia uno strumento efficace per espandere il proprio mondo. Tuttavia, sta all'utente esplorare e vivere quel mondo che ha ampliato, altrimenti resterebbe soltanto una simulazione."
+	},
+	{
+		"name": "SR_24_5",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Goditi il presente<MK_11> e <MK_11>continua ad andare avanti<MK_11>. Forse, rifiutandosi di interferire, il Compositore voleva trasmettere a Shibuya l'importanza di accettare le proprie circostanze e di impegnarsi a tale riguardo.<BR><BR>Ho un ultimo appunto per il delegato, Rindo Kanade. La decisione che hai preso richiedeva coraggio e ti ringrazio.<BR><BR>Spero sinceramente che, un giorno, ci incontreremo di persona."
+	}
+]
+}

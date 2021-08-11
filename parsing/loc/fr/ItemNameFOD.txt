@@ -1,0 +1,580 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Nourriture"
+	},
+	{
+		"name": "ITM_FOD_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Infusion glacée"
+	},
+	{
+		"name": "ITM_FOD_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Café au lait glacé"
+	},
+	{
+		"name": "ITM_FOD_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Soda à la glace"
+	},
+	{
+		"name": "ITM_FOD_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Mélange Hachiko"
+	},
+	{
+		"name": "ITM_FOD_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Café au lait"
+	},
+	{
+		"name": "ITM_FOD_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Scone aux pépites de chocolat"
+	},
+	{
+		"name": "ITM_FOD_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandwich BLT"
+	},
+	{
+		"name": "ITM_FOD_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandwich FKO"
+	},
+	{
+		"name": "ITM_FOD_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Ragoût de poulet"
+	},
+	{
+		"name": "ITM_FOD_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Héros-burger"
+	},
+	{
+		"name": "ITM_FOD_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Faramineux au fromage"
+	},
+	{
+		"name": "ITM_FOD_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Prodigieux au poisson"
+	},
+	{
+		"name": "ITM_FOD_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Justice Burger"
+	},
+	{
+		"name": "ITM_FOD_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Frite affranchie"
+	},
+	{
+		"name": "ITM_FOD_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Super-soda"
+	},
+	{
+		"name": "ITM_FOD_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Jus-tice"
+	},
+	{
+		"name": "ITM_FOD_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Nouilles dàndàn"
+	},
+	{
+		"name": "ITM_FOD_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Nouilles indécentes"
+	},
+	{
+		"name": "ITM_FOD_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Nouilles méli-mélo"
+	},
+	{
+		"name": "ITM_FOD_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Nouilles dàndàn noires"
+	},
+	{
+		"name": "ITM_FOD_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "La Totale"
+	},
+	{
+		"name": "ITM_FOD_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Poulet rôti"
+	},
+	{
+		"name": "ITM_FOD_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Churrasco"
+	},
+	{
+		"name": "ITM_FOD_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Bœuf maturé"
+	},
+	{
+		"name": "ITM_FOD_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Tête de thon rôtie"
+	},
+	{
+		"name": "ITM_FOD_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Alligator grillé"
+	},
+	{
+		"name": "ITM_FOD_Name_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Salade de fruits"
+	},
+	{
+		"name": "ITM_FOD_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Royal au chocolat noir"
+	},
+	{
+		"name": "ITM_FOD_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Régal au chocolat Ruby"
+	},
+	{
+		"name": "ITM_FOD_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Parfait entre amies"
+	},
+	{
+		"name": "ITM_FOD_Name_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubble tea au lait"
+	},
+	{
+		"name": "ITM_FOD_Name_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubble tea au matcha"
+	},
+	{
+		"name": "ITM_FOD_Name_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubble tea à la fraise"
+	},
+	{
+		"name": "ITM_FOD_Name_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubble tea au sucre noir"
+	},
+	{
+		"name": "ITM_FOD_Name_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubble tea à la mangue"
+	},
+	{
+		"name": "ITM_FOD_Name_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "La Triade"
+	},
+	{
+		"name": "ITM_FOD_Name_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Curry de poulet"
+	},
+	{
+		"name": "ITM_FOD_Name_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Curry dhal"
+	},
+	{
+		"name": "ITM_FOD_Name_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Curry de poisson"
+	},
+	{
+		"name": "ITM_FOD_Name_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Biryani japonisant"
+	},
+	{
+		"name": "ITM_FOD_Name_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Onigiri à l'umeboshi"
+	},
+	{
+		"name": "ITM_FOD_Name_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Onigiri au saumon"
+	},
+	{
+		"name": "ITM_FOD_Name_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Bento d'entracte"
+	},
+	{
+		"name": "ITM_FOD_Name_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "Poulet frit"
+	},
+	{
+		"name": "ITM_FOD_Name_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Pot-au-feu japonais"
+	},
+	{
+		"name": "ITM_FOD_Name_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Chips"
+	},
+	{
+		"name": "ITM_FOD_Name_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol au bœuf de Matsusaka"
+	},
+	{
+		"name": "ITM_FOD_Name_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol de fruits de mer de Toyosu"
+	},
+	{
+		"name": "ITM_FOD_Name_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol premier choix d'Hokkaido"
+	},
+	{
+		"name": "ITM_FOD_Name_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol de rôti de bœuf de Tokyo"
+	},
+	{
+		"name": "ITM_FOD_Name_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol d'anguilles de Nagoya"
+	},
+	{
+		"name": "ITM_FOD_Name_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Bol maxi-viandard"
+	},
+	{
+		"name": "ITM_FOD_Name_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Grande salade mixte"
+	},
+	{
+		"name": "ITM_FOD_Name_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Tartine d'avocat"
+	},
+	{
+		"name": "ITM_FOD_Name_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Soupe végé spéciale"
+	},
+	{
+		"name": "ITM_FOD_Name_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Smoothie vert"
+	},
+	{
+		"name": "ITM_FOD_Name_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Smoothie aux baies d'açai"
+	},
+	{
+		"name": "ITM_FOD_Name_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Canette d'air"
+	},
+	{
+		"name": "ITM_FOD_Name_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Pogo au fromage"
+	},
+	{
+		"name": "ITM_FOD_Name_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigim à la banane"
+	},
+	{
+		"name": "ITM_FOD_Name_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Assortiment de pani puri"
+	},
+	{
+		"name": "ITM_FOD_Name_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Panier de xiaolongbao"
+	},
+	{
+		"name": "ITM_FOD_Name_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Barquette de takoyaki"
+	},
+	{
+		"name": "ITM_FOD_Name_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Glace à l'italienne"
+	},
+	{
+		"name": "ITM_FOD_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Crêpe au muscat"
+	},
+	{
+		"name": "ITM_FOD_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Crêpe aux fruits rouges"
+	},
+	{
+		"name": "ITM_FOD_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Glace italienne au chocolat"
+	},
+	{
+		"name": "ITM_FOD_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Tourbillon de patate douce"
+	},
+	{
+		"name": "ITM_FOD_Name_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacos au bœuf copieux"
+	},
+	{
+		"name": "ITM_FOD_Name_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacos muy caliente"
+	},
+	{
+		"name": "ITM_FOD_Name_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacos spicy verde"
+	},
+	{
+		"name": "ITM_FOD_Name_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacos santa mole"
+	},
+	{
+		"name": "ITM_FOD_Name_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Ramen sauce soja"
+	},
+	{
+		"name": "ITM_FOD_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Ramen salés au citron"
+	},
+	{
+		"name": "ITM_FOD_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Ramen miso"
+	},
+	{
+		"name": "ITM_FOD_Name_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Ramen miso épicés"
+	},
+	{
+		"name": "ITM_FOD_Name_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Thé à l'orange"
+	},
+	{
+		"name": "ITM_FOD_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Thé aux fruits rouges"
+	},
+	{
+		"name": "ITM_FOD_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Thé à l'orange pétillant"
+	},
+	{
+		"name": "ITM_FOD_Name_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Fortifiant aux fruits frais"
+	},
+	{
+		"name": "ITM_FOD_Name_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Thali non végétarien"
+	},
+	{
+		"name": "ITM_FOD_Name_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "Banquet sur feuille de bananier"
+	},
+	{
+		"name": "ITM_FOD_Name_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Thali végétarien"
+	},
+	{
+		"name": "ITM_FOD_Name_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Masala dosa"
+	},
+	{
+		"name": "ITM_FOD_Name_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Biryani au poulet"
+	},
+	{
+		"name": "ITM_FOD_Name_1600",
+		"speaker": "",
+		"listener": "",
+		"content": "Taiyaki ultra-crousti"
+	},
+	{
+		"name": "ITM_FOD_Name_1601",
+		"speaker": "",
+		"listener": "",
+		"content": "An-mitsu crémeux au matcha"
+	},
+	{
+		"name": "ITM_FOD_Name_1602",
+		"speaker": "",
+		"listener": "",
+		"content": "Parfait triple au matcha"
+	},
+	{
+		"name": "ITM_FOD_Name_1603",
+		"speaker": "",
+		"listener": "",
+		"content": "Brochette de dango à l'anko"
+	},
+	{
+		"name": "ITM_FOD_Name_1604",
+		"speaker": "",
+		"listener": "",
+		"content": "Brochette de dango au zunda"
+	},
+	{
+		"name": "ITM_FOD_Name_1700",
+		"speaker": "",
+		"listener": "",
+		"content": "Pile de pancakes épais"
+	},
+	{
+		"name": "ITM_FOD_Name_1701",
+		"speaker": "",
+		"listener": "",
+		"content": "Granité hawaïen fraisi-crémeux"
+	},
+	{
+		"name": "ITM_FOD_Name_1702",
+		"speaker": "",
+		"listener": "",
+		"content": "Granité hawaïen choco-menthe"
+	},
+	{
+		"name": "ITM_FOD_Name_1703",
+		"speaker": "",
+		"listener": "",
+		"content": "Pile de pancakes sauce chocolat"
+	},
+	{
+		"name": "ITM_FOD_Name_1704",
+		"speaker": "",
+		"listener": "",
+		"content": "Granité hawaïen dingo-mango"
+	}
+]
+}

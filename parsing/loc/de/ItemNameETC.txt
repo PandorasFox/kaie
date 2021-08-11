@@ -1,0 +1,964 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Objekt"
+	},
+	{
+		"name": "ITM_VAL_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "FP"
+	},
+	{
+		"name": "ITM_BOK_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 1"
+	},
+	{
+		"name": "ITM_BOK_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 2"
+	},
+	{
+		"name": "ITM_BOK_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 3"
+	},
+	{
+		"name": "ITM_BOK_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 4"
+	},
+	{
+		"name": "ITM_BOK_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 5"
+	},
+	{
+		"name": "ITM_BOK_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 6"
+	},
+	{
+		"name": "ITM_BOK_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 7"
+	},
+	{
+		"name": "ITM_BOK_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 8"
+	},
+	{
+		"name": "ITM_BOK_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 9"
+	},
+	{
+		"name": "ITM_BOK_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 10"
+	},
+	{
+		"name": "ITM_BOK_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 11"
+	},
+	{
+		"name": "ITM_BOK_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 12"
+	},
+	{
+		"name": "ITM_BOK_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 13"
+	},
+	{
+		"name": "ITM_BOK_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 14"
+	},
+	{
+		"name": "ITM_BOK_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 15"
+	},
+	{
+		"name": "ITM_BOK_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 16"
+	},
+	{
+		"name": "ITM_BOK_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 17"
+	},
+	{
+		"name": "ITM_BOK_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 18"
+	},
+	{
+		"name": "ITM_BOK_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 19"
+	},
+	{
+		"name": "ITM_BOK_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 20"
+	},
+	{
+		"name": "ITM_BOK_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 21"
+	},
+	{
+		"name": "ITM_BOK_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 22"
+	},
+	{
+		"name": "ITM_BOK_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 23"
+	},
+	{
+		"name": "ITM_BOK_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimbericht Nr. 24"
+	},
+	{
+		"name": "ITM_BOK_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 1"
+	},
+	{
+		"name": "ITM_BOK_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 2"
+	},
+	{
+		"name": "ITM_BOK_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 3"
+	},
+	{
+		"name": "ITM_BOK_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 4"
+	},
+	{
+		"name": "ITM_BOK_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 5"
+	},
+	{
+		"name": "ITM_BOK_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 6"
+	},
+	{
+		"name": "ITM_BOK_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 7"
+	},
+	{
+		"name": "ITM_BOK_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 8"
+	},
+	{
+		"name": "ITM_BOK_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 9"
+	},
+	{
+		"name": "ITM_BOK_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 10"
+	},
+	{
+		"name": "ITM_BOK_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 11"
+	},
+	{
+		"name": "ITM_BOK_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 12"
+	},
+	{
+		"name": "ITM_BOK_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 13"
+	},
+	{
+		"name": "ITM_BOK_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 14"
+	},
+	{
+		"name": "ITM_BOK_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 15"
+	},
+	{
+		"name": "ITM_BOK_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 16"
+	},
+	{
+		"name": "ITM_BOK_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 17"
+	},
+	{
+		"name": "ITM_BOK_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 18"
+	},
+	{
+		"name": "ITM_BOK_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 19"
+	},
+	{
+		"name": "ITM_BOK_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 20"
+	},
+	{
+		"name": "ITM_BOK_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 21"
+	},
+	{
+		"name": "ITM_BOK_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 22"
+	},
+	{
+		"name": "ITM_BOK_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 23"
+	},
+	{
+		"name": "ITM_BOK_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 24"
+	},
+	{
+		"name": "ITM_BOK_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 25"
+	},
+	{
+		"name": "ITM_BOK_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 26"
+	},
+	{
+		"name": "ITM_BOK_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 27"
+	},
+	{
+		"name": "ITM_BOK_Name_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 28"
+	},
+	{
+		"name": "ITM_BOK_Name_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 29"
+	},
+	{
+		"name": "ITM_BOK_Name_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 30"
+	},
+	{
+		"name": "ITM_BOK_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 31"
+	},
+	{
+		"name": "ITM_BOK_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 32"
+	},
+	{
+		"name": "ITM_BOK_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 33"
+	},
+	{
+		"name": "ITM_BOK_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 34"
+	},
+	{
+		"name": "ITM_BOK_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 35"
+	},
+	{
+		"name": "ITM_BOK_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 36"
+	},
+	{
+		"name": "ITM_BOK_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 37"
+	},
+	{
+		"name": "ITM_BOK_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 38"
+	},
+	{
+		"name": "ITM_BOK_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 39"
+	},
+	{
+		"name": "ITM_BOK_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipps und Tricks 40"
+	},
+	{
+		"name": "ITM_BOK_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Als Team kämpfen"
+	},
+	{
+		"name": "ITM_BOK_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Kombos"
+	},
+	{
+		"name": "ITM_BOK_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Ausweichen"
+	},
+	{
+		"name": "ITM_BOK_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Noise-Gegenangriffe"
+	},
+	{
+		"name": "ITM_BOK_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Elementaraffinitäten"
+	},
+	{
+		"name": "ITM_BOK_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Statusleiden"
+	},
+	{
+		"name": "ITM_BOK_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Erfahrungspunkte"
+	},
+	{
+		"name": "ITM_BOK_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Im Kampf rocken"
+	},
+	{
+		"name": "ITM_BOK_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Superstarke Mashups"
+	},
+	{
+		"name": "ITM_BOK_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Killer-Remixe"
+	},
+	{
+		"name": "ITM_BOK_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins aufnehmen"
+	},
+	{
+		"name": "ITM_BOK_Name_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins entwickeln"
+	},
+	{
+		"name": "ITM_BOK_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin-Ensembles"
+	},
+	{
+		"name": "ITM_BOK_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Super-Pins"
+	},
+	{
+		"name": "ITM_BOK_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins sammeln"
+	},
+	{
+		"name": "ITM_BOK_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin-Sets"
+	},
+	{
+		"name": "ITM_BOK_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Scannen"
+	},
+	{
+		"name": "ITM_BOK_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Kampfserien"
+	},
+	{
+		"name": "ITM_BOK_Name_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Rote Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Blaue Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Rosa Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Gegen Grunzer-Noise kämpfen"
+	},
+	{
+		"name": "ITM_BOK_Name_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Fahle Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Orange Noise-Symbole"
+	},
+	{
+		"name": "ITM_BOK_Name_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "FP sammeln"
+	},
+	{
+		"name": "ITM_BOK_Name_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Emotionales Noise: Wütend"
+	},
+	{
+		"name": "ITM_BOK_Name_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Emotionales Noise: Traurig"
+	},
+	{
+		"name": "ITM_BOK_Name_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Emotionales Noise: Gelassen"
+	},
+	{
+		"name": "ITM_BOK_Name_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Emotionales Noise: Ängstlich"
+	},
+	{
+		"name": "ITM_BOK_Name_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "ShibuPay"
+	},
+	{
+		"name": "ITM_BOK_Name_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Fähigkeiten"
+	},
+	{
+		"name": "ITM_BOK_Name_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Style"
+	},
+	{
+		"name": "ITM_BOK_Name_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "Ladenquests"
+	},
+	{
+		"name": "ITM_BOK_Name_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "Stammkunde werden"
+	},
+	{
+		"name": "ITM_BOK_Name_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Essen gehen"
+	},
+	{
+		"name": "ITM_BOK_Name_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Lieblingsessen"
+	},
+	{
+		"name": "ITM_BOK_Name_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Graffitimauer in Udagawa"
+	},
+	{
+		"name": "ITM_BOK_Name_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya-Slams"
+	},
+	{
+		"name": "ITM_BOK_Name_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "Mentale Notizen"
+	},
+	{
+		"name": "ITM_BOK_Name_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "Talente (soziales Netzwerk)"
+	},
+	{
+		"name": "ITM_BOK_Name_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "Nebenquests"
+	},
+	{
+		"name": "ITM_BOK_Name_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Kapitelauswahl"
+	},
+	{
+		"name": "ITM_CD_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 1"
+	},
+	{
+		"name": "ITM_CD_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 2"
+	},
+	{
+		"name": "ITM_CD_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 3"
+	},
+	{
+		"name": "ITM_CD_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 4"
+	},
+	{
+		"name": "ITM_CD_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 5"
+	},
+	{
+		"name": "ITM_CD_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 6"
+	},
+	{
+		"name": "ITM_CD_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 7"
+	},
+	{
+		"name": "ITM_CD_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 8"
+	},
+	{
+		"name": "ITM_CD_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 9"
+	},
+	{
+		"name": "ITM_CD_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 10"
+	},
+	{
+		"name": "ITM_CD_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 11"
+	},
+	{
+		"name": "ITM_CD_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 12"
+	},
+	{
+		"name": "ITM_CD_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 13"
+	},
+	{
+		"name": "ITM_CD_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 14"
+	},
+	{
+		"name": "ITM_CD_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 15"
+	},
+	{
+		"name": "ITM_CD_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 16"
+	},
+	{
+		"name": "ITM_CD_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 17"
+	},
+	{
+		"name": "ITM_CD_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 18"
+	},
+	{
+		"name": "ITM_CD_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 19"
+	},
+	{
+		"name": "ITM_CD_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 20"
+	},
+	{
+		"name": "ITM_CD_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 21"
+	},
+	{
+		"name": "ITM_CD_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 22"
+	},
+	{
+		"name": "ITM_CD_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 23"
+	},
+	{
+		"name": "ITM_CD_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 24"
+	},
+	{
+		"name": "ITM_CD_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 25"
+	},
+	{
+		"name": "ITM_CD_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 26"
+	},
+	{
+		"name": "ITM_CD_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 27"
+	},
+	{
+		"name": "ITM_CD_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 28"
+	},
+	{
+		"name": "ITM_CD_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 29"
+	},
+	{
+		"name": "ITM_CD_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 30"
+	},
+	{
+		"name": "ITM_CD_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 31"
+	},
+	{
+		"name": "ITM_CD_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 32"
+	},
+	{
+		"name": "ITM_CD_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 33"
+	},
+	{
+		"name": "ITM_CD_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 34"
+	},
+	{
+		"name": "ITM_CD_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 35"
+	},
+	{
+		"name": "ITM_CD_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 36"
+	},
+	{
+		"name": "ITM_CD_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 37"
+	},
+	{
+		"name": "ITM_CD_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 38"
+	},
+	{
+		"name": "ITM_CD_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 39"
+	},
+	{
+		"name": "ITM_CD_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 40"
+	},
+	{
+		"name": "ITM_CD_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 41"
+	},
+	{
+		"name": "ITM_CD_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 42"
+	},
+	{
+		"name": "ITM_CD_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 43"
+	},
+	{
+		"name": "ITM_CD_Name_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 44"
+	},
+	{
+		"name": "ITM_CD_Name_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 45"
+	},
+	{
+		"name": "ITM_CD_Name_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 46"
+	},
+	{
+		"name": "ITM_CD_Name_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 47"
+	},
+	{
+		"name": "ITM_CD_Name_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 48"
+	},
+	{
+		"name": "ITM_CD_Name_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 49"
+	},
+	{
+		"name": "ITM_CD_Name_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 50"
+	},
+	{
+		"name": "ITM_CD_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "(CD) Titel 51"
+	}
+]
+}

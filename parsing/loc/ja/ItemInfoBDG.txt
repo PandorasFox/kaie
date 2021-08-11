@@ -1,0 +1,3010 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Info_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジInfo",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を薙ぎ払って<CRE>ノックバック</C>させる",
+		"comment": "PSY［無/無］ショックウェイヴ：ショックウェイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を薙ぎ払って<CRE>ノックバック</C>させる",
+		"comment": "PSY［猿/無］ショックウェイヴ：ミダレガミ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を<CRE>2回</C>薙ぎ払って<CRE>ノックバック</C>させる",
+		"comment": "PSY［猿/無］ショックウェイヴ：ナミクグリ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると前方を薙ぎ払った後\n高く跳んで振り下ろし<CRE>ノックバック</C>させる",
+		"comment": "PSY［猿/炎］ショックウェイヴ：アザマル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると前方を薙ぎ払った後\n高く跳んで振り下ろし<CRE>ノックバック</C>させる",
+		"comment": "PSY［猿/炎］ショックウェイヴ：シシオウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を<CRE>2回</C>薙ぎ払って<CRE>吹き飛ばす</C>",
+		"comment": "PSY［猿/風］ショックウェイヴ：フウチン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0007>",
+		"comment": "PSY［猿/闇］ショックウェイヴ：クロウルシ\nPF\nターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を薙ぎ払ってノックバックさせるターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を薙ぎ払ってノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0008>",
+		"comment": "PSY［猿/闇］ショックウェイヴ：ホネバミ\nPF\nターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を2回薙ぎ払ってノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "鋭い鉤爪を持つ巨大な熊手で\n敵を一撃で切り裂き<CRE>吹き飛ばす</C>",
+		"comment": "PSY［無/無］ショックウェイヴ：グリズ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>2段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［猿/無］ボルカニックアッパー：オニマル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>2段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［猿/無］ボルカニックアッパー：サヨサモンジ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>2段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［猿/無］ボルカニックアッパー：アイゼン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>3段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［猿/炎］ボルカニックアッパー：キツネガサキ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>3段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［猿/炎］ボルカニックアッパー：ユキミツ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると高く跳んで振り下ろした後\n<CRE>5段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>",
+		"comment": "PSY［蛙/水］ボルカニックアッパー：ふたごクルクル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n全方位の回転斬りで<CRE>吹き飛ばす</C>",
+		"comment": "PSY［猿/風］ボルテックスセイバー：ツルマル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると前方を薙ぎ払った後\n全方位の回転斬りで<CRE>吹き飛ばす</C>",
+		"comment": "PSY［猿/風］ボルテックスセイバー：レイゲツ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n全方位の回転斬りを<CRE>2回</C>繰り出し\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［猿/光］ボルテックスセイバー：続・サルの木星",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n全方位の回転斬りを<CRE>3回</C>繰り出し\n<CRE>ノックバック</C>させる\n3回目の回転斬りは<CRE>広範囲を巻き込む</C>",
+		"comment": "PSY［猿/光］ボルテックスセイバー：ホタル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0020>",
+		"comment": "PSY［虎/無］ハードパンチャー：スマイルDEATH\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると高速の連続攻撃になり\n最後のパンチでノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0021>",
+		"comment": "PSY［虎/無］ハードパンチャー：グランジパンチ\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると高速の連続攻撃になり\n最後のパンチでノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0022>",
+		"comment": "PSY［虎/炎］ハードパンチャー：プロミネンスパンチ\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると高速の連続攻撃になり\n最後のパンチでノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0023>",
+		"comment": "PSY［虎/炎］ハードパンチャー：ラウドラピッド\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると高速の連続攻撃になり\n最後のパンチでノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0024>",
+		"comment": "PSY［虎/炎］ハードパンチャー：ランブルモッシュ\nPF\nチャージしてボタンを離すと\nターゲットに接近して連続パンチを繰り出す\nチャージの長さでパンチの回数が変わる\n最後のパンチでノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0025>",
+		"comment": "PSY［虎/氷］ハードパンチャー：フリーザフリーザ\nPF\nチャージしてボタンを離すと\nターゲットに接近して連続パンチを繰り出す\nチャージの長さでパンチの回数が変わる\n最後のパンチでノックバックさせ\n確率で［アイスバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0026>",
+		"comment": "PSY［虎/氷］ハードパンチャー：アイススラッシュ\nPF\nチャージしてボタンを離すと\nターゲットに接近して連続パンチを繰り出す\nチャージの長さでパンチの回数が変わる\n最後のパンチでノックバックさせ\n確率で［アイスバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近してパンチを繰り出す\n高速の連続攻撃の最後のパンチで\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［虎/音］ハードパンチャー：ライトハンド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近してパンチを繰り出す\n高速の連続攻撃の最後のパンチで\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［虎/音］ハードパンチャー：ハウリング",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0029>",
+		"comment": "PSY［虎/無］ハードパンチャースラム：TPフライヤー\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると跳び上がって\n叩きつけ攻撃でダウンさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0030>",
+		"comment": "PSY［虎/岩］ハードパンチャースラム：ロック×ロック\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると跳び上がって\n叩きつけ攻撃でダウンさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0031>",
+		"comment": "PSY［虎/岩］ハードパンチャースラム：クラッシュラッシュ\nPF\nターゲットに接近してパンチを繰り出す\nボタンを連打すると跳び上がって\n叩きつけ攻撃でダウンさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "野性味あふれる大きな手を振り下ろし\n連続でターゲットを叩きつけて<CRE>ダウン</C>させる",
+		"comment": "PSY［無/岩］ハードパンチャースラム：ベリンゲイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鳥/無］スラストランス：ユビサスサキニ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鳥/無］スラストランス：メイヨトギセイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n<CRE>高速</C>の連続攻撃でノックバックさせ\n最後に<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鳥/無］スラストランス：ゼンザイサン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鳥/時］スラストランス：シマデノカウント\n※「タイムバインド」削除",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鳥/時］スラストランス：チュウヤギャクテン\n※「タイムバインド」削除",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃で<CRE>ノックバック</C>させ\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鳥/闇］アサシンランス：セナカノトモダチ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃で<CRE>ノックバック</C>させ\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鳥/闇］アサシンランス：ダブルロシアン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃で<CRE>ノックバック</C>させ\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［鳥/毒］アサシンランス：トリカエシフカノウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃で<CRE>ノックバック</C>させ\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［鳥/毒］アサシンランス：ジッケンセイコウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "猛毒を持つ危険な尻尾で死角から突き刺す\n連続攻撃で<CRE>ノックバック</C>させ\n確率で［<CRE>毒＋＋＋</C>］状態にする",
+		"comment": "PSY［無/毒］アサシンランス：スコル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に下突きで<CRE>ダウン</C>させる",
+		"comment": "PSY［鳥/雷］グレイブマーカー：シンロムケイカク",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n<CRE>2段ヒット</C>する連続攻撃でノックバックさせ\n最後に<CRE>5段ヒット</C>する下突きで<CRE>ダウン</C>させる",
+		"comment": "PSY［鳥/雷］グレイブマーカー：ドンテンノヘキレキ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n<CRE>3段ヒット</C>する連続攻撃でノックバックさせ\n最後に<CRE>7段ヒット</C>する下突きで<CRE>ダウン</C>させる",
+		"comment": "PSY［鳥/雷］グレイブマーカー：ヨクナイカンケイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n連続攻撃でノックバックさせ\n最後に下突きで<CRE>ダウン</C>させる",
+		"comment": "PSY［鳥/毒］グレイブマーカー：スイブンホキュウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを大きな槍で突く\n<CRE>3段ヒット</C>する連続攻撃でノックバックさせ\n最後に<CRE>7段ヒット</C>する下突きで<CRE>ダウン</C>させる",
+		"comment": "PSY［鳥/毒］グレイブマーカー：ジッケンシッパイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて弾を撃つ\n連続攻撃の最後に発射する弾で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［無/無］バレットショット：バレットショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて弾を撃つ\n連続攻撃の最後に発射する<CRE>貫通弾</C>で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/無］バレットショット：スイートビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて弾を撃つ\n連続攻撃の最後に発射する\n<CRE>2発並んだ貫通弾</C>で<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/無］バレットショット：よふかしビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>高速</C>の<CRE>貫通弾</C>を撃つ\n連続攻撃の最後に発射する<CRE>貫通弾</C>で\n<CRE>ノックバック</C>させる\n確率で［<CRE>感電＋</C>］状態にする",
+		"comment": "PSY［犬/雷］バレットショット：花よりビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>高速</C>の<CRE>貫通弾</C>を撃つ\n連続攻撃の最後に発射する<CRE>貫通弾</C>で\n<CRE>ノックバック</C>させる\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［犬/雷］バレットショット：ビビビビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて弾を撃つ\n連続攻撃の最後に発射する弾で\n<CRE>ノックバック</C>させる\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［犬/氷］バレットショット：なりふりビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0054",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて弾を撃つ\n連続攻撃の最後に<CRE>3方向</C>へ発射する弾で\n<CRE>ノックバック</C>させる\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［犬/氷］バレットショット：告られマグナム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0055",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて\nスクラップを<CRE>4個ずつ連発</C>する\nランダムで大型の物体が出現し\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/アポーツ］スクラップショット：がらくたマシンガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0056",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて\nスクラップを<CRE>4個ずつ連発</C>する\nランダムで大型の物体が出現し\n<CRE>吹き飛ばす</C>",
+		"comment": "PSY［犬/アポーツ］スクラップショット：わがままマシンガン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0057",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて泡を<CRE>2個ずつ連発</C>する\n連続攻撃の最後に発射する大きな泡で\n<CRE>ノックバック</C>させる\n確率で［<CRE>毒</C>］状態にする",
+		"comment": "PSY［犬/毒］スクラップショット：クタクタビーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0058",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "当たれば弾ける儚い泡は\n数多く撃つことで戦局を変える\n連続攻撃の最後に発射する大きな泡で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［無/水］スクラップショット：フログ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0059",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて氷弾を撃つ\n連続攻撃の最後に<CRE>周囲6方向</C>へ発射する弾で\n<CRE>ノックバック</C>させる\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［犬/氷］バレットショット：気まぐれランチャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0060",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて音波弾を撃つ\n弾は近くの敵に<CRE>最大5回反射</C>して最後に\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/音］エナジーショット：アイラブランチャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて音波弾を<CRE>3方向</C>に撃つ\n弾は近くの敵に<CRE>最大5回反射</C>して最後に\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/音］エナジーショット：いただきランチャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0062",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>3発並んだ</C>光弾を撃つ\n連続攻撃の最後に発射する弾で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/光］エナジーショット：温もりランチャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0063",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>5発並んだ</C>光弾を撃つ\n連続攻撃の最後に発射する弾で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［犬/光］エナジーショット：ずっきゅんランチャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0064",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の<CRE>周囲6方向</C>へ手裏剣を飛ばす\n連続攻撃の最後に飛ばす大きな手裏剣で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［蛙/無］エナジーショット：トコトコかばさん",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0065",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の<CRE>周囲8方向</C>へ手裏剣を飛ばす\n連続攻撃の最後に飛ばす大きな手裏剣で\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［蛙/無］エナジーショット：クローキー・パニック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0066",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾するカードを\n<CRE>2枚ずつ</C>飛ばす\n連続攻撃の最後に飛ばすカードで\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［鳥/無］フォーチューンカード：モノクロウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0067",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾するカードを\n<CRE>3枚ずつ</C>飛ばす\n連続攻撃の最後に飛ばすカードで\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［鳥/無］フォーチューンカード：アンイナグウゾウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0068",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾する赤いカードを\n<CRE>2枚ずつ</C>飛ばす\n連続攻撃の最後に飛ばすカードで\n<CRE>ノックバック</C>させる\n確率で［<CRE>炎上＋</C>］状態にする",
+		"comment": "PSY［鳥/炎］フォーチューンカード：サイゴノオオトリ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0069",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾する赤いカードを\n<CRE>4枚ずつ</C>飛ばす\n連続攻撃の最後に飛ばすカードで\n<CRE>ノックバック</C>させる\n確率で［<CRE>炎上＋＋</C>］状態にする",
+		"comment": "PSY［鳥/炎］フォーチューンカード：モエツキシンドローム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0070",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾する黒いカードを\n<CRE>3枚ずつ</C>飛ばす\nカードは地を這うように連なって飛び\n<CRE>ノックバック</C>させる\n確率で［<CRE>スタン</C>］状態にする\n",
+		"comment": "PSY［鳥/闇］フォーチューンカード：シンジツノソクメン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット付近の敵を追尾する黒いカードを\n<CRE>4枚ずつ</C>飛ばす\nカードは地を這うように連なって飛び\n<CRE>ノックバック</C>させる\n確率で［<CRE>スタン</C>］状態にする\n",
+		"comment": "PSY［鳥/闇］フォーチューンカード：キミダケノクオリア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0072",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "不思議な色に輝く弾が\n意思を持ったかのように敵を追い回す\n弾が当たると<CRE>ノックバック</C>させ\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［無/闇］フォーチューンカード：グルース",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0073",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>8本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる",
+		"comment": "PSY［兎/爆発］ダーツボム：ラプチャーラビット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0074",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>12本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる",
+		"comment": "PSY［兎/爆発］ダーツボム：クラシカルブラスト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0075",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>15本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる",
+		"comment": "PSY［兎/爆発］ダーツボム：メタモルフォーゼ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0076",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>8本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる\n高確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［兎/氷］ダーツボム：アイシーラビット\n※修正：確率→高確率",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0077",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>12本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる\n高確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［兎/氷］ダーツボム：リレーションフロイデ\n※修正：確率→高確率",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0078",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>8本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる\n高確率で［<CRE>ロックバインド</C>］状態にする",
+		"comment": "PSY［兎/岩］ダーツボム：セルフポートレイト\n※修正：確率→高確率",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0079",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>12本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ノックバック</C>させる\n高確率で［<CRE>ロックバインド</C>］状態にする",
+		"comment": "PSY［兎/岩］ダーツボム：ラグジュアリースピア\n※修正：確率→高確率",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0080",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに爆発する矢を刺す\n一定時間内に<CRE>20本</C>刺すと大爆発し\n周囲の敵を巻き込んで<CRE>ダウン</C>させる",
+		"comment": "PSY［兎/重力］ダーツボム：アトラクトラビット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて毒針を<CRE>3方向</C>へ飛ばす\n連続攻撃の最後に飛ばす毒針で\n<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［無/毒］ダーツボム：フォッフォッフォッフォッ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0082",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/爆発］タイムボム：マグマ救出大作戦",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0083",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発時にスクラップを拡散させ\n大型の物体が当たると<CRE>ノックバック</C>させる\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/アポーツ］タイムボム：孤独な宇宙戦争",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0084",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発時にスクラップを拡散させ\n大型の物体が当たると<CRE>吹き飛ばす</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/アポーツ］タイムボム：月面調査で大発見",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0085",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発時にスクラップを拡散させ\n大型の物体が当たると<CRE>吹き飛ばす</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/アポーツ］タイムボム：ピラミッドの秘密",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0086",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を<CRE>吹き飛ばす</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/風］タイムボム：あこがれの熱気球",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0087",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を<CRE>吹き飛ばす</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/風］タイムボム：そして雲になる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0088",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身を囲むように</C>時限爆弾を<CRE>5個</C>設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n確率で［<CRE>感電＋＋</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［羊/雷］フォーメーションボム：努力の永久機関",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0089",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハリセンボン型の爆弾が獲物を追い続ける\n爆発に当たった敵を<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋＋</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［無/毒］フォーメーションボム：ポキュパ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0090",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身の正面</C>に時限爆弾を<CRE>3個並べて</C>設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/爆発］フォーメーションボム：度肝を抜かれるマインボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身の正面</C>に時限爆弾を<CRE>5個並べて</C>設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/爆発］フォーメーションボム：出端を挫くマインボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0092",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に<CRE>特大</C>の時限爆弾を設置する\n爆発に当たった敵を<CRE>強く吹き飛ばす</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/爆発］タイムボム：泣く子も黙るマインボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0093",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を\n確率で［<CRE>チェーンバインド</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/無（鎖）］タイムボム：二の足を踏むチェーンボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0094",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を\n確率で［<CRE>チェーンバインド</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/無（鎖）］タイムボム：高を括るチェーンボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0095",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身の前方</C>に時限爆弾を<CRE>4個並べて</C>設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋＋</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/毒］フォーメーションボム：骨身に染みるマインボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0096",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身の前方</C>に時限爆弾を<CRE>6個並べて</C>設置する\n爆発に当たった敵を<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋＋</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/毒］タイムボム：辛酸舐めるマインボム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0097",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に巻き込んだ敵を<CRE>吸い寄せる</C>\n確率で［<CRE>スタン</C>］状態にする\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛇/闇］タイムボム：魔が差すボンバー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0098",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を<CRE>打ち上げる</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛙/水］タイムボム：ケロケロクリーム",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0099",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "自身の足元に時限爆弾を設置する\n爆発に当たった敵を<CRE>打ち上げる</C>\n（バッジゲージ自然回復は無効）",
+		"comment": "PSY［蛙/水］タイムボム：ケロケロフラワー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0100>",
+		"comment": "PSY［猿/無］ベロシティアタック：タカノス\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の3発目で吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0101>",
+		"comment": "PSY［猿/無］ベロシティアタック：クモキリ\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の2発目で吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0102>",
+		"comment": "PSY［猿/音］ベロシティアタック：タイコカネ\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の4発目で吹き飛ばす\n連続で敵に当てるたびに威力が高くなる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0103>",
+		"comment": "PSY［猿/音］ベロシティアタック：カセンカネサダ\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の4発目で吹き飛ばす\n連続で敵に当てるたびに威力が高くなる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0104>",
+		"comment": "PSY［猿/岩］ベロシティアタック：イワトオシ\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の3発目でノックバックさせる\n確率で［ロックバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0105>",
+		"comment": "PSY［猿/岩］ベロシティアタック：オモカゲ\nPF\nターゲットに向かって素早く体当たりする\nLスティックで向きを変えることができる\n連続攻撃の3発目でノックバックさせる\n確率で［ロックバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "息をもつかせぬ速さで狙った獲物を追い回す\n電光石火の疾走は誰にも止められない\n連続攻撃の<CRE>8発目</C>で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［無/無］ベロシティアタック：ウルフ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵に雷を落とす\n確率で［<CRE>感電</C>］状態にする",
+		"comment": "PSY［馬/雷］パラノーマルレイン：catastrophe",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "槍の雨を激しく降らせ\nターゲットと周囲の敵を逃さない\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［馬/雷］ショットガン：イーリス ※ITM_BDG_Name_0195",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵に雨を降らす\n確率で<CRE>ダウン</C>させる",
+		"comment": "PSY［馬/水］パラノーマルレイン：apocalypsis",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵に雨を降らす\n確率で<CRE>ダウン</C>させる",
+		"comment": "PSY［馬/水］パラノーマルレイン：sanctuary",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵に毒の雨を降らす\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［馬/毒］パラノーマルレイン：aufheben",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵にスクラップを落とす\n大型の物体が当たると<CRE>吹き飛ばす</C>",
+		"comment": "PSY［馬/アポーツ］パラノーマルレイン：schrodinger",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵にスクラップを落とす\n大型の物体が当たると<CRE>吹き飛ばす</C>",
+		"comment": "PSY［馬/アポーツ］パラノーマルレイン：arkadia",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに電撃を放つ\nその周囲に敵がいる場合は連鎖する\n確率で［<CRE>感電＋</C>］状態にする",
+		"comment": "PSY［馬/雷］ライトニングアレスタ：judgement",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにクサリを伸ばす\nその周囲に敵がいる場合は連鎖する\n確率で［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［馬/無（鎖）］ライトニングアレスタ：sacrifice",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと<CRE>後方の敵</C>に\n<CRE>最大2本</C>の電撃を放つ\nその周囲に敵がいる場合は連鎖する\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［馬/雷］ライトニングアレスタ：punishment",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと<CRE>その周囲の敵</C>に\n<CRE>最大3本</C>の電撃を放つ\nその周囲に敵がいる場合は連鎖する\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［馬/雷］ライトニングアレスタ：reflection",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>自身の周囲にいる敵</C>に\n<CRE>最大3本</C>のレーザーを撃つ\nその周囲に敵がいる場合は連鎖する",
+		"comment": "PSY［馬/光］ライトニングアレスタ：phenomenon",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにレーザーを撃つ\nその周囲に敵がいる場合は連鎖する",
+		"comment": "PSY［馬/光］ライトニングアレスタ：absolute",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにレーザーを撃つ\nその周囲に敵がいる場合は連鎖する\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［馬/闇］ライトニングアレスタ：schadenfreude",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "七色に輝く尾羽が敵を穿つ\nその周囲に敵がいる場合は連鎖する\n<CRE>いずれかの状態異常</C>をランダムに付与する",
+		"comment": "PSY［無/無］ライトニングアレスタ：フェニックス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/無］マッシヴアタック：ジョリ・ベコ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/無］マッシヴアタック：エンジェルキック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって放った飛び蹴りは\n風をまとって<CRE>広範囲</C>を巻き込む\nチャージ最大時は<CRE>3段ヒット</C>して<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/風］マッシヴアタック：ビューティーウインド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって放った飛び蹴りは\n風をまとって<CRE>広範囲</C>を巻き込む\nチャージ最大時は<CRE>3段ヒット</C>して<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/風］マッシヴアタック：ジェネロジテ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>吹き飛ばす</C>\n<CRE>短いチャージ時間</C>で攻撃できる",
+		"comment": "PSY［牛/音］マッシヴアタック：ウーファーウーマン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0127",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>吹き飛ばす</C>\n<CRE>短いチャージ時間</C>で攻撃できる",
+		"comment": "PSY［牛/音］マッシヴアタック：ミリオンディスコ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0128",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［牛/炎］マッシヴアタック：プレストンス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0129",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［牛/炎］マッシヴアタック：プリンセスマーダー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から素早く急降下し\n完璧なベクトルの蹴りをお見舞いする\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［無/時］マッシヴアタック：レオアルミス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から岩石を叩きつける\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/岩］アポーツストーン：エメイヴェイモン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から岩石を叩きつける\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/岩］アポーツストーン：クレーターキッス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から岩石を叩きつける\nチャージ最大時は<CRE>ダウン</C>させ\n衝撃波で周囲の敵を<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/岩］アポーツストーン：ストロベリーストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から雷球を叩きつける\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/雷］アポーツストーン：ロージーバイソン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から雷球を叩きつける\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/雷］アポーツストーン：エレクトリックハンド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から雷球を叩きつける\nチャージ最大時は<CRE>ダウン</C>させ\n衝撃波で周囲の敵を<CRE>吹き飛ばす</C>",
+		"comment": "PSY［牛/雷］アポーツストーン：ビューティーヴォルト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "化石となって現れた古代の王者の破片を\nターゲットの頭上から叩きつける\nチャージ最大時は<CRE>ダウン</C>させる",
+		"comment": "PSY［無/岩］アポーツストーン：レクス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から物体を叩きつける\n物体はチャージ中ランダムで変わり\n大型の物体を当てると<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/アポーツ］アポーツビークル：ワンダーチェリー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から物体を叩きつける\n物体はチャージ中ランダムで変わり\n大型の物体を当てると<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/アポーツ］アポーツビークル：ジェラシードロップ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0140",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から物体を叩きつける\n物体はチャージ中ランダムで変わり\n大型の物体を当てると<CRE>ダウン</C>させる",
+		"comment": "PSY［牛/アポーツ］アポーツビークル：デッドリーロマンス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0141",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から氷の柱で突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/氷］ピアシングピラー：コニコニコールド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0142",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から氷の柱で突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/氷］ピアシングピラー：アイスドールハウス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0143",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から奥に向かって\n<CRE>3回</C>連続で氷の柱で突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/氷］ピアシングピラー：フリーズヴェルヴェット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0144",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの左から右に向かって\n<CRE>3回</C>連続で岩の柱で突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/岩］ピアシングピラー：ロックドナイトメア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0145",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの左から右に向かって\n<CRE>5回</C>連続で岩の柱で突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/岩］ピアシングピラー：ヴァージンヴァンパイア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0146",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から炎の柱で突き上げる\nチャージ最大時は<CRE>3段ヒット</C>して<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/炎］ピアシングピラー：ブラックキャンドル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0147",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から光の柱を<CRE>2本</C>同時に\n突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/光］ピアシングピラー：ベランジェール★ラパン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0148",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から光の柱を<CRE>3本</C>同時に\n突き上げる\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［兎/光］ピアシングピラー：グレゴワール★ラパン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0149",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "可愛い氷像たちが地面からひょっこり\n鋭く尖ったくちばしは見た目と裏腹に強力\nチャージ最大時は<CRE>打ち上げる</C>",
+		"comment": "PSY［無/氷］ピアシングピラー：ペンギ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/爆発］ヘビーグレネード：とっぽのおくりもの",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/爆発］ヘビーグレネード：さいごにみた夢",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0152",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>ノックバック</C>させる\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鼠/音］ヘビーグレネード：フルート吹きの約束",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>ノックバック</C>させる\n確率で［<CRE>毒</C>］状態にする",
+		"comment": "PSY［鼠/毒］ヘビーグレネード：かあさんの秘密",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋</C>］状態にする",
+		"comment": "PSY［鼠/毒］ヘビーグレネード：不思議な贈り物",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/光］ヘビーグレネード：私がいる本当の世界",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0156",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/光］ヘビーグレネード：発明家とっぽ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0157",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/時］ヘビーグレネード：いつかおわる刻",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0158",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて爆弾を放り投げる\nチャージ最大時の爆発で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/時］ヘビーグレネード：ゆりかごととっぽ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0159",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幻影のような蝶の群れを<CRE>分散</C>して飛ばし\n当たった敵にダメージを与える\n蝶は花から花へと移るように敵を追尾する",
+		"comment": "PSY［無/無］ゴーストソード：シイバ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0160",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けてクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/無］エンタングルメント：ShoGun・虚",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0161",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けてクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/無］エンタングルメント：ManjuSage・虚",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0162",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けてクサリを<CRE>2本</C>発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>炎上</C>］状態にもする",
+		"comment": "PSY［龍/炎］エンタングルメント：EnJou・焔",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0163",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けてクサリを<CRE>3本</C>発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>炎上＋＋</C>］状態にもする",
+		"comment": "PSY［龍/炎］エンタングルメント：KouYou・焔",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0164",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット位置に<CRE>十字</C>にクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/氷］エンタングルメント：Tubaki・凛",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0165",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット位置に<CRE>十字</C>にクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/氷］エンタングルメント：HiGan・凛",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0166",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを<CRE>囲む</C>ようにクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>感電＋</C>］状態にする",
+		"comment": "PSY［龍/雷］エンタングルメント：InaZuma・電",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0167",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを<CRE>囲む</C>ようにクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>感電＋＋</C>］状態にする\n「風神と共に…」\nと刻まれている",
+		"comment": "PSY［龍/雷］エンタングルメント：RaiJin・電",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0168",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットや近くの敵を<CRE>追う</C>ように伸びる\nクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>毒＋</C>］状態にする",
+		"comment": "PSY［蛙/毒］エンタングルメントGHZ：ドクドクパニック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0169",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>横長</C>のクサリを<CRE>発射</C>する\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/時］エンタングルメントGHZ：KeiRyu・刻",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0170",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて\n<CRE>長時間残る</C>太いクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/無］エンタングルメント：RyuGu・無",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0171",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて\n<CRE>長時間残る</C>太いクサリを発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/無］エンタングルメント：HanaDoki・無",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0172",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットや近くの敵を<CRE>追う</C>ように伸びる\nクサリを<CRE>2本</C>発生させる\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［蛙/毒］エンタングルメントGHZ：ニョロニョロスネーク",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0173",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて<CRE>縦長</C>のクサリを<CRE>発射</C>する\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［龍/光］エンタングルメントGHZ：HouGyoku・陽",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0174",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "分裂し互いを結ぶ絆のクサリは\n強力な電気を帯びている\nクサリに接触した敵を高確率で\n［<CRE>チェーンバインド</C>］状態にしつつ\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［無/無］エンタングルメントGHZ：ジェリ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0175",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>3個</C>投げる\nチャージ最大時は<CRE>ノックバック</C>させる",
+		"comment": "PSY［兎/無］パトロールショット：イノセントラビット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0176",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>5個</C>投げる\nチャージ最大時は<CRE>ノックバック</C>させる",
+		"comment": "PSY［兎/無］パトロールショット：メランコリーラビット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0177",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ物体を\n引き寄せて投げる\n物体はチャージ中ランダムで変わり\n大型の物体が当たると<CRE>吹き飛ばす</C>",
+		"comment": "PSY［蛙/アポーツ］パトロールショット：リンリンダイヤル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0178",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ物体を\n引き寄せて投げる\n物体はチャージ中ランダムで変わり\n大型の物体が当たると<CRE>吹き飛ばす</C>",
+		"comment": "PSY［蛙/アポーツ］パトロールショット：ひこうきエンジョイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0179",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>3個</C>投げる\nチャージ最大時は敵を<CRE>打ち上げる</C>か\n<CRE>ダウン</C>させるかのどちらかが発生する",
+		"comment": "PSY［兎/重力］パトロールショット：メランコリー×メランコリー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0180",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>5個</C>投げる\nチャージ最大時は敵を<CRE>打ち上げる</C>か\n<CRE>ダウン</C>させるかのどちらかが発生する",
+		"comment": "PSY［兎/重力］パトロールショット：コニー×コニー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0181",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>7個</C>投げる\nチャージ最大時は<CRE>ノックバック</C>させる\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［兎/氷］パトロールショット：アンジェリークスノウ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0182",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "黒く大きな羽を広げ見事な滑空を見せる\nチャージ最大時は確率で<CRE>吹き飛ばす</C>",
+		"comment": "PSY［無/風］パトロールショット：レイブン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0183",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大8連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると爆発して<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/爆発］ロックオンロケット：あおぞらさんぽ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0184",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大10連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると爆発して<CRE>吹き飛ばす</C>",
+		"comment": "PSY［鼠/爆発］ロックオンロケット：リボンが安らぐとき",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0185",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大8連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる",
+		"comment": "PSY［鼠/音］ロックオンロケット：音楽家とっぽ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0186",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大15連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる",
+		"comment": "PSY［蛙/水］ロックオンロケット：なみのりエンジョイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0187",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大15連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると爆発して<CRE>吹き飛ばす</C>\n「神秘の皿に　潤いと輝きを」\nと刻まれている",
+		"comment": "PSY［蛙/水］ロックオンロケット：かっぱパニック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0188",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大8連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鼠/闇］ロックオンロケット：もう、いらない。",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0189",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大10連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鼠/闇］ロックオンロケット：ひみつのほら穴",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0190",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる",
+		"comment": "PSY［馬/無］ショットガン：antinomy",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0191",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>引き寄せる</C>",
+		"comment": "PSY［馬/重力］ショットガン：pragmatism",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0192",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる",
+		"comment": "PSY［馬/時］ショットガン：aeternum",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0193",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる\n「光と闇は　永遠の絆で結ばれる」\nと刻まれている",
+		"comment": "PSY［馬/光］ショットガン：vinculum [lux]",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0194",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる\n「光と闇は　永遠の絆で結ばれる」\nと刻まれている",
+		"comment": "PSY［馬/闇］ショットガン：vinculum [nox]",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0195",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［無/無］パラノーマルレイン：propaganda ※ITM_BDG_Name_0108",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0196",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0196>",
+		"comment": "PSY［猪/光］ヒーリング：ミューティレーション\nPF\nボタンをホールドしている間\nTEAM HPを少しずつ回復する\n（バッジゲージ自然回復は無効）",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0197",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0197>",
+		"comment": "PSY［猪/光］ヒーリング：かけおちROCKET\nPF\nボタンをホールドしている間\nTEAM HPを少しずつ回復する\n（バッジゲージ自然回復は無効）",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0198",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0198>",
+		"comment": "PSY［猪/時］メディテーション：Ｈサイドヒーリング ※ITM_BDG_Name_0203\nPF\nボタンをホールドしている間\nTEAM HPを少しずつ回復する\n（バッジゲージ自然回復は無効）\n「我ら左右にて　至極の音を形成せん」\nと刻まれている",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0199",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員の<CRE>状態異常</C>を瞬時に回復する",
+		"comment": "PSY［猪/無］ヒーリング：レッドカーレッカー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に短い時間バリアを張り\n敵からの<CRE>攻撃を無効化</C>する",
+		"comment": "PSY［猪/無］デフレクター：アンダーエイティーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に<CRE>少し長い時間</C>バリアを張り\n敵からの<CRE>攻撃を無効化</C>する",
+		"comment": "PSY［猪/無］デフレクター：ロンリーエイリアン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に一瞬バリアを張り\n敵からの<CRE>攻撃を無効化</C>する\n触れた敵にダメージを与えつつ\n大きく<CRE>ノックバック</C>させる",
+		"comment": "PSY［猪/風］デフレクター：レインボールート66",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に短い時間バリアを張り\n敵からの<CRE>攻撃を無効化</C>する\n触れた敵にダメージを与えつつ\n大きく<CRE>ノックバック</C>させる",
+		"comment": "PSY［猪/風］デフレクター：ボタンTHEヘブン ※ITM_BDG_Name_0198",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に一瞬バリアを張り\n敵からの<CRE>攻撃を無効化</C>する\n触れた敵に<CRE>強力なダメージ</C>を与え\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［猪/岩］デフレクター：恋するホットドッグ ※ITM_BDG_Name_0205",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に短い時間バリアを張り\n敵からの<CRE>攻撃を無効化</C>し<CRE>HPを回復する</C>\n「我ら左右にて　至極の音を形成せん」\nと刻まれている",
+		"comment": "PSY［猪/光］デフレクター：Ｆサイドデフレクター ※ITM_BDG_Name_0204",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チーム全員に一瞬バリアを張り<CRE>攻撃を無効化</C>\n天に向かって高く突き出たツノで\n触れた敵にダメージを与え<CRE>打ち上げる</C>",
+		"comment": "PSY［無/岩］デフレクター：ライノ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく",
+		"comment": "PSY［龍/無］ゴーストソード：SuiGen・空",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n拡散して<CRE>複数の敵を狙う</C>こともある",
+		"comment": "PSY［龍/無］ゴーストソード：KoCho・空",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に黒剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n拡散して<CRE>複数の敵を狙う</C>こともある\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［龍/闇］ゴーストソード：SiDare・陰",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に剣の群れを<CRE>素早く</C>飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく",
+		"comment": "PSY［龍/音］ゴーストソード：Tuzumi・響",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを含めた<CRE>3方向</C>に泡を飛ばし\n当たった敵にダメージを与える\n泡は敵に当たるたびに\n攻撃対象を次々と変えて追尾していく",
+		"comment": "PSY［無/水］ゴーストソード：らんららん。らんららん。",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0212",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "風に舞う無数の葉の刃が\nサイキック発動者を守るように飛び回り\n触れた敵にダメージを与える",
+		"comment": "PSY［龍/風］ガーディアンソード：AraUmi・嵐",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "風に舞う無数の葉の刃が\nサイキック発動者を守るように飛び回り\n触れた敵にダメージを与える\n「雷神と共に…」\nと刻まれている",
+		"comment": "PSY［龍/風］ガーディアンソード：FuuJin・嵐",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "大量に呼び寄せたスクラップが\nサイキック発動者を守るように飛び回り\n触れた敵にダメージを与える\n大型の物体が当たった敵を\n<CRE>ノックバック</C>させる",
+		"comment": "PSY［龍/アポーツ］ガーディアンソード：IroGoi・転",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "無数に呼び寄せた光の刃が\nサイキック発動者を守るように飛び回り\n触れた敵にダメージを与える",
+		"comment": "PSY［龍/光］ガーディアンソード：ShoRyu・陽",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に不規則な軌道の\nレーザーを撃ち続ける",
+		"comment": "PSY［鼠/光］レーザーインフェルノ：とらわれの虹姫",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に不規則な軌道の\nレーザーを撃ち続ける",
+		"comment": "PSY［鼠/光］レーザーインフェルノ：命令しない王様 ※ITM_BDG_Name_0218",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向にレーザーを撃ち続ける\n確率で［<CRE>感電</C>］状態にする",
+		"comment": "PSY［鼠/雷］レーザーインフェルノ：トポトッポ ※ITM_BDG_Name_0217",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向にレーザーを撃ち続ける\n確率で［<CRE>炎上</C>］状態にする",
+		"comment": "PSY［鼠/炎］レーザーインフェルノ：ほのおのきもち",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向にレーザーを撃ち続ける\n確率で［<CRE>炎上＋＋</C>］状態にする",
+		"comment": "PSY［鼠/炎］レーザーインフェルノ：とっぽのお店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向にレーザーを撃ち続ける\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［鼠/氷］レーザーインフェルノ：王子のおもいで",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に<CRE>3本</C>の<CRE>扇状</C>レーザーを\n撃ち続ける\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［鼠/氷］ディフュージョンビーム：とっぽと冬の国",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0223",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に<CRE>5本</C>の<CRE>扇状</C>レーザーを\n撃ち続ける\n確率で［<CRE>アイスバインド</C>］状態にする",
+		"comment": "PSY［鼠/氷］ディフュージョンビーム：魔法のパティシエ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0224",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向にレーザーを撃ち続ける\n確率で<CRE>ダウン</C>させる",
+		"comment": "PSY［鼠/重力］レーザーインフェルノ：きっと ずっと いっしょ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0225",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に<CRE>2本並んだ</C>レーザーを\n撃ち続ける\n確率で［<CRE>スタン</C>］状態にする",
+		"comment": "PSY［鼠/闇］ディフュージョンビーム：はむぞうの一軒家",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0226",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷の若者に大人気？\n可愛い顔に似合わず放たれるのは\n不規則な軌道の破壊光線",
+		"comment": "PSY［無/光］ディフュージョンビーム：にゃんタン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0227",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に電撃の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>感電＋</C>］状態にする\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［犬/雷］ライトニングサークル：かまってトラップ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0228",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に電撃の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>感電＋＋</C>］状態にする\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［犬/雷］ライトニングサークル：神さまトラップ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0229",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に砂嵐を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>ロックバインド</C>］状態にする\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［犬/岩］ストームサークル：イマドキトルネード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0230",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に重力場を発生させ\n中にいる敵にダメージを与え続ける\n確率で<CRE>ダウン</C>させる\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［犬/重力］グラビティサークル：わくわくワームホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0231",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に重力場を発生させ\n中にいる敵にダメージを与える\n確率で<CRE>打ち上げる</C>\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［犬/重力］グラビティサークル：ごきげんワームホール",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0232",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に<CRE>特大</C>の重力場を発生させ\n中にいる敵にダメージを与える\n確率で<CRE>ダウン</C>させる\n「磁気双極子は世の理なり」\nと刻まれている",
+		"comment": "PSY［鳥/重力］グラビティサークル：ソウタイテキゼッタイ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0233",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渦潮を発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える",
+		"comment": "PSY［蛙/無］フレイムサークル：ポンポンポップコーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0234",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0234>",
+		"comment": "PSY［蛙/水］ブラストウェーブ：シャーク ※ITM_BDG_Name_0238\nPF\nターゲット方向に波を起こす\nボタンをホールドし続けると一定の間隔で\n水面から巨大サメのような恐怖の大波が\n敵に襲いかかり吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0235",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0235>",
+		"comment": "PSY［蛙/毒］ブラストウェーブ：ケロケロクッキング\nPF\nターゲット方向に毒の波を起こす\nボタンをホールドし続けると一定の間隔で\n大きな波を起こしてノックバックさせる\n確率で［毒＋＋］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0236",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "光の渦を発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える",
+		"comment": "PSY［蛙/光］ブラックホール：ケロケロドリンク",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0237",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "光の渦を発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える\n「神秘の皿に　潤いと輝きを」\nと刻まれている",
+		"comment": "PSY［蛙/光］ブラックホール：かっぱパニック・ゴールド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0238",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渦潮を発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える",
+		"comment": "PSY［無/水］ブラックホール：ハッピーフライパン ※ITM_BDG_Name_0234",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0239",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に<CRE>小さな</C>炎の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>炎上</C>］状態にする\nターゲットが移動すると<CRE>素早く</C>追尾する",
+		"comment": "PSY［無/炎］フレイムサークル：フレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0240",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に炎の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>炎上＋</C>］状態にする\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［龍/炎］フレイムサークル：KaChu・焔",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0241",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に炎の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>炎上＋</C>］状態にする\nターゲットが移動してもゆっくり追尾する",
+		"comment": "PSY［龍/炎］フレイムサークル：AkaFuji・焔",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0242",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に炎の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>炎上＋＋</C>］状態にする\nターゲットが移動すると<CRE>残り火</C>を出しながら\n<CRE>素早く</C>追尾する",
+		"comment": "PSY［龍/炎］フレイムサークル：GouKa・焔",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0243",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "巨大な足が大地を連続で踏みつけながら\nターゲットを追いかけるように進む\n当たった敵を<CRE>吹き飛ばす</C>",
+		"comment": "PSY［無/岩］ストームサークル：エレファ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0244",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0244>",
+		"comment": "PSY［羊/風］トルネードランブル：縁側の休日\nPF\n自身の周りに4本の竜巻を旋回させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を打ち上げる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0245",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0245>",
+		"comment": "PSY［羊/風］トルネードランブル：高台の風車小屋\nPF\n自身の周りに6本の竜巻を旋回させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を打ち上げる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0246",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0246>",
+		"comment": "PSY［羊/風］トルネードランブル：そして風になる\nPF\n自身を中心に巨大な竜巻を発生させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を打ち上げる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0247",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0247>",
+		"comment": "PSY［羊/氷］トルネードランブル：永久凍土の秘宝\nPF\n自身の周りに4本の氷の竜巻を旋回させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を\nノックバックさせる\n確率で［アイスバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0248",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0248>",
+		"comment": "PSY［羊/氷］トルネードランブル：月明かりで一泊\nPF\n自身の周りに6本の氷の竜巻を旋回させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を\nノックバックさせる\n確率で［アイスバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0249",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0249>",
+		"comment": "PSY［羊/氷］トルネードランブル：銀盤の羊毛\nPF\n自身を中心に巨大な氷の竜巻を発生させ\n当たった敵にダメージを与える\nボタンをホールドし続けると\n竜巻は徐々に大きくなり敵を\nノックバックさせる\n確率で［アイスバインド］状態にする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0250",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラックホールを発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える",
+		"comment": "PSY［蛙/闇］ブラックホール：ゲロゲロマジック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0251",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラックホールを発生させて敵を吸い寄せ\n中にいる敵にダメージを与え続ける\n敵同士を衝突させると大ダメージを与える",
+		"comment": "PSY［蛙/闇］ブラックホール：コロコロコオロギ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0252",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0252>",
+		"comment": "PSY［羊/風］ブラストウェーブ：そして餌になる\nPF\nターゲット方向に突風を巻き起こす\nボタンをホールドし続けると一定の間隔で\n衝撃波を飛ばして吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0253",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0253>",
+		"comment": "PSY［羊/風］ブラストウェーブ：親切な飛行機乗り\nPF\nターゲット方向に広範囲の突風を巻き起こす\nボタンをホールドし続けると一定の間隔で\n衝撃波を飛ばして吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0254",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0254>",
+		"comment": "PSY［羊/音］ブラストウェーブ：ともだちの歌\nPF\nターゲット方向に音の波動を巻き起こす\nボタンをホールドし続けると一定の間隔で\n音波の輪を飛ばして吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0255",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0255>",
+		"comment": "PSY［羊/音］ブラストウェーブ：異国でアンサンブル\nPF\nターゲット方向に音の波動を巻き起こす\nボタンをホールドし続けると一定の間隔で\n音波の輪を飛ばして吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0256",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0256>",
+		"comment": "PSY［羊/時］ブラストウェーブ：決意の旅立ち\nPF\nターゲット方向に突風を巻き起こす\nボタンをホールドし続けると一定の間隔で\n衝撃波を飛ばして吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0257",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大5連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる",
+		"comment": "PSY［蛇/無］ロックオンロケット：白羽の矢が立つスナイパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0258",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大7連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる",
+		"comment": "PSY［蛇/無］ロックオンロケット：惰眠を貪るスナイパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0259",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大8連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる\n確率で［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［蛇/無（鎖）］ロックオンロケット：兎にも角にもスナイパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0260",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大10連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる\n確率で［<CRE>チェーンバインド</C>］状態にする",
+		"comment": "PSY［蛇/無（鎖）］ロックオンロケット：garagara",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0261",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に炎剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n確率で［<CRE>炎上＋</C>］状態にする",
+		"comment": "PSY［蛇/炎］ゴーストソード：顔から火が出るファイアーソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0262",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に炎剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n拡散して<CRE>複数の敵を狙う</C>こともある\n確率で［<CRE>炎上＋＋</C>］状態にする",
+		"comment": "PSY［蛇/炎］ゴーストソード：固唾を呑むほどファイアーソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0263",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>ターゲット以外の周囲の敵</C>を\n掴んで動けなくする\n敵が1体のときは効果がない",
+		"comment": "PSY［蛇/重力］キャプチャー：挙句の果てにキャプチャー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0264",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>ターゲット以外の周囲の敵</C>を\n掴んで動けなくする\n敵が1体のときは効果がない",
+		"comment": "PSY［蛇/重力］キャプチャー：止むに止まれぬグラビティ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0265",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に雷剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［蛇/雷］ゴーストソード：四の五の言わずにサンダーソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0266",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に雷剣の群れを飛ばし\n当たった敵にダメージを与える\n剣の群れは敵に当たるたびに\n攻撃対象を次々と変えて追尾していく\n拡散して<CRE>複数の敵を狙う</C>こともある\n確率で［<CRE>感電＋＋</C>］状態にする",
+		"comment": "PSY［蛇/雷］ゴーストソード：逆鱗触れるサンダーソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0267",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットにロケット弾を<CRE>最大8連射</C>する\nチャージ中にターゲットを切り替えると\n複数の敵をロックオンして攻撃できる\n弾が当たると<CRE>ノックバック</C>させる\n確率で［<CRE>毒＋＋</C>］状態にする",
+		"comment": "PSY［蛇/毒］ロックオンロケット：物議を醸したスナイパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0268",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0268>",
+		"comment": "PSY［無/アポーツ］サイコキネシス：ピグ\nPF\n立派な冠を載せた像を引き寄せ\nLスティックで転がしながら攻撃する\n当たった敵を吹き飛ばす\nコロコロとした可愛さはまさにキング級",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0269",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0269>",
+		"comment": "PSY［猪/無］サスティンアタック：クォーターバック先輩\nPF\nボタンをホールドしている間\n突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0270",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0270>",
+		"comment": "PSY［猪/無］サスティンアタック：ダイナーフィーバー\nPF\nボタンをホールドしている間\n突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0271",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0271>",
+		"comment": "PSY［猪/雷］サスティンアタック：スーススクローファ\nPF\nボタンをホールドしている間\n電気をまとって突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0272",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0272>",
+		"comment": "PSY［猪/雷］サスティンアタック：Mr.ファングマン\nPF\nボタンをホールドしている間\n電気をまとって突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0273",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0273>",
+		"comment": "PSY［猪/炎］サスティンアタック：シシ オン ザ ストリート\nPF\nボタンをホールドしている間\n炎をまとって突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0274",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0274>",
+		"comment": "PSY［猪/炎］サスティンアタック：HOG FANG!!!!!\nPF\nボタンをホールドしている間\n炎をまとって突進し続ける\nLスティックで向きを変えることができる\n当たった敵をノックバックさせる",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0275",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0275>",
+		"comment": "PSY［猪/爆発］サスティンアタック：爆発☆DANGER\nPF\nボタンをホールドしている間\n突進し続ける\nLスティックで向きを変えることができる\n敵に当たると爆発し吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0276",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0276>",
+		"comment": "PSY［無/爆発］サスティンアタック：ケルウス\nPF\n強力な雷の力を溜めたツノを突き出しながら\n勢いよく突進し続ける\nLスティックで向きを変えることができる\n敵に当たると爆発し吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0277",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPを<CRE>瞬時に少し回復</C>する\n（バッジゲージ自然回復とリブート無効の\n<CRE>使い切りタイプ</C>）",
+		"comment": "PSY［虎/光］ヒーリング：ティガー・パンクス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0278",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPを<CRE>瞬時に回復</C>する\n（バッジゲージ自然回復とリブート無効の\n<CRE>使い切りタイプ</C>）",
+		"comment": "PSY［虎/光］ヒーリング：オプティカルコード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0279",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPを<CRE>瞬時に大きく回復</C>する\n（バッジゲージ自然回復とリブート無効の\n<CRE>使い切りタイプ</C>）",
+		"comment": "PSY［虎/光］ヒーリング：ガーディアン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0280",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0280>",
+		"comment": "PSY［虎/音］メディテーション：ブートレグチューン\nPF\nボタンをホールドしている間\nチーム全員が\n敵に与えるダメージ量をアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0281",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0281>",
+		"comment": "PSY［虎/音］メディテーション：ディスコード\nPF\nボタンをホールドしている間\nシンクロコンボで上昇する\nシンクロ率をアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0282",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0282>",
+		"comment": "PSY［虎/音］メディテーション：メイデンビート\nPF\nボタンをホールドしている間\nシンクロコンボで上昇する\nシンクロ率をアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0283",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0283>",
+		"comment": "PSY［虎/時］メディテーション：ヘッドライナー\nPF\nボタンをホールドしている間\nチーム全員が\n敵に与えるダメージ量を大きくアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0284",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0284>",
+		"comment": "PSY［無/音］メディテーション：うそでしょ？ このまま！？\nPF\nボタンをホールドしている間\n時間の流れを遅くする",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0285",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0285>",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス：トビダシチュウイ\nPF\nランダムで物体を引き寄せ\nLスティックで転がしながら攻撃する\n大型の物体が当たった敵を吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0286",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0286>",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス：コエラレナイカベ\nPF\nランダムで物体を引き寄せ\nLスティックで転がしながら攻撃する\n大型の物体が当たった敵を吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0287",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0287>",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス：タカミノケンブツ\nPF\nランダムで物体を引き寄せ\nLスティックで転がしながら攻撃する\n大型の物体が当たった敵を吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0288",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0288>",
+		"comment": "PSY［鳥/アポーツ］サイコキネシス：ゼッタイテキソウタイ\nPF\nランダムで3個の物体を引き寄せ\nLスティックで転がしながら攻撃する\n大型の物体が当たった敵を吹き飛ばす\n「磁気双極子は世の理なり」\nと刻まれている",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0289",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを掴んでぐるぐると振り回す\n他の敵に当てると<CRE>ノックバック</C>させる",
+		"comment": "PSY［牛/重力］テレキネシス：ディープホールド",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0290",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを掴んでぐるぐると振り回す\n他の敵に当てると<CRE>ノックバック</C>させる",
+		"comment": "PSY［牛/重力］テレキネシス：リスキーフレグランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0291",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "その舌に触れたものは掴んで離さない\n<CRE>ターゲットと周囲の敵</C>を捕まえて<CRE>引き寄せる</C>",
+		"comment": "PSY［無/重力］テレキネシス：カメレ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0292",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットをにゃんタンで突く\n連続攻撃でノックバックさせ\n最後に<CRE>3段ヒット</C>して<CRE>吹き飛ばす</C>\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/光］スラストランス：クロネコのスラストランス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0293",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かわいいにゃんタンカードを飛ばす\n連続攻撃の最後に飛ばすカードで\n<CRE>ノックバック</C>させる\n確率で［<CRE>感電＋＋</C>］状態にする\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/雷］フォーチューンカード：クロネコのフォーチューンカード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0294",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの頭上から\nにゃんタン型の隕石を叩きつける\nチャージ最大時は<CRE>ダウン</C>させる\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/炎］アポーツストーン：クロネコのアポーツストーン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0295",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの下から\nにゃんタンピラミッドを出現させる\nチャージ最大時は<CRE>打ち上げる</C>\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/アポーツ］ピアシングピラー：クロネコのピアシングピラー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0296",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向ににゃんタンの群れを飛ばす\nにゃんタンは敵に体当たりするたびに\n攻撃対象を次々と変えて追尾していく\n確率で［<CRE>アイスバインド</C>］状態にする\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/氷］ゴーストソード：クロネコのゴーストソード",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0297",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットの周囲に黒い炎の渦を発生させ\n中にいる敵にダメージを与え続ける\n確率で［<CRE>スタン</C>］状態にする\nターゲットが移動してもゆっくり追尾する\n「最強たるは6匹の猫」\nと刻まれている",
+		"comment": "PSY［猫/闇］フレイムサークル：クロネコのフレイムサークル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0298",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n<CRE>3段ヒット</C>の斬り上げ攻撃で<CRE>打ち上げる</C>\n「四季折々の祝福を」\nと刻まれている",
+		"comment": "PSY［猫/光］ボルカニックアッパー：陽春のセイントアッパー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0299",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向けて太陽のオブジェを飛ばす\nランダムで大きなオブジェが出現し\n<CRE>ノックバック</C>させる\n「四季折々の祝福を」\nと刻まれている",
+		"comment": "PSY［猫/光］スクラップショット：盛夏のセイントスクラップ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに向かって飛び蹴りする\nチャージ最大時は<CRE>吹き飛ばす</C>\n「四季折々の祝福を」\nと刻まれている",
+		"comment": "PSY［猫/光］マッシヴアタック：錦秋のセイントアタック",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に広範囲の衝撃波を放つ\n中心部分は強力なダメージを与える\nチャージ最大時は大きく<CRE>ノックバック</C>させる\n「四季折々の祝福を」\nと刻まれている",
+		"comment": "PSY［猫/光］ショットガン：玄冬のセイントショット",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0302>",
+		"comment": "PSY［猫/時］チャージパンチ：チャージパンチ・Ｅ\nPF\nチャージしてボタンを離すと\nターゲットに接近してパンチを繰り出す\nチャージの長さでパンチの回数が変わる\n最後のパンチでノックバックさせる\n「夢を分かち合うは　無二の友になりて」\nと刻まれている",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>ターゲットだけ</C>を掴んで<CRE>長時間</C>動けなくする\n「夢を分かち合うは　無二の友になりて」\nと刻まれている",
+		"comment": "PSY［猫/重力］キャプチャー：キャプチャー・Ｅ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると高く跳んで振り下ろした後\n全方位の回転斬りで<CRE>広範囲を巻き込み\nノックバック</C>させる\n「電気消した？」\nと刻まれている",
+		"comment": "PSY［無/水］ボルテックスセイバー：解体されてたまるかいっ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットと周囲の敵に雷を落とす\n確率で［<CRE>感電＋</C>］状態にする\n「一緒に踊らない？」\nと刻まれている",
+		"comment": "PSY［無/雷］パラノーマルレイン：あ、電気つけっぱ！",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲット方向に弧を描いて飛ぶ\nブーメランを<CRE>3個</C>投げる\n敵に当たると爆発して周囲の敵を巻き込む\nチャージ最大時は<CRE>吹き飛ばす</C>\n「解体していい？」\nと刻まれている",
+		"comment": "PSY［無/爆発］パトロールショット：全力で踊ってみた",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0307",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n前方を薙ぎ払って<CRE>ノックバック</C>させる\n「テンカの名刀　双剣となりて…」\nと刻まれている",
+		"comment": "PSY［猿/光］ショックウェイヴ：テンカ・ジュズマル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0308",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットに接近して斬りつける\n連続で攻撃すると最後に\n高く跳んで振り下ろし<CRE>ノックバック</C>させる\n「テンカの名刀　双剣となりて…」\nと刻まれている",
+		"comment": "PSY［猿/闇］ショックウェイヴ：テンカ・ミカヅキ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<CRE>全ての敵</C>を掴んで動けなくする",
+		"comment": "PSY［無/重力］キャプチャー：ここはどこ？ わたしはモチ。",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0310",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "無数に呼び寄せた炎の刃が\nサイキック発動者を守るように飛び回り\n触れた敵にダメージを与える\n確率で［<CRE>炎上＋＋</C>］状態にする",
+		"comment": "PSY［無/炎］ガーディアンソード：安心せい、みねうちじゃ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0311",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ターゲットを掴んで何度も地面に<CRE>叩きつける</C>\n他の敵に当てると<CRE>ノックバック</C>させる",
+		"comment": "PSY［無/重力］テレキネシス：これで痩せんねん",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0312",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ITM_BDG_Info_0312>",
+		"comment": "PSY［無/アポーツ］サイコキネシス：雑技団はいりたい\nPF\n壊れたビルの一部を引き寄せ\nLスティックで転がしながら攻撃する\nビルが当たった敵を吹き飛ばす",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0313",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>1</C>の価値がある",
+		"comment": "お金：１ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0314",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>5</C>の価値がある",
+		"comment": "お金：５ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0315",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>10</C>の価値がある",
+		"comment": "お金：１０ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>50</C>の価値がある",
+		"comment": "お金：５０ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>100</C>の価値がある",
+		"comment": "お金：１００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>500</C>の価値がある",
+		"comment": "お金：５００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0319",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>1,000</C>の価値がある",
+		"comment": "お金：１０００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0320",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>5,000</C>の価値がある",
+		"comment": "お金：５０００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0321",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>10,000</C>の価値がある",
+		"comment": "お金：１００００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0322",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "換金すると\n<CRE><MK_YEN>100,000</C>の価値がある",
+		"comment": "お金：１０００００ＹＥＮ ※タグ全角「￥」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0323",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "赤色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：ヒヒイロカネ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0324",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "山吹色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：レアメタル",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0325",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "黄色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：テクタイト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0326",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "緑色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：アダマンタイト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0327",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "水色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：オリハルコン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0328",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "青色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：シャドーマター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0329",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "紫色の宝石を埋め込んだバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：ダークマター",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0330",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "追憶の世界を思わせるバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：アクシオン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0331",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "流れ続ける世界を思わせるバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：ディラトン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0332",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "まだ見ぬ世界を思わせるバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：ダイバリオン",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BDG_Info_0333",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "重なり合う世界を思わせるバッジ\nどこかのショップのQUESTで\n<CRE>アイテム</C>と交換できそうだ",
+		"comment": "素材：スフェルミオン",
+		"annotation": ""
+	}
+]
+}

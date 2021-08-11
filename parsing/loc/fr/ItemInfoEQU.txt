@@ -1,0 +1,1672 @@
+{
+"columns":[
+	{
+		"name": "ITM_EQU_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Infos sur l'équipement"
+	},
+	{
+		"name": "ITM_EQU_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un adorable serre-tête décoré d'une myriade de fleurs. Imaginez comme il serait joli dans une belle crinière bouclée !"
+	},
+	{
+		"name": "ITM_EQU_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Un serre-tête polyvalent qui s'accorde à toutes les coupes. Les perles accrochées au ruban sont trop jolies !"
+	},
+	{
+		"name": "ITM_EQU_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Qui n'a jamais rêvé de porter un jour notre mascotte sur la tête ? Et les petits cœurs sur les oreilles ? Trop mignon !"
+	},
+	{
+		"name": "ITM_EQU_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce chemisier fluide fera tourner toutes les têtes ! Pour qui ose le porter, bien sûr. La partie du haut est transparente, alors attention à ne pas en révéler trop."
+	},
+	{
+		"name": "ITM_EQU_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pull très chaud et douillet. Sa coupe courte est très flatteuse, tandis que ses manches longues et son col roulé gardent aussi les mains et le cou bien au chaud."
+	},
+	{
+		"name": "ITM_EQU_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Un T-shirt avec, en gros, le logo de Top o' Topo et des fleurs. Il existe en plusieurs tailles, donc c'est simple de trouver la bonne. Pourquoi ne pas en acheter deux ? Comme ça, vous aurez le même avec votre moitié !"
+	},
+	{
+		"name": "ITM_EQU_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "La jupe tournoyante que tout le monde devrait avoir dans sa garde-robe. Assortissez-la avec un top à froufrous pour une tenue classique, ou un haut sportif pour jouer sur les codes."
+	},
+	{
+		"name": "ITM_EQU_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon qui vous permet de montrer vos jolies chevilles. Vous ne trouvez pas que le motif sur l'ourlet est adorable ? Il serait parfait pour un rendez-vous."
+	},
+	{
+		"name": "ITM_EQU_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "N'importe qui se sentirait élégante dans cette robe. En plus, avec sa doublure toute douce, pas besoin de souffrir pour être belle. Le ruban noué à la taille est la cerise sur le gâteau."
+	},
+	{
+		"name": "ITM_EQU_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Sa couleur et la bordure autour du col donnent un air marin à cette robe. Elle semble très classique au premier abord, mais de la dentelle dépasse légèrement des manches et de la jupe. Plutôt mignon, non ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jolie paire de ballerines ornées d'un ruban. Le talon est tout petit et les semelles intérieures, très confortables. Vous pouvez donc les porter toute la journée."
+	},
+	{
+		"name": "ITM_EQU_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces sandales sont tout en froufrous. Les talons sont assez hauts, alors vos jambes auront l'air infinies en les portant. Elles iraient bien avec des socquettes à dentelle !"
+	},
+	{
+		"name": "ITM_EQU_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de chaussures confortables, mais stylées. Avec leur cuir souple et leurs semelles antidérapantes, elles peuvent être portées toute la journée. Parfaites pour une promenade romantique."
+	},
+	{
+		"name": "ITM_EQU_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Un adorable sac jaune avec un gros ruban rose. Le sac est un peu petit par rapport au ruban, mais pas d'inquiétude ! Il est assez grand pour y mettre tout ce qu'il vous faut pour une journée en ville."
+	},
+	{
+		"name": "ITM_EQU_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Mettez-vous dans la peau d'un véritable adulte avec ce cabas en toile et en cuir. Vous pourrez l'emporter partout, de l'école au centre commercial, sans dénoter. En plus, les couleurs ne déteindront pas même lorsqu'il sera usé."
+	},
+	{
+		"name": "ITM_EQU_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pull douillet à grosses mailles. Un rendez-vous romantique peut vous réchauffer le cœur, mais ce pull vous réchauffera le corps, ce qui est tout de même plus important."
+	},
+	{
+		"name": "ITM_EQU_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe à la coupe flatteuse, serrée à la taille et au bas évasé. C'est rigolo de tourner pour la faire virevolter. Vous pouvez nouer le ruban de plein de façons différentes, alors personnalisez-la !"
+	},
+	{
+		"name": "ITM_EQU_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce chouchou est l'incarnation de la mignonitude : du tissu fleuri, du rose, des perles et un petit cœur. Il peut être porté ailleurs que dans les cheveux : vous pouvez aussi le porter au poignet ou à la cheville."
+	},
+	{
+		"name": "ITM_EQU_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Une casquette bleu clair en jean, décorée de strass. Le logo n'est-il pas trop mignon ? Les strass de ce genre se détachent généralement très vite, mais ceux-ci sont parfaitement collés !"
+	},
+	{
+		"name": "ITM_EQU_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Un chapeau à large bord, décoré du motif distinctif de Joli bécot. Même les nouvelles adeptes de la mode peuvent rendre une tenue banale complètement stylée en y associant ce joli couvre-chef."
+	},
+	{
+		"name": "ITM_EQU_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Les casquettes banales, c'est vraiment passé de mode, mais le détail à motif de celle-ci lui permet de rester tendance. Et regardez ces adorables décorations métalliques ! Ajoutez-la à votre tenue quand un simple chapeau ne fait pas l'affaire."
+	},
+	{
+		"name": "ITM_EQU_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Un classique des classiques, qui s'accorde avec toutes les tenues. Si vous cherchez une nouvelle façon de porter cette veste, pourquoi ne pas la laisser tomber sur les coudes pour dénuder vos épaules, comme Rina ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Le gilet parfait à ajouter par-dessus vos tenues en automne ou sous votre manteau en hiver. Enfilez-le et vous verrez que, tout de suite, vous vous tiendrez différemment. Le froufrou du tissu à chacun de vos pas attirera tous les regards sur vous !"
+	},
+	{
+		"name": "ITM_EQU_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Un haut très flatteur découpé dans un tissu moulant et élastique, pour accentuer ce qu'il faut. Associez-le à une minijupe ou à un jean pour mettre aussi en valeur vos jambes !"
+	},
+	{
+		"name": "ITM_EQU_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce petit haut en dentelle vous permet de montrer vos bras et une partie de votre dos ! Ou alors vous pouvez choisir de le porter sur un T-shirt si vous êtes pudique. Son tissu fin est idéal pour l'été, mais n'oubliez pas d'emporter une veste pour le soir."
+	},
+	{
+		"name": "ITM_EQU_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Un jean plein de déchirures le long des jambes. Ses nombreux trous vous font risquer la déchirure à chaque pas, mais il faut prendre des risques pour être à la mode ! Portez des collants en résille en dessous pour une couche de style en plus !"
+	},
+	{
+		"name": "ITM_EQU_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Un jean noir droit à motif marbré. Il va parfaitement avec les débardeurs, les chemises et d'autres types de hauts, alors, si vous cherchiez un jean à ajouter à votre garde-robe, n'hésitez plus !"
+	},
+	{
+		"name": "ITM_EQU_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Une minijupe en faux cuir. Son tissu léger et élastique accentue vos hanches, et le laçage sur le côté lui donne un peu plus d'originalité."
+	},
+	{
+		"name": "ITM_EQU_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe-short à dentelle pour les jours où vous voulez tournoyer. Sa boucle étincelante et ses froufrous donnent à cette jupe un air rétro, et le short caché dessous empêche les accidents vestimentaires."
+	},
+	{
+		"name": "ITM_EQU_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet ensemble rose pâle associe un haut qui découvre les épaules et une minijupe, pour être à l'aise, mais chic. En plus, ses mailles côtelées affinent la silhouette !"
+	},
+	{
+		"name": "ITM_EQU_Info_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Des sandales élégantes décorées de perles et de strass. Vous pouvez même retirer les fleurs brillantes géantes pour un style plus sobre. À vous de voir !"
+	},
+	{
+		"name": "ITM_EQU_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces cuissardes sont parfaites pour allonger les jambes, surtout associées à une minijupe ou un short, mais vont aussi très bien avec un jean moulant. Après une journée à les porter, vos pieds risquent de souffrir, alors massez-les en rentrant."
+	},
+	{
+		"name": "ITM_EQU_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces bottines bordeaux plissées vous feront atteindre les sommets de la mode. Vous allez adorer la touche de couleur qu'elles apportent à votre garde-robe !"
+	},
+	{
+		"name": "ITM_EQU_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de chaussures en cuir fabriquées à partir du plus beau des cuirs de crocodile. Leurs boucles élégantes signifient bien qu'elles sont faites pour sortir. Entretenez-les bien, et elles dureront des années."
+	},
+	{
+		"name": "ITM_EQU_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Une coque de téléphone portable décorée de strass qui brillent autant que les lumières de la ville. Grâce à l'influence de Rina, c'est un incontournable pour les fans de JB et un véritable succès commercial."
+	},
+	{
+		"name": "ITM_EQU_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Dessinés par Rina et vendus au 104, ces faux ongles autocollants rendront vos mains féériques en un instant. Du motif vache, du rose et des strass, ils incarnent tout ce que représente Joli bécot."
+	},
+	{
+		"name": "ITM_EQU_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Un briquet gravé du logo et des cornes caractéristiques de JB. Il possède un grand réservoir et est résistant aux rayures, offrant ainsi un bon rapport qualité-prix. Cela va de soi, mais faites attention en l'utilisant. Ce serait dommage de vous brûler !"
+	},
+	{
+		"name": "ITM_EQU_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de lunettes de soleil rose-pêche aux verres teintés en brun. L'accessoire à avoir par beau temps. Quand vous ne les portez pas, vous pouvez les poser sur votre tête ou les accrocher sur le col de votre haut. C'est l'idéal pour accessoiriser facilement une tenue."
+	},
+	{
+		"name": "ITM_EQU_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Une perruque avec une crête rouge, et des lunettes assorties. Pour les jours où vous voulez être punk, mais sans risquer de perdre votre boulot. C'est aussi parfait pour les fêtes costumées."
+	},
+	{
+		"name": "ITM_EQU_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Adoptez un style rock avec cette casquette à visière tigrée couverte de clous et de fermetures éclair. Les 3 épingles symbolisent la liberté, la fraternité, et les tigres... ou ce que vous voulez, hein."
+	},
+	{
+		"name": "ITM_EQU_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette casquette est un concentré de punk : crânes, chaînes, clous et cuir. Elle est si hardcore que la police risque de vous arrêter pour vous en toucher un mot."
+	},
+	{
+		"name": "ITM_EQU_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Une crête tigrée associée à des lunettes criardes. Avec ça, même votre propre mère ne vous reconnaîtrait pas. Vous serez un loup (ou plutôt, un tigre) solitaire pour la journée."
+	},
+	{
+		"name": "ITM_EQU_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous débutez seulement dans le look punk, cette veste en cuir est le classique à avoir. Est-ce qu'on peut se dire punk sans veste en cuir ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste emblématique créée par le fondateur de Tigre PUNKS. Ils avaient arrêté la vente à un moment, mais elle est de retour !"
+	},
+	{
+		"name": "ITM_EQU_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette veste écossaise allie styles classique et moderne. Non seulement elle est stylée, mais en plus, elle est confortable."
+	},
+	{
+		"name": "ITM_EQU_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste à motif tigré en coton léger et respirant. Elle aurait dû être en cuir, mais s'évanouir à cause d'un coup de chaleur, ce n'est pas très punk."
+	},
+	{
+		"name": "ITM_EQU_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "On voit que ce manteau est punk grâce à ses sangles et son motif tartan. Vous pouvez y accrocher des choses si vous manquez de poches. Essayez juste de ne pas vous accrocher aux poignées de porte."
+	},
+	{
+		"name": "ITM_EQU_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Une chemise basique en lin. On pourrait croire que le modèle blanc est sorti en premier, mais non. Apparemment, le designer avait oublié que le blanc existait."
+	},
+	{
+		"name": "ITM_EQU_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce pantalon est le vêtement le plus punk qu'on puisse imaginer. Vous pouvez retirer les sangles si vous préférez aborder le style petit à petit."
+	},
+	{
+		"name": "ITM_EQU_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon intelligemment conçu, avec jupe intégrée. Il irait bien avec du rouge. D'ailleurs, votre compte sera dans le rouge si vous l'achetez."
+	},
+	{
+		"name": "ITM_EQU_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Un short écossais à clous pour rester au frais avec style. Faites attention en l'enfilant, ou vos jambes pourraient s'emmêler dans les sangles."
+	},
+	{
+		"name": "ITM_EQU_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Le dernier pantalon dessiné par le fondateur de Tigre PUNKS. Vous voyez toutes ces fermetures éclair ? Chacune est une poche. Imaginez tous les bonbons qu'on peut mettre là-dedans !"
+	},
+	{
+		"name": "ITM_EQU_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Des bottes punks intemporelles. En plissant les yeux, ces clous dorés paraissent étrangement élégants... ou pas. Non, en fait ils sont criards quoi qu'on en pense. Mais c'est le but, non ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "L'association du blanc et du rouge sur ces creepers est tout à fait punk. Elles sont peut-être féminines, mais des hommes les portent aussi."
+	},
+	{
+		"name": "ITM_EQU_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de creepers à motif tigré. Les clous à l'avant font très mal, si vous vous posiez la question, alors n'allez pas donner des coups de pied déplacés. Ça ne serait pas très punk de blesser quelqu'un."
+	},
+	{
+		"name": "ITM_EQU_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de bottes à plateformes couverte de sangles. L'intérieur est doublé avec un motif tigré qui représente le tigre en nous... ou un truc du genre."
+	},
+	{
+		"name": "ITM_EQU_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce bracelet à pointes XXL ne laissera personne indifférent. Vous pourriez éborgner quelqu'un avec, alors faites attention quand vous agitez les bras."
+	},
+	{
+		"name": "ITM_EQU_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ras-de-cou intimidant qui s'adapte facilement à différentes tailles. Si vous voulez un accessoire très punk pour pas cher, c'est ce qui se fait de mieux."
+	},
+	{
+		"name": "ITM_EQU_Info_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce petit sac est de plus en plus beau avec l'usure. Il est tellement à la mode que vous ne vous rendrez même pas compte que vous ne pouvez rien mettre dedans."
+	},
+	{
+		"name": "ITM_EQU_Info_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce sac à dos incarne l'esprit de Tigre PUNKS. Il est noir, en cuir, avec un motif tigré et couvert de clous. Il est si punk que vous aurez peut-être du mal à le domestiquer."
+	},
+	{
+		"name": "ITM_EQU_Info_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "« Je n'appartiens qu'à toi, mon amour. » Cette coiffe incarne des sentiments contradictoires envers l'être aimé : le ruban rose représente le véritable amour et la dentelle noire la possessivité."
+	},
+	{
+		"name": "ITM_EQU_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Une coiffe en dentelle délicate décorée de jolies roses. Son côté enfantin rappelle l'innocence du premier amour."
+	},
+	{
+		"name": "ITM_EQU_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce chapeau à rubans est idéal pour toutes les fashionistas. Il s'accorde à une grande variété de styles, ce qui en fait l'accessoire parfait à s'échanger entre amies."
+	},
+	{
+		"name": "ITM_EQU_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous admirez les roses et les plumes sur son rebord ? Ou peut-être son ruban à carreaux ? C'est vraiment ce qui parachève ce chapeau sans être dans l'excès. L'accessoire idéal pour un majordome, non ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce manteau gothique raffiné et rappelant une fleur de lys a pour thème<NBSP>« l'amour maudit ». Ses sangles sont les chaînes qui emprisonnent un cœur dont l'amour n'est pas partagé."
+	},
+	{
+		"name": "ITM_EQU_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Une blouse en mousseline et aux manches bouffantes, dont la noblesse transperce les cœurs. Le jabot à volants représente la chasteté et l'innocence, tandis que le ruban du col cravate symbolise la pureté."
+	},
+	{
+		"name": "ITM_EQU_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Une blouse à froufrous aux manches évasées, avec des rubans aux coudes. Les volants autour du col et des ourlets sont parfaitement équilibrés et lui donnent une élégance innée."
+	},
+	{
+		"name": "ITM_EQU_Info_0407",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet ensemble formé d'une chemise et d'un veston croisé peut sembler incomplet, mais ce n'est pas le cas. La simplicité est mère de la grâce et de la dignité. Que vous incarnerez en enfilant ces vêtements."
+	},
+	{
+		"name": "ITM_EQU_Info_0408",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce vêtement a été conçu en pensant à un ami qui va de l'avant malgré les doutes qui étreignent son cœur. On peut presque sentir sa détermination dans le tissu."
+	},
+	{
+		"name": "ITM_EQU_Info_0409",
+		"speaker": "",
+		"listener": "",
+		"content": "Un vêtement ambitieux, conçu autour du concept de la beauté noble et majestueuse. Ses volants décoratifs ondulent gracieusement, dessinant une silhouette fugace dans le vent."
+	},
+	{
+		"name": "ITM_EQU_Info_0410",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle jupe-corset conçue pour attirer la chance, mais aussi l'amour. Ses rubans et froufrous noirs représentent la vengeance. Comme c'est charmant !"
+	},
+	{
+		"name": "ITM_EQU_Info_0411",
+		"speaker": "",
+		"listener": "",
+		"content": "La coupe sportive de ce pantalon d'équitation était déjà très stylée, donc les décorations ont été réduites au minimum. La modération est mère de toutes les vertus !"
+	},
+	{
+		"name": "ITM_EQU_Info_0412",
+		"speaker": "",
+		"listener": "",
+		"content": "Une robe de style sweet lolita pleine de froufrous et de dentelle. N'est-elle pas un bel exemple de l'élégance des lolitas ? Impossible de lui résister si on aime la mignonitude."
+	},
+	{
+		"name": "ITM_EQU_Info_0413",
+		"speaker": "",
+		"listener": "",
+		"content": "Une variation originale du style classic lolita. La longueur de la jupe et son ourlet relevé lui donnent une touche plus moderne et un style plus personnel. On dirait presque un nouveau genre. Presque."
+	},
+	{
+		"name": "ITM_EQU_Info_0414",
+		"speaker": "",
+		"listener": "",
+		"content": "Les robes qui découvrent les épaules et une partie du décolleté sont difficiles à dessiner sans les rendre trop... <i>indécentes</i>. Mais celle-ci est parfaitement équilibrée : même si elle est osée, elle n'a rien perdu de son élégance."
+	},
+	{
+		"name": "ITM_EQU_Info_0415",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces chaussures compensées noires donneront à vos gambettes une longueur infinie. Elles sont aussi plus lourdes qu'elles n'y paraissent, ce qui est pratique pour piétiner les importuns."
+	},
+	{
+		"name": "ITM_EQU_Info_0416",
+		"speaker": "",
+		"listener": "",
+		"content": "De jolies bottes roses pour parachever votre look de sweet lolita. Une attention toute particulière a été apportée à la doublure afin qu'elle s'accorde au reste. Il faut absolument les porter avec la robe Renoncule !"
+	},
+	{
+		"name": "ITM_EQU_Info_0417",
+		"speaker": "",
+		"listener": "",
+		"content": "Comme le pantalon Pétunia, ces bottes sont à l'image d'un ami. Si vous écoutez bien, vous pourrez presque entendre sa voix rassurante dans le vent."
+	},
+	{
+		"name": "ITM_EQU_Info_0418",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette modeste ombrelle est digne d'une princesse. Aussi mignonne qu'un bouton de rose lorsqu'elle est fermée, elle possède la grâce d'une fleur épanouie une fois ouverte. Gardez-la à portée de main pour vous protéger des éléments, comme la pluie ou les rayons du soleil."
+	},
+	{
+		"name": "ITM_EQU_Info_0419",
+		"speaker": "",
+		"listener": "",
+		"content": "De longs gants en dentelle transparente, au motif délicat. Vu le nombre de modifications qu'ils ont subi, c'est un miracle qu'ils existent encore."
+	},
+	{
+		"name": "ITM_EQU_Info_0420",
+		"speaker": "",
+		"listener": "",
+		"content": "Décoré d'une breloque en tanzanite, ce délicat monocle brille de mille feux. Sa forme élégante évoque une calligraphie. Il faut du génie pour créer un tel chef-d'œuvre."
+	},
+	{
+		"name": "ITM_EQU_Info_0421",
+		"speaker": "",
+		"listener": "",
+		"content": "« Tu n'appartiens qu'à moi, mon amour. » Cette impressionnante broche fleurie incarne l'amour éternel. Des perles et des paillettes ruissellent sur les pétales comme des larmes. Des larmes de haine provoquées par l'amour, peut-être ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pic à cheveux raffiné parfait pour une soirée formelle. Le haut en forme d'éventail noir laqué est couvert de fleurs dorées et bordé de décorations en corail. Il fera son impression, quelle que soit l'occasion."
+	},
+	{
+		"name": "ITM_EQU_Info_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "La mode traditionnelle japonaise est maintenant accessible avec cette épingle à cheveux. Chic et pratique, décorée de délicates primeroses, elle se met et s'enlève facilement pour accessoiriser un kimono comme une tenue moins formelle."
+	},
+	{
+		"name": "ITM_EQU_Info_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Un fichu en chanvre léger pour rester au frais lors des chaudes journées d'été. Sa couleur bleue délicate suffit à vous faire oublier la chaleur."
+	},
+	{
+		"name": "ITM_EQU_Info_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce chapeau de paille est fabriqué à partir de matériaux naturels, même son joli ruban à motif de fleurs de cerisier. Chaque chapeau est fait à la main avec soin par des artisans d'un atelier traditionnel à Saitama."
+	},
+	{
+		"name": "ITM_EQU_Info_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette chemise extrêmement légère est découpée dans un tissu de très bonne qualité avec un motif géométrique. Cet imprimé discret ajoutera une touche d'élégance à votre garde-robe."
+	},
+	{
+		"name": "ITM_EQU_Info_0505",
+		"speaker": "",
+		"listener": "",
+		"content": "Un débardeur extensible et respirant conçu pour le confort et la praticité. L'imprimé floral coloré varie légèrement d'un haut à l'autre : chaque pièce est unique."
+	},
+	{
+		"name": "ITM_EQU_Info_0506",
+		"speaker": "",
+		"listener": "",
+		"content": "Une tunique douce et confortable qui ne vous serrera pas trop. On peut presque sentir le parfum des délicats chrysanthèmes brodés dessus."
+	},
+	{
+		"name": "ITM_EQU_Info_0507",
+		"speaker": "",
+		"listener": "",
+		"content": "Autrefois porté uniquement par les anciens, ce pantalon large traditionnel s'adapte maintenant à tous les âges grâce à des variations de couleur et forme. L'imprimé à chrysanthèmes offre un équilibre parfait entre praticité et esthétique."
+	},
+	{
+		"name": "ITM_EQU_Info_0508",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe moderne avec des fleurs brodées d'or sur la ceinture et l'ourlet. Elle offre un contraste agréable de couleurs et d'influences culturelles."
+	},
+	{
+		"name": "ITM_EQU_Info_0509",
+		"speaker": "",
+		"listener": "",
+		"content": "Un jinbei traditionnel en coton et en chanvre, pour plus de confort et de légèreté. Son motif de volutes est intemporel et plaira aux fashionistas de tous horizons."
+	},
+	{
+		"name": "ITM_EQU_Info_0510",
+		"speaker": "",
+		"listener": "",
+		"content": "Un kimono qui attire l'œil. Il évoque des chrysanthèmes flottant doucement sur l'eau. Le obi peut facilement s'attacher avec un nœud simple, pour le bonheur des néophytes."
+	},
+	{
+		"name": "ITM_EQU_Info_0511",
+		"speaker": "",
+		"listener": "",
+		"content": "Une robe élégante faite à partir d'un kimono upcyclé. Elle arbore un saisissant motif de chrysanthèmes. Le obi peut être remplacé par une ceinture pour un look plus moderne."
+	},
+	{
+		"name": "ITM_EQU_Info_0512",
+		"speaker": "",
+		"listener": "",
+		"content": "Des geta traditionnelles fabriquées à la main à Fukushima. Chaque paire met en exergue la couleur naturelle et le grain du bois dont elle est faite, et les lanières confortables permettent de les porter toute la journée."
+	},
+	{
+		"name": "ITM_EQU_Info_0513",
+		"speaker": "",
+		"listener": "",
+		"content": "Des chaussures confortables et tendance avec une très bonne aération. Les semelles intérieures sont en tatami upcyclé, pour rappeler le calme d'une maison japonaise traditionnelle."
+	},
+	{
+		"name": "ITM_EQU_Info_0514",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de sandales raffinée en bambou tressé. Les jolis motifs sur les lanières et le claquement satisfaisant des talons apportent à ces chaussures une grande féminité, et leur stabilité vous permet de marcher avec élégance."
+	},
+	{
+		"name": "ITM_EQU_Info_0515",
+		"speaker": "",
+		"listener": "",
+		"content": "Un magnifique éventail pliant décoré de bambous sous un ciel doré. Tout, du dessin à l'odeur du bois, est fait pour vous donner l'impression que la chance vous sourira bientôt. Utilisez-le pour accessoiriser une tenue ou pour décorer votre intérieur."
+	},
+	{
+		"name": "ITM_EQU_Info_0516",
+		"speaker": "",
+		"listener": "",
+		"content": "Une ombrelle élégante fabriquée à la main par des artisans à Gifu. Lorsque vous l'ouvrez, des fleurs de cerisier semblent s'épanouir sur le tissu écarlate. Avec cet accessoire, la tradition et le raffinement vous appartiennent."
+	},
+	{
+		"name": "ITM_EQU_Info_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Gardez la tête au chaud grâce à ce couvre-chef ultra confortable. En plus de son style inégalé, il dissimule parfaitement les cheveux sales."
+	},
+	{
+		"name": "ITM_EQU_Info_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet article ajoute la touche finale à votre coiffure. Idéal pour garder les mèches à l'écart de votre bol de ramen."
+	},
+	{
+		"name": "ITM_EQU_Info_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Les pierres attachées à ce bandeau font référence au charme d'une douce époque que vous n'avez jamais connue. Si vous courez, vous risquez de vous les prendre dans la figure, mais voyez ce désagrément comme une bénédiction de la Terre."
+	},
+	{
+		"name": "ITM_EQU_Info_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "On n'a jamais trop de T-shirts quand on fait le tour du monde en autostop, surtout s'ils se lavent facilement et sèchent rapidement. Ce modèle possède toutes ces qualités en plus d'un design éthique."
+	},
+	{
+		"name": "ITM_EQU_Info_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet habit rappelle en mémoire les souvenirs de tous les road-trips que vous avez vécus. Si l'aventure et le partage communautaire vous manquent, enfilez-le."
+	},
+	{
+		"name": "ITM_EQU_Info_0605",
+		"speaker": "",
+		"listener": "",
+		"content": "Avez-vous déjà eu envie de vous libérer du train-train quotidien pour partir explorer des territoires sauvages ? En portant ce poncho, c'est <i>presque</i> comme si vous y étiez, mais pas vraiment non plus."
+	},
+	{
+		"name": "ITM_EQU_Info_0606",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette pèlerine est unique en son genre. Elle a été dessinée, conçue et importée avec soin et amour par nos partenaires et amis d'outre-mer."
+	},
+	{
+		"name": "ITM_EQU_Info_0607",
+		"speaker": "",
+		"listener": "",
+		"content": "Le tissu de ce pantalon, à la fois tendance et durable, peut facilement tenir 5 ans sans montrer le moindre signe d'usure. Pensez quand même à le laver de temps en temps."
+	},
+	{
+		"name": "ITM_EQU_Info_0608",
+		"speaker": "",
+		"listener": "",
+		"content": "Offrant une liberté de mouvement inégalée, ce pantalon est idéal pour la danse ou le yoga. Attention : si vous l'essayez, vous ne voudrez plus jamais porter de jeans de votre vie."
+	},
+	{
+		"name": "ITM_EQU_Info_0609",
+		"speaker": "",
+		"listener": "",
+		"content": "Pour certains, les nuances de bleu sur le brun évoquent un magnifique ciel à perte de vue sous lequel tout le monde aspire à se trouver. Pour d'autres, c'est juste une jupe sympa."
+	},
+	{
+		"name": "ITM_EQU_Info_0610",
+		"speaker": "",
+		"listener": "",
+		"content": "La solution toute trouvée lorsqu'on veut être à l'aise sans se prendre la tête. Ses motifs et son tissu léger rappellent immanquablement les festivals d'été."
+	},
+	{
+		"name": "ITM_EQU_Info_0611",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette robe légère s'inspire d'une tenue traditionnelle d'un pays fort lointain. En revanche, évitez de manger en la portant : elle tache facilement."
+	},
+	{
+		"name": "ITM_EQU_Info_0612",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet article au tissu confortable et au motif remarquable est apprécié aussi bien des femmes que des hommes. Si vous ne vous sentez pas d'exhiber vos jambes, portez un pantalon en dessous."
+	},
+	{
+		"name": "ITM_EQU_Info_0613",
+		"speaker": "",
+		"listener": "",
+		"content": "Fabriquées principalement à partir de tissu, ces sandales très résistantes peuvent se porter toute la journée, même lorsque vous échappez à une meute de loups."
+	},
+	{
+		"name": "ITM_EQU_Info_0614",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaque perle de turquoise est cousue main. Grâce à la fermeture éclair à l'arrière, il est encore plus facile de les enfiler ou les retirer."
+	},
+	{
+		"name": "ITM_EQU_Info_0615",
+		"speaker": "",
+		"listener": "",
+		"content": "Réalisés à partir d'un cuir souple et durable, ces chaussons sont extrêmement confortables. Ils seront des compagnons tout trouvés pour une sortie sous le soleil, <i>mais surtout</i>, évitez l'eau à tout prix."
+	},
+	{
+		"name": "ITM_EQU_Info_0616",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces mocassins montants en cuir tanné sont inspirés d'une tenue traditionnelle bien connue. Légers et robustes, ils sont disponibles en plusieurs coloris."
+	},
+	{
+		"name": "ITM_EQU_Info_0617",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce collier n'est pas constitué d'une, mais bien de <i>deux</i> magnifiques turquoises. Elles sont tellement magnifiques qu'on pourrait les admirer pendant des heures."
+	},
+	{
+		"name": "ITM_EQU_Info_0618",
+		"speaker": "",
+		"listener": "",
+		"content": "Il est dit que la turquoise dissipe les énergies néfastes, surtout lorsqu'elle est offerte. Alors pourquoi ne pas donner ce bracelet en cadeau à un être cher ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0619",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette sacoche offre l'espace suffisant aux objets indispensables : téléphone et passeport. Est-ce qu'on a besoin de plus de place ? Nous sommes dans l'ère du numérique, après tout."
+	},
+	{
+		"name": "ITM_EQU_Info_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Un chapeau en cuir de bouquetin tanné à la perfection par un maître-artisan. Il vous accompagnera tout au long de votre vie en devenant de plus en plus élégant au fil des années."
+	},
+	{
+		"name": "ITM_EQU_Info_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette coiffe de soirée en feutre de castor est sublimée par la soie et les perles, à l'instar d'une galaxie étoilée. Elle saura captiver l'œil avisé, surtout si elle est accompagnée d'un voile élégant."
+	},
+	{
+		"name": "ITM_EQU_Info_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette tiare en platine pure, méticuleusement incrustée de perles et de diamants, incarne la haute société. À la fois complexe et discrète, elle attirera tous les regards sur celui ou celle qui la porte."
+	},
+	{
+		"name": "ITM_EQU_Info_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste droite conçue à partir de la laine la plus raffinée qui existe. Même associée à un simple col roulé, son élégance naturelle impose le respect."
+	},
+	{
+		"name": "ITM_EQU_Info_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette veste et son gilet assorti ont été réalisés en collaboration avec un tailleur britannique émérite. La fusion percutante de la tradition et de l'innovation est d'autant plus mise en valeur si vous la portez avec une chemise anthracite."
+	},
+	{
+		"name": "ITM_EQU_Info_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce pantalon de soirée est constitué d'une laine extrafine, comme la veste droite assortie. Son confort supérieur et son style décontracté sont un choix tout trouvé pour les plus actifs d'entre vous."
+	},
+	{
+		"name": "ITM_EQU_Info_0706",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce pantalon lie-de-vin, associé à la veste et le gilet, vient compléter ce sublime costume trois-pièces. Tout bon gentleman qui se respecte se doit de porter l'ensemble comme indiqué."
+	},
+	{
+		"name": "ITM_EQU_Info_0707",
+		"speaker": "",
+		"listener": "",
+		"content": "On ajoute des perles à la main sur chacune de ces robes brodées. Le mouvement des manches à volants émerveillera à coup sûr tous ceux qui poseront les yeux sur vous."
+	},
+	{
+		"name": "ITM_EQU_Info_0708",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette robe de soie audacieuse laisse une épaule nue. Le décolleté affirmé et le jupon espiègle mettent en valeur toutes les silhouettes."
+	},
+	{
+		"name": "ITM_EQU_Info_0709",
+		"speaker": "",
+		"listener": "",
+		"content": "Plus personne ne pourra détourner le regard de cette superbe paire de Richelieu à bout droit. Laissez le confort de son intérieur cuir vous guider d'un pas décidé vers votre avenir radieux."
+	},
+	{
+		"name": "ITM_EQU_Info_0710",
+		"speaker": "",
+		"listener": "",
+		"content": "Toute la majesté de ces sandales à talons réside dans leur motif infini clouté or. Pour peu qu'on ait suffisamment d'audace pour les porter, elles mettront en valeur tous vos attributs physiques à coup sûr."
+	},
+	{
+		"name": "ITM_EQU_Info_0711",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette eau de parfum novatrice concentre l'essence du succès et du progrès de la société. Une fois appliquée, on perçoit des touches de verdure, souvenir d'une journée d'été, avant de laisser place à une fragrance de cèdre."
+	},
+	{
+		"name": "ITM_EQU_Info_0712",
+		"speaker": "",
+		"listener": "",
+		"content": "Une eau de toilette qui vous emporte dans un périple olfactif : des notes légères et rafraîchissantes, en passant par le puissant parfum de la rose de Damas, avant d'atterrir sur un ambre spectaculaire. Le parfum idéal pour une grande dame."
+	},
+	{
+		"name": "ITM_EQU_Info_0713",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette montre simple en apparence se déleste de l'ornement ostentatoire pour laisser place à un style intemporel. Aussi pratique que raffinée, elle est automatique, résistante à l'eau et antimagnétique. Exhibez par votre poignet votre fortune et votre bon goût."
+	},
+	{
+		"name": "ITM_EQU_Info_0714",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette montre n'a qu'un objectif : être luxueuse. Son cadran mauve représente l'amour, tandis que son bracelet d'or représente le désir."
+	},
+	{
+		"name": "ITM_EQU_Info_0715",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette paire de gants en cuir d'agneau s'adapte à toutes les morphologies de mains au fil du temps. L'intérieur en cachemire offre un confort supérieur chaque fois que vous empoignez votre argent ou le succès."
+	},
+	{
+		"name": "ITM_EQU_Info_0716",
+		"speaker": "",
+		"listener": "",
+		"content": "Innovation esthétique, ce sac à main incrusté de cristaux scintillants est une œuvre d'art en soi. Ces détails exquis et son chatoiement feront de vous la vedette de tous les vernissages."
+	},
+	{
+		"name": "ITM_EQU_Info_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Un chapeau en coton respirant, pour tous les jours ou pour les journées ensoleillées. Simple et polyvalent, il va avec de nombreuses tenues. Il est très facile à plier et à ranger quand on n'en a pas besoin."
+	},
+	{
+		"name": "ITM_EQU_Info_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Une merveilleuse barrette très facile à mettre et enlever. Pourquoi dépenser des milliers de yens pour une coupe compliquée, quand on peut porter cette barrette et atteindre facilement le même niveau d'élégance ?"
+	},
+	{
+		"name": "ITM_EQU_Info_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Un T-shirt orné de la mascotte adorée de Shepherd House. Ne soyez pas un mouton, libérez votre style pour qu'il atteigne les sommets. Mise en garde : la partie décorée du T-shirt est plus longue à sécher après lavage, alors faites attention."
+	},
+	{
+		"name": "ITM_EQU_Info_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Un classique d'une garde-robe masculine. Maintenant disponible en vert. Parfait dans toutes les tailles, mais rend particulièrement bien quand il est assez serré pour souligner les muscles du torse et vous donner un air sportif."
+	},
+	{
+		"name": "ITM_EQU_Info_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Un incontournable pour l'automne et l'hiver. Maintenant disponible avec des manches trois quarts ! Le tissu peut sembler fin au premier abord, mais sa technologie thermique vous garantit de n'avoir jamais froid. Essayez de le porter sous un haut pour garder votre cou au chaud pendant les mois d'hiver."
+	},
+	{
+		"name": "ITM_EQU_Info_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Un design minimaliste qui ne vous ruinera pas et ne sera jamais passé de mode. Adoré de tous les employés de bureau, car elle ne se froisse pas. Vous n'aurez plus jamais besoin de repasser une seule chemise !"
+	},
+	{
+		"name": "ITM_EQU_Info_0806",
+		"speaker": "",
+		"listener": "",
+		"content": "Un vêtement pratique qui peut se replier pour rentrer dans votre sac grâce à la pochette prévue à cet effet. Ça vous sauvera la vie les jours où la température change du tout au tout. Et en plus, ce n'est pas cher !"
+	},
+	{
+		"name": "ITM_EQU_Info_0807",
+		"speaker": "",
+		"listener": "",
+		"content": "Élément essentiel de toute tenue, ces pantalons existent en une variété de couleurs. Le beige est la plus populaire en ce moment, car très versatile. On ne peut pas se tromper avec un chino."
+	},
+	{
+		"name": "ITM_EQU_Info_0808",
+		"speaker": "",
+		"listener": "",
+		"content": "Le pantalon parfait pour garder vos jambes au chaud lors des mois d'hiver. En plus, le tissu est légèrement élastique, ce qui vous permet de bouger avec style."
+	},
+	{
+		"name": "ITM_EQU_Info_0809",
+		"speaker": "",
+		"listener": "",
+		"content": "Ni trop longue, ni trop courte, cette jupe est parfaite pour le travail ou les loisirs. Sa couleur beige vous permet de l'accorder facilement avec tous types de hauts."
+	},
+	{
+		"name": "ITM_EQU_Info_0810",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette jupe est capitonnée pour celles qui ont facilement froid aux jambes. Elle est idéale pendant l'hiver, car vous pouvez la porter par-dessus un legging ou un pantalon."
+	},
+	{
+		"name": "ITM_EQU_Info_0811",
+		"speaker": "",
+		"listener": "",
+		"content": "Un vêtement très versatile qui peut se porter seul comme robe ou avec un legging ou un pantalon. Vous pouvez même la porter ouverte par-dessus votre tenue ! Vous aurez du mal à trouver quelque chose de plus pratique que ça."
+	},
+	{
+		"name": "ITM_EQU_Info_0812",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces chaussures classiques donnent de l'élégance à toute tenue avec leurs petits talons. Adaptées à toutes les occasions, elles allient parfaitement confort et style. Vous ne voudrez plus les quitter !"
+	},
+	{
+		"name": "ITM_EQU_Info_0813",
+		"speaker": "",
+		"listener": "",
+		"content": "Les reines des chaussures décontractées. Ces tennis en toile sont très agréables à porter. Les éléments phares de ce nouveau modèle sont le logo de Shepherd House et les lignes rouges qui ornent la semelle."
+	},
+	{
+		"name": "ITM_EQU_Info_0814",
+		"speaker": "",
+		"listener": "",
+		"content": "L'accessoire Shepherd House le plus apprécié des employés de bureau. Parfait pour de courts voyages d'affaires, quand il vous faut un peu plus de place que dans un sac ordinaire."
+	},
+	{
+		"name": "ITM_EQU_Info_0815",
+		"speaker": "",
+		"listener": "",
+		"content": "100 % laine et parfaite pour l'hiver. Cette écharpe est faite dans une laine spécialement sélectionnée pour ne pas irriter la peau du cou."
+	},
+	{
+		"name": "ITM_EQU_Info_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Idéal pour les activités d'extérieur. Sa bande orange fluo permet aux gens de vous repérer facilement, même lorsqu'il fait nuit."
+	},
+	{
+		"name": "ITM_EQU_Info_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "De retour à la demande générale, après avoir été en rupture de stock ! Cette casquette en filet respirante est parfaite pour le sport ou les sorties. Le contraste entre les couleurs du logo de Jupiter of the Monkey et de la visière lui permet de se démarquer."
+	},
+	{
+		"name": "ITM_EQU_Info_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Un modèle intemporel, inchangé depuis sa sortie initiale. Cependant, le vêtement lui-même évolue constamment. L'innovation technique du tissu de cette année a rendu ce haut si léger qu'on dirait qu'on ne porte rien du tout !"
+	},
+	{
+		"name": "ITM_EQU_Info_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Tout comme le débardeur Bodhidharma, le design de ce T-shirt de sport est resté identique au fil des années, mais d'autres aspects ont été améliorés. La version de cette année offre une excellente absorption de la transpiration."
+	},
+	{
+		"name": "ITM_EQU_Info_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste imperméable facile à ranger. Elle semble peut-être légère, mais ne vous inquiétez pas, elle vous gardera bien au sec. Elle a aussi des tas de poches pour ceux qui aiment les gadgets."
+	},
+	{
+		"name": "ITM_EQU_Info_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Un vêtement moulant qui accentue la silhouette naturelle de son porteur. Parfait pour le sport ou les sorties. Il est apprécié depuis longtemps des athlètes amoureux de la mode dans le monde entier."
+	},
+	{
+		"name": "ITM_EQU_Info_0906",
+		"speaker": "",
+		"listener": "",
+		"content": "Un vêtement respirant à la technologie antibactérienne, parfait pour se sentir à l'aise même après avoir couru un marathon. La version de cette année est plutôt ample."
+	},
+	{
+		"name": "ITM_EQU_Info_0907",
+		"speaker": "",
+		"listener": "",
+		"content": "Un incontournable lorsqu'on explore la nature en automne ou en hiver. Cette veste imperméable bleu marine et orange garde son porteur au chaud sans le faire transpirer grâce à son intérieur en filet spécial."
+	},
+	{
+		"name": "ITM_EQU_Info_0908",
+		"speaker": "",
+		"listener": "",
+		"content": "Un short respirant qui ne colle pas aux jambes grâce à sa doublure en filet. Notre technique de couture brevetée nous aide à le rendre encore plus léger. Tous les coureurs pourront ainsi battre leurs records."
+	},
+	{
+		"name": "ITM_EQU_Info_0909",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon de sport fuselé qui affine la silhouette de son porteur. Les lignes et le logo fluo qui le décorent reflètent la lumière la nuit. Vous pouvez ainsi vous entraîner quand vous en avez envie."
+	},
+	{
+		"name": "ITM_EQU_Info_0910",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon tendance décoré d'un logo semblable à un graffiti et d'un joli badge rond. Il est assez résistant pour supporter d'être maltraité un peu. Parfait pour les sportifs comme les accros au cocooning !"
+	},
+	{
+		"name": "ITM_EQU_Info_0911",
+		"speaker": "",
+		"listener": "",
+		"content": "En tissu thermique, mais respirant, ce pantalon vous gardera au frais l'été et au chaud l'hiver. Vous vous ferez remarquer où que vous alliez avec ce pantalon noir et rouge."
+	},
+	{
+		"name": "ITM_EQU_Info_0912",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de baskets rétro et colorées qui reviennent à la demande générale ! Très confortables. Plus vous les portez, plus la semelle intérieure s'adapte à la forme de vos pieds. Les nouvelles semelles intercalaires vous permettront de les porter longtemps."
+	},
+	{
+		"name": "ITM_EQU_Info_0913",
+		"speaker": "",
+		"listener": "",
+		"content": "Des baskets en édition limitée produites chaque année en collaboration avec la célèbre marque de sport. L'année de fabrication est brodée à l'arrière des chaussures. Nos fans les plus ardents achètent donc une paire tous les ans."
+	},
+	{
+		"name": "ITM_EQU_Info_0914",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de chaussures magiques conçues pour les coureurs. Vous aurez l'impression de marcher dans les airs. Les semelles intercalaires et extérieures spéciales absorbent l'impact lorsque le pied touche le sol, vous permettant de courir sur n'importe quel terrain."
+	},
+	{
+		"name": "ITM_EQU_Info_0915",
+		"speaker": "",
+		"listener": "",
+		"content": "Appuyez sur le bouton caché pour que ces chaussures s'adaptent automatiquement à vos pieds. Les semelles spéciales ultralégères sont conçues pour vous offrir un rebond maximum. Vous serez donc toujours en tête de la course."
+	},
+	{
+		"name": "ITM_EQU_Info_0916",
+		"speaker": "",
+		"listener": "",
+		"content": "Un sac avec une grosse bandoulière, pour une stabilité maximale quand vous vous baladez. L'intérieur est conçu pour garder vos en-cas et boissons au frais. C'est donc l'accessoire idéal pour l'été. Et ne vous inquiétez pas si vous le salissez un peu, vous pouvez le laver facilement avec de l'eau."
+	},
+	{
+		"name": "ITM_EQU_Info_0917",
+		"speaker": "",
+		"listener": "",
+		"content": "Un accessoire en édition limitée qui ressort en même temps que les baskets Om. Ce sac a non seulement des poches à l'avant et sur les côtés, mais aussi un compartiment pour ordinateur. Ne ratez pas l'occasion de posséder un des sacs à dos les plus pratiques et modernes du monde entier !"
+	},
+	{
+		"name": "ITM_EQU_Info_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Une casquette de marque imprimée d'un code-barres XXL. Simple et efficace. C'est le petit détail qui transforme une tenue ordinaire. Tout le monde se l'arrache depuis que Masanori, le danseur qui fait sensation, la porte en permanence."
+	},
+	{
+		"name": "ITM_EQU_Info_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bonnet de laine arborant le super logo de MONOCROW. Avis aux porteurs de bonnets amateurs, son design et sa couleur passe-partout s'accordent avec toutes les tenues."
+	},
+	{
+		"name": "ITM_EQU_Info_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Logo MONOCROW extralarge, noir d'un côté, blanc de l'autre : un article qui sort du lot. Le grand danseur Masanori, égérie de la marque, en posséderait une trentaine, afin de le porter tous les jours. Ses fans l'ont adopté, comme un uniforme."
+	},
+	{
+		"name": "ITM_EQU_Info_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "La manche gauche texturée offre un style asymétrique à ce blouson. Fabriqué avec un tissu léger, mais résistant, il est fait pour affirmer votre look d'Udagawa."
+	},
+	{
+		"name": "ITM_EQU_Info_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "L'imprimé percutant de ce pull à capuche est l'abstraction d'une aile d'oiseau. Intemporel et épais, cet article est un indispensable pour tous les adeptes de MONOCROW."
+	},
+	{
+		"name": "ITM_EQU_Info_1005",
+		"speaker": "",
+		"listener": "",
+		"content": "On peut lire<NBSP>« MONOCROW » tout le long des bretelles croisées de cette brassière. C'est le vêtement à ne pas oublier, que ce soit pour traîner dans le quartier, ou pendant votre séance de muscu."
+	},
+	{
+		"name": "ITM_EQU_Info_1006",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce pantalon très large et tendance possède des poches de partout. À la fois slim et baggy, il concilie les amateurs des deux styles."
+	},
+	{
+		"name": "ITM_EQU_Info_1007",
+		"speaker": "",
+		"listener": "",
+		"content": "L'alliance du legging et du short pour un look unique. Affirmez votre style avec leurs logos et leurs motifs asymétriques."
+	},
+	{
+		"name": "ITM_EQU_Info_1008",
+		"speaker": "",
+		"listener": "",
+		"content": "La bande boutonnée sur le côté apporte un intérêt visuel inédit à cette jupe en jersey. À la fois polyvalente et pratique, elle vous accompagnera à chaque battle de danse. Associée à la brassière à bretelles croisées, vous serez la coqueluche de tous les amateurs du look d'Udagawa."
+	},
+	{
+		"name": "ITM_EQU_Info_1009",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette robe zippée est constituée de la même matière que les survêtements. Grâce à son logo en code-barres, elle s'accorde parfaitement avec la casquette monochrome."
+	},
+	{
+		"name": "ITM_EQU_Info_1010",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces baskets montantes en simili cuir viennent contrebalancer visuellement toute bonne tenue. Le danseur Masanori les a tellement kiffées qu'il en aurait acheté 10 paires."
+	},
+	{
+		"name": "ITM_EQU_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Avec ces sandales uniques en leur genre, le sport et le style ne font qu'un. La semelle ajustée et les brides aux chevilles vous garantissent la classe maximale cet été."
+	},
+	{
+		"name": "ITM_EQU_Info_1012",
+		"speaker": "",
+		"listener": "",
+		"content": "Mi-baskets, mi-bottes, swag total. La finition laquée leur apporte une superbe brillance, et leurs fermetures éclair géantes assurent leur côté pratique. Agréables du soir au matin, elles s'accordent parfaitement avec le jogging large."
+	},
+	{
+		"name": "ITM_EQU_Info_1013",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette montre chronographe massive peut être synchronisée à vos appareils connectés. Payer avec sa montre grâce à ShibuPay, c'est une avancée technologique dont tout le monde devrait profiter, même ceux qui ne portent pas de MONOCROW."
+	},
+	{
+		"name": "ITM_EQU_Info_1014",
+		"speaker": "",
+		"listener": "",
+		"content": "Le logo de MONOCROW est gravé sur ces deux plaques militaires en acier inoxydable reliées par une chaîne. L'accessoire parfait, sans faire dans la démesure."
+	},
+	{
+		"name": "ITM_EQU_Info_1015",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce sac tendance peut contenir tout ce dont vous avez besoin pour aller en ville. L'attache permet de le fixer comme bon vous semble, tandis que le logo MONOCROW se charge du style. Attention : respecter le poids maximum qu'il peut transporter."
+	},
+	{
+		"name": "ITM_EQU_Info_1016",
+		"speaker": "",
+		"listener": "",
+		"content": "Protégez-vous avec classe grâce à ce masque à l'effigie de MONOCROW. Le tissu antitache garde votre look propre, et ses propriétés antimicrobiennes vous assurent des bouffées d'air pur. De plus, sa coupe s'adapte à tous les visages. Garanti sans gêne."
+	},
+	{
+		"name": "ITM_EQU_Info_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un chapeau rouge vif relevé d'un ruban marron. Avec lui, vous allez attirer tous les regards. Son rebord vous empêche d'avoir le soleil dans les yeux et encadre parfaitement votre visage ! Il y a même un fil de fer à l'intérieur pour lui donner la forme que vous voulez."
+	},
+	{
+		"name": "ITM_EQU_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Un accessoire d'été indispensable pour les fashionistas. Il va parfaitement avec les tenues décontractées ou légèrement formelles. Ce chapeau classique a tout bon !"
+	},
+	{
+		"name": "ITM_EQU_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce haut à froufrous s'arrache depuis que la top model Kanie l'a porté pour un shooting photo dans un magazine de mode. Il vous donnera l'impression d'être une star !"
+	},
+	{
+		"name": "ITM_EQU_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Un haut qui vous donnera l'élégance d'une grande dame avec son style qui rappelle les kimonos. Sa couleur écrue le rend facile à assortir avec toutes sortes de tenues, mais il est parfait avec un pantalon décontracté."
+	},
+	{
+		"name": "ITM_EQU_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce manteau est un des plus appréciés chez NATURAL PUPPY. Il sera parfait dans votre garde-robe. Cependant, choisissez une taille qui vous va parfaitement, c'est la clé pour vous démarquer."
+	},
+	{
+		"name": "ITM_EQU_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste bleu marine qui va avec à peu près toutes les tenues. Le tissu est extensible pour s'adapter à toutes sortes de morphologies. Un très bon choix quand il faut s'habiller sérieusement, mais pas trop."
+	},
+	{
+		"name": "ITM_EQU_Info_1106",
+		"speaker": "",
+		"listener": "",
+		"content": "Un T-shirt à la mode, en tissu durable et respectueux de l'environnement. Il va bien avec la plupart des tenues, mais encore mieux avec des accessoires chics pour ne pas faire trop relax."
+	},
+	{
+		"name": "ITM_EQU_Info_1107",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette chemise est fabriquée dans un tissu respirant qui allie différents types de lin, ce qui lui permet d'éliminer tout besoin de repassage. C'est la meilleure amie des employés de bureau. Son col anglais et ses rayures bleues vous donneront l'air parfaitement professionnel."
+	},
+	{
+		"name": "ITM_EQU_Info_1108",
+		"speaker": "",
+		"listener": "",
+		"content": "Un jean minimaliste et chic fabriqué par un des créateurs les plus célèbres au monde. Conçu spécialement pour mouler la silhouette et vous donner ce look moderne que vous avez toujours voulu."
+	},
+	{
+		"name": "ITM_EQU_Info_1109",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe mi-longue pour celles qui adorent tout ce qui est rétro. Son tissu jaune moutarde est doux au toucher et tombe joliment à partir de la taille. Le ruban de la jupe est détachable. Vous pouvez donc changer de style selon les occasions."
+	},
+	{
+		"name": "ITM_EQU_Info_1110",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce jean classique à la coupe basique est le pantalon parfait pour avoir l'air calme et posé. Parfait avec un blazer cintré ou un haut de couleur neutre."
+	},
+	{
+		"name": "ITM_EQU_Info_1111",
+		"speaker": "",
+		"listener": "",
+		"content": "La taille élastique de cette combinaison la rend extrêmement confortable. Les jambes sont très amples, ce qui lui permet de convenir à un maximum de morphologies. Aucun vêtement n'est plus versatile que ça !"
+	},
+	{
+		"name": "ITM_EQU_Info_1112",
+		"speaker": "",
+		"listener": "",
+		"content": "Le célèbre modèle de NATURAL PUPPY a été revisité ! Ce nouveau design, modifié par Kanie, possède une longueur et un décolleté différents afin d'être plus mignon que jamais. Le ruban placé à la taille vous fera une silhouette de folie et mettra en valeur vos jambes dans toute leur longueur."
+	},
+	{
+		"name": "ITM_EQU_Info_1113",
+		"speaker": "",
+		"listener": "",
+		"content": "La robe qui a fait de Kanie la star qu'elle est aujourd'hui ! La carrière de Kanie a décollé lorsqu'elle a été photographiée pour un magazine dans cette robe. À sa demande, nous avons ajouté des ailles d'ange en froufrous à ce design revisité."
+	},
+	{
+		"name": "ITM_EQU_Info_1114",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette robe est une des meilleures ventes de NATURAL PUPPY, avec les robes angélique et charmante. Elle est maintenant encore plus jolie avec son ruban ! Essayez de porter un T-shirt simple en dessous, comme Kanie."
+	},
+	{
+		"name": "ITM_EQU_Info_1115",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de mules bleu ciel qui ne sont pas trop serrées, mais pas trop lâches non plus, pour un maintien optimal. Aucun faux pas possible en les ajoutant à votre collection."
+	},
+	{
+		"name": "ITM_EQU_Info_1116",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces chaussures élégantes mettront vos pieds en valeur, et leurs hauts talons allongeront vos jambes. Leurs semelles intérieures sont bien adhérentes, alors vous pouvez les porter même quand vous êtes pressée !"
+	},
+	{
+		"name": "ITM_EQU_Info_1117",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces chaussures offrent une bonne tenue aux chevilles et leurs semelles extrafines vous éviteront les douleurs. Ce modèle en daim est adapté aussi bien aux situations professionnelles que décontractées."
+	},
+	{
+		"name": "ITM_EQU_Info_1118",
+		"speaker": "",
+		"listener": "",
+		"content": "Une cravate sans fioritures. Pour tous les âges et tous les styles. Avec son fini satiné et sa couleur de très bon goût, vous ne vous en lasserez jamais. En plus, elle donne l'impression d'être plus chère qu'elle ne l'est ! Une idée de cadeau idéale !"
+	},
+	{
+		"name": "ITM_EQU_Info_1119",
+		"speaker": "",
+		"listener": "",
+		"content": "Les cravates banales, c'est bien, mais la variété c'est <i>vraiment</i> le sel de la vie. Essayez cette cravate en tricot si vous voulez élargir vos horizons. Elle attirera forcément l'attention que vous cherchez."
+	},
+	{
+		"name": "ITM_EQU_Info_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Une casquette décorée du célèbre logo de HOG FANG. Sa popularité est éternelle, car elle apporte une touche de couleur à n'importe quelle tenue."
+	},
+	{
+		"name": "ITM_EQU_Info_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Une casquette dont la visière est assez longue. Elle arbore une version réduite du logo de HOG FANG et une étoile brodée juste à côté. La sangle à l'arrière est en cuir synthétique, ce qui montre que HOG FANG a le sens du détail."
+	},
+	{
+		"name": "ITM_EQU_Info_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Les patchs rétro et le pompon de ce bonnet en imposent niveau réputation. Fabriqué en laine de haute qualité et respirante, vous pouvez le porter toute l'année."
+	},
+	{
+		"name": "ITM_EQU_Info_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Parfait avec les cheveux attachés ou lâchés, il sauve la vie les jours où vous n'avez pas le temps pour un brushing ! Redressez le nœud pour un look mignon, ou aplatissez-le pour un style plus sophistiqué."
+	},
+	{
+		"name": "ITM_EQU_Info_1204",
+		"speaker": "",
+		"listener": "",
+		"content": "C'est la veste à avoir en été et en automne avec ses teintes sourdes. Ne vous inquiétez pas, elle est très chaude, même si elle semble fine. En plus, la fourrure autour du col est amovible. N'hésitez pas à la porter sur un T-shirt ou sous vos vêtements quand il fait très froid."
+	},
+	{
+		"name": "ITM_EQU_Info_1205",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pull à capuche qui arbore une version simplifiée de l'emblème stylé de HOG FANG. Le dos est uni, ce qui vous permet de dicter vous-même les termes de votre style."
+	},
+	{
+		"name": "ITM_EQU_Info_1206",
+		"speaker": "",
+		"listener": "",
+		"content": "Un T-shirt pour célébrer les 60 ans de HOG FANG ! Disponible à un prix très abordable pour vous remercier, vous qui nous avez permis de continuer notre activité pendant plus d'un demi-siècle."
+	},
+	{
+		"name": "ITM_EQU_Info_1207",
+		"speaker": "",
+		"listener": "",
+		"content": "Impossible de se tromper avec les teintes douces de ce vêtement décontracté. Elle est faite en coton épais, ce qui l'aide à garder sa tenue et vous maintient au chaud quand le temps se fait frais."
+	},
+	{
+		"name": "ITM_EQU_Info_1208",
+		"speaker": "",
+		"listener": "",
+		"content": "Voici la veste idéale pour l'automne et l'hiver avec sa doublure détachable. Pas besoin de gros muscles pour la porter. Les filles l'adoptent de plus en plus. On dit que le secret de sa popularité, c'est qu'elle va bien à toutes les morphologies."
+	},
+	{
+		"name": "ITM_EQU_Info_1209",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste conçue pour commémorer les 30 ans de l'arrivée de HOG FANG sur le marché ! Le corps est en molleton de laine et les manches en cuir. Avec son badge spécial, vous aurez un beau style rétro."
+	},
+	{
+		"name": "ITM_EQU_Info_1210",
+		"speaker": "",
+		"listener": "",
+		"content": "L'ourlet retourné de ce jean droit ajoute du volume au bas de votre silhouette. Le jean est vendu avec une ceinture à grosse boucle offerte. Quelle aubaine !"
+	},
+	{
+		"name": "ITM_EQU_Info_1211",
+		"speaker": "",
+		"listener": "",
+		"content": "Certaines personnes achètent un jean comme celui-là uniquement pour sa beauté rétro, mais n'hésitez pas à le porter, aussi ! Sinon, vous pouvez le mettre de côté et attendre qu'il soit encore plus vintage. Dans tous les cas, utilisez une lessive pour linge délicat pour le laver !"
+	},
+	{
+		"name": "ITM_EQU_Info_1212",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon cargo de rebelle. Apprécié de tout temps par les accros à la mode. Associez-le à une veste cintrée pour un style mature et militaire."
+	},
+	{
+		"name": "ITM_EQU_Info_1213",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette jupe tendance arrive au genou et est faite d'un tissu extensible. Inutile de sacrifier votre liberté de mouvement pour être stylée. Idéale pour mettre en valeur vos atouts, mais n'oubliez pas de choisir la bonne taille."
+	},
+	{
+		"name": "ITM_EQU_Info_1214",
+		"speaker": "",
+		"listener": "",
+		"content": "Serrez la ceinture intégrée à la taille pour vraiment accentuer votre silhouette. C'est une des robes HOG FANG les plus populaires chez les femmes car elle va avec tout. On peut même la porter comme une veste."
+	},
+	{
+		"name": "ITM_EQU_Info_1215",
+		"speaker": "",
+		"listener": "",
+		"content": "En cuir de qualité et brillant, ces bottes faites à la main sont très confortables. Elles sont aussi très durables. Et ne vous inquiétez pas, nous avons un service de cordonnerie si vous les éraflez accidentellement."
+	},
+	{
+		"name": "ITM_EQU_Info_1216",
+		"speaker": "",
+		"listener": "",
+		"content": "Un modèle éprouvé qui va bien avec à peu près toutes les tenues. Les étiquettes sur les languettes et la bande rouge vif vous permettront de vous démarquer."
+	},
+	{
+		"name": "ITM_EQU_Info_1217",
+		"speaker": "",
+		"listener": "",
+		"content": "Conçues spécialement pour aller avec la casquette de baseball HOG FANG. Les semelles intermédiaires ventilées et le revers rembourré vous permettront de marcher des heures sans inconfort."
+	},
+	{
+		"name": "ITM_EQU_Info_1218",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de chaussures à plateforme créées avec l'aide d'un cordonnier traditionnel. Les patchs brodés sont tous uniques, donc personne n'aura la même paire que vous."
+	},
+	{
+		"name": "ITM_EQU_Info_1219",
+		"speaker": "",
+		"listener": "",
+		"content": "Recommandée pour ceux qui se baladent avec du hip-hop à fond dans les écouteurs. Avec sa longueur de 60 centimètres, vous pouvez y attacher différentes chaînes ou bijoux si vous voulez vraiment sortir du lot."
+	},
+	{
+		"name": "ITM_EQU_Info_1220",
+		"speaker": "",
+		"listener": "",
+		"content": "Un accessoire audacieux qui allie mode et praticité. Deux fines chaînes s'entremêlent et sont reliées à une breloque en métal qui incarne l'esprit de HOG FANG."
+	},
+	{
+		"name": "ITM_EQU_Info_1221",
+		"speaker": "",
+		"listener": "",
+		"content": "Mélange des styles Boston et Wellington, ces lunettes de soleil sont conçues pour aller à presque tout le monde. Essayez de les porter avec une casquette ou un bonnet pour un style encore plus hip-hop."
+	},
+	{
+		"name": "ITM_EQU_Info_1222",
+		"speaker": "",
+		"listener": "",
+		"content": "Ne vous faites pas avoir par son style rétro. Cette chaîne hi-fi portable peut jouer ou enregistrer de la musique sous tous les formats, et en plus elle capte le Wi-Fi et dispose de commandes vocales !"
+	},
+	{
+		"name": "ITM_EQU_Info_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Une casquette gavroche bleu marine à rayures, parfaite pour toutes les occasions. Basé sur une idée que la conceptrice avait avant de lancer Gatto Nero, c'est maintenant une de ses pièces emblématiques."
+	},
+	{
+		"name": "ITM_EQU_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Un béret brillant décoré du logo de Gatto Nero. Que vous le portiez incliné, vers l'arrière ou vers l'avant, ce chapeau polyvalent vous aide à accessoiriser votre tenue."
+	},
+	{
+		"name": "ITM_EQU_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Les sangles qui relient les manches au corps donnent du cachet à ce T-shirt, qui serait sinon banal. Le col cheminée parachève le vêtement, lui donnant un style plutôt détendu."
+	},
+	{
+		"name": "ITM_EQU_Info_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "C'est à vous de décider de révéler la doublure rouge de cette chemise en ajustant la fermeture éclair et en retroussant les manches. Vous pouvez aussi la porter sur un T-shirt et l'ouvrir complètement."
+	},
+	{
+		"name": "ITM_EQU_Info_1304",
+		"speaker": "",
+		"listener": "",
+		"content": "Un haut asymétrique qui dénude une épaule. Cette version jaune est une édition limitée qui commémore l'ouverture de la boutique du 104, alors achetez-la avant qu'elle soit en rupture de stock !"
+	},
+	{
+		"name": "ITM_EQU_Info_1305",
+		"speaker": "",
+		"listener": "",
+		"content": "Les rayures marron sont parfaites pour l'automne. Portez ce vêtement en tant que veste ou robe, mais n'oubliez pas la ceinture ! Serrez aussi les sangles autour des manches pour alléger la silhouette."
+	},
+	{
+		"name": "ITM_EQU_Info_1306",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe en jean rose très populaire, avec des boutons et des poches sur les côtés. Grâce à sa coupe et à ses coutures minutieuses, c'est un vêtement à la fois seyant et confortable."
+	},
+	{
+		"name": "ITM_EQU_Info_1307",
+		"speaker": "",
+		"listener": "",
+		"content": "Une minijupe plissée toute simple, avec un patch en tissu écossais et une sangle sur le côté. Elle est vendue avec une jarretière pour celles qui veulent accentuer son asymétrie."
+	},
+	{
+		"name": "ITM_EQU_Info_1308",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pantalon cargo aux bords effilochés, dans un coloris discret. Ses profondes poches à rabat de chaque côté et ses rivets décoratifs lui donnent plus de caractère."
+	},
+	{
+		"name": "ITM_EQU_Info_1309",
+		"speaker": "",
+		"listener": "",
+		"content": "Un jean moulant, pour montrer vos gambettes, avec un petit truc en plus : une jupe sur le côté et une longue ceinture ! Ses genoux déchirés lui donnent un style plus détendu."
+	},
+	{
+		"name": "ITM_EQU_Info_1310",
+		"speaker": "",
+		"listener": "",
+		"content": "Une jupe noire et un haut à manches pagodes reliés par des bretelles. On peut voir l'amour de leur créatrice pour les félins dans le motif de la jupe."
+	},
+	{
+		"name": "ITM_EQU_Info_1311",
+		"speaker": "",
+		"listener": "",
+		"content": "Un combishort à manches courtes. Remontez sa fermeture pour un style chic ou baissez-la pour un air plus atypique. Sa doublure est si douce et confortable que vous ne voudrez plus la retirer."
+	},
+	{
+		"name": "ITM_EQU_Info_1312",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de bottines qui a de l'allure. En plus d'apprécier leur jolie forme et leurs nombreuses fermetures, vous pouvez également ouvrir le dessus de ses chaussures et le rabattre pour montrer la languette imprimée du logo de la marque."
+	},
+	{
+		"name": "ITM_EQU_Info_1313",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces bottes bicolores peuvent sembler simples à première vue, mais c'est loin d'être le cas ! Elles ont un avant noir, un arrière rouge, des sangles et des anneaux. Plus vous les regarderez, plus vous découvrirez de détails géniaux."
+	},
+	{
+		"name": "ITM_EQU_Info_1314",
+		"speaker": "",
+		"listener": "",
+		"content": "Avec ces résilles, vous attirerez l'attention ! Portez-les avec une minijupe ou un short pour exhiber vos gambettes. Ces bas iront avec un tas de tenues et sont donc un ajout parfait à toutes les garde-robes."
+	},
+	{
+		"name": "ITM_EQU_Info_1315",
+		"speaker": "",
+		"listener": "",
+		"content": "Un sac compact, pour porter tout ce dont vous avez besoin au niveau de la ceinture. Particulièrement pratique en voyage. Il n'est pas prévu pour être porté sur la poitrine. Gardez-le autour de la taille."
+	},
+	{
+		"name": "ITM_EQU_Info_1316",
+		"speaker": "",
+		"listener": "",
+		"content": "Une veste à l'effigie de la mascotte de Gatto Nero, M. Miaou. Elle a une capuche à oreilles de chat et une queue à l'arrière, pour vous rendre aussi adorable que M. Miaou. Elle a même une ceinture rouge pour la cintrer à la taille."
+	},
+	{
+		"name": "ITM_EQU_Info_1317",
+		"speaker": "",
+		"listener": "",
+		"content": "Une coque de téléphone portable à l'effigie de la mascotte de Gatto Nero, M. Miaou. Disponible en plusieurs tailles, son rebord en silicone lui assure une bonne tenue."
+	},
+	{
+		"name": "ITM_EQU_Info_1318",
+		"speaker": "",
+		"listener": "",
+		"content": "Un sac à l'effigie de la mascotte de Gatto Nero, M. Miaou. C'est un objet hautement recommandé par la conceptrice, qui a choisi elle-même le tissu duveteux dans lequel il est conçu. Les gens disent que l'avoir avec eux illumine leur journée."
+	},
+	{
+		"name": "ITM_EQU_Info_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "L'accessoire idéal pour attirer l'attention. Ce truc fait même de la lumière ! Et quoi d'autre encore ? Est-ce que je porte moi aussi cette perruque ? Ha ! Quelle blague. Ce sont mes vrais cheveux. Mes bouclettes étincelantes sont <i>100 % naturelles</i> !"
+	},
+	{
+		"name": "ITM_EQU_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Honnêtement, je ne sais pas trop si c'est une perruque de samouraï ou de noble, mais on s'en fiche, ça se vend bien ! Apparemment, les hommes se rasaient l'avant du crâne pour rester au frais quand ils portaient un casque. Comme les employés de bureau et leurs chemisettes en été !"
+	},
+	{
+		"name": "ITM_EQU_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Certaines filles se contentent de ça, mais d'autres achètent aussi une tenue de soubrette. Il y a un fil de fer dans les oreilles, alors vous pouvez les arranger comme vous voulez ! Peut-être que moi aussi je vais en porter, ha ha !"
+	},
+	{
+		"name": "ITM_EQU_Info_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Je vais être honnête : je déteste les animaux. Mais apparemment ce chat est très connu à l'étranger, alors je n'allais pas rater une occasion pareille... Attendez, c'est quoi là-bas ? Oh, un chatooon ! <i>Qu'est-ce que tu es meuugnooon !</i>"
+	},
+	{
+		"name": "ITM_EQU_Info_1404",
+		"speaker": "",
+		"listener": "",
+		"content": "Quand arrive le mois de décembre, tout le monde vient acheter ce manteau, les enfants comme les adultes. Franchement, parfois je m'inquiète quand je vois des jeunes porter ça dans la rue pour bosser. Ils risquent de mourir de froid !"
+	},
+	{
+		"name": "ITM_EQU_Info_1405",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous saviez que la grenouille de notre logo a été dessinée par mon fils quand il était petit ? Je me suis dit que c'était une poule aux œufs d'or, alors j'invente de nouveaux produits avec ce dessin tous les ans. On en vend par palettes ! Pardon ? Ce qu'est devenu mon fils ? Aucune idée !"
+	},
+	{
+		"name": "ITM_EQU_Info_1406",
+		"speaker": "",
+		"listener": "",
+		"content": "J'ai inventé ce pantalon pour aller avec le manteau. Généralement, il ne change pas beaucoup, mais cette année j'ai ajouté une clochette à la ceinture. Il est dans le même tissu fin que le manteau, alors n'oubliez pas de mettre un caleçon chaud en dessous !"
+	},
+	{
+		"name": "ITM_EQU_Info_1407",
+		"speaker": "",
+		"listener": "",
+		"content": "Il faut respecter les soubrettes, OK ? Laissez-moi vous dire que le job le plus dur que j'ai jamais eu, c'était soubrette pour une dame insupportable. Les soubrettes d'aujourd'hui ont la vie facile. J'aurais bien aimé que mon boulot soit juste de dessiner un cœur en ketchup sur une omelette !"
+	},
+	{
+		"name": "ITM_EQU_Info_1408",
+		"speaker": "",
+		"listener": "",
+		"content": "Oh là là... Les touristes étrangers adorent vraiment les ninjas. La plupart des gens d'ici n'achètent ça que pour plaisanter, mais il ne faut pas le dire aux touristes !"
+	},
+	{
+		"name": "ITM_EQU_Info_1409",
+		"speaker": "",
+		"listener": "",
+		"content": "Autrefois, je récoltais mon propre bambou pour faire des échasses comme celles-là, vous savez. La plupart sont en aluminium de nos jours, mais on vend encore les modèles traditionnels ! Fabriqués par mes soins ! Ha ha !"
+	},
+	{
+		"name": "ITM_EQU_Info_1410",
+		"speaker": "",
+		"listener": "",
+		"content": "Il y a eu un film il y a plusieurs années... Un truc appelé<NBSP>« Le Rhume du roller »... Ça les a rendus très populaires.  Tout le monde en portait tout le temps ! Comment ? C'était pas ça le titre ? Quoi ?<NBSP>« La Fièvre du... » Hé, ho ! De quoi je me mêle ?!"
+	},
+	{
+		"name": "ITM_EQU_Info_1411",
+		"speaker": "",
+		"listener": "",
+		"content": "Les touristes me demandent souvent ce que c'est que ce truc, mais comment voulez-vous traduire<NBSP>« chûgen » ? Je suppose que<NBSP>« cadeau d'été japonais » s'en approche. Oh, ça ? Vous voulez savoir ce qu'il y a dans la boîte ? Pour ça, faut l'acheter ! Ha ha."
+	},
+	{
+		"name": "ITM_EQU_Info_1412",
+		"speaker": "",
+		"listener": "",
+		"content": "Les gens adorent porter ça en soirée. C'est sûr que ça fait son petit effet. Mais quel effet ? Ça, c'est autre chose..."
+	},
+	{
+		"name": "ITM_EQU_Info_1413",
+		"speaker": "",
+		"listener": "",
+		"content": "Apparemment, le personnage d'un jeu appelé Elated Stratosphere utilisait ça. Franchement, c'est juste une réplique d'épée lambda. Mais un nombre incalculable de fangirls m'ont donné toutes leurs économies en échange. Je suppose que les mauvais garçons auront toujours la cote."
+	},
+	{
+		"name": "ITM_EQU_Info_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ce chapeau. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans cette casquette. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ce T-shirt. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans cette veste. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ce pantalon. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1505",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ce short. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1506",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ces chaussures. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1507",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ces bottines. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_1508",
+		"speaker": "",
+		"listener": "",
+		"content": "La<NBSP>« douceur », le<NBSP>« piquant » et l'« acidité » s'entremêlent dans ce sac. Il faut être un fin palais de la mode pour apprécier cet article à sa juste valeur."
+	},
+	{
+		"name": "ITM_EQU_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Un casque sans fil violet porté par le Joueur légendaire, Neku. Il s'en servait autrefois pour s'isoler du monde, mais après tout ce qu'il a vécu, il n'en a plus vraiment besoin aujourd'hui."
+	},
+	{
+		"name": "ITM_EQU_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Un haut sans manches avec un col démesuré porté par le Joueur légendaire, Neku. Inspiré par le débardeur Bodhidharma de JotM et produit en quantité limitée, cet article ultra-rare est une vraie pièce de collection."
+	},
+	{
+		"name": "ITM_EQU_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Un short et une ceinture assortie portés par le Joueur légendaire, Neku. La ceinture est délibérément desserrée pour mettre en valeur sa boucle, et l'un des boutons semble avoir été recousu à la main."
+	},
+	{
+		"name": "ITM_EQU_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Une paire de baskets montantes portée par le Joueur légendaire, Neku. Les semelles ont été usées par les innombrables heures passées à arpenter les rues de Shibuya."
+	},
+	{
+		"name": "ITM_EQU_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Un lecteur audio portable utilisé par le Joueur légendaire, Neku. Ce n'est pas le modèle le plus récent, mais il est simple à utiliser. Il est rempli de toutes sortes de musiques. Neku l'emportait partout avec lui."
+	}
+]
+}

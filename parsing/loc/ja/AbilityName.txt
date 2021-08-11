@@ -1,0 +1,1966 @@
+{
+"columns":[
+	{
+		"name": "ABL_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アビリティ",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：アタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：アタックアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：アタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：アタックアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sh：アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：アタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：アタックアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：アタックアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：アタックアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ne：アタックアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mi：アタックアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵バイタル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵バイタル＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵パーティ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵パーティ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵シングル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HP満タンでアタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンチでアタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ne：ピンチでアタックアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われアタックアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オートチャージアタック",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲージドライヴ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲージドライヴ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リブートドライヴ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リブートドライヴ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャージドライヴ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0036>",
+		"comment": "PF\nXボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0037>",
+		"comment": "PF\nYボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0038>",
+		"comment": "PF\nLボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0039>",
+		"comment": "PF\nRボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0040>",
+		"comment": "PF\nZLボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Name_0041>",
+		"comment": "PF\nZRボタンアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：発火",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：氷結",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：電気",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：風力",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：液化",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：石化",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：時空",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：音波",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：暗黒",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：閃光",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：転移",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0054",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：爆破",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0055",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：引力",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0056",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレメントアップ：毒素",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0057",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：TT",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0058",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：JB",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0059",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：TP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0060",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：CC",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：RG",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0062",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：GG",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0063",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：IL",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0064",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：SH",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0065",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：JM",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0066",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：MC",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0067",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：NP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0068",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：HF",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0069",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：GN",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0070",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レゾナンス：CP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：TT",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0072",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：JB",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0073",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：TP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0074",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：CC",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0075",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：RG",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0076",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：GG",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0077",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：IL",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0078",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：SH",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0079",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：JM",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0080",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：MC",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：NP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0082",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：HF",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0083",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：GN",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0084",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：CP",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0085",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0086",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0087",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0088",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：DEFアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0089",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：DEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0090",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：DEFアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：DEFアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0092",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：DEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0093",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：DEFアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0094",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sh：DEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0095",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：DEFアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0096",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：DEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0097",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：DEFアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0098",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：DEFアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0099",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：DEFアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ne：DEFアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mi：DEFアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンチでDEFアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：ピンチでDEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFアップ：敵パーティ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFアップ：敵パーティ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われDEFアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：HPアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sh：HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sh：HPアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：HPアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：HPアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：HPアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ne：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mi：HPアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mi：HPアップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPリジェネレート",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPリジェネレート＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPリジェネレート＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒットリカバリー",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒットリカバリー＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イレースリカバリー",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回復量アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回復量アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回復量アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回復量アップ＋＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0140",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0141",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0142",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0143",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ri：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0144",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sh：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0145",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fr：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0146",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Na：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0147",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Be：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0148",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ne：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0149",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Mi：ドロップアップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われドロップアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われドロップアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0152",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "EXPアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BPアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブルアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われダブルアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0156",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "EXPゼロ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0157",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BPゼロ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0158",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "VIP RANKアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0159",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "継続ダメージ時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0160",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "継続ダメージ時間アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0161",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "継続ダメージ時間アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0162",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "行動不能確率アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0163",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "行動不能確率アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0164",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "行動不能確率アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0165",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常確率アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0166",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常確率アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0167",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常確率アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0168",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタン時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0169",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタン時間アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0170",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタン時間アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0171",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェーンバインド時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0172",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェーンバインド時間アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0173",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェーンバインド時間アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0174",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスバインド時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0175",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスバインド時間アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0176",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスバインド時間アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0177",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックバインド時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0178",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックバインド時間アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0179",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックバインド時間アップ＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0180",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レジスト炎上",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0181",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レジスト感電",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0182",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レジスト毒",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0183",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クイックムーブ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0184",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レジストふっとび",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0185",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPサバイヴ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0186",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキック中自動回避",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0187",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォローレジスト",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0188",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォローレジスト＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0189",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォローレジスト＋＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0190",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウン時間軽減",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0191",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウン時間軽減＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0192",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "呪われ消化アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0193",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "消化アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0194",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "消化アップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0195",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグマージン",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0196",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドントタッチミー",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0197",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロチャンス時間アップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0198",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロアップ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0199",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マッシュアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タイム表示",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クイックエンド：ビハインド",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クイックエンド：ダウン",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クイックエンド：ブロー",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "多段ヒット：エリアル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オートコンボ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オートアサルト",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オートターゲット",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：エリアル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：行動不能",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アタックアップ：敵ピンチ",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロアップ＋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "黒猫のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "四季のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "信号のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "結束のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神様のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0223",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "天下のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0224",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "相対のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0225",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "再生のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0226",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "友情のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0227",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "妖怪のアンサンブル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0231",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーディネート：B.H.C.C",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0232",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スーパーブレイク",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Name_0233",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイナミクス：ロックorアイス",
+		"comment": "",
+		"annotation": ""
+	}
+]
+}

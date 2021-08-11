@@ -1,0 +1,1312 @@
+{
+"columns":[
+	{
+		"name": "ABL_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Información de habilidad"
+	},
+	{
+		"name": "ABL_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el ataque."
+	},
+	{
+		"name": "ABL_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque."
+	},
+	{
+		"name": "ABL_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente el ataque."
+	},
+	{
+		"name": "ABL_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Rindo aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Rindo aumenta."
+	},
+	{
+		"name": "ABL_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Rindo aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Fret aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Fret aumenta."
+	},
+	{
+		"name": "ABL_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Fret aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Shoka aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Nagi aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Nagi aumenta."
+	},
+	{
+		"name": "ABL_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Nagi aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Beat aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Beat aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Neku aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Minamimoto aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el ataque cuando al enemigo le quedan muchos PV."
+	},
+	{
+		"name": "ABL_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque cuando al enemigo le quedan muchos PV."
+	},
+	{
+		"name": "ABL_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el ataque al estar en inferioridad numérica."
+	},
+	{
+		"name": "ABL_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al estar en inferioridad numérica."
+	},
+	{
+		"name": "ABL_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el ataque al enfrentarse a un solo enemigo."
+	},
+	{
+		"name": "ABL_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque cuando los PV del equipo están al máximo."
+	},
+	{
+		"name": "ABL_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al estar en peligro mortal."
+	},
+	{
+		"name": "ABL_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, el ataque de Neku aumenta considerablemente al estar en peligro mortal."
+	},
+	{
+		"name": "ABL_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque, pero pone en <CRE>peligro mortal</C> al equipo al inicio de la batalla."
+	},
+	{
+		"name": "ABL_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0028>"
+	},
+	{
+		"name": "ABL_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el tiempo de uso y la cuenta de los pines."
+	},
+	{
+		"name": "ABL_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el tiempo de uso y la cuenta de los pines."
+	},
+	{
+		"name": "ABL_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Hace que los pines se recarguen ligeramente más rápido."
+	},
+	{
+		"name": "ABL_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Hace que los pines se recarguen más rápido."
+	},
+	{
+		"name": "ABL_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Hace que los psicopoderes se carguen ligeramente más rápido."
+	},
+	{
+		"name": "ABL_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0036>"
+	},
+	{
+		"name": "ABL_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0037>"
+	},
+	{
+		"name": "ABL_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0038>"
+	},
+	{
+		"name": "ABL_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0039>"
+	},
+	{
+		"name": "ABL_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0040>"
+	},
+	{
+		"name": "ABL_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0041>"
+	},
+	{
+		"name": "ABL_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al fuego."
+	},
+	{
+		"name": "ABL_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al hielo."
+	},
+	{
+		"name": "ABL_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad a la electricidad."
+	},
+	{
+		"name": "ABL_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al viento."
+	},
+	{
+		"name": "ABL_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al agua."
+	},
+	{
+		"name": "ABL_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad a la piedra."
+	},
+	{
+		"name": "ABL_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al tiempo."
+	},
+	{
+		"name": "ABL_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al sonido."
+	},
+	{
+		"name": "ABL_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad a la oscuridad."
+	},
+	{
+		"name": "ABL_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad a la luz."
+	},
+	{
+		"name": "ABL_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad cinética."
+	},
+	{
+		"name": "ABL_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad explosiva."
+	},
+	{
+		"name": "ABL_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad a la gravedad."
+	},
+	{
+		"name": "ABL_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines con afinidad al veneno."
+	},
+	{
+		"name": "ABL_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Top o' Topo."
+	},
+	{
+		"name": "ABL_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Joli bécot."
+	},
+	{
+		"name": "ABL_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Tigre PUNKS."
+	},
+	{
+		"name": "ABL_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Cony×Cony."
+	},
+	{
+		"name": "ABL_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca RyuGu."
+	},
+	{
+		"name": "ABL_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca garagara."
+	},
+	{
+		"name": "ABL_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca IL CAVALLO DEL RE."
+	},
+	{
+		"name": "ABL_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Shepherd House."
+	},
+	{
+		"name": "ABL_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Jupiter of the Monkey."
+	},
+	{
+		"name": "ABL_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca MONOCROW."
+	},
+	{
+		"name": "ABL_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca NATURAL PUPPY."
+	},
+	{
+		"name": "ABL_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca HOG FANG."
+	},
+	{
+		"name": "ABL_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca Gatto Nero."
+	},
+	{
+		"name": "ABL_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de los pines de la marca croaky panic."
+	},
+	{
+		"name": "ABL_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Top o' Topo."
+	},
+	{
+		"name": "ABL_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Joli bécot."
+	},
+	{
+		"name": "ABL_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Tigre PUNKS."
+	},
+	{
+		"name": "ABL_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Cony×Cony."
+	},
+	{
+		"name": "ABL_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de RyuGu."
+	},
+	{
+		"name": "ABL_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de garagara."
+	},
+	{
+		"name": "ABL_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de IL CAVALLO DEL RE."
+	},
+	{
+		"name": "ABL_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Shepherd House."
+	},
+	{
+		"name": "ABL_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Jupiter of the Monkey."
+	},
+	{
+		"name": "ABL_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de MONOCROW."
+	},
+	{
+		"name": "ABL_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de NATURAL PUPPY."
+	},
+	{
+		"name": "ABL_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de HOG FANG."
+	},
+	{
+		"name": "ABL_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de Gatto Nero."
+	},
+	{
+		"name": "ABL_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de croaky panic."
+	},
+	{
+		"name": "ABL_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente la defensa."
+	},
+	{
+		"name": "ABL_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la defensa."
+	},
+	{
+		"name": "ABL_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente la defensa."
+	},
+	{
+		"name": "ABL_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Rindo aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Rindo aumenta."
+	},
+	{
+		"name": "ABL_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Rindo aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Fret aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Fret aumenta."
+	},
+	{
+		"name": "ABL_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Fret aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Shoka aumenta."
+	},
+	{
+		"name": "ABL_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Nagi aumenta ligeramente."
+	},
+	{
+		"name": "ABL_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Nagi aumenta."
+	},
+	{
+		"name": "ABL_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Nagi aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Beat aumenta considerablemente."
+	},
+	{
+		"name": "ABL_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Beat aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Neku aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Minamimoto aumenta enormemente."
+	},
+	{
+		"name": "ABL_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente la defensa al estar en peligro mortal."
+	},
+	{
+		"name": "ABL_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Al llevar esto, la defensa de Rindo aumenta considerablemente al estar en peligro mortal."
+	},
+	{
+		"name": "ABL_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente la defensa al estar en inferioridad numérica."
+	},
+	{
+		"name": "ABL_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la defensa al estar en inferioridad numérica."
+	},
+	{
+		"name": "ABL_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente la defensa, pero <CRE>ralentiza la reducción de la saciedad</C>."
+	},
+	{
+		"name": "ABL_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente los PV."
+	},
+	{
+		"name": "ABL_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta los PV."
+	},
+	{
+		"name": "ABL_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente los PV."
+	},
+	{
+		"name": "ABL_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente los PV."
+	},
+	{
+		"name": "ABL_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Rindo lleva esto, los PV del equipo aumentan."
+	},
+	{
+		"name": "ABL_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Rindo lleva esto, los PV del equipo aumentan considerablemente."
+	},
+	{
+		"name": "ABL_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Rindo lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Shoka lleva esto, los PV del equipo aumentan."
+	},
+	{
+		"name": "ABL_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Shoka lleva esto, los PV del equipo aumentan considerablemente."
+	},
+	{
+		"name": "ABL_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Fret lleva esto, los PV del equipo aumentan."
+	},
+	{
+		"name": "ABL_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Fret lleva esto, los PV del equipo aumentan considerablemente."
+	},
+	{
+		"name": "ABL_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Fret lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Nagi lleva esto, los PV del equipo aumentan ligeramente."
+	},
+	{
+		"name": "ABL_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Nagi lleva esto, los PV del equipo aumentan."
+	},
+	{
+		"name": "ABL_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Nagi lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Beat lleva esto, los PV del equipo aumentan considerablemente."
+	},
+	{
+		"name": "ABL_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Beat lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Neku lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Minamimoto lleva esto, los PV del equipo aumentan."
+	},
+	{
+		"name": "ABL_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Minamimoto lleva esto, los PV del equipo aumentan enormemente."
+	},
+	{
+		"name": "ABL_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece una pequeña cantidad de los PV del equipo de manera regular en las batallas."
+	},
+	{
+		"name": "ABL_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece los PV del equipo de manera regular en las batallas."
+	},
+	{
+		"name": "ABL_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece una gran cantidad de los PV del equipo de manera regular en las batallas."
+	},
+	{
+		"name": "ABL_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece una pequeña cantidad de los PV del equipo al infligir daño. Se restablece una cantidad de PV acorde al daño infligido."
+	},
+	{
+		"name": "ABL_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece los PV del equipo al infligir daño. Se restablece una cantidad de PV acorde al daño infligido."
+	},
+	{
+		"name": "ABL_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece una pequeña cantidad de los PV del equipo cada vez que derrota a un enemigo con un psicopoder. Se restablece una cantidad de PV acorde a los PV del enemigo."
+	},
+	{
+		"name": "ABL_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente los PV restablecidos."
+	},
+	{
+		"name": "ABL_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta los PV restablecidos."
+	},
+	{
+		"name": "ABL_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente los PV restablecidos."
+	},
+	{
+		"name": "ABL_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente los PV restablecidos."
+	},
+	{
+		"name": "ABL_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta en 1 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta en 3 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Rindo lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Shoka lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Fret lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Nagi lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Beat lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Neku lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando Minamimoto lleva esto, aumenta en 5 la tasa de botín."
+	},
+	{
+		"name": "ABL_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta en 20 la tasa de botín, pero <CRE>evita que el equipo consiga EXP o PP</C>."
+	},
+	{
+		"name": "ABL_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta en 15 la tasa de botín, pero <CRE>ralentiza la reducción de saciedad</C>."
+	},
+	{
+		"name": "ABL_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la cantidad de EXP que recibes."
+	},
+	{
+		"name": "ABL_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la cantidad de PP que recibes."
+	},
+	{
+		"name": "ABL_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la cantidad de EXP y PP que recibes."
+	},
+	{
+		"name": "ABL_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la cantidad de EXP y PP que recibes, pero pone en <CRE>peligro mortal</C> al equipo al inicio de la batalla."
+	},
+	{
+		"name": "ABL_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Impide que el equipo <CRE>reciba EXP</C>."
+	},
+	{
+		"name": "ABL_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Impide que el equipo <CRE>reciba PP</C>."
+	},
+	{
+		"name": "ABL_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el nivel VIP un poco más tras la batalla."
+	},
+	{
+		"name": "ABL_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el tiempo que permanecen quemados, conmocionados o envenenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía el tiempo que permanecen quemados, conmocionados o envenenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía considerablemente el tiempo que permanecen quemados, conmocionados o envenenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente la frecuencia con la que los psicopoderes inmovilizan al enemigo."
+	},
+	{
+		"name": "ABL_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la frecuencia con la que los psicopoderes inmovilizan al enemigo."
+	},
+	{
+		"name": "ABL_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente la frecuencia con la que los psicopoderes inmovilizan al enemigo."
+	},
+	{
+		"name": "ABL_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente la frecuencia con la que los psicopoderes provocan efectos de estado negativos."
+	},
+	{
+		"name": "ABL_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la frecuencia con la que los psicopoderes provocan efectos de estado negativos."
+	},
+	{
+		"name": "ABL_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente la frecuencia con la que los psicopoderes provocan efectos de estado negativos."
+	},
+	{
+		"name": "ABL_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el tiempo que permanecen aturdidos los enemigos."
+	},
+	{
+		"name": "ABL_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía el tiempo que permanecen aturdidos los enemigos."
+	},
+	{
+		"name": "ABL_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía considerablemente el tiempo que permanecen aturdidos los enemigos."
+	},
+	{
+		"name": "ABL_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el tiempo que permanecen encadenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía el tiempo que permanecen encadenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía considerablemente el tiempo que permanecen encadenados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el tiempo que permanecen congelados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía el tiempo que permanecen congelados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía considerablemente el tiempo que permanecen congelados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el tiempo que permanecen sepultados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía el tiempo que permanecen sepultados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía considerablemente el tiempo que permanecen sepultados los enemigos."
+	},
+	{
+		"name": "ABL_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce el daño recibido por quemadura."
+	},
+	{
+		"name": "ABL_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce el daño recibido por conmoción."
+	},
+	{
+		"name": "ABL_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce el daño recibido por envenenamiento."
+	},
+	{
+		"name": "ABL_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocidad de movimiento durante el combate."
+	},
+	{
+		"name": "ABL_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Evita el retroceso al recibir el impacto de los ataques enemigos."
+	},
+	{
+		"name": "ABL_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Si el equipo tiene suficientes PV al recibir un ataque mortal, sobrevive con un 1 PV."
+	},
+	{
+		"name": "ABL_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "A veces hace que el portador esquive automáticamente al ser atacado mientras usa un psicopoder."
+	},
+	{
+		"name": "ABL_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce ligeramente el daño recibido cuando el portador no está siendo controlado directamente."
+	},
+	{
+		"name": "ABL_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce el daño recibido cuando el portador no está siendo controlado directamente."
+	},
+	{
+		"name": "ABL_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce considerablemente el daño recibido cuando el portador no está siendo controlado directamente."
+	},
+	{
+		"name": "ABL_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce ligeramente el tiempo que el portador permanece derribado."
+	},
+	{
+		"name": "ABL_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Reduce el tiempo que el portador permanece derribado."
+	},
+	{
+		"name": "ABL_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Acelera considerablemente la reducción de la saciedad, pero <CRE>reduce considerablemente el ataque</C>."
+	},
+	{
+		"name": "ABL_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Acelera ligeramente la reducción de la saciedad."
+	},
+	{
+		"name": "ABL_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Acelera la reducción de la saciedad."
+	},
+	{
+		"name": "ABL_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el límite de tiempo en las batallas contra el Ruido porcino."
+	},
+	{
+		"name": "ABL_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "Evita que empiecen las batallas al entrar en contacto con los símbolos de Ruido."
+	},
+	{
+		"name": "ABL_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Amplía ligeramente el intervalo de tiempo para realizar combos de clímax."
+	},
+	{
+		"name": "ABL_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta ligeramente el ritmo al acertar con un combo de clímax."
+	},
+	{
+		"name": "ABL_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potencia de las mezclas pegadizas."
+	},
+	{
+		"name": "ABL_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Muestra cuánto tiempo ha transcurrido durante la batalla."
+	},
+	{
+		"name": "ABL_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanza rápidamente un remate al atacar a un enemigo por atrás."
+	},
+	{
+		"name": "ABL_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanza rápidamente un remate al atacar a un enemigo abatido."
+	},
+	{
+		"name": "ABL_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanza rápidamente un remate al atacar a un enemigo al que has hecho retroceder."
+	},
+	{
+		"name": "ABL_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanza un ataque consecutivo de impacto múltiple a los enemigos a los que has lanzado por los aires."
+	},
+	{
+		"name": "ABL_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0210>"
+	},
+	{
+		"name": "ABL_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0211>"
+	},
+	{
+		"name": "ABL_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0213>"
+	},
+	{
+		"name": "ABL_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente el ataque cuando el enemigo está en el aire."
+	},
+	{
+		"name": "ABL_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente el ataque cuando el enemigo está inmovilizado."
+	},
+	{
+		"name": "ABL_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta considerablemente el ataque cuando al enemigo le quedan pocos PV."
+	},
+	{
+		"name": "ABL_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ritmo al acertar con un combo."
+	},
+	{
+		"name": "ABL_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta tremendamente el ataque al llevar a la vez los seis pines."
+	},
+	{
+		"name": "ABL_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Restablece una gran cantidad de los PV del equipo acorde al daño infligido, pero solo al llevar los cuatro pines a la vez."
+	},
+	{
+		"name": "ABL_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta tremendamente el ataque al llevar a la vez los tres pines."
+	},
+	{
+		"name": "ABL_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocidad de recarga al llevar a la vez No pierdas el brillo y No pierdas la belleza."
+	},
+	{
+		"name": "ABL_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al usar Galerna・FuJin contra un enemigo encadenado con Oleada・RaiJin."
+	},
+	{
+		"name": "ABL_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocidad de ataque y el daño infligido al llevar a la vez Tenka Juzumaru y Tenka Mikazuki."
+	},
+	{
+		"name": "ABL_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al usar Relatividad absoluta contra un enemigo derribado con Absoluto relativo."
+	},
+	{
+		"name": "ABL_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocidad de recarga al llevar a la vez Sanador HOG y Defensor FANG."
+	},
+	{
+		"name": "ABL_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al usar Puñetazo carga E contra un enemigo inmovilizado con Trampa de red E."
+	},
+	{
+		"name": "ABL_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta el ataque al usar Pánico Kappa contra un enemigo atraído con Pánico Kappa dorado."
+	},
+	{
+		"name": "ABL_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta las estadísticas de la ropa al llevar todo de BLACK HONEY CHILI COOKIE (BHCC)."
+	},
+	{
+		"name": "ABL_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Rellena más rápido la barra del pin al pasar un período de tiempo prolongado sin usar psicopoderes."
+	},
+	{
+		"name": "ABL_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Activa un clímax tras lanzar hacia atrás a un enemigo sepultado o congelado."
+	}
+]
+}

@@ -1,0 +1,1312 @@
+{
+"columns":[
+	{
+		"name": "ABL_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Abilità"
+	},
+	{
+		"name": "ABL_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento ATT"
+	},
+	{
+		"name": "ABL_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento ATT II"
+	},
+	{
+		"name": "ABL_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento ATT"
+	},
+	{
+		"name": "ABL_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento ATT II"
+	},
+	{
+		"name": "ABL_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento ATT"
+	},
+	{
+		"name": "ABL_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento ATT II"
+	},
+	{
+		"name": "ABL_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento ATT"
+	},
+	{
+		"name": "ABL_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento ATT II"
+	},
+	{
+		"name": "ABL_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento ATT III"
+	},
+	{
+		"name": "ABL_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento ATT IV"
+	},
+	{
+		"name": "ABL_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Potenziamento ATT IV"
+	},
+	{
+		"name": "ABL_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Potenz. ATT IV"
+	},
+	{
+		"name": "ABL_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Primo sangue"
+	},
+	{
+		"name": "ABL_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Primo sangue II"
+	},
+	{
+		"name": "ABL_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Forza di rivalsa"
+	},
+	{
+		"name": "ABL_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Forza di rivalsa II"
+	},
+	{
+		"name": "ABL_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Nessuna pietà"
+	},
+	{
+		"name": "ABL_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Assalto caloroso II"
+	},
+	{
+		"name": "ABL_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Nuova energia"
+	},
+	{
+		"name": "ABL_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Nuova energia II"
+	},
+	{
+		"name": "ABL_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Forza iellata II"
+	},
+	{
+		"name": "ABL_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Autocarica"
+	},
+	{
+		"name": "ABL_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Barra turbo"
+	},
+	{
+		"name": "ABL_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Barra turbo II"
+	},
+	{
+		"name": "ABL_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Riattivazione rapida"
+	},
+	{
+		"name": "ABL_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Riattivazione rapida II"
+	},
+	{
+		"name": "ABL_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Turbocarica"
+	},
+	{
+		"name": "ABL_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0036>"
+	},
+	{
+		"name": "ABL_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0037>"
+	},
+	{
+		"name": "ABL_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0038>"
+	},
+	{
+		"name": "ABL_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0039>"
+	},
+	{
+		"name": "ABL_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0040>"
+	},
+	{
+		"name": "ABL_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Name_0041>"
+	},
+	{
+		"name": "ABL_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia ardente"
+	},
+	{
+		"name": "ABL_Name_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia gelida"
+	},
+	{
+		"name": "ABL_Name_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia folgorante"
+	},
+	{
+		"name": "ABL_Name_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia ventosa"
+	},
+	{
+		"name": "ABL_Name_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia acquatica"
+	},
+	{
+		"name": "ABL_Name_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia rocciosa"
+	},
+	{
+		"name": "ABL_Name_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia temporale"
+	},
+	{
+		"name": "ABL_Name_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia sonica"
+	},
+	{
+		"name": "ABL_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia oscura"
+	},
+	{
+		"name": "ABL_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia splendente"
+	},
+	{
+		"name": "ABL_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia cinetica"
+	},
+	{
+		"name": "ABL_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia esplosiva"
+	},
+	{
+		"name": "ABL_Name_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia magnetica"
+	},
+	{
+		"name": "ABL_Name_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Sinergia tossica"
+	},
+	{
+		"name": "ABL_Name_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: TT"
+	},
+	{
+		"name": "ABL_Name_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: JB"
+	},
+	{
+		"name": "ABL_Name_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: TP"
+	},
+	{
+		"name": "ABL_Name_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: CC"
+	},
+	{
+		"name": "ABL_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: RG"
+	},
+	{
+		"name": "ABL_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: GG"
+	},
+	{
+		"name": "ABL_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: IL"
+	},
+	{
+		"name": "ABL_Name_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: SH"
+	},
+	{
+		"name": "ABL_Name_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: JM"
+	},
+	{
+		"name": "ABL_Name_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: MC"
+	},
+	{
+		"name": "ABL_Name_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: NP"
+	},
+	{
+		"name": "ABL_Name_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: HF"
+	},
+	{
+		"name": "ABL_Name_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: GN"
+	},
+	{
+		"name": "ABL_Name_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Risonanza: CP"
+	},
+	{
+		"name": "ABL_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: TT"
+	},
+	{
+		"name": "ABL_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: JB"
+	},
+	{
+		"name": "ABL_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: TP"
+	},
+	{
+		"name": "ABL_Name_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: CC"
+	},
+	{
+		"name": "ABL_Name_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: RG"
+	},
+	{
+		"name": "ABL_Name_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: GG"
+	},
+	{
+		"name": "ABL_Name_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: IL"
+	},
+	{
+		"name": "ABL_Name_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: SH"
+	},
+	{
+		"name": "ABL_Name_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: JM"
+	},
+	{
+		"name": "ABL_Name_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: MC"
+	},
+	{
+		"name": "ABL_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: NP"
+	},
+	{
+		"name": "ABL_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: HF"
+	},
+	{
+		"name": "ABL_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: GN"
+	},
+	{
+		"name": "ABL_Name_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: CP"
+	},
+	{
+		"name": "ABL_Name_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento DIF"
+	},
+	{
+		"name": "ABL_Name_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento DIF II"
+	},
+	{
+		"name": "ABL_Name_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento DIF III"
+	},
+	{
+		"name": "ABL_Name_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento DIF"
+	},
+	{
+		"name": "ABL_Name_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento DIF II"
+	},
+	{
+		"name": "ABL_Name_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento DIF III"
+	},
+	{
+		"name": "ABL_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento DIF"
+	},
+	{
+		"name": "ABL_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento DIF II"
+	},
+	{
+		"name": "ABL_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento DIF III"
+	},
+	{
+		"name": "ABL_Name_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Potenziamento DIF II"
+	},
+	{
+		"name": "ABL_Name_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento DIF"
+	},
+	{
+		"name": "ABL_Name_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento DIF II"
+	},
+	{
+		"name": "ABL_Name_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento DIF III"
+	},
+	{
+		"name": "ABL_Name_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento DIF III"
+	},
+	{
+		"name": "ABL_Name_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento DIF IV"
+	},
+	{
+		"name": "ABL_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Potenziamento DIF IV"
+	},
+	{
+		"name": "ABL_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Potenz. DIF IV"
+	},
+	{
+		"name": "ABL_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Determinazione ferrea"
+	},
+	{
+		"name": "ABL_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Determinazione ferrea II"
+	},
+	{
+		"name": "ABL_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Difesa vendicativa"
+	},
+	{
+		"name": "ABL_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Difesa vendicativa II"
+	},
+	{
+		"name": "ABL_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Difesa iellata II"
+	},
+	{
+		"name": "ABL_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento PF"
+	},
+	{
+		"name": "ABL_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento PF II"
+	},
+	{
+		"name": "ABL_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento PF III"
+	},
+	{
+		"name": "ABL_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento PF II"
+	},
+	{
+		"name": "ABL_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento PF III"
+	},
+	{
+		"name": "ABL_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Potenziamento PF II"
+	},
+	{
+		"name": "ABL_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Potenziamento PF III"
+	},
+	{
+		"name": "ABL_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento PF II"
+	},
+	{
+		"name": "ABL_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento PF III"
+	},
+	{
+		"name": "ABL_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento PF"
+	},
+	{
+		"name": "ABL_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento PF II"
+	},
+	{
+		"name": "ABL_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento PF III"
+	},
+	{
+		"name": "ABL_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Potenziamento PF IV"
+	},
+	{
+		"name": "ABL_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Potenz. PF II"
+	},
+	{
+		"name": "ABL_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Potenz. PF IV"
+	},
+	{
+		"name": "ABL_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Rigenerazione"
+	},
+	{
+		"name": "ABL_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Rigenerazione II"
+	},
+	{
+		"name": "ABL_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Rigenerazione III"
+	},
+	{
+		"name": "ABL_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Sete di PF"
+	},
+	{
+		"name": "ABL_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Sete di PF II"
+	},
+	{
+		"name": "ABL_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Cancellazione benefica"
+	},
+	{
+		"name": "ABL_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento guarigione"
+	},
+	{
+		"name": "ABL_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento guarigione II"
+	},
+	{
+		"name": "ABL_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento guarigione III"
+	},
+	{
+		"name": "ABL_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento guarigione IV"
+	},
+	{
+		"name": "ABL_Name_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Vena madre"
+	},
+	{
+		"name": "ABL_Name_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Vena matrigna"
+	},
+	{
+		"name": "ABL_Name_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Vena madrina"
+	},
+	{
+		"name": "ABL_Name_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto: Colpo grosso"
+	},
+	{
+		"name": "ABL_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo grosso iellato II"
+	},
+	{
+		"name": "ABL_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo grosso iellato"
+	},
+	{
+		"name": "ABL_Name_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento ESP"
+	},
+	{
+		"name": "ABL_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento PS"
+	},
+	{
+		"name": "ABL_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento punti"
+	},
+	{
+		"name": "ABL_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento punti iellato"
+	},
+	{
+		"name": "ABL_Name_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Rigetto ESP"
+	},
+	{
+		"name": "ABL_Name_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Rigetto PS"
+	},
+	{
+		"name": "ABL_Name_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento VIP"
+	},
+	{
+		"name": "ABL_Name_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Dolore perpetuo"
+	},
+	{
+		"name": "ABL_Name_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Dolore perpetuo II"
+	},
+	{
+		"name": "ABL_Name_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Dolore perpetuo III"
+	},
+	{
+		"name": "ABL_Name_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici congelati"
+	},
+	{
+		"name": "ABL_Name_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici congelati II"
+	},
+	{
+		"name": "ABL_Name_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici congelati III"
+	},
+	{
+		"name": "ABL_Name_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici malaticci"
+	},
+	{
+		"name": "ABL_Name_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici malaticci II"
+	},
+	{
+		"name": "ABL_Name_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici malaticci III"
+	},
+	{
+		"name": "ABL_Name_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici storditi"
+	},
+	{
+		"name": "ABL_Name_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici storditi II"
+	},
+	{
+		"name": "ABL_Name_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemici storditi III"
+	},
+	{
+		"name": "ABL_Name_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Catene spesse"
+	},
+	{
+		"name": "ABL_Name_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Catene spesse II"
+	},
+	{
+		"name": "ABL_Name_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Catene spesse III"
+	},
+	{
+		"name": "ABL_Name_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa gelida"
+	},
+	{
+		"name": "ABL_Name_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa gelida II"
+	},
+	{
+		"name": "ABL_Name_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa gelida III"
+	},
+	{
+		"name": "ABL_Name_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa pietrificante"
+	},
+	{
+		"name": "ABL_Name_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa pietrificante II"
+	},
+	{
+		"name": "ABL_Name_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Morsa pietrificante III"
+	},
+	{
+		"name": "ABL_Name_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Anti bruciatura"
+	},
+	{
+		"name": "ABL_Name_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Anti scossa"
+	},
+	{
+		"name": "ABL_Name_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Anti veleno"
+	},
+	{
+		"name": "ABL_Name_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento velocità"
+	},
+	{
+		"name": "ABL_Name_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Inamovibile"
+	},
+	{
+		"name": "ABL_Name_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Salute ferrea"
+	},
+	{
+		"name": "ABL_Name_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Interruzioni negate"
+	},
+	{
+		"name": "ABL_Name_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Alleato animoso"
+	},
+	{
+		"name": "ABL_Name_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Alleato animoso II"
+	},
+	{
+		"name": "ABL_Name_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Alleato animoso III"
+	},
+	{
+		"name": "ABL_Name_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Supporto"
+	},
+	{
+		"name": "ABL_Name_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Supporto II"
+	},
+	{
+		"name": "ABL_Name_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Impulso metabolico iellato"
+	},
+	{
+		"name": "ABL_Name_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Impulso metabolico"
+	},
+	{
+		"name": "ABL_Name_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Impulso metabolico II"
+	},
+	{
+		"name": "ABL_Name_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Porci comodi"
+	},
+	{
+		"name": "ABL_Name_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "Giù le mani"
+	},
+	{
+		"name": "ABL_Name_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Vai col Beatdrop"
+	},
+	{
+		"name": "ABL_Name_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento Groove"
+	},
+	{
+		"name": "ABL_Name_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento Killer Remix"
+	},
+	{
+		"name": "ABL_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Occhio al tempo"
+	},
+	{
+		"name": "ABL_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Morte alle spalle"
+	},
+	{
+		"name": "ABL_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Morte a terra"
+	},
+	{
+		"name": "ABL_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Morte in respinta"
+	},
+	{
+		"name": "ABL_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Morte in aria"
+	},
+	{
+		"name": "ABL_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Combo automatica"
+	},
+	{
+		"name": "ABL_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Assalto automatico"
+	},
+	{
+		"name": "ABL_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Bersaglio automatico"
+	},
+	{
+		"name": "ABL_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Assalto aereo"
+	},
+	{
+		"name": "ABL_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Letalità glaciale"
+	},
+	{
+		"name": "ABL_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo di grazia"
+	},
+	{
+		"name": "ABL_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenziamento Groove II"
+	},
+	{
+		"name": "ABL_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo del gatto nero"
+	},
+	{
+		"name": "ABL_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo annuale"
+	},
+	{
+		"name": "ABL_Name_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo mordi e fuggi"
+	},
+	{
+		"name": "ABL_Name_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo splendente"
+	},
+	{
+		"name": "ABL_Name_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo celestiale"
+	},
+	{
+		"name": "ABL_Name_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo Tenka"
+	},
+	{
+		"name": "ABL_Name_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo della relatività"
+	},
+	{
+		"name": "ABL_Name_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo del ravvivamento"
+	},
+	{
+		"name": "ABL_Name_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo del ghermitore"
+	},
+	{
+		"name": "ABL_Name_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Completo degli yokai"
+	},
+	{
+		"name": "ABL_Name_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Brand ambassador: BHCC"
+	},
+	{
+		"name": "ABL_Name_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Piccola pausa"
+	},
+	{
+		"name": "ABL_Name_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Sintonia: pietra e ghiaccio"
+	}
+]
+}

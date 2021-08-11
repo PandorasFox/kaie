@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Infos sur le badge"
+	},
+	{
+		"name": "ITM_BDG_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> puissantes entailles frontales qui <CRE>repoussent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale, puis sauter et abattre votre arme afin de <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale, puis sauter et abattre votre arme afin de <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> puissantes entailles frontales qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0007>"
+	},
+	{
+		"name": "ITM_BDG_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0008>"
+	},
+	{
+		"name": "ITM_BDG_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Ravage l'ennemi d'un seul coup de griffes acérées qui le <CRE>propulse</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>3</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>3</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour sauter et abattre votre arme, puis effectuer <CRE>5</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une entaille tourbillonnante qui <CRE>propulse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale, puis une entaille tourbillonnante qui <CRE>propulse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>2</C> entailles tourbillonnantes qui <CRE>repoussent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>3</C> entailles tourbillonnantes qui <CRE>repoussent l'ennemi</C>. La troisième entaille a une plus grande portée."
+	},
+	{
+		"name": "ITM_BDG_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0020>"
+	},
+	{
+		"name": "ITM_BDG_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0021>"
+	},
+	{
+		"name": "ITM_BDG_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0022>"
+	},
+	{
+		"name": "ITM_BDG_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0023>"
+	},
+	{
+		"name": "ITM_BDG_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0024>"
+	},
+	{
+		"name": "ITM_BDG_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0025>"
+	},
+	{
+		"name": "ITM_BDG_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0026>"
+	},
+	{
+		"name": "ITM_BDG_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de la cible pour lui asséner des coups de poing. Déchaîne un déluge de coups de poing, puis termine par un coup puissant qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de la cible pour lui asséner des coups de poing. Déchaîne un déluge de coups de poing, puis termine par un coup puissant qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0029>"
+	},
+	{
+		"name": "ITM_BDG_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0030>"
+	},
+	{
+		"name": "ITM_BDG_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0031>"
+	},
+	{
+		"name": "ITM_BDG_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Écrase la cible violemment avec une main géante. Continuez à attaquer pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis le <CRE>propulser</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis le <CRE>propulser</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Attaquez <CRE>rapidement</C> pour repousser l'ennemi, puis le <CRE>propulser</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis le <CRE>propulser</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis le <CRE>propulser</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible hors de son champ de vision avec un dard empoisonné. Continuez à attaquer pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>mortellement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis lui infliger un coup bas et le <CRE>mettre à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Repousse l'ennemi avec <CRE>2</C> attaques, puis lui inflige <CRE>5</C> coups bas qui le <CRE>mettent à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Repousse l'ennemi avec <CRE>3</C> attaques, puis lui inflige <CRE>7</C> coups bas qui le <CRE>mettent à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Continuez à attaquer pour repousser l'ennemi, puis lui infliger un coup bas et le <CRE>mettre à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe la cible avec votre lance. Repousse l'ennemi avec <CRE>3</C> attaques, puis lui inflige <CRE>7</C> coups bas qui le <CRE>mettent à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des cartouches sur la cible. Continuez à attaquer pour tirer une balle sur l'ennemi, ce qui <CRE>le repousse</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des cartouches sur la cible. Continuez à attaquer pour tirer une <CRE>balle perforante</C> sur l'ennemi, ce qui <CRE>le repousse</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des cartouches sur la cible. Continuez à attaquer pour tirer <CRE>2 balles perforantes</C> sur l'ennemi, ce qui <CRE>le repousse</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des <CRE>balles perforantes rapides</C> sur la cible. Continuez à attaquer pour tirer une <CRE>balle perforante</C> sur l'ennemi, ce qui <CRE>le repousse</C>. Peut parfois <CRE>modérément électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des <CRE>balles perforantes rapides</C> sur la cible. Continuez à attaquer pour tirer une <CRE>balle perforante</C> sur l'ennemi, ce qui <CRE>le repousse</C>. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des cartouches sur la cible. Continuez à attaquer pour tirer une balle sur l'ennemi, ce qui <CRE>le repousse</C>. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des cartouches sur la cible. Continuez à attaquer pour tirer dans <CRE>3 directions</C> et <CRE>repousser l'ennemi</C>. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie des ordures sur la cible par <CRE>vagues de 4</C>. De gros objets apparaissent aléatoirement et <CRE>repoussent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie des ordures sur la cible par <CRE>vagues de 4</C>. De gros objets apparaissent aléatoirement et <CRE>propulsent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Projette des bulles sur la cible par <CRE>vagues de 2</C>. Continuez à attaquer pour libérer une bulle géante qui <CRE>repousse l'ennemi</C>. Peut parfois <CRE>légèrement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Projette une vague de bulles explosives qui changeront le cours du combat. Continuez à attaquer pour libérer une bulle géante qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Projette des sphères de glace sur la cible. Continuez à attaquer pour les projeter dans <CRE>6 directions</C> et <CRE>repousser l'ennemi</C>. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des balles soniques sur la cible. Après avoir rebondi <CRE>jusqu'à 5 fois</C> sur les ennemis proches, elles <CRE>les repoussent</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire des balles soniques dans <CRE>3 directions</C>. Après avoir rebondi <CRE>jusqu'à 5 fois</C> sur les ennemis proches, elles <CRE>les repoussent</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>3</C> balles rayonnantes d'affilée sur la cible, puis une dernière cartouche qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>5</C> balles rayonnantes d'affilée sur la cible, puis une dernière cartouche qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des shuriken dans <CRE>6 directions</C>, puis un plus grand qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des shuriken dans <CRE>8 directions</C>, puis un plus grand qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes qui traquent les ennemis qui entourent la cible par <CRE>vagues de 2</C>. Continuez à attaquer pour lancer une dernière carte qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes qui traquent les ennemis qui entourent la cible par <CRE>vagues de 3</C>. Continuez à attaquer pour lancer une dernière carte qui <CRE>repousse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes rouges qui traquent les ennemis qui entourent la cible par <CRE>vagues de 2</C>. Continuez à attaquer pour lancer une dernière carte qui <CRE>repousse l'ennemi</C>. Peut parfois <CRE>modérément brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes rouges qui traquent les ennemis qui entourent la cible par <CRE>vagues de 4</C>. Continuez à attaquer pour lancer une dernière carte qui <CRE>repousse l'ennemi</C>. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes rouges qui traquent les ennemis qui entourent la cible par <CRE>vagues de 3</C>. Ces cartes avancent lentement vers l'ennemi puis <CRE>le repoussent</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance des cartes rouges qui traquent les ennemis qui entourent la cible par <CRE>vagues de 4</C>. Ces cartes avancent lentement vers l'ennemi puis <CRE>le repoussent</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance un orbe étrange qui poursuit sa cible comme s'il avait sa propre volonté, puis <CRE>la repousse</C> à l'impact. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>8 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>12 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>15 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>8 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches. A de fortes chances de <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>12 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches. A de fortes chances de <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>8 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches. A de fortes chances d'<CRE>ensevelir</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>12 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches. A de fortes chances d'<CRE>ensevelir</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire une flèche explosive sur la cible. Tire <CRE>20 flèches</C> dans un laps de temps défini et déclenche une gigantesque explosion qui <CRE>repousse</C> tous les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous positionne face à la cible et tire des fléchettes empoisonnées dans <CRE>3 directions</C>. Continuez à attaquer pour tirer une fléchette géante qui <CRE>repousse l'ennemi</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis touchés par les débris soufflés par l'explosion sont <CRE>repoussés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis touchés par les débris soufflés par l'explosion sont <CRE>propulsés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis touchés par les débris soufflés par l'explosion sont <CRE>propulsés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>propulsés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>propulsés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose <CRE>5</C> bombes à retardement <CRE>autour de vous</C>. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. Peut parfois <CRE>fortement électrocuter</C> l'ennemi. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Attache une bombe à pics sur la cible. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une rangée de <CRE>3</C> bombes à retardement <CRE>devant vous</C>. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une rangée de <CRE>5</C> bombes à retardement <CRE>devant vous</C>. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement <CRE>géante</C> à vos pieds. Les ennemis pris dans l'explosion sont <CRE>propulsés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion ont une chance d'être <CRE>enchaînés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion ont une chance d'être <CRE>enchaînés</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une ligne de <CRE>4</C> bombes à retardement <CRE>devant vous</C>. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une ligne de <CRE>4</C> bombes à retardement <CRE>devant vous</C>. Les ennemis pris dans l'explosion sont <CRE>repoussés</C>. Peut parfois <CRE>fortement empoisonner</C> l'ennemi. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>attirés</C>. Peut parfois <CRE>désorienter</C> l'ennemi. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>projetés dans les airs</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Pose une bombe à retardement à vos pieds. Les ennemis pris dans l'explosion sont <CRE>projetés dans les airs</C>. (La jauge de ce badge ne se remplit pas automatiquement.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0100>"
+	},
+	{
+		"name": "ITM_BDG_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0101>"
+	},
+	{
+		"name": "ITM_BDG_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0102>"
+	},
+	{
+		"name": "ITM_BDG_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0103>"
+	},
+	{
+		"name": "ITM_BDG_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0104>"
+	},
+	{
+		"name": "ITM_BDG_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0105>"
+	},
+	{
+		"name": "ITM_BDG_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous fait poursuivre votre cible à toute allure. Rien ne peut arrêter vos déplacements vifs. Frappe <CRE>8 fois</C> et <CRE>propulse l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des éclairs qui frappent la cible et les ennemis proches. Peut parfois <CRE>légèrement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait s'abattre une pluie de lances sur la cible et les ennemis proches. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber une pluie torrentielle sur la cible et les ennemis proches. Peut parfois <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber une pluie torrentielle sur la cible et les ennemis proches. Peut parfois <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber une pluie torrentielle sur la cible et les ennemis proches. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber des débris sur la cible et les ennemis proches. Les ennemis touchés par de gros objets sont <CRE>propulsés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber des débris sur la cible et les ennemis proches. Les ennemis touchés par de gros objets sont <CRE>propulsés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un projectile électrique sur la cible. Cette attaque rebondit sur les ennemis proches. Peut parfois <CRE>modérément électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne sur la cible. Cette attaque rebondit sur les ennemis proches. Peut parfois <CRE>enchaîner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 2</C> projectiles électriques sur la cible et <CRE>les ennemis derrière elle</C>. Cette attaque rebondit sur les ennemis proches. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 3</C> projectiles électriques sur la cible et <CRE>les ennemis proches</C>. Cette attaque rebondit sur les ennemis proches. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 3</C> lasers sur les <CRE>ennemis autour de vous</C>. Cette attaque rebondit sur les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Cette attaque rebondit sur les ennemis proches."
+	},
+	{
+		"name": "ITM_BDG_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Cette attaque rebondit sur les ennemis proches. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Transperce la cible à l'aide de plumes caudales irisées. Cette attaque rebondit sur les ennemis proches. Inflige une <CRE>altération d'état aléatoire</C> à l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Entoure vos jambes de bourrasques de vent, puis attaque la cible avec un coup de pied aérien qui attire les ennemis <CRE>dans une grande zone</C>. Chargez complètement l'attaque pour effectuer <CRE>3</C> attaques qui <CRE>propulsent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Entoure vos jambes de bourrasques de vent, puis attaque la cible avec un coup de pied aérien qui attire les ennemis <CRE>dans une grande zone</C>. Chargez complètement l'attaque pour effectuer <CRE>3</C> attaques qui <CRE>propulsent l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>. Charger une attaque prend <CRE>moins de temps</C> que d'ordinaire."
+	},
+	{
+		"name": "ITM_BDG_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>. Charger une attaque prend <CRE>moins de temps</C> que d'ordinaire."
+	},
+	{
+		"name": "ITM_BDG_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous fait tomber à toute vitesse sur l'ennemi depuis les airs et avant de dévoiler votre fameux coup de pied à la trajectoire parfaite. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance une pierre sur la cible depuis les airs. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance une pierre sur la cible depuis les airs. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance une pierre sur la cible depuis les airs. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>, puis libérer une onde de choc qui <CRE>propulse les ennemis proches</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible depuis les airs avec un orbe électrique. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible depuis les airs avec un orbe électrique. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible depuis les airs avec un orbe électrique. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>, puis libérer une onde de choc qui <CRE>propulse les ennemis proches</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait tomber un morceau de fossile d'un roi préhistorique sur la cible. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie violemment un objet sur la cible depuis les airs. L'objet utilisé est choisi au hasard lors de la charge. Les ennemis touchés par de gros objets sont <CRE>mis à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie violemment un objet sur la cible depuis les airs. L'objet utilisé est choisi au hasard lors de la charge. Les ennemis touchés par de gros objets sont <CRE>mis à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie violemment un objet sur la cible depuis les airs. L'objet utilisé est choisi au hasard lors de la charge. Les ennemis touchés par de gros objets sont <CRE>mis à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque un pilier de glace sous la cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque un pilier de glace sous la cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque un pilier de glace sous la cible et la frappe <CRE>3 fois</C>. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible <CRE>3 fois</C> de gauche à droite avec des piliers de pierre. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible <CRE>5 fois</C> de gauche à droite avec des piliers de pierre. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque une colonne de feu sous la cible. Chargez complètement l'attaque pour libérer <CRE>3</C> attaques, puis <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque <CRE>2</C> piliers de lumière simultanément sous la cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque <CRE>3</C> piliers de lumière simultanément sous la cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Des sculptures de glace donnent des coups de bec à la cible. Leur aspect attendrissant dissimule leur puissance redoutable. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>légèrement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>modérément empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette une bombe sur la cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Des papillons fantomatiques sont <CRE>dispersés</C> sur le terrain et infligent des dégâts en cas de contact. Ils volent de fleur en fleur, poursuivant leur cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie <CRE>2</C> chaînes sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>légèrement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie <CRE>3</C> chaînes sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des chaînes <CRE>en forme de croix</C> à l'emplacement de la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des chaînes <CRE>en forme de croix</C> à l'emplacement de la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Entoure</C> la cible avec des chaînes. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>modérément électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Entoure</C> la cible avec des chaînes. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>fortement électrocuter</C> l'ennemi. Les mots<NBSP>« Avec FuJin... » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne qui <CRE>poursuit</C> la cible et les ennemis proches. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>modérément empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne <CRE>horizontale</C> sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne épaisse et persistante sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne épaisse et persistante sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie <CRE>2</C> chaînes qui <CRE>poursuivent</C> la cible et les ennemis proches. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une chaîne <CRE>verticale</C> sur la cible. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés."
+	},
+	{
+		"name": "ITM_BDG_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des clones, puis envoie un courant électrique à travers la chaîne qui les relie. A de fortes chances d'<CRE>enchaîner</C> les ennemis touchés. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>3</C> boomerangs qui foncent sur la cible en arc de cercle. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>5</C> boomerangs qui foncent sur la cible en arc de cercle. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire un objet pour l'envoyer sur la cible. L'objet utilisé est choisi au hasard lors de la charge. Les ennemis touchés par de gros objets sont <CRE>propulsés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire un objet pour l'envoyer sur la cible. L'objet utilisé est choisi au hasard lors de la charge. Les ennemis touchés par de gros objets sont <CRE>propulsés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>3</C> boomerangs qui foncent sur la cible en arc de cercle. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C> ou <CRE>le mettre à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>5</C> boomerangs qui foncent sur la cible en arc de cercle. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C> ou <CRE>le mettre à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>7</C> boomerangs qui foncent sur la cible en arc de cercle. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous fait planer dans les airs à l'aide d'ailes noires majestueuses. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 8</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>propulsés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 10</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>propulsés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 8</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 15</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 15</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>propulsés</C> à l'impact. Les mots<NBSP>« Remplissez le bassin mystique d'eau et de lumière » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 8</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 10</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>attirer l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Les mots<NBSP>« L'ombre et la lumière, entremêlées à jamais » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Les mots<NBSP>« L'ombre et la lumière, entremêlées à jamais » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0196>"
+	},
+	{
+		"name": "ITM_BDG_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0197>"
+	},
+	{
+		"name": "ITM_BDG_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0198>"
+	},
+	{
+		"name": "ITM_BDG_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Soigne immédiatement les <CRE>altérations d'état</C> de l'équipe."
+	},
+	{
+		"name": "ITM_BDG_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un court instant, <CRE>annulant les dégâts des attaques ennemies</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un certain temps, <CRE>annulant les dégâts des attaques ennemies</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un très court instant, <CRE>annulant les dégâts des attaques ennemies</C>. Inflige des dégâts aux ennemis qui la percutent et <CRE>les repousse loin</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un court instant, <CRE>annulant les dégâts des attaques ennemies</C>. Inflige des dégâts aux ennemis qui la percutent et <CRE>les repousse loin</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un très court instant, <CRE>annulant les dégâts des attaques ennemies</C>. Inflige de <CRE>lourds dégâts</C> aux ennemis qui la percutent et <CRE>les repousse</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un court instant, <CRE>annulant les dégâts des attaques ennemies</C> et <CRE>restaurant des PV</C>. Les mots<NBSP>« Ensemble, nous créerons le son ultime » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Érige une barrière pendant un très court instant, <CRE>annulant les dégâts des attaques ennemies</C>. Une corne levée vers les cieux inflige des dégâts à tous ceux qu'elle touche et <CRE>projette les ennemis dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Les épées peuvent se séparer et <CRE>traquer plusieurs ennemis</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Les épées peuvent se séparer et <CRE>traquer plusieurs ennemis</C>. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées <CRE>rapide</C> qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie des bulles dans <CRE>3 directions</C>, y compris en direction de la cible, et inflige des dégâts à tous les ennemis touchés. Quand une bulle touche un ennemi, elle change de direction et poursuit une autre cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Des feuilles tranchantes comme des épées vous entourent et vous protègent, infligeant des dégâts aux ennemis qui les touchent."
+	},
+	{
+		"name": "ITM_BDG_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Des feuilles tranchantes comme des épées vous entourent et vous protègent, infligeant des dégâts aux ennemis qui les touchent. Les mots<NBSP>« Avec RaiJin... » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire des débris qui vous protègent et infligent des dégâts aux ennemis en cas de contact. Les ennemis touchés par de gros objets sont <CRE>repoussés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des épées de lumière qui vous protègent et infligent des dégâts aux ennemis en cas de contact."
+	},
+	{
+		"name": "ITM_BDG_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser erratique sur la cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser erratique sur la cible."
+	},
+	{
+		"name": "ITM_BDG_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Peut parfois <CRE>légèrement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Peut parfois <CRE>légèrement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>3</C> lasers en éventail sur la cible. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>5</C> lasers en éventail sur la cible. Peut parfois <CRE>geler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire un laser sur la cible. Peut parfois <CRE>mettre l'ennemi à terre</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>2</C> lasers simultanés sur la cible. Peut parfois <CRE>désorienter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Ne sous-estimez pas le mignon petit minois de ce chat. Il anéantit les ennemis grâce à un rayon erratique dévastateur."
+	},
+	{
+		"name": "ITM_BDG_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon d'éclairs autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>modérément électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon d'éclairs autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque une tempête de sable autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>ensevelir</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée une tempête gravitationnelle autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>repousser l'ennemi</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée une tempête gravitationnelle autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>projeter l'ennemi dans les airs</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée une tempête gravitationnelle <CRE>géante</C> autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Peut parfois <CRE>mettre l'ennemi à terre</C>. Les mots<NBSP>« Les dipôles magnétiques sont au cœur de ce monde » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un vortex d'eau qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent."
+	},
+	{
+		"name": "ITM_BDG_Info_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0234>"
+	},
+	{
+		"name": "ITM_BDG_Info_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0235>"
+	},
+	{
+		"name": "ITM_BDG_Info_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un vortex de lumière qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent."
+	},
+	{
+		"name": "ITM_BDG_Info_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un vortex de lumière qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent. Les mots<NBSP>« Remplissez le bassin mystique d'eau et de lumière » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un vortex d'eau qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent."
+	},
+	{
+		"name": "ITM_BDG_Info_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un <CRE>petit</C> tourbillon de feu autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit <CRE>rapidement</C> la cible partout où elle va. Peut parfois <CRE>légèrement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon de feu autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>modérément brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon de feu autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit lentement la cible partout où elle va. Peut parfois <CRE>modérément brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon de feu autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. Cette tempête suit <CRE>rapidement</C> la cible partout où elle va et crache des <CRE>braises</C>. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pied géant s'abat sur la cible pour l'écraser. Les ennemis écrasés sont ensuite <CRE>propulsés</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0244>"
+	},
+	{
+		"name": "ITM_BDG_Info_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0245>"
+	},
+	{
+		"name": "ITM_BDG_Info_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0246>"
+	},
+	{
+		"name": "ITM_BDG_Info_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0247>"
+	},
+	{
+		"name": "ITM_BDG_Info_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0248>"
+	},
+	{
+		"name": "ITM_BDG_Info_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0249>"
+	},
+	{
+		"name": "ITM_BDG_Info_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un trou noir qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent."
+	},
+	{
+		"name": "ITM_BDG_Info_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Attire les ennemis dans un trou noir qui inflige des dégâts aux ennemis happés à l'intérieur. Inflige de lourds dégâts aux ennemis s'ils s'entrechoquent."
+	},
+	{
+		"name": "ITM_BDG_Info_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0252>"
+	},
+	{
+		"name": "ITM_BDG_Info_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0253>"
+	},
+	{
+		"name": "ITM_BDG_Info_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0254>"
+	},
+	{
+		"name": "ITM_BDG_Info_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0255>"
+	},
+	{
+		"name": "ITM_BDG_Info_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0256>"
+	},
+	{
+		"name": "ITM_BDG_Info_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 5</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 7</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 8</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact. Peut parfois <CRE>enchaîner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 10</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact. Peut parfois <CRE>enchaîner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Peut parfois <CRE>modérément brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Les épées peuvent se séparer et <CRE>traquer plusieurs ennemis</C>. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture les <CRE>ennemis autour de la cible</C> et les immobilise. N'a aucun effet si seulement 1 ennemi est présent."
+	},
+	{
+		"name": "ITM_BDG_Info_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture les <CRE>ennemis autour de la cible</C> et les immobilise. N'a aucun effet si seulement 1 ennemi est présent."
+	},
+	{
+		"name": "ITM_BDG_Info_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une tempête d'épées qui fonce sur la cible et inflige des dégâts à tous les ennemis touchés. Quand un ennemi est touché, l'attaque change de direction et poursuit une autre cible. Les épées peuvent se séparer et <CRE>traquer plusieurs ennemis</C>. Peut parfois <CRE>fortement électrocuter</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Tire <CRE>jusqu'à 8</C> missiles sur la cible. Changez de cible lors de la charge pour cibler plusieurs ennemis. Les ennemis sont <CRE>repoussés</C> à l'impact. Peut parfois <CRE>fortement empoisonner</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0268>"
+	},
+	{
+		"name": "ITM_BDG_Info_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0269>"
+	},
+	{
+		"name": "ITM_BDG_Info_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0270>"
+	},
+	{
+		"name": "ITM_BDG_Info_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0271>"
+	},
+	{
+		"name": "ITM_BDG_Info_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0272>"
+	},
+	{
+		"name": "ITM_BDG_Info_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0273>"
+	},
+	{
+		"name": "ITM_BDG_Info_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0274>"
+	},
+	{
+		"name": "ITM_BDG_Info_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0275>"
+	},
+	{
+		"name": "ITM_BDG_Info_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0276>"
+	},
+	{
+		"name": "ITM_BDG_Info_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restaure une petite partie</C> des PV de l'équipe <CRE>instantanément</C>. (<CRE>Utilisation unique</C>. La jauge du badge ne se remplit pas automatiquement et ce dernier ne peut pas être réactivé.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restaure une partie</C> des PV de l'équipe <CRE>instantanément</C>. (<CRE>Utilisation unique</C>. La jauge du badge ne se remplit pas automatiquement et ce dernier ne peut pas être réactivé.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restaure une grande partie</C> des PV de l'équipe <CRE>instantanément</C>. (<CRE>Utilisation unique</C>. La jauge du badge ne se remplit pas automatiquement et ce dernier ne peut pas être réactivé.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0280>"
+	},
+	{
+		"name": "ITM_BDG_Info_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0281>"
+	},
+	{
+		"name": "ITM_BDG_Info_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0282>"
+	},
+	{
+		"name": "ITM_BDG_Info_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0283>"
+	},
+	{
+		"name": "ITM_BDG_Info_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0284>"
+	},
+	{
+		"name": "ITM_BDG_Info_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0285>"
+	},
+	{
+		"name": "ITM_BDG_Info_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0286>"
+	},
+	{
+		"name": "ITM_BDG_Info_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0287>"
+	},
+	{
+		"name": "ITM_BDG_Info_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0288>"
+	},
+	{
+		"name": "ITM_BDG_Info_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture la cible pour ensuite la ballotter. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture la cible pour ensuite la ballotter. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "Au moindre contact, la victime de cette langue devient son prisonnier. Saisit la <CRE>cible et les ennemis proches</C>, puis les <CRE>attire</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaque la cible avec M. Miaou. Continuez à attaquer pour repousser l'ennemi, puis lui infliger <CRE>3</C> attaques qui <CRE>le propulsent</C>. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance une adorable carte de M. Miaou. Continuez à attaquer pour lancer une dernière carte qui <CRE>repousse l'ennemi</C>. Peut parfois <CRE>fortement électrocuter</C> l'ennemi. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait s'écraser une météorite en forme de M. Miaou sur la cible. Chargez complètement l'attaque pour <CRE>mettre l'ennemi à terre</C>. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Fait surgir une pyramide de M. Miaou sous la cible. Chargez complètement l'attaque pour <CRE>projeter l'ennemi dans les airs</C>. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une colonie de M. Miaou qui fonce sur la cible. Quand un M. Miaou touche un ennemi, il change de direction et poursuit une autre cible. Peut parfois <CRE>geler</C> l'ennemi. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Crée un tourbillon de flammes noires autour de la cible qui inflige des dégâts aux ennemis happés à l'intérieur. M. Miaou suivra lentement la cible partout où elle ira. Peut parfois <CRE>désorienter</C> l'ennemi. Les mots<NBSP>« Rien n'est plus féroce que six félins réunis » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer <CRE>3</C> entailles ascendantes qui <CRE>projettent l'ennemi dans les airs</C>. Les mots<NBSP>« Salutations des saisons » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "Projette des objets en forme de soleil sur la cible. Continuez à attaquer pour aléatoirement en lancer un plus gros qui <CRE>repousse l'ennemi</C>.<BR>Les mots<NBSP>« Salutations des saisons » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Inflige un coup de pied aérien à votre cible. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>.<BR>Les mots<NBSP>« Salutations des saisons » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Envoie une large onde de choc sur la cible. Inflige de lourds dégâts aux ennemis sur sa trajectoire. Chargez complètement l'attaque pour <CRE>repousser l'ennemi</C>. Les mots<NBSP>« Salutations des saisons » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0302>"
+	},
+	{
+		"name": "ITM_BDG_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture <CRE>uniquement la cible</C> et l'immobilise pendant <CRE>une longue durée</C>. Les mots<NBSP>« Un vrai ami partage votre rêve » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour sauter et abattre votre arme, puis effectuer une entaille tourbillonnante qui <CRE>repousse les ennemis dans une grande zone</C>. Les mots<NBSP>« Est-ce que j'ai oublié d'éteindre la lumière ? » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des éclairs qui frappent la cible et les ennemis proches. Peut parfois <CRE>modérément électrocuter</C> l'ennemi. Les mots<NBSP>« Vous entendez cette musique ? » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Jette <CRE>3</C> boomerangs qui foncent sur la cible en arc de cercle et explosent à l'impact, infligeant des dégâts en zone. Chargez complètement l'attaque pour <CRE>propulser l'ennemi</C>. Les mots<NBSP>« La tête sous l'eau ? » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour effectuer une puissante entaille frontale qui <CRE>repousse l'ennemi</C>. Les mots<NBSP>« Puissent les lames jumelles de Tenka être un jour réunies » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous rapproche de votre cible pour la lacérer. Continuez à attaquer pour sauter et abattre votre arme, ce qui <CRE>repousse l'ennemi</C>. Les mots<NBSP>« Puissent les lames jumelles de Tenka être un jour réunies » sont gravés dessus."
+	},
+	{
+		"name": "ITM_BDG_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Capture <CRE>tous les ennemis</C> et les immobilise."
+	},
+	{
+		"name": "ITM_BDG_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoque des épées enflammées qui vous protègent et infligent des dégâts aux ennemis en cas de contact. Peut parfois <CRE>fortement brûler</C> l'ennemi."
+	},
+	{
+		"name": "ITM_BDG_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Attrape la cible et <CRE>l'écrase au sol</C> à plusieurs reprises. Les ennemis sont <CRE>repoussés</C> à l'impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0312>"
+	},
+	{
+		"name": "ITM_BDG_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>1 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>5 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>10 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>50 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>100 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>500 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>1 000 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>5 000 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>10 000 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez-le contre <CRE>100 000 <MK_YEN></C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté d'un joyau rouge. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de deux joyaux orange. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de trois joyaux jaunes. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de quatre joyaux verts. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de cinq joyaux bleu clair. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de six joyaux bleus. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge incrusté de sept joyaux violets. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge évoquant le monde des souvenirs. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge évoquant un monde éphémère. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge évoquant un monde inconnu. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	},
+	{
+		"name": "ITM_BDG_Info_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "Un badge évoquant un monde à plusieurs plans. Échangez-le contre des <CRE>objets</C> dans une certaine boutique."
+	}
+]
+}

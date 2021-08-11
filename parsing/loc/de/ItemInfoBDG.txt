@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin-Info"
+	},
+	{
+		"name": "ITM_BDG_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag zu entfesseln, der <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag zu entfesseln, der <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> heftige Vorwärtsschläge zu entfesseln, die <CRE>den Gegner zurückstoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag zu entfesseln, in die Luft zu springen, deine Waffe nach unten sausen zu lassen und <CRE>den Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag zu entfesseln, in die Luft zu springen, deine Waffe nach unten sausen zu lassen und <CRE>den Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> heftige Vorwärtsschläge zu entfesseln, die <CRE>den Gegner zurückschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0007>"
+	},
+	{
+		"name": "ITM_BDG_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0008>"
+	},
+	{
+		"name": "ITM_BDG_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlitze dich mit einer messerscharfen Klaue durch den Gegner und <CRE>schleudere ihn zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>3</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>3</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um in die Luft zu springen, deine Waffe nach unten sausen zu lassen und <CRE>5</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen Wirbelschlag zu entfesseln, der <CRE>den Gegner zurückschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag und dann einen Wirbelschlag zu entfesseln, der <CRE>den Gegner zurückschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>2</C> Wirbelschläge zu entfesseln, die <CRE>den Gegner zurückstoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>3</C> Wirbelschläge zu entfesseln, die <CRE>den Gegner zurückstoßen</C>. Der 3. Schlag hat eine größere Reichweite."
+	},
+	{
+		"name": "ITM_BDG_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0020>"
+	},
+	{
+		"name": "ITM_BDG_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0021>"
+	},
+	{
+		"name": "ITM_BDG_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0022>"
+	},
+	{
+		"name": "ITM_BDG_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0023>"
+	},
+	{
+		"name": "ITM_BDG_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0024>"
+	},
+	{
+		"name": "ITM_BDG_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0025>"
+	},
+	{
+		"name": "ITM_BDG_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0026>"
+	},
+	{
+		"name": "ITM_BDG_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und greife es mit deinen Fäusten an. Lasse Fausthiebe auf deinen Gegner niederprasseln und <CRE>stoße</C> ihn mit einem harten Schlag <CRE>zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und greife es mit deinen Fäusten an. Lasse Fausthiebe auf deinen Gegner niederprasseln und <CRE>stoße</C> ihn mit einem harten Schlag <CRE>zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0029>"
+	},
+	{
+		"name": "ITM_BDG_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0030>"
+	},
+	{
+		"name": "ITM_BDG_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0031>"
+	},
+	{
+		"name": "ITM_BDG_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen heftigen Fausthieb von oben. Greife weiter an, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und dann <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und dann <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife <CRE>schnell</C> an, um den Gegner zurückzustoßen und dann <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und dann <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und dann <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage mit deinem Giftschwanz im toten Winkel des Gegners zu. Greife weiter an, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>sehr schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und ihn dann mit einem Stoß gegen die Beine <CRE>zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Stoße den Gegner mit <CRE>2</C> Schlägen zurück und <CRE>wirf</C> ihn dann mit <CRE>5</C> Schlägen gegen die Beine <CRE>zu Boden</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Stoße den Gegner mit <CRE>3</C> Schlägen zurück und <CRE>wirf</C> ihn dann mit <CRE>7</C> Schlägen gegen die Beine <CRE>zu Boden</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Greife weiter an, um den Gegner zurückzustoßen und ihn dann mit einem Stoß gegen die Beine <CRE>zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Stoße mit deinem Speer zu. Stoße den Gegner mit <CRE>3</C> Schlägen zurück und <CRE>wirf</C> ihn dann mit <CRE>7</C> Schlägen gegen die Beine <CRE>zu Boden</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße auf dein Ziel. Greife weiter an, um ein Geschoss abzufeuern, das den <CRE>Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße auf dein Ziel. Greife weiter an, um ein <CRE>durchdringendes Geschoss</C> abzufeuern, das den <CRE>Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße auf dein Ziel. Greife weiter an, um <CRE>2 durchdringende Geschosse</C> abzufeuern, die den <CRE>Gegner zurückstoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>durchdringende Hochgeschwindigkeitsgeschosse</C> auf das Ziel ab. Greife weiter an, um ein <CRE>durchdringendes Geschoss</C> abzufeuern, das den <CRE>Gegner zurückstößt</C>. Es besteht die Chance, dem Gegner <CRE>einen moderaten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>durchdringende Hochgeschwindigkeitsgeschosse</C> auf das Ziel ab. Greife weiter an, um ein <CRE>durchdringendes Geschoss</C> abzufeuern, das den <CRE>Gegner zurückstößt</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße auf dein Ziel. Greife weiter an, um ein Geschoss abzufeuern, das den <CRE>Gegner zurückstößt</C>. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße auf dein Ziel. Greife weiter an, um in <CRE>3 Richtungen</C> zu feuern und den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere in <CRE>4er-Wellen</C> Schrott auf das Ziel. Es erscheinen zufällig große Objekte, die den <CRE>Gegner zurückstoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere in <CRE>4er-Wellen</C> Schrott auf das Ziel. Es erscheinen zufällig große Objekte, die den <CRE>Gegner zurückschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Setze in <CRE>2er-Wellen</C> Blasen gegen das Ziel ein. Greife weiter an, um eine Riesenblase einzusetzen, die den <CRE>Gegner zurückstößt</C>. Es besteht die Chance, den Gegner <CRE>leicht zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Setze eine Welle zerplatzender Blasen ein, um den Kampf zu deinen Gunsten zu wenden. Greife weiter an, um eine Riesenblase einzusetzen, die den <CRE>Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere Eissphären auf dein Ziel. Greife weiter an, um in <CRE>6 Richtungen</C> zu feuern und den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere Schallgeschosse auf dein Ziel. Nachdem sie <CRE>bis zu 5 Mal</C> auf Kontrahenten in der Nähe übergesprungen sind, <CRE>stoßen sie den Gegner zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere Schallgeschosse in <CRE>3 Richtungen</C>. Nachdem sie <CRE>bis zu 5 Mal</C> auf Kontrahenten in der Nähe übergesprungen sind, <CRE>stoßen sie den Gegner zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>3</C> Strahlenkugeln hintereinander auf dein Ziel und dann eine letzte, die <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>5</C> Strahlenkugeln hintereinander auf dein Ziel und dann eine letzte, die <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf Shuriken in <CRE>6 Richtungen</C> und schleudere dann einen riesigen Stern, der <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf Shuriken in <CRE>8 Richtungen</C> und schleudere dann einen riesigen Stern, der <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere Karten in <CRE>2er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Greife weiter an, um eine letzte Karte zu werfen, die <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere Karten in <CRE>3er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Greife weiter an, um eine letzte Karte zu werfen, die <CRE>den Gegner zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere rote Karten in <CRE>2er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Greife weiter an, um eine letzte Karte zu werfen, die <CRE>den Gegner zurückstößt</C>. Es besteht die Chance, den Gegner <CRE>moderat zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere rote Karten in <CRE>4er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Greife weiter an, um eine letzte Karte zu werfen, die <CRE>den Gegner zurückstößt</C>. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere schwarze Karten in <CRE>3er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Die Karten pirschen sich an den Gegner heran und <CRE>stoßen ihn zurück</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere schwarze Karten in <CRE>4er-Wellen</C>, die Kontrahenten in der Nähe des Ziels verfolgen. Die Karten pirschen sich an den Gegner heran und <CRE>stoßen ihn zurück</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine mysteriöse Sphäre jagt das Ziel, als hätte sie einen eigenen Willen. Wenn sie mit ihm kollidiert, <CRE>wird der Gegner zurückgestoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>8 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>12 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>15 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>8 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>. Es besteht eine große Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>12 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>. Es besteht eine große Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>8 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>. Es besteht eine große Chance, den Gegner zu <CRE>begraben</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>12 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>. Es besteht eine große Chance, den Gegner zu <CRE>begraben</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen explodierenden Pfeil auf das Ziel. Feuere <CRE>20 Pfeile</C> innerhalb eines Zeitlimits ab, um eine gewaltige Explosion auszulösen, die Gegner in der Nähe <CRE>zurückstößt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Stelle dich vor das Ziel und feuere Giftnadeln in <CRE>3 Richtungen</C>. Greife weiter an, um eine Riesennadel abzufeuern, die <CRE>den Gegner zurückstößt</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die nach der Explosion von Trümmern getroffen werden, werden <CRE>zurückgestoßen</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die nach der Explosion von Trümmern getroffen werden, werden <CRE>zurückgeschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die nach der Explosion von Trümmern getroffen werden, werden <CRE>zurückgeschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgeschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgeschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere <CRE>5</C> Zeitbomben <CRE>um dich herum</C>. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel eine Stachelbombe. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere <CRE>vor dir</C> <CRE>3</C> Zeitbomben in einer Reihe. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere <CRE>vor dir</C> <CRE>5</C> Zeitbomben in einer Reihe. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine <CRE>gewaltige</C> tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>weit zurückgeschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden vielleicht <CRE>angekettet</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden vielleicht <CRE>angekettet</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere <CRE>vor dir</C> <CRE>4</C> Zeitbomben in einer Linie. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere <CRE>vor dir</C> <CRE>4</C> Zeitbomben in einer Linie. Gegner, die von der Explosion erfasst werden, werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>herangezogen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>in die Luft geschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Platziere eine tickende Zeitbombe zu deinen Füßen. Gegner, die von der Explosion erfasst werden, werden <CRE>in die Luft geschleudert</C>. (Pin-Anzeige füllt sich nicht automatisch auf.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0100>"
+	},
+	{
+		"name": "ITM_BDG_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0101>"
+	},
+	{
+		"name": "ITM_BDG_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0102>"
+	},
+	{
+		"name": "ITM_BDG_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0103>"
+	},
+	{
+		"name": "ITM_BDG_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0104>"
+	},
+	{
+		"name": "ITM_BDG_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0105>"
+	},
+	{
+		"name": "ITM_BDG_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Deine flinken Füße sind nicht zu stoppen, du verfolgst deine Beute mit halsbrecherischer Geschwindigkeit. Schlage <CRE>8 Mal</C> zu, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre Blitzschläge, die das Ziel und Gegner in der Nähe treffen. Es besteht die Chance, dem Gegner <CRE>einen leichten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse einen Speerregen auf das Ziel und Gegner in der Nähe niedergehen. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse einen sintflutartigen Regen auf das Ziel und Gegner in der Nähe niedergehen. Es besteht die Chance, <CRE>den Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse einen sintflutartigen Regen auf das Ziel und Gegner in der Nähe niedergehen. Es besteht die Chance, <CRE>den Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse einen sintflutartigen Regen auf das Ziel und Gegner in der Nähe niedergehen. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse Trümmerteile auf das Ziel und Gegner in der Nähe fallen. Gegner, die von großen Objekten getroffen werden, werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse Trümmerteile auf das Ziel und Gegner in der Nähe fallen. Gegner, die von großen Objekten getroffen werden, werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere einen elektrisierenden Angriff auf das Ziel ab. Der Angriff springt auf Gegner in der Nähe über. Es besteht die Chance, dem Gegner <CRE>einen moderaten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Kette auf dein Ziel. Der Angriff springt auf Gegner in der Nähe über. Es besteht die Chance, den Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 2</C> elektrisierende Angriffe auf das Ziel <CRE>und Gegner hinter ihm</C> ab. Der Angriff springt auf Gegner in der Nähe über. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 3</C> elektrisierende Angriffe auf das Ziel <CRE>und Gegner in der Nähe</C> ab. Der Angriff springt auf Gegner in der Nähe über. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße <CRE>bis zu 3</C> Laser auf <CRE>Gegner in der Nähe</C>. Der Angriff springt auf Gegner in der Nähe über."
+	},
+	{
+		"name": "ITM_BDG_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf dein Ziel. Der Angriff springt auf Gegner in der Nähe über."
+	},
+	{
+		"name": "ITM_BDG_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf dein Ziel. Der Angriff springt auf Gegner in der Nähe über. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Durchbohre das Ziel mit deinen regenbogenfarbigen Schwanzfedern. Der Angriff springt auf Gegner in der Nähe über. Verpasst dem Gegner einen <CRE>zufälligen Statuseffekt</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Lass dich von einem Windstoß packen und verpasse deinem Ziel einen Luftkick, durch den Gegner in einem <CRE>großen Bereich</C> herangezogen werden. Lade den Angriff voll auf, um den Gegner mit <CRE>3</C> Treffern <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Lass dich von einem Windstoß packen und verpasse deinem Ziel einen Luftkick, durch den Gegner in einem <CRE>großen Bereich</C> herangezogen werden. Lade den Angriff voll auf, um den Gegner mit <CRE>3</C> Treffern <CRE>zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>. Du lädst Angriffe <CRE>schneller</C> als sonst auf."
+	},
+	{
+		"name": "ITM_BDG_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>. Du lädst Angriffe <CRE>schneller</C> als sonst auf."
+	},
+	{
+		"name": "ITM_BDG_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Stürze dich schnell von oben auf deinen Gegner, um einen perfekten Vektorkick vom Stapel zu lassen. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere von oben einen Felsbrocken auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere von oben einen Felsbrocken auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere von oben einen Felsbrocken auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>. Erzeuge dann eine Schockwelle, die <CRE>Gegner in der Nähe zurückschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Attackiere das Ziel von oben mit einem Kugelblitz. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Attackiere das Ziel von oben mit einem Kugelblitz. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Attackiere das Ziel von oben mit einem Kugelblitz. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>. Erzeuge dann eine Schockwelle, die <CRE>Gegner in der Nähe zurückschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse von oben das versteinerte Fragment eines vergangenen Königs auf dein Ziel krachen. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse von oben ein Objekt auf das Ziel krachen. Das Objekt wird während des Aufladens zufällig ausgewählt. Gegner, die von großen Objekten getroffen werden, werden <CRE>zu Boden geworfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse von oben ein Objekt auf das Ziel krachen. Das Objekt wird während des Aufladens zufällig ausgewählt. Gegner, die von großen Objekten getroffen werden, werden <CRE>zu Boden geworfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse von oben ein Objekt auf das Ziel krachen. Das Objekt wird während des Aufladens zufällig ausgewählt. Gegner, die von großen Objekten getroffen werden, werden <CRE>zu Boden geworfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Eissäule unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Eissäule unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Eissäule unter dem Ziel entstehen, die <CRE>3 Mal</C> zustößt. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Greife das Ziel von links nach rechts <CRE>3 Mal</C> mit Steinsäulen an. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Greife das Ziel von links nach rechts <CRE>5 Mal</C> mit Steinsäulen an. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Flammensäule unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>3</C> Treffer zu landen und <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse <CRE>2</C> Lichtsäulen gleichzeitig unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse <CRE>3</C> Lichtsäulen gleichzeitig unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Eisskulpturen hacken mit ihren scharfen Schnäbeln auf das Ziel ein – ihr niedliches Äußeres täuscht nicht über ihre furchteinflößende Stärke hinweg. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>leicht zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>moderat zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Bombe auf das Ziel. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Phantomschmetterlinge <CRE>verteilen</C> sich überall und fügen bei Berührung Schaden zu. Sie flattern auf dem Weg zu ihrem Gegner von Blüte zu Blüte."
+	},
+	{
+		"name": "ITM_BDG_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Kette auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Kette auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf <CRE>2</C> Ketten auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, den Gegner <CRE>leicht zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf <CRE>3</C> Ketten auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse <CRE>kreuzförmige</C> Ketten an der Position des Ziels entstehen. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse <CRE>kreuzförmige</C> Ketten an der Position des Ziels entstehen. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Umgib</C> das Ziel mit Ketten. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, dem Gegner <CRE>einen moderaten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Umgib</C> das Ziel mit Ketten. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>. Eingraviert sind die Worte „Mit FuJin“ ..."
+	},
+	{
+		"name": "ITM_BDG_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine Kette, die dein Ziel und Gegner in der Nähe <CRE>verfolgt</C>. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, den Gegner <CRE>moderat zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine <CRE>horizontale</C> Kette auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine starke Kette auf dein Ziel, die lange bestehen bleibt. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine starke Kette auf dein Ziel, die lange bestehen bleibt. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf <CRE>2</C> Ketten, die dein Ziel und Gegner in der Nähe <CRE>verfolgen</C>. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine <CRE>vertikale</C> Kette auf dein Ziel. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre Ebenbilder und jage elektrischen Strom durch die Kette, die sie verbindet. Es besteht eine große Chance, getroffene Gegner <CRE>anzuketten</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>3</C> Bumerangs im Bogen auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>5</C> Bumerangs im Bogen auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Ziehe ein Objekt heran und schleudere es auf dein Ziel. Das Objekt wird während des Aufladens zufällig ausgewählt. Gegner, die von großen Objekten getroffen werden, werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Ziehe ein Objekt heran und schleudere es auf dein Ziel. Das Objekt wird während des Aufladens zufällig ausgewählt. Gegner, die von großen Objekten getroffen werden, werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>3</C> Bumerangs im Bogen auf dein Ziel. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C> oder <CRE>ihn zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>5</C> Bumerangs im Bogen auf dein Ziel. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C> oder <CRE>ihn zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>7</C> Bumerangs im Bogen auf dein Ziel. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Gleite auf atemberaubenden schwarzen Schwingen durch die Luft. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 8</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 10</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 8</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 15</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 15</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgeschleudert</C>. Eingraviert sind die Worte „Fülle die mystische Schale mit Nässe und Licht“."
+	},
+	{
+		"name": "ITM_BDG_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 8</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 10</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner heranzuziehen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Eingraviert sind die Worte „Licht und Dunkel, für immer untrennbar“."
+	},
+	{
+		"name": "ITM_BDG_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Eingraviert sind die Worte „Licht und Dunkel, für immer untrennbar“."
+	},
+	{
+		"name": "ITM_BDG_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0196>"
+	},
+	{
+		"name": "ITM_BDG_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0197>"
+	},
+	{
+		"name": "ITM_BDG_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0198>"
+	},
+	{
+		"name": "ITM_BDG_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Hebt sofort die <CRE>Statusleiden</C> deines Teams auf."
+	},
+	{
+		"name": "ITM_BDG_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die kurze Zeit <CRE>alle gegnerischen Angriffe neutralisiert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die eine Zeit lang <CRE>alle gegnerischen Angriffe neutralisiert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die einen Augenblick lang <CRE>alle gegnerischen Angriffe neutralisiert</C>. Fügt Gegnern bei Berührung Schaden zu und <CRE>stößt sie weit zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die kurze Zeit <CRE>alle gegnerischen Angriffe neutralisiert</C>. Fügt Gegnern bei Berührung Schaden zu und <CRE>stößt sie weit zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die einen Augenblick lang <CRE>alle gegnerischen Angriffe neutralisiert</C>. Fügt Gegnern bei Berührung <CRE>schweren Schaden</C> zu und <CRE>stößt sie weit zurück</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die kurze Zeit <CRE>alle gegnerischen Angriffe neutralisiert</C> und <CRE>LP wiederherstellt</C>. Eingraviert sind die Worte „In Harmonie erzeugen wir den ultimativen Ton“."
+	},
+	{
+		"name": "ITM_BDG_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Errichte eine Barriere, die einen Augenblick lang <CRE>alle gegnerischen Angriffe neutralisiert</C>. Sein Horn ist gen Himmel gerichtet, fügt Gegnern bei Berührung Schaden zu und <CRE>schleudert sie in die Luft</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel."
+	},
+	{
+		"name": "ITM_BDG_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Die Schwerter können sich aufteilen und <CRE>mehrere Gegner verfolgen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Die Schwerter können sich aufteilen und <CRE>mehrere Gegner verfolgen</C>. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz <CRE>flinker</C> Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel."
+	},
+	{
+		"name": "ITM_BDG_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge Blasen, die in <CRE>3 Richtungen</C> davonfliegen, darunter auch in Richtung des Ziels, und bei Berührung Schaden zufügen. Verletzt eine Blase einen Gegner, nimmt sie Kurs auf ein neues Ziel."
+	},
+	{
+		"name": "ITM_BDG_Info_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Unzählige klingenscharfe Blätter wirbeln im Wind, schützen den Träger und fügen Gegnern bei Berührung Schaden zu."
+	},
+	{
+		"name": "ITM_BDG_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Unzählige klingenscharfe Blätter wirbeln im Wind, schützen den Träger und fügen Gegnern bei Berührung Schaden zu. Eingraviert sind die Worte „Mit RaiJin“ ..."
+	},
+	{
+		"name": "ITM_BDG_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Ziehe Trümmer heran, die den Träger schützen und Gegnern bei Berührung Schaden zufügen. Gegner, die von großen Objekten getroffen werden, werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre Schwerter aus Licht, die den Träger schützen und Gegnern bei Berührung Schaden zufügen."
+	},
+	{
+		"name": "ITM_BDG_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen unberechenbaren Laser auf das Ziel."
+	},
+	{
+		"name": "ITM_BDG_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen unberechenbaren Laser auf das Ziel."
+	},
+	{
+		"name": "ITM_BDG_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf das Ziel. Es besteht die Chance, dem Gegner <CRE>einen leichten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf das Ziel. Es besteht die Chance, den Gegner <CRE>leicht zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf das Ziel. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf das Ziel. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße <CRE>3</C> auffächernde Laser auf das Ziel. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße <CRE>5</C> auffächernde Laser auf das Ziel. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße einen Laser auf das Ziel. Es besteht die Chance, <CRE>den Gegner zu Boden zu werfen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Schieße <CRE>2</C> Laser gleichzeitig auf das Ziel. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Lass dich vom niedlichen Näschen dieser coolen Katze nicht täuschen. Sie feuert einen unberechenbaren und äußerst zerstörerischen Laserstrahl auf alle Gegner."
+	},
+	{
+		"name": "ITM_BDG_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wirbel aus Blitzen um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, dem Gegner <CRE>einen moderaten Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wirbel aus Blitzen um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre einen Sandsturm um das Ziel herum, der erfassten Gegnern Schaden zufügt. Der Gegner wird vielleicht sogar <CRE>begraben</C>. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam."
+	},
+	{
+		"name": "ITM_BDG_Info_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Gravitationssturm um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, <CRE>den Gegner zurückzustoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Gravitationssturm um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, <CRE>den Gegner in die Luft zu schleudern</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen <CRE>enormen</C> Gravitationssturm um das Ziel herum, der erfassten Gegnern Schaden zufügt. Es besteht die Chance, <CRE>den Gegner zu Boden zu werfen</C>. Eingraviert sind die Worte „Magnetische Gegenpole sind der Inbegriff der Welt“."
+	},
+	{
+		"name": "ITM_BDG_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wasserstrudel, der Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden."
+	},
+	{
+		"name": "ITM_BDG_Info_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0234>"
+	},
+	{
+		"name": "ITM_BDG_Info_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0235>"
+	},
+	{
+		"name": "ITM_BDG_Info_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wirbel aus Licht, der Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden."
+	},
+	{
+		"name": "ITM_BDG_Info_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wirbel aus Licht, der Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden. Eingraviert sind die Worte „Fülle die mystische Schale mit Nässe und Licht“."
+	},
+	{
+		"name": "ITM_BDG_Info_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wasserstrudel, der Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden."
+	},
+	{
+		"name": "ITM_BDG_Info_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen <CRE>kleinen</C> Feuerwirbel um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm <CRE>schnell</C> nach. Es besteht die Chance, den Gegner <CRE>leicht zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Feuerwirbel um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, den Gegner <CRE>moderat zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Feuerwirbel um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm langsam. Es besteht die Chance, den Gegner <CRE>moderat zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Feuerwirbel um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt dieser Sturm ihm <CRE>schnell</C> nach und versprüht <CRE>Glut</C>. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein riesiger Fuß erscheint und stampft über dem Ziel auf. Alle getroffenen Gegner werden <CRE>zurückgeschleudert</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0244>"
+	},
+	{
+		"name": "ITM_BDG_Info_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0245>"
+	},
+	{
+		"name": "ITM_BDG_Info_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0246>"
+	},
+	{
+		"name": "ITM_BDG_Info_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0247>"
+	},
+	{
+		"name": "ITM_BDG_Info_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0248>"
+	},
+	{
+		"name": "ITM_BDG_Info_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0249>"
+	},
+	{
+		"name": "ITM_BDG_Info_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge ein schwarzes Loch, das Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden."
+	},
+	{
+		"name": "ITM_BDG_Info_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge ein schwarzes Loch, das Gegner heranzieht und ihnen Schaden zufügt. Wenn Gegner kollidieren, erleiden sie großen Schaden."
+	},
+	{
+		"name": "ITM_BDG_Info_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0252>"
+	},
+	{
+		"name": "ITM_BDG_Info_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0253>"
+	},
+	{
+		"name": "ITM_BDG_Info_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0254>"
+	},
+	{
+		"name": "ITM_BDG_Info_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0255>"
+	},
+	{
+		"name": "ITM_BDG_Info_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0256>"
+	},
+	{
+		"name": "ITM_BDG_Info_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 5</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 7</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 8</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 10</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>anzuketten</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Es besteht die Chance, den Gegner <CRE>moderat zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Die Schwerter können sich aufteilen und <CRE>mehrere Gegner verfolgen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe die <CRE>Gegner in der Nähe deines Ziels</C> und stoppe ihre Bewegungen. Dieser Angriff hat keine Wirkung, wenn es nur 1 Gegner gibt."
+	},
+	{
+		"name": "ITM_BDG_Info_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe die <CRE>Gegner in der Nähe deines Ziels</C> und stoppe ihre Bewegungen. Dieser Angriff hat keine Wirkung, wenn es nur 1 Gegner gibt."
+	},
+	{
+		"name": "ITM_BDG_Info_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere einen Satz Schwerter auf das Ziel, die bei Berührung Schaden zufügen. Verletzen die Schwerter einen Gegner, nehmen sie Kurs auf ein neues Ziel. Die Schwerter können sich aufteilen und <CRE>mehrere Gegner verfolgen</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuere <CRE>bis zu 8</C> Raketen auf dein Ziel. Du kannst mehrere Gegner anvisieren, wenn du während des Aufladens die Ziele wechselst. Getroffene Gegner werden <CRE>zurückgestoßen</C>. Es besteht die Chance, den Gegner <CRE>schwer zu vergiften</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0268>"
+	},
+	{
+		"name": "ITM_BDG_Info_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0269>"
+	},
+	{
+		"name": "ITM_BDG_Info_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0270>"
+	},
+	{
+		"name": "ITM_BDG_Info_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0271>"
+	},
+	{
+		"name": "ITM_BDG_Info_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0272>"
+	},
+	{
+		"name": "ITM_BDG_Info_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0273>"
+	},
+	{
+		"name": "ITM_BDG_Info_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0274>"
+	},
+	{
+		"name": "ITM_BDG_Info_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0275>"
+	},
+	{
+		"name": "ITM_BDG_Info_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0276>"
+	},
+	{
+		"name": "ITM_BDG_Info_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Stelle binnen eines Augenblicks eine kleine Menge</C> der LP deines Teams <CRE>wieder her</C>. (<CRE>Einmal einsetzbar</C>. Pin-Anzeige füllt sich nicht automatisch auf und wird nicht reaktiviert.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Stelle binnen eines Augenblicks</C> die LP deines Teams <CRE>wieder her</C>. (<CRE>Einmal einsetzbar</C>. Pin-Anzeige füllt sich nicht automatisch auf und wird nicht reaktiviert.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Stellt augenblicklich eine kleine Menge</C> der LP deines Teams <CRE>wieder her</C>. (<CRE>Einmal einsetzbar</C>. Pin-Anzeige füllt sich nicht automatisch auf und wird nicht reaktiviert.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0280>"
+	},
+	{
+		"name": "ITM_BDG_Info_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0281>"
+	},
+	{
+		"name": "ITM_BDG_Info_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0282>"
+	},
+	{
+		"name": "ITM_BDG_Info_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0283>"
+	},
+	{
+		"name": "ITM_BDG_Info_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0284>"
+	},
+	{
+		"name": "ITM_BDG_Info_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0285>"
+	},
+	{
+		"name": "ITM_BDG_Info_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0286>"
+	},
+	{
+		"name": "ITM_BDG_Info_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0287>"
+	},
+	{
+		"name": "ITM_BDG_Info_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0288>"
+	},
+	{
+		"name": "ITM_BDG_Info_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe das Ziel und schwinge es herum. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe das Ziel und schwinge es herum. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine einzige Berührung dieser Zunge macht dich zu ihrem Gefangenen. Packe <CRE>das Ziel sowie Gegner in der Nähe</C> und <CRE>ziehe sie heran</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Greife das Ziel mit Mr. Miau an. Greife weiter an, um den Gegner zurückzustoßen und ihn dann mit <CRE>3</C> Treffern <CRE>zurückzuschleudern</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf eine niedliche Mr.-Miau-Karte. Greife weiter an, um eine letzte Karte zu schleudern, die <CRE>den Gegner zurückstößt</C>. Es besteht die Chance, dem Gegner <CRE>einen schweren Elektroschock zu verpassen</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse einen Meteoriten in Form von Mr. Miau auf das Ziel krachen. Lade den Angriff voll auf, um den <CRE>Gegner zu Boden zu werfen</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Mr.-Miau-Pyramide unter dem Ziel entstehen. Lade den Angriff voll auf, um <CRE>den Gegner in die Luft zu schleudern</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Lasse eine Meute Mr. Miaus auf das Ziel zusausen. Verletzt ein Mr. Miau einen Gegner, nimmt er Kurs auf ein neues Ziel. Es besteht die Chance, den Gegner <CRE>einzufrieren</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge einen Wirbel aus schwarzen Flammen um das Ziel herum, der erfassten Gegnern Schaden zufügt. Wenn das Ziel sich bewegt, folgt Mr. Miau ihm langsam nach. Es besteht die Chance, den Gegner zu <CRE>verwirren</C>. Eingraviert sind die Worte „Nichts ist gefährlicher als sechs Raubkatzen auf einmal“."
+	},
+	{
+		"name": "ITM_BDG_Info_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um <CRE>3</C> Aufwärtsschläge zu entfesseln, die <CRE>den Gegner in die Luft schleudern</C>. Eingraviert sind die Worte „Festliche Grüße“."
+	},
+	{
+		"name": "ITM_BDG_Info_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirf sonnenförmige Objekte auf das Ziel. Greife weiter an, um gelegentlich ein größeres Objekt zu schleudern, das den <CRE>Gegner zurückstößt</C>. Eingraviert sind die Worte „Festliche Grüße“."
+	},
+	{
+		"name": "ITM_BDG_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Verpasse deinem Ziel einen Luftkick. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>. Eingraviert sind die Worte „Festliche Grüße“."
+	},
+	{
+		"name": "ITM_BDG_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Erzeuge eine breite Schockwelle, die auf dein Ziel zurast. Wer erfasst wird, erleidet schweren Schaden. Lade den Angriff voll auf, um den <CRE>Gegner zurückzustoßen</C>. Eingraviert sind die Worte „Festliche Grüße“."
+	},
+	{
+		"name": "ITM_BDG_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0302>"
+	},
+	{
+		"name": "ITM_BDG_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe <CRE>nur das Ziel</C>, um seine Bewegungen <CRE>für längere Zeit</C> zu stoppen. Eingraviert sind die Worte „Ein echter Freund hat die gleichen Träume wie du“."
+	},
+	{
+		"name": "ITM_BDG_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um in die Luft zu springen, deine Waffe nach unten sausen zu lassen und einen Wirbelschlag zu entfesseln, der <CRE>Gegner in einem großen Bereich zurückstößt</C>. Eingraviert sind die Worte „Hab ich das Licht ausgemacht?“."
+	},
+	{
+		"name": "ITM_BDG_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre Blitzschläge, die das Ziel und Gegner in der Nähe treffen. Es besteht die Chance, dem Gegner <CRE>einen moderaten Elektroschock zu verpassen</C>. Eingraviert sind die Worte „Hörst du die Musik auch?“."
+	},
+	{
+		"name": "ITM_BDG_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Schleudere <CRE>3</C> Bumerangs im Bogen auf dein Ziel. Sie explodieren bei Berührung und fügen Flächenschaden zu. Lade den Angriff voll auf, um <CRE>den Gegner zurückzuschleudern</C>. Eingraviert sind die Worte „Einfach schwimmen?“."
+	},
+	{
+		"name": "ITM_BDG_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um einen heftigen Vorwärtsschlag zu entfesseln, der <CRE>den Gegner zurückstößt</C>. Eingraviert sind die Worte „Mögen Tenkas Zwillingsschwerter wieder zusammenfinden“."
+	},
+	{
+		"name": "ITM_BDG_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Schließe zu deinem Ziel auf und schlitze es auf. Greife weiter an, um in die Luft zu springen, deine Waffe nach unten sausen zu lassen und <CRE>den Gegner zurückzustoßen</C>. Eingraviert sind die Worte „Mögen Tenkas Zwillingsschwerter wieder zusammenfinden“."
+	},
+	{
+		"name": "ITM_BDG_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe <CRE>alle Gegner</C>, um ihre Bewegungen zu stoppen."
+	},
+	{
+		"name": "ITM_BDG_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Beschwöre flammende Schwerter, die den Träger schützen und Gegnern bei Berührung Schaden zufügen. Es besteht die Chance, den Gegner <CRE>schwer zu verbrennen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Packe das Ziel und <CRE>lass es mehrmals auf den Boden aufschlagen</C>. Getroffene Gegner werden <CRE>zurückgestoßen</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0312>"
+	},
+	{
+		"name": "ITM_BDG_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>1 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>5 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>10 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>50 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>100 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>500 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>1.000 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>5.000 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>10.000 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt sich für <CRE>100.000 <MK_YEN></C> verkaufen."
+	},
+	{
+		"name": "ITM_BDG_Info_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin ist ein roter Edelstein eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind zwei orange Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind drei gelbe Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind vier grüne Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind fünf hellblaue Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind sechs blaue Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "In diesen Pin sind sieben lila Edelsteine eingesetzt. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Pin, der an die Welt der Erinnerungen erinnert. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Pin, der an eine vergängliche Welt erinnert. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Pin, der an eine ungesehene Welt erinnert. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	},
+	{
+		"name": "ITM_BDG_Info_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Pin, der an eine multidimensionale Welt erinnert. Es gibt einen Laden, wo du ihn gegen <CRE>Gegenstände</C> eintauschen kannst."
+	}
+]
+}

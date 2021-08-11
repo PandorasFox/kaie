@@ -1,0 +1,520 @@
+{
+"columns":[
+	{
+		"name": "ENM_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Ennemi"
+	},
+	{
+		"name": "ENM_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzli pogo"
+	},
+	{
+		"name": "ENM_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzli circle pit"
+	},
+	{
+		"name": "ENM_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzli métalleux"
+	},
+	{
+		"name": "ENM_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Corbeau décadent"
+	},
+	{
+		"name": "ENM_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Corbeau revenant"
+	},
+	{
+		"name": "ENM_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Corbeau néfaste"
+	},
+	{
+		"name": "ENM_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenouille dixie"
+	},
+	{
+		"name": "ENM_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenouille bigband"
+	},
+	{
+		"name": "ENM_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenouille funk"
+	},
+	{
+		"name": "ENM_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenouille tradi"
+	},
+	{
+		"name": "ENM_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Loup rave"
+	},
+	{
+		"name": "ENM_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Loup indé"
+	},
+	{
+		"name": "ENM_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Loup grunge"
+	},
+	{
+		"name": "ENM_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Méduse madchester"
+	},
+	{
+		"name": "ENM_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Méduse techno"
+	},
+	{
+		"name": "ENM_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Méduse néocoustique"
+	},
+	{
+		"name": "ENM_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Méduse folk"
+	},
+	{
+		"name": "ENM_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Rhino house"
+	},
+	{
+		"name": "ENM_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Rhino minimal"
+	},
+	{
+		"name": "ENM_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Rhino dub"
+	},
+	{
+		"name": "ENM_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Requin swing"
+	},
+	{
+		"name": "ENM_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Requin bebop"
+	},
+	{
+		"name": "ENM_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Requin jazz"
+	},
+	{
+		"name": "ENM_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Pachyderme rock"
+	},
+	{
+		"name": "ENM_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Mammouth RnB"
+	},
+	{
+		"name": "ENM_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Laineux AOR"
+	},
+	{
+		"name": "ENM_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Pingouin J-Pop"
+	},
+	{
+		"name": "ENM_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Pingouin électro"
+	},
+	{
+		"name": "ENM_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Pingouin britpop"
+	},
+	{
+		"name": "ENM_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Poisson-proto"
+	},
+	{
+		"name": "ENM_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Poisson-oi"
+	},
+	{
+		"name": "ENM_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Poisson-emo"
+	},
+	{
+		"name": "ENM_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Poisson-hardcore"
+	},
+	{
+		"name": "ENM_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Crunk 'n' scorpion"
+	},
+	{
+		"name": "ENM_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Drum 'n' scorpion"
+	},
+	{
+		"name": "ENM_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Drill 'n' scorpion"
+	},
+	{
+		"name": "ENM_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Hardtechnoléon"
+	},
+	{
+		"name": "ENM_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Houseléon"
+	},
+	{
+		"name": "ENM_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Tropicaléon"
+	},
+	{
+		"name": "ENM_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Distortius rex"
+	},
+	{
+		"name": "ENM_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Phasaurus rex"
+	},
+	{
+		"name": "ENM_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Maximizaurus rex"
+	},
+	{
+		"name": "ENM_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon samba"
+	},
+	{
+		"name": "ENM_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon mazurka"
+	},
+	{
+		"name": "ENM_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Porco doble"
+	},
+	{
+		"name": "ENM_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Porcco dooble"
+	},
+	{
+		"name": "ENM_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon carole"
+	},
+	{
+		"name": "ENM_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon cha-cha-cha"
+	},
+	{
+		"name": "ENM_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon valse"
+	},
+	{
+		"name": "ENM_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon jive"
+	},
+	{
+		"name": "ENM_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon boléro"
+	},
+	{
+		"name": "ENM_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochon mambo"
+	},
+	{
+		"name": "ENM_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers"
+	},
+	{
+		"name": "ENM_Name_0301s",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers frénétique"
+	},
+	{
+		"name": "ENM_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart"
+	},
+	{
+		"name": "ENM_Name_0302s",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart frénétique"
+	},
+	{
+		"name": "ENM_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty"
+	},
+	{
+		"name": "ENM_Name_0303s",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty frénétique"
+	},
+	{
+		"name": "ENM_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenouille pestiférée"
+	},
+	{
+		"name": "ENM_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzli pestiféré"
+	},
+	{
+		"name": "ENM_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Scorpion pestiféré"
+	},
+	{
+		"name": "ENM_Name_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Méduse pestiférée"
+	},
+	{
+		"name": "ENM_Name_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Loup pestiféré"
+	},
+	{
+		"name": "ENM_Name_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Pachyderme pestiféré"
+	},
+	{
+		"name": "ENM_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Batrakos pestiféré"
+	},
+	{
+		"name": "ENM_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemopilema pestiférée"
+	},
+	{
+		"name": "ENM_Name_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Beringei go-go"
+	},
+	{
+		"name": "ENM_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuya"
+	},
+	{
+		"name": "ENM_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Motoi"
+	},
+	{
+		"name": "ENM_Name_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "M. Miaou"
+	},
+	{
+		"name": "ENM_Name_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "M. Miaou"
+	},
+	{
+		"name": "ENM_Name_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus grus"
+	},
+	{
+		"name": "ENM_Name_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus iris"
+	},
+	{
+		"name": "ENM_Name_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus cervus"
+	},
+	{
+		"name": "ENM_Name_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus leo armo"
+	},
+	{
+		"name": "ENM_Name_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "ENM_Name_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Pulvis animae"
+	},
+	{
+		"name": "ENM_Name_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus phoenix"
+	},
+	{
+		"name": "ENM_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus cervus α"
+	},
+	{
+		"name": "ENM_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus grus α"
+	},
+	{
+		"name": "ENM_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus iris α"
+	},
+	{
+		"name": "ENM_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba α"
+	},
+	{
+		"name": "ENM_Name_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantus felidae"
+	}
+]
+}

@@ -1,0 +1,1312 @@
+{
+"columns":[
+	{
+		"name": "ABL_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Appunti sulle abilità"
+	},
+	{
+		"name": "ABL_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco."
+	},
+	{
+		"name": "ABL_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco."
+	},
+	{
+		"name": "ABL_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco."
+	},
+	{
+		"name": "ABL_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco di Shoka quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco di Beat quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente l'Attacco di Beat quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente l'Attacco di Neku quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente l'Attacco di Minamimoto quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco quando al nemico restano PF elevati."
+	},
+	{
+		"name": "ABL_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando al nemico restano PF elevati."
+	},
+	{
+		"name": "ABL_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco quando si è in inferiorità."
+	},
+	{
+		"name": "ABL_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si è in inferiorità."
+	},
+	{
+		"name": "ABL_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente l'Attacco quando si affronta un solo nemico."
+	},
+	{
+		"name": "ABL_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando i PF della squadra sono al massimo."
+	},
+	{
+		"name": "ABL_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si è in pericolo mortale."
+	},
+	{
+		"name": "ABL_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco quando Neku l'indossa mentre è in pericolo mortale."
+	},
+	{
+		"name": "ABL_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco, ma mette la squadra in <CRE>pericolo mortale</C> all'inizio della battaglia."
+	},
+	{
+		"name": "ABL_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0028>"
+	},
+	{
+		"name": "ABL_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente il tempo d'uso e il conteggio delle spille."
+	},
+	{
+		"name": "ABL_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tempo d'uso e il conteggio delle spille."
+	},
+	{
+		"name": "ABL_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Le spille si riattivano un po' più velocemente."
+	},
+	{
+		"name": "ABL_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Le spille si riattivano più velocemente."
+	},
+	{
+		"name": "ABL_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Gli psico si caricano un po' più velocemente."
+	},
+	{
+		"name": "ABL_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0036>"
+	},
+	{
+		"name": "ABL_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0037>"
+	},
+	{
+		"name": "ABL_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0038>"
+	},
+	{
+		"name": "ABL_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0039>"
+	},
+	{
+		"name": "ABL_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0040>"
+	},
+	{
+		"name": "ABL_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0041>"
+	},
+	{
+		"name": "ABL_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Fuoco."
+	},
+	{
+		"name": "ABL_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Ghiaccio."
+	},
+	{
+		"name": "ABL_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità all'Elettricità."
+	},
+	{
+		"name": "ABL_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Vento."
+	},
+	{
+		"name": "ABL_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità all'Acqua."
+	},
+	{
+		"name": "ABL_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità alla Pietra."
+	},
+	{
+		"name": "ABL_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Tempo."
+	},
+	{
+		"name": "ABL_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Suono."
+	},
+	{
+		"name": "ABL_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità all'Oscurità."
+	},
+	{
+		"name": "ABL_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità alla Luce."
+	},
+	{
+		"name": "ABL_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità alla Cinesi."
+	},
+	{
+		"name": "ABL_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità allo Scoppio."
+	},
+	{
+		"name": "ABL_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità alla Gravità."
+	},
+	{
+		"name": "ABL_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille con affinità al Veleno."
+	},
+	{
+		"name": "ABL_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Top o' Topo."
+	},
+	{
+		"name": "ABL_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Joli bécot."
+	},
+	{
+		"name": "ABL_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Tigre PUNKS."
+	},
+	{
+		"name": "ABL_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Cony×Cony."
+	},
+	{
+		"name": "ABL_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand RyuGu."
+	},
+	{
+		"name": "ABL_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand garagara."
+	},
+	{
+		"name": "ABL_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand IL CAVALLO DEL RE."
+	},
+	{
+		"name": "ABL_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Shepherd House."
+	},
+	{
+		"name": "ABL_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Jupiter of the Monkey."
+	},
+	{
+		"name": "ABL_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand MONOCROW."
+	},
+	{
+		"name": "ABL_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand NATURAL PUPPY."
+	},
+	{
+		"name": "ABL_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand HOG FANG."
+	},
+	{
+		"name": "ABL_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand Gatto Nero."
+	},
+	{
+		"name": "ABL_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza delle spille del brand croaky panic."
+	},
+	{
+		"name": "ABL_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Top o' Topo."
+	},
+	{
+		"name": "ABL_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Joli bécot."
+	},
+	{
+		"name": "ABL_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Tigre PUNKS."
+	},
+	{
+		"name": "ABL_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Cony×Cony."
+	},
+	{
+		"name": "ABL_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo RyuGu."
+	},
+	{
+		"name": "ABL_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo garagara."
+	},
+	{
+		"name": "ABL_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo IL CAVALLO DEL RE."
+	},
+	{
+		"name": "ABL_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Shepherd House."
+	},
+	{
+		"name": "ABL_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Jupiter of the Monkey."
+	},
+	{
+		"name": "ABL_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo MONOCROW."
+	},
+	{
+		"name": "ABL_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo NATURAL PUPPY."
+	},
+	{
+		"name": "ABL_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo HOG FANG."
+	},
+	{
+		"name": "ABL_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo Gatto Nero."
+	},
+	{
+		"name": "ABL_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo croaky panic."
+	},
+	{
+		"name": "ABL_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa."
+	},
+	{
+		"name": "ABL_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa."
+	},
+	{
+		"name": "ABL_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa."
+	},
+	{
+		"name": "ABL_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa di Rindo quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa di Fret quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa di Shoka quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa di Nagi quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa di Beat quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente la Difesa di Beat quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente la Difesa di Neku quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente la Difesa di Minamimoto quando l'indossa."
+	},
+	{
+		"name": "ABL_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa quando si è in pericolo mortale."
+	},
+	{
+		"name": "ABL_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa quando Rindo l'indossa mentre è in pericolo mortale."
+	},
+	{
+		"name": "ABL_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la Difesa quando si è in inferiorità."
+	},
+	{
+		"name": "ABL_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la Difesa quando si è in inferiorità."
+	},
+	{
+		"name": "ABL_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la Difesa, ma la <CRE>Sazietà cala più lentamente</C>."
+	},
+	{
+		"name": "ABL_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente i PF."
+	},
+	{
+		"name": "ABL_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta i PF."
+	},
+	{
+		"name": "ABL_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente i PF."
+	},
+	{
+		"name": "ABL_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente i PF."
+	},
+	{
+		"name": "ABL_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Rindo l'indossa, i PF della squadra aumentano."
+	},
+	{
+		"name": "ABL_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Rindo l'indossa, i PF della squadra aumentano notevolmente."
+	},
+	{
+		"name": "ABL_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Rindo l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Shoka l'indossa, i PF della squadra aumentano."
+	},
+	{
+		"name": "ABL_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Shoka l'indossa, i PF della squadra aumentano notevolmente."
+	},
+	{
+		"name": "ABL_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Fret l'indossa, i PF della squadra aumentano."
+	},
+	{
+		"name": "ABL_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Fret l'indossa, i PF della squadra aumentano notevolmente."
+	},
+	{
+		"name": "ABL_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Fret l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Nagi l'indossa, i PF della squadra aumentano leggermente."
+	},
+	{
+		"name": "ABL_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Nagi l'indossa, i PF della squadra aumentano."
+	},
+	{
+		"name": "ABL_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Nagi l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Beat l'indossa, i PF della squadra aumentano notevolmente."
+	},
+	{
+		"name": "ABL_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Beat l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Neku l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Minamimoto l'indossa, i PF della squadra aumentano."
+	},
+	{
+		"name": "ABL_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Minamimoto l'indossa, i PF della squadra aumentano enormemente."
+	},
+	{
+		"name": "ABL_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "In battaglia, ripristina regolarmente una piccola quantità di PF alla squadra."
+	},
+	{
+		"name": "ABL_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "In battaglia, ripristina regolarmente PF alla squadra."
+	},
+	{
+		"name": "ABL_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "In battaglia, ripristina regolarmente una grande quantità di PF."
+	},
+	{
+		"name": "ABL_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Infliggere danno ripristina una piccola quantità di PF alla squadra. L'ammontare ripristinato è relativo al danno causato."
+	},
+	{
+		"name": "ABL_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Infliggere danno ripristina PF alla squadra. L'ammontare ripristinato è relativo al danno causato."
+	},
+	{
+		"name": "ABL_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Sconfiggere un nemico con uno psico ripristina una piccola quantità di PF alla squadra. L'ammontare ripristinato è relativo ai PF dell'avversario."
+	},
+	{
+		"name": "ABL_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente i PF ripristinati."
+	},
+	{
+		"name": "ABL_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta i PF ripristinati."
+	},
+	{
+		"name": "ABL_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente i PF ripristinati."
+	},
+	{
+		"name": "ABL_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta enormemente i PF ripristinati."
+	},
+	{
+		"name": "ABL_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tasso di ritrovamento di 1."
+	},
+	{
+		"name": "ABL_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tasso di ritrovamento di 3."
+	},
+	{
+		"name": "ABL_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tasso di ritrovamento di 5."
+	},
+	{
+		"name": "ABL_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Rindo l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Shoka l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Fret l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Nagi l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Beat l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Neku l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Quando Minamimoto l'indossa, il tasso di ritrovamento aumenta di 5."
+	},
+	{
+		"name": "ABL_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Il tasso di ritrovamento aumenta di 20, ma <CRE>la squadra non guadagna PS ed ESP</C>."
+	},
+	{
+		"name": "ABL_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Il tasso di ritrovamento aumenta di 15, ma <CRE>la Sazietà cala più lentamente</C>."
+	},
+	{
+		"name": "ABL_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di ESP ottenuta."
+	},
+	{
+		"name": "ABL_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di PS ottenuti."
+	},
+	{
+		"name": "ABL_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di ESP e PS ottenuti."
+	},
+	{
+		"name": "ABL_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di ESP e PS ottenuti, ma mette la squadra in <CRE>pericolo mortale</C> all'inizio della battaglia."
+	},
+	{
+		"name": "ABL_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "La squadra <CRE>non ottiene ESP</C>."
+	},
+	{
+		"name": "ABL_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "La squadra <CRE>non ottiene PS</C>."
+	},
+	{
+		"name": "ABL_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Dopo una battaglia, il Livello VIP aumenta un po' di più."
+	},
+	{
+		"name": "ABL_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la durata degli stati bruciato, folgorato e avvelenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la durata degli stati bruciato, folgorato e avvelenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la durata degli stati bruciato, folgorato e avvelenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la frequenza con cui gli psico immobilizzano i nemici."
+	},
+	{
+		"name": "ABL_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la frequenza con cui gli psico immobilizzano i nemici."
+	},
+	{
+		"name": "ABL_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la frequenza con cui gli psico immobilizzano i nemici."
+	},
+	{
+		"name": "ABL_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la frequenza con cui gli psico infliggono effetti di stato negativi."
+	},
+	{
+		"name": "ABL_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la frequenza con cui gli psico infliggono effetti di stato negativi."
+	},
+	{
+		"name": "ABL_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la frequenza con cui gli psico infliggono effetti di stato negativi."
+	},
+	{
+		"name": "ABL_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la durata dello stato stordito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la durata dello stato stordito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la durata dello stato stordito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la durata dello stato incatenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la durata dello stato incatenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la durata dello stato incatenato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la durata dello stato congelato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la durata dello stato congelato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la durata dello stato congelato dei nemici."
+	},
+	{
+		"name": "ABL_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente la durata dello stato seppellito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la durata dello stato seppellito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente la durata dello stato seppellito dei nemici."
+	},
+	{
+		"name": "ABL_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce i danni subiti mentre si brucia."
+	},
+	{
+		"name": "ABL_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce i danni subiti mentre si è folgorati."
+	},
+	{
+		"name": "ABL_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce i danni subiti mentre si è avvelenati."
+	},
+	{
+		"name": "ABL_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocità di movimento durante il combattimento."
+	},
+	{
+		"name": "ABL_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Previene la Respinta quando colpito dagli attacchi nemici."
+	},
+	{
+		"name": "ABL_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Se la squadra ha abbastanza PF, sopravvive a un attacco fatale con 1 PF."
+	},
+	{
+		"name": "ABL_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Talvolta chi l'indossa schiva automaticamente se attaccato durante l'utilizzo di uno psico."
+	},
+	{
+		"name": "ABL_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Chi l'indossa subisce danni leggermente ridotti se non è controllato direttamente."
+	},
+	{
+		"name": "ABL_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Chi l'indossa subisce danni ridotti se non è controllato direttamente."
+	},
+	{
+		"name": "ABL_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Chi l'indossa subisce danni notevolmente ridotti se non è controllato direttamente."
+	},
+	{
+		"name": "ABL_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce leggermente la durata dell'atterramento di chi l'indossa."
+	},
+	{
+		"name": "ABL_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce la durata dell'atterramento di chi l'indossa."
+	},
+	{
+		"name": "ABL_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Accelera notevolmente il calo della Sazietà, ma <CRE>riduce notevolmente l'Attacco</C>."
+	},
+	{
+		"name": "ABL_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Accelera leggermente il calo della Sazietà."
+	},
+	{
+		"name": "ABL_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Accelera il calo della Sazietà."
+	},
+	{
+		"name": "ABL_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente il tempo limite delle battaglie contro i Rumori Maiale."
+	},
+	{
+		"name": "ABL_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "Evita di iniziare battaglie entrando in contatto con i simboli dei Rumori."
+	},
+	{
+		"name": "ABL_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente il tempo utile per le combo Beatdrop."
+	},
+	{
+		"name": "ABL_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta leggermente il Groove quando si mette a segno una combo Beatdrop."
+	},
+	{
+		"name": "ABL_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza dei Killer Remix."
+	},
+	{
+		"name": "ABL_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Mostra quanto tempo è trascorso in battaglia."
+	},
+	{
+		"name": "ABL_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Sferra una rapida mossa finale quando attacchi un nemico alle spalle."
+	},
+	{
+		"name": "ABL_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Sferra una rapida mossa finale quando attacchi un nemico atterrato."
+	},
+	{
+		"name": "ABL_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Sferra una rapida mossa finale quando attacchi un nemico respinto."
+	},
+	{
+		"name": "ABL_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Sferra un attacco consecutivo multiplo contro i nemici scagliati in aria."
+	},
+	{
+		"name": "ABL_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0210>"
+	},
+	{
+		"name": "ABL_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0211>"
+	},
+	{
+		"name": "ABL_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ABL_Info_0213>"
+	},
+	{
+		"name": "ABL_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco quando il nemico è in aria."
+	},
+	{
+		"name": "ABL_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco quando il nemico è immobilizzato."
+	},
+	{
+		"name": "ABL_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta notevolmente l'Attacco quando al nemico restano pochi PF."
+	},
+	{
+		"name": "ABL_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il Groove quando si mette a segno una combo."
+	},
+	{
+		"name": "ABL_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta incredibilmente l'Attacco quando tutte e sei le spille sono indossate insieme."
+	},
+	{
+		"name": "ABL_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Ripristina una grande quantità di PF alla squadra in base al danno inflitto, ma solo quando tutte e quattro le spille sono indossate simultaneamente."
+	},
+	{
+		"name": "ABL_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta immensamente l'Attacco quando tutte e tre le spille sono indossate insieme."
+	},
+	{
+		"name": "ABL_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocità di riattivazione quando Non cambiare mai e Sentiti bene con te sono indossate insieme."
+	},
+	{
+		"name": "ABL_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si usa FuJin・Burrasca contro un nemico incatenato con RaiJin・Impeto."
+	},
+	{
+		"name": "ABL_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocità d'attacco e il danno inflitto quando Tenka Juzumaru e Tenka Mikazuki sono indossate insieme."
+	},
+	{
+		"name": "ABL_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si usa Relatività assoluta contro un nemico atterrato da Assoluto relativo."
+	},
+	{
+		"name": "ABL_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la velocità di riattivazione quando Guaritore HOG e Difensore FANG sono indossate insieme."
+	},
+	{
+		"name": "ABL_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si usa Pugno con carica E contro un nemico vincolato da Tranello E."
+	},
+	{
+		"name": "ABL_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta l'Attacco quando si usa Panico tra i kappa contro un nemico attirato da Panico tra i kappa d'oro."
+	},
+	{
+		"name": "ABL_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta le statistiche dell'abbigliamento se si indossa solo BLACK HONEY CHILI COOKIE (B.H.C.C)."
+	},
+	{
+		"name": "ABL_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "La barra della spilla si riempie più velocemente se non si usano psico per un periodo prolungato."
+	},
+	{
+		"name": "ABL_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Attiva un Beatdrop quando si respinge un nemico seppellito o congelato."
+	}
+]
+}

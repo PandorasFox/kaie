@@ -1,0 +1,520 @@
+{
+"columns":[
+	{
+		"name": "ENM_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Gegner"
+	},
+	{
+		"name": "ENM_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Moshpit-Grizzly"
+	},
+	{
+		"name": "ENM_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Circlepit-Grizzly"
+	},
+	{
+		"name": "ENM_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Headbanger-Grizzly"
+	},
+	{
+		"name": "ENM_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Dekadrabe"
+	},
+	{
+		"name": "ENM_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Ôstarunrabe"
+	},
+	{
+		"name": "ENM_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Unheilsrabe"
+	},
+	{
+		"name": "ENM_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Dixiefrosch"
+	},
+	{
+		"name": "ENM_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Bigbandfrosch"
+	},
+	{
+		"name": "ENM_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Funkfrosch"
+	},
+	{
+		"name": "ENM_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Folklorefrosch"
+	},
+	{
+		"name": "ENM_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Garage-Wolf"
+	},
+	{
+		"name": "ENM_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Indie-Wolf"
+	},
+	{
+		"name": "ENM_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Grunge-Wolf"
+	},
+	{
+		"name": "ENM_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Madchester-Qualle"
+	},
+	{
+		"name": "ENM_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Swechno-Qualle"
+	},
+	{
+		"name": "ENM_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Neokustik-Qualle"
+	},
+	{
+		"name": "ENM_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Krautrock-Qualle"
+	},
+	{
+		"name": "ENM_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "House-Horn"
+	},
+	{
+		"name": "ENM_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Minimal-Horn"
+	},
+	{
+		"name": "ENM_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Dub-Horn"
+	},
+	{
+		"name": "ENM_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Swing-Hai"
+	},
+	{
+		"name": "ENM_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Bebop-Hai"
+	},
+	{
+		"name": "ENM_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Jazz-Hai"
+	},
+	{
+		"name": "ENM_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "R&R-Mammut"
+	},
+	{
+		"name": "ENM_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "R&B-Mammut"
+	},
+	{
+		"name": "ENM_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "AOR-Mammut"
+	},
+	{
+		"name": "ENM_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "J-Popguin"
+	},
+	{
+		"name": "ENM_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektro-Popguin"
+	},
+	{
+		"name": "ENM_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Brit-Popguin"
+	},
+	{
+		"name": "ENM_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Proto-Kugelfisch"
+	},
+	{
+		"name": "ENM_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Punkugelfisch"
+	},
+	{
+		"name": "ENM_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Emo-Kugelfisch"
+	},
+	{
+		"name": "ENM_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Hardcore-Kugelfisch"
+	},
+	{
+		"name": "ENM_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Breaker-Skorpion"
+	},
+	{
+		"name": "ENM_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Drummer-Skorpion"
+	},
+	{
+		"name": "ENM_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Driller-Skorpion"
+	},
+	{
+		"name": "ENM_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Hardtechnoleon"
+	},
+	{
+		"name": "ENM_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Houseleon"
+	},
+	{
+		"name": "ENM_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Tropicaleon"
+	},
+	{
+		"name": "ENM_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Verzerrosaurus Rex"
+	},
+	{
+		"name": "ENM_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Phasaurus Rex"
+	},
+	{
+		"name": "ENM_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Maximosaurus Rex"
+	},
+	{
+		"name": "ENM_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Samba-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Mazurka-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Porco Doble"
+	},
+	{
+		"name": "ENM_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Borko Tople"
+	},
+	{
+		"name": "ENM_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Sternsinger-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Cha-Cha-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Walzer-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Jive-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolero-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Mambo-Grunzer"
+	},
+	{
+		"name": "ENM_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep-Rivers-Mitglied"
+	},
+	{
+		"name": "ENM_Name_0301s",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufgedrehtes Deep-Rivers-Society-Mitglied"
+	},
+	{
+		"name": "ENM_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart"
+	},
+	{
+		"name": "ENM_Name_0302s",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufgedrehtes Purehearts-Mitglied"
+	},
+	{
+		"name": "ENM_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty"
+	},
+	{
+		"name": "ENM_Name_0303s",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufgedrehtes Variabeautys-Mitglied"
+	},
+	{
+		"name": "ENM_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenfrosch"
+	},
+	{
+		"name": "ENM_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchen-Grizzly"
+	},
+	{
+		"name": "ENM_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenskorpion"
+	},
+	{
+		"name": "ENM_Name_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenqualle"
+	},
+	{
+		"name": "ENM_Name_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenwolf"
+	},
+	{
+		"name": "ENM_Name_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenmammut"
+	},
+	{
+		"name": "ENM_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchenkröte"
+	},
+	{
+		"name": "ENM_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchen-Nemopilema"
+	},
+	{
+		"name": "ENM_Name_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Go-Go-Gorilla"
+	},
+	{
+		"name": "ENM_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuya"
+	},
+	{
+		"name": "ENM_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Motoi"
+	},
+	{
+		"name": "ENM_Name_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Miau"
+	},
+	{
+		"name": "ENM_Name_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Miau"
+	},
+	{
+		"name": "ENM_Name_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus Cantus"
+	},
+	{
+		"name": "ENM_Name_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris Cantus"
+	},
+	{
+		"name": "ENM_Name_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus Cantus"
+	},
+	{
+		"name": "ENM_Name_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Leo Cantus Armo"
+	},
+	{
+		"name": "ENM_Name_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "ENM_Name_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Seelen-Pulvis"
+	},
+	{
+		"name": "ENM_Name_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Phoenix Cantus"
+	},
+	{
+		"name": "ENM_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus Cantus α"
+	},
+	{
+		"name": "ENM_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus Cantus α"
+	},
+	{
+		"name": "ENM_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris Cantus α"
+	},
+	{
+		"name": "ENM_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba α"
+	},
+	{
+		"name": "ENM_Name_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Felidae Cantus"
+	}
+]
+}

@@ -1,0 +1,502 @@
+{
+"columns":[
+	{
+		"name": "ENM_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Noise-Info"
+	},
+	{
+		"name": "ENM_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein bärenartiges Noise mit gewaltigen Pranken. Wenn es dich erwischt, trägst du mehr als nur ein paar Kratzer davon."
+	},
+	{
+		"name": "ENM_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Nimm die Beine in die Hand, wenn du dieses Noise heulen hörst. Es ist flink und greift dich an, bevor du weißt, wie dir geschieht."
+	},
+	{
+		"name": "ENM_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Das stärkste bärenartige Noise. Dieser furchterregende Gegner rammt seine Pranken in den Boden und entfesselt eine Rundum-Schockwelle. Reißt es die Vorderbeine nach oben, solltest du weit weg sein."
+	},
+	{
+		"name": "ENM_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein gemeines krähenartiges Noise, das seine Gegner mit dem Schnabel attackiert. In seiner Hackordnung stehst du ganz unten."
+	},
+	{
+		"name": "ENM_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein kräftiges Noise, das seine Opfer mit seinen harten Krallen packt. Gerät ein Verbündeter in den eisernen Griff des Ôstarunraben, musst du ihn mit schlagkräftigen Argumenten befreien."
+	},
+	{
+		"name": "ENM_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein fieses Noise, das aus der Entfernung messerscharfe Federn schleudert, ahnungslose Gegner einfängt und seine Gefährten unterstützt. Im Kampf solltest du diese Nervensäge auslöschen, bevor sie zu einer echten Plage wird."
+	},
+	{
+		"name": "ENM_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein sanftmütiges froschartiges Noise, dessen Stimmung bei Gefahr schnell kippen kann. Doch keine Sorge – das Gequake klingt schlimmer, als es ist."
+	},
+	{
+		"name": "ENM_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Mit diesem Noise ist nicht zu spaßen. Es lässt tödliche Blasen fliegen, die eine Weile in der Luft schweben. Weiche ihnen unbedingt aus!"
+	},
+	{
+		"name": "ENM_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Noise trampelt alles nieder, was ihm im Weg steht. Geh lieber beiseite, wenn es losstampft, sonst wirst du geplättet."
+	},
+	{
+		"name": "ENM_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Der König der Frösche. Dieses unheilvolle Noise verschießt gemeinsam mit seinen amphibischen Kollegen Wasserstrahlen und unterstützt sie. Es erzeugt mehr Wasserblasen als andere Frösche und kann auch kräftig stampfen. Hier siehst du, wo der Frosch die Locken hat."
+	},
+	{
+		"name": "ENM_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein hundeartiges Noise, das auf der Suche nach Beute wild umherjagt. Hat es dich mit seinen Kiefern gepackt, stürzt sich bald der Rest des Rudels auf dich. Es ist ratsam, vor deinem Angriff abzuwarten, bis es langsamer wird."
+	},
+	{
+		"name": "ENM_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein hundeartiges Noise, das eine feurige Spur hinterlässt. Setze ein Psych ein und halte es auf, ehe du von Flammen umzingelt wirst."
+	},
+	{
+		"name": "ENM_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Alpha-Noise. Dieses hundeartige Noise ist zu schnell für das menschliche Auge. Mache es unschädlich, solange du kannst."
+	},
+	{
+		"name": "ENM_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein quallenartiges Noise, das in der Luft schwebt und sich fortwährend vervielfältigt. Lerne, die Klone zu erkennen, und greife stattdessen das Original an."
+	},
+	{
+		"name": "ENM_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein raubtierhaftes Noise, das sich mit einem Elektroschock an seine Opfer klammert. Lass nicht zu, dass es sich vermehrt und noch mehr Schaden anrichtet."
+	},
+	{
+		"name": "ENM_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein ganz besonders fieses Noise mit giftigen Tentakeln. Wenn es um sich schlägt, sind Fernangriffe die bessere Strategie."
+	},
+	{
+		"name": "ENM_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein lästiges Noise, das sich selbst klonen kann. Solltest du Bekanntschaft mit diesen Quälgeistern machen, dann lösche sie umgehend aus."
+	},
+	{
+		"name": "ENM_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses aggressive Noise geht sofort auf alle Gegner los. Seine harte Kopfhaut ist wie ein undurchdringlicher Schild."
+	},
+	{
+		"name": "ENM_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Noise ist so wild, dass seine Tobsuchtsanfälle Staubwolken aufwirbeln. Bleib wachsam – auch, wenn du dich sicher wähnst."
+	},
+	{
+		"name": "ENM_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Das wildeste und härteste der nashornartigen Noise. Mit seinem mächtigen Horn kann es sich schützen und gefährliche Angriffe starten. Von Frontalangriffen ist dringend abzuraten."
+	},
+	{
+		"name": "ENM_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein listiges haiähnliches Noise, das unter der Erde schwimmt. Angriffe auf seine Flosse haben kaum Aussicht auf Erfolg, also warte, bis es auftaucht."
+	},
+	{
+		"name": "ENM_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese gewaltigen Monster tauchen schlagartig auf und verschlingen Beute mit ihren riesigen Mäulern. Versuche, ihren Angriffen auszuweichen, bevor du einen Gegenangriff startest."
+	},
+	{
+		"name": "ENM_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Noise kann mit seinen Sprungangriffen großen Schaden anrichten. Allerdings muss es dafür längere Zeit auftauchen, was es verwundbar macht. Aber Vorsicht: Wo es landet, schlägt es gewaltige Wellen."
+	},
+	{
+		"name": "ENM_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Noise, das seine Behäbigkeit durch einen tödlichen Laserstrahl mit hoher Reichweite wettmacht. Vor diesem Gegner kann man sich nicht verstecken."
+	},
+	{
+		"name": "ENM_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese wilden Tiere reagieren auf Gefahr mit wütendem Stampfen und gewaltigen, tödlichen Schockwellen."
+	},
+	{
+		"name": "ENM_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser furchterregende Gegner gleicht einer wandelnden Kanone. Er lauert seiner Beute auf und bombardiert sie mit Laserstrahlen. Hat dich dieses Noise im Visier, hat dein letztes Stündlein geschlagen."
+	},
+	{
+		"name": "ENM_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Tierchen sind nur solange niedlich, bis sie in Massen über dich herfallen. Wenn du es mit einer Gruppe zu tun hast, musst du jedes einzelne im Auge behalten."
+	},
+	{
+		"name": "ENM_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Da sie in disziplinierten Formationen angreifen, sind diese Gegner besonders gefährlich. Mach dich bereit, wenn sie ihre Aufstellung einnehmen."
+	},
+	{
+		"name": "ENM_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein herrisches Noise, das seine Untergebenen im Kampf herumkommandiert. Solange es auf dem Schlachtfeld verweilt, stärkt es außerdem seine Verbündeten."
+	},
+	{
+		"name": "ENM_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Nervige fischartige Gegner, die explodieren, wenn sie besiegt werden – oder auch von ganz allein. Die Druckwellen können auch andere Noise verletzen."
+	},
+	{
+		"name": "ENM_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein kratzbürstiges Noise, das Stacheln in alle Richtungen verschießt. Vorsicht ist geboten, da es zum Abschied explodiert."
+	},
+	{
+		"name": "ENM_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses feige Noise feuert Giftstacheln aus der Distanz. Sei besonders vorsichtig, denn es fährt zusätzlich auch Stacheln an seinem Körper aus."
+	},
+	{
+		"name": "ENM_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Das stärkste Kugelfisch-Noise. Es bläht sich immens auf, um Gegner einzuschüchtern. Seine Stacheln fliegen dann noch weiter und die Explosion verursacht noch größeren Schaden."
+	},
+	{
+		"name": "ENM_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses übellaunige Noise piesackt Gegner mit seinen Scheren oder sticht mit seiner Schwanzspitze zu. Bei beiden Angriffen kommt Gift zum Einsatz."
+	},
+	{
+		"name": "ENM_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein finsteres Noise, dessen Schwanz Giftgas freisetzt. Seine Scheren sind hingegen verkümmert und stellen keine echte Gefahr dar."
+	},
+	{
+		"name": "ENM_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses tödliche Noise kann Gegner mit seinen Scheren töten, sie mit Gas vergiften oder mit dem Schwanz fangen. Halte genug Gegengift bereit, wenn du es mit einem dieser Biester aufnimmst."
+	},
+	{
+		"name": "ENM_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein schwer auszumachendes Noise, das mit seiner Umgebung verschmilzt. Wenn du ein verräterisches Fadenkreuz entdeckst, hat es dich im Visier."
+	},
+	{
+		"name": "ENM_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Wesen erledigt seine Gegner aus der Distanz. Wenn seine Augen funkeln, ist der Moment zum Angriff gekommen."
+	},
+	{
+		"name": "ENM_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Noise heilt Verbündete und sich selbst, wenn es seine Gefährten mit seiner kuriosen Zunge ableckt. Wenn du einen endlosen Kampf vermeiden willst, solltest du es schnell beseitigen."
+	},
+	{
+		"name": "ENM_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein tödliches dinosaurierartiges Noise. Neigt bei erfolgreichen Treffern zu Tobsuchtsanfällen. Seine Bewegungen deuten die schwindende Beherrschung allerdings an, sodass du genug Zeit für Gegenmaßnahmen hast."
+	},
+	{
+		"name": "ENM_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein unheilvolles Noise, das gelernt hat, seinen Schwanz als Waffe einzusetzen. Achte auf seine Tobsuchtsanfälle, da es dann besonders schnell wird."
+	},
+	{
+		"name": "ENM_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Schon das Gebrüll dieser fürchterlichen Kreatur richtet Schaden an. Bei Tobsuchtsanfällen wird dieser Angriff noch tödlicher, da sich die Reichweite dann auf das gesamte Schlachtfeld erstreckt."
+	},
+	{
+		"name": "ENM_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein harmloses schweineartiges Noise. <CRE>Mach es alle, bevor die Zeit abläuft</C>, sonst türmt es vom Schlachtfeld."
+	},
+	{
+		"name": "ENM_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Hochadel in Schweinekultur. Wer dieses königliche Borstenvieh erledigen will, <CRE>muss schwere Geschütze auffahren</C>."
+	},
+	{
+		"name": "ENM_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Nur wenige Angriffe können diesem goldenen Schweinchen etwas anhaben. Aber <CRE>wenn du es unablässig angreifst</C>, wirst du es schließlich auslöschen."
+	},
+	{
+		"name": "ENM_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Noise sieht nur auf den ersten Blick wertvoll aus. Ist der Lack ab, <CRE>löscht sich dieser Schaumschläger quasi von selbst aus</C>."
+	},
+	{
+		"name": "ENM_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Schweinchen <CRE>können nur durch Angriffe mit ihrer Affinität verletzt werden</C>. Jedes Noise hat jedoch seine eigene, also pack eine Menge Psychs ein."
+	},
+	{
+		"name": "ENM_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine seltsame Kreatur, die sich nicht entscheiden kann, ob sie sich klonen will oder nicht. Du solltest einen <CRE>Flächenangriff auf dieses Schwein und seine Klone starten, bevor sie wieder zusammenfinden</C>."
+	},
+	{
+		"name": "ENM_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein hartnäckiges Vieh, das die Farbe wechseln und sich selbst wiederbeleben kann. Es mag unbesiegbar erscheinen, doch das ändert sich, <CRE>sobald die Farben aller Walzer-Grunzer übereinstimmen</C>."
+	},
+	{
+		"name": "ENM_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein nerviges Noise, das in regelmäßigen Abständen explodiert. Dabei verletzt es auch Verbündete, also <CRE>werde es los, bevor es in deiner Nähe in die Luft geht</C>."
+	},
+	{
+		"name": "ENM_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses extrem loyale Schwein geht nicht allein zu Boden. Bessere Ergebnisse lassen sich erzielen, wenn man <CRE>die ganze Schweinebande gleichzeitig erledigt</C>."
+	},
+	{
+		"name": "ENM_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Solange seine Freunde weiterkämpfen, gibt dieses Schwein nicht auf. Bessere Ergebnisse lassen sich erzielen, wenn man <CRE>die ganze Schweinebande gleichzeitig erledigt</C>."
+	},
+	{
+		"name": "ENM_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Introvertierte Spieler, die bei der Deep Rivers Society zu Hause sind. Geschickt auf große Distanz, aber nutzlos im Nahkampf."
+	},
+	{
+		"name": "ENM_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Mitglieder des Teams mit dem reinen Herzen. Sie sind in diversen Kampfstilen versiert, also achte auf Schwachstellen und schlag zu, wenn sich die Gelegenheit bietet."
+	},
+	{
+		"name": "ENM_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Extrovertierte Spieler, die unter dem Banner der Schönheit kämpfen. Sie bevorzugen den Nahkampf, also malträtiere sie aus sicherer Entfernung."
+	},
+	{
+		"name": "ENM_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Nicht der stärkste Gegner, kann den Groove deines Teams aber verringern."
+	},
+	{
+		"name": "ENM_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Seine unerbittlichen Angriffe können den Groove deines Teams deutlich verringern."
+	},
+	{
+		"name": "ENM_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Mit seinen Giftangriffen ist nicht zu spaßen, sie können den Groove deines Teams verringern."
+	},
+	{
+		"name": "ENM_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Meide die Tentakel, sonst werden LP und Groove in Mitleidenschaft gezogen."
+	},
+	{
+		"name": "ENM_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Einzeln relativ ungefährlich, im Rudel ist dein Groove allerdings ernsthaft in Gefahr."
+	},
+	{
+		"name": "ENM_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine neue Art von Noise, die Shibuya zu vernichten droht. Hüte dich vor seinen Schockwellen, sonst erleiden LP und Groove erheblichen Schaden."
+	},
+	{
+		"name": "ENM_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Der König der froschartigen Seuchen-Noise, von Shiba persönlich erschaffen. Wenn er dich zertrampelt, spürst du es noch wochenlang und dein Groove wird verringert."
+	},
+	{
+		"name": "ENM_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Der König der quallenartigen Seuchen-Noise, von Shiba persönlich erschaffen. Klont sich selbst und erschafft eine unaufhaltsame Schwabbelarmee."
+	},
+	{
+		"name": "ENM_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein stämmiger Noise-Primat, der weniger aushält, als es den Anschein hat. Wenn du seine Arme angreifst, kannst du sie zerstören. Sie regenerieren sich zwar nach einer Weile, allerdings kann er gewisse Angriffe dann nicht ausführen."
+	},
+	{
+		"name": "ENM_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Der schüchterne Anführer der Deep Rivers Society. Verteilt Bomben auf dem Schlachtfeld und überlässt die schmutzige Nahkampfarbeit lieber seinen Teamkollegen. Du solltest immer mitdenken, sonst überlistet er dich."
+	},
+	{
+		"name": "ENM_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Internetpromi und Anführer der Purehearts. Er setzt sein Psych ein, um Gegner zu lähmen. Viele seiner Angriffe erfordern Unterstützung durch Verbündete, also beseitige diese zuerst."
+	},
+	{
+		"name": "ENM_Info_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Drei Katzenstofftiere, die von Tsugumi kontrolliert werden. Sie sind verschieden groß und haben verschiedene offensive Fähigkeiten, doch alle drei teilen sich dieselbe Lebenskraft."
+	},
+	{
+		"name": "ENM_Info_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "Die krassen Kätzchen sind wieder da und noch zahlreicher als zuvor! Welches du zuerst ins Visier nimmst, bestimmst du: den kleinen flinken oder den großen starken Mr. Miau."
+	},
+	{
+		"name": "ENM_Info_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein wortkarges roboterhaftes Mädchen, das sich mit den Ruinbringers verbündet hat. Ihr Vorgehen auf dem Schlachtfeld ist so berechenbar wie ihre Persönlichkeit."
+	},
+	{
+		"name": "ENM_Info_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "Der einzige Reaper, dem Shokas Wohlergehen immer am Herzen lag. Komm den Chakram-Symbolen, die um sie herumwirbeln, lieber nicht zu nahe."
+	},
+	{
+		"name": "ENM_Info_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein stämmiger Rohling, der für die Ruinbringers kämpft. Die Farbe seiner Aura wechselt zwischen weiß und schwarz, und bestimmt die Art seiner Angriffe. Generell bedeutet weiß, dass er dich rammen will, während schwarz heißt, dass er dir gleich einen Schlag verpasst."
+	},
+	{
+		"name": "ENM_Info_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Affe ist zurück und meint es ernst. Er hat jetzt noch mehr Auren, die seine Liebe zu Reversi widerspiegeln. Achte auf die wechselnden Farben!"
+	},
+	{
+		"name": "ENM_Info_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichis ultimative Reaperform. Mit seinem Horn kann er die Kraft der Blitze für seine Angriffe nutzen. Dieses Horn ist allerdings auch seine größte Schwachstelle, also konzentriere deine Attacken darauf."
+	},
+	{
+		"name": "ENM_Info_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein einsamer Wolf mit einer unstillbaren Gier nach Macht. In seinem Normalzustand ist er flink und behände, bei Bedarf kann er sich aber in seine Rüstung kauern und die nächste Gelegenheit zum Angriff abwarten."
+	},
+	{
+		"name": "ENM_Info_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Spielleiter höchstpersönlich. Er setzt seine Kräfte ein, um Klone zu erschaffen und seine Gegner zu verwirren. Bleib wachsam und lass dich nicht täuschen."
+	},
+	{
+		"name": "ENM_Info_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Verkörperung sämtlicher Gefahren, denen sich die Wicked Twisters bisher gegenübergesehen haben, kann sich in alle Arten von Noise verwandeln. Du wirst alle Register ziehen müssen, um diesen Kampf siegreich zu überstehen!"
+	},
+	{
+		"name": "ENM_Info_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein angsteinflößender Gegner, der mit seinen dreizehn Schwänzen Distanzangriffe ausführt, während er aus seinem Schnabel Flammen speit. Doch nur Mut: Wenn du es schaffst, trotz der überwältigenden Attacken alle dreizehn Schwänze zu zerstören, gibt es Anlass zur Hoffnung."
+	},
+	{
+		"name": "ENM_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein bulliger Leibwächter, der Kanon an ihrem Reaperzamba-Kontrollpunkt beschützt. Gehe seinen Elektroangriffen aus dem Weg und schlage im richtigen Moment zu."
+	},
+	{
+		"name": "ENM_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser weibliche Reaper steht an einem Reaperzamba-Kontrollpunkt und ist ein ebenso fanatischer Fan von Def Märch wie Nagi. Auch wenn man ihren Angriffen auf den ersten Blick nicht ausweichen kann, musst du nur ihre Bewegungen im Auge behalten, um zu gewinnen."
+	},
+	{
+		"name": "ENM_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Teilzeitkraft, die beim Reaperzamba Stempel verteilt. Sie ist von so vielen Chakram-Symbolen umgeben, dass du ihrer Rüstung kaum einen Kratzer zufügen kannst. Die beste Strategie ist es, sie kontinuierlich mit Fernkampfangriffen zu attackieren."
+	},
+	{
+		"name": "ENM_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Boss der Reaperzamba-Bonusrunde. Ohne Shibas Zustimmung erhält niemand VIP-Status. Wenn du gegen dieses Alphatier antrittst, solltest du ein Psych ausrüsten, das mehrere Gegner treffen kann."
+	},
+	{
+		"name": "ENM_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein frustrierender Gegner, der sich deine Angriffe merkt und entsprechende Gegenmaßnahmen berechnet. Bringe möglichst viele Psychs in den Kampf und setze sie auf unvorhersehbare Weise ein."
+	}
+]
+}

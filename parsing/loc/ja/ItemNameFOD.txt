@@ -1,0 +1,868 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フード",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "水出しアイスコーヒー",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスカフェオレ",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クリームソーダ",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブレンドコーヒー",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カフェラテ（ラテアート）",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スコーン（チョコ）",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BLTサンド",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フルーツサンド",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ほろほろチキンのスープカレー",
+		"comment": "Shop02：ハチ公カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハンバーガー",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブルチーズバーガー",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フィッシュバーガー",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バーガーヒーロー",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フライドポテト",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーラ",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オレンジジュース",
+		"comment": "Shop03：バーガーヒーロー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "担々・Guilty",
+		"comment": "Shop11：麺屋Guilty",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "極・Guilty",
+		"comment": "Shop11：麺屋Guilty",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "混ぜ・Guilty",
+		"comment": "Shop11：麺屋Guilty",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "黒担々・Guilty",
+		"comment": "Shop11：麺屋Guilty",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ローストポーク",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ローストチキン",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シュラスコ",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エージングビーフステーキ",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マグロの兜焼き",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ローストアリゲーター",
+		"comment": "Shop12：シブヤ丸焼きストリート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0400",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フルーツパフェ",
+		"comment": "Shop18：宇田川parfait",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークチョコレートパフェ",
+		"comment": "Shop18：宇田川parfait",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ルビーチョコレートパフェ",
+		"comment": "Shop18：宇田川parfait",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0403",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "大人の夜パフェ",
+		"comment": "Shop18：宇田川parfait",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0500",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカミルクティー",
+		"comment": "Shop22：梦幻茶房",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0501",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカ抹茶ミルクティー",
+		"comment": "Shop22：梦幻茶房",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0502",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカいちごミルクティー",
+		"comment": "Shop22：梦幻茶房",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0503",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカ黒糖ミルクティー",
+		"comment": "Shop22：梦幻茶房",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0504",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカマンゴーミルクティー",
+		"comment": "Shop22：梦幻茶房",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0600",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "3種盛りカレー",
+		"comment": "Shop25：SPICE CURRY DON",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0601",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チキンカレー",
+		"comment": "Shop25：SPICE CURRY DON",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0602",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダルカレー",
+		"comment": "Shop25：SPICE CURRY DON",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0603",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フィッシュカレー",
+		"comment": "Shop25：SPICE CURRY DON",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0604",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "和風ビリヤニ",
+		"comment": "Shop25：SPICE CURRY DON",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0700",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "梅おにぎり",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0701",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "鮭おにぎり",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0702",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幕の内弁当",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0703",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フライドチキン",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0704",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "おでん",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0705",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポテトチップス",
+		"comment": "Shop31：モヤイマート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0800",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "松阪牛丼",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0801",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "豊洲海鮮丼",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0802",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "北海ウニイクラ丼",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0803",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東京ローストビーフ丼",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0804",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "名古屋ひつまぶし",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0805",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "全日本オールスター肉丼",
+		"comment": "Shop10：どんぶりの里",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0900",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チョップドグリーンサラダ",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0901",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アボカドトースト",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0902",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "本日の野菜たっぷりスープ",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0903",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グリーンスムージー",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0904",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アサイースムージー",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_0905",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷の空気",
+		"comment": "Shop20：菜恋ト",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハットグ",
+		"comment": "Shop45：アジノアジア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バナナティギム",
+		"comment": "Shop45：アジノアジア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "パニプリ",
+		"comment": "Shop45：アジノアジア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "小籠包",
+		"comment": "Shop45：アジノアジア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "たこ焼き",
+		"comment": "Shop45：アジノアジア",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "牧場ミルクソフトクリーム",
+		"comment": "Shop34：ふらわあクレープ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マスカットクレープ",
+		"comment": "Shop34：ふらわあクレープ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベリーベリークレープ",
+		"comment": "Shop34：ふらわあクレープ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チョコレートソフトクリーム",
+		"comment": "Shop34：ふらわあクレープ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "焼き芋ソフトクリーム",
+		"comment": "Shop34：ふらわあクレープ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビーフタコス",
+		"comment": "Shop39：スタコスタコス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スパイシータコス",
+		"comment": "Shop39：スタコスタコス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グリーンスパイシータコス",
+		"comment": "Shop39：スタコスタコス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モレソースタコス",
+		"comment": "Shop39：スタコスタコス",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "中華そば",
+		"comment": "Shop27：麺処「鈴」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "塩檸檬そば",
+		"comment": "Shop27：麺処「鈴」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "味噌そば",
+		"comment": "Shop27：麺処「鈴」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "辛味そば",
+		"comment": "Shop27：麺処「鈴」",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1400",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オレンジティー",
+		"comment": "Shop38：somedrinks",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミックスベリーティー",
+		"comment": "Shop38：somedrinks",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オレンジティーソーダ",
+		"comment": "Shop38：somedrinks",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1403",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミックスベリーティーソーダ",
+		"comment": "Shop38：somedrinks",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1500",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "北インドノンベジターリー",
+		"comment": "Shop26：カリーカラージャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1501",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "南インドバナナリーフミールス",
+		"comment": "Shop26：カリーカラージャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1502",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "北インドベジタリアンターリー",
+		"comment": "Shop26：カリーカラージャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1503",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マサラドーサ",
+		"comment": "Shop26：カリーカラージャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1504",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チキンビリヤニ",
+		"comment": "Shop26：カリーカラージャ",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1600",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "縁まで美味しい鯛焼き",
+		"comment": "Shop36：京都十右衛門シブヤ東口店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1601",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "くりぃむ抹茶あんみつ",
+		"comment": "Shop36：京都十右衛門シブヤ東口店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1602",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "くりぃむ抹茶あんみつぱふぇ",
+		"comment": "Shop36：京都十右衛門シブヤ東口店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1603",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "串あんだんご",
+		"comment": "Shop36：京都十右衛門シブヤ東口店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1604",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "串ずんだだんご",
+		"comment": "Shop36：京都十右衛門シブヤ東口店",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1700",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFFパンケーキ",
+		"comment": "Shop40：MAFF☆MOFF",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1701",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFFかき氷 いちごミルク",
+		"comment": "Shop40：MAFF☆MOFF",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1702",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFFかき氷 チョコミント",
+		"comment": "Shop40：MAFF☆MOFF",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1703",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFFパンケーキ チョコ",
+		"comment": "Shop40：MAFF☆MOFF",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_FOD_Name_1704",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFFかき氷 マンゴー",
+		"comment": "Shop40：MAFF☆MOFF",
+		"annotation": ""
+	}
+]
+}

@@ -1,0 +1,1444 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイテム",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_VAL_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CP",
+		"comment": "キャラクターポイント",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃1",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃2",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃3",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃4",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃5",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃6",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃7",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃8",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃9",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃10",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃11",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃12",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃13",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃14",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃15",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃16",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃17",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃18",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃19",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃20",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃21",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃22",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃23",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シークレットレポート＃24",
+		"comment": "シークレットレポート",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書４巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書５巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書６巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書７巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書８巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書９巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１０巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１１巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１２巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１３巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１４巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１５巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１６巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１７巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１８巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書１９巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２０巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２１巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２２巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２３巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２４巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２５巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２６巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２７巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0127",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２８巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0128",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書２９巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0129",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３０巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３１巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３２巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３３巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３４巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３５巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３６巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３７巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３８巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書３９巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TIPSの書４０巻",
+		"comment": "Tips",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チームでバトル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロコンボ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回避行動",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズの反撃",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性について",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "経験値について",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルのコツ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "強化版マッシュアップ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "必殺技について",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジドロップ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0212",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジ進化",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アンサンブルバッジ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神クラスバッジ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジコンプについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デッキについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スキャンについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズシンボルの形",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルの開始と連戦",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "赤のノイズシンボル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "青のノイズシンボル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンクのノイズシンボル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0223",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグとのバトル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0224",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "青白のノイズシンボル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0225",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オレンジのノイズシンボル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0226",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CP集めのコツ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0227",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "感情ノイズ：怒り",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0228",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "感情ノイズ：悲しみ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0229",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "感情ノイズ：やすらぎ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0230",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "感情ノイズ：恐怖",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0231",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋Payについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0232",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アビリティの確認",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0233",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SENSEについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0234",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップクエスト",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0235",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "常連への道",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0236",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "食事について",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0237",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "好物について",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0238",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇田川町路地裏の壁グラ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0239",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷スクランブルバトルのコツ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0240",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウメモ",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0241",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクターボードのスキル",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0242",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サブイベントについて",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_BOK_Name_0243",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャプターセレクト",
+		"comment": "通常本",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM01",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM02",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM03",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM04",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM05",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM06",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM07",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM08",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM09",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM10",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM11",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM12",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM13",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM14",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM15",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM16",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM17",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM18",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM19",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM20",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM21",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM22",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM23",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM24",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM25",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM26",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM27",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM28",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM29",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM30",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM31",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM32",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM33",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM34",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM35",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM36",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM37",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM38",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM39",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM40",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM41",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM42",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM43",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM44",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM45",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM46",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM47",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM48",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM49",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM50",
+		"comment": "CD",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_CD_Name_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CD：BGM51",
+		"comment": "CD",
+		"annotation": ""
+	}
+]
+}

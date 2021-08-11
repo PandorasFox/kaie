@@ -1,0 +1,580 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Infos sur la nourriture"
+	},
+	{
+		"name": "ITM_FOD_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Une tasse de café issu de grains légèrement torréfiés afin de conserver son arôme fruité. Coulé à froid pour atténuer l'amertume, ce mélange vous fera l'effet d'une douce brise d'été.<BR>*Quantité de glaçons pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Une tasse de café glacé mélangé à du lait écrémé, pour apporter une touche de générosité sans pour autant masquer les arômes naturels de l'arabica.<BR>*Quantité de lait pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce classique américain est aussi rafraîchissant qu'il en a l'air. Vous pouvez d'abord manger <i>toute la glace</i>, mais alors, vous vous retrouverez avec un simple soda au melon et une cerise confite... C'est moins drôle.<BR>*Taille de la boule pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Une tasse de café issu d'un mélange unique de grains en provenance d'Amérique centrale et d'Amérique du Sud. Les amateurs de bon café se l'arrachent pour sa légèreté et son goût intense.<BR>*Mélange pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "L'original, le vrai : un espresso mélangé à du lait chaud... tout est dit. Celui-ci contient peut-être moins de lait que les autres, mais au Hachiko Café, l'amertume, c'est la vie.<BR>*Latte art pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Une douceur faite maison, préparée avec amour ce matin. Associée à une bonne tasse de café, cette viennoiserie câlinera à coup sûr vos papilles.<BR>*Quantité de pépites pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Le sandwich le plus populaire au monde qui rassemble les trois fondamentaux : bacon, laitue et tomates. Petit plus de saveur, le bacon est légèrement grillé au préalable.<BR>*Présence de tomates pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Entre deux tranches de pain frais sont logées des tranches de fraise, de kiwi et d'orange, le tout bordé d'onctueuse crème chantilly. Ça vaut bien un selfie.<BR>*Quantité de chantilly pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Une spécialité de Sapporo élaborée à partir de bouillon de poule et de porc et d'une soupe de poisson à la bonite. Ajoutez-y une cuisse de poulet, une bonne ration de légumes, quelques épices, et vous voilà calé pour la journée !<BR>*Quantité d'épices pouvant varier"
+	},
+	{
+		"name": "ITM_FOD_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce steak haché saisi à point calé entre deux pains frais au levain et servi avec des légumes bio est devenu très rapidement un plat incontournable de l'établissement."
+	},
+	{
+		"name": "ITM_FOD_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce burger a bien mérité son nom : c'est le plat le plus populaire de l'établissement, et ça se comprend. Avec ses deux steaks et son torrent de fromage fondu, il ravira à coup sûr tous les mordus de viande."
+	},
+	{
+		"name": "ITM_FOD_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce sublime burger abrite un filet de colin juste pané enveloppé d'une rafraîchissante sauce tartare faite maison. Pour les habitués, l'acidité du citron et des cornichons est la clé de voûte de cette recette."
+	},
+	{
+		"name": "ITM_FOD_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Un burger de wagyu élaboré exclusivement pour le 30e anniversaire de la franchise, devenu tellement populaire qu'il a rejoint le menu de façon permanente. Parviendrez-vous à <i>conquérir</i> ce plat gargantuesque ?"
+	},
+	{
+		"name": "ITM_FOD_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces savoureux bâtonnets de pommes de terre non pelées sont frits deux fois : d'abord à basse température, puis à température élevée. Ainsi, leur texture<NBSP>« fondant dedans, crousti dehors » est garantie à chaque fournée."
+	},
+	{
+		"name": "ITM_FOD_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce soda ultra-gazeux accompagnera héroïquement tout bon Justice Burger. Ses mégabulles vont vous chambouler l'œsophage et vous picoter les papilles !"
+	},
+	{
+		"name": "ITM_FOD_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Étonnamment, cette boisson douce et sucrée s'accorde parfaitement avec les viandes de la carte. Fabriquée à partir d'oranges de petits producteurs. Teneur en jus : 100 %. (Oui oui !)"
+	},
+	{
+		"name": "ITM_FOD_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Servi dans un bouillon au sésame, ce plat mêle l'huile de piment et le poivre sansho pour révéler les arômes subtils de la star de l'assiette : le poivre noir. Avis aux amateurs de ramen."
+	},
+	{
+		"name": "ITM_FOD_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Les nouilles les plus riches du quartier accompagnées d'épais travers de porc badigeonnés de saindoux, le tout servi dans un bon bouillon de porc. Contient l'apport calorique journalier d'un homme adulte, voire plus ! L'indécence à son paroxysme."
+	},
+	{
+		"name": "ITM_FOD_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Une recette originale et exclusive à G4G qui rassemble deux sortes de nouilles. Découvrez la saveur inimitable de ces nouilles épaisses marinées dans une sauce transmise de génération en génération dans le plus grand des secrets."
+	},
+	{
+		"name": "ITM_FOD_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Le classique de G4G revisité, pour incorporer le sésame noir dans un ballet gustatif inoubliable. Le haché de porc mariné dans l'ail, le gingembre et le poivre apporte une vivacité bienvenue."
+	},
+	{
+		"name": "ITM_FOD_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Le plat signature de SBY BBQ. Ce cochon de lait grillé à la perfection vous promet une peau croustillante et une viande fondante. Servi sur un lit de légumes, ce plat ne vous laissera pas de marbre !"
+	},
+	{
+		"name": "ITM_FOD_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce poulet élevé en plein air a été préparé dans une rôtissoire sur mesure pour conserver tout son jus. La meilleure façon de l'apprécier reste d'en faire un sandwich garni de sauce SBY BBQ et de coleslaw."
+	},
+	{
+		"name": "ITM_FOD_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce standard du barbecue brésilien propose une picanha de bœuf saignante arrosée de vinaigrette molho. (Pensez à admirer le chef préparer sa viande avec précision, c'est un véritable régal pour les yeux !)"
+	},
+	{
+		"name": "ITM_FOD_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette viande a passé un mois dans une chambre froide à maturer pour révéler des arômes de noisettes uniques et de riches saveurs à la cuisson. Les clients souhaitant savourer ce chateaubriand doivent réserver leur table au moins un an à l'avance."
+	},
+	{
+		"name": "ITM_FOD_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat très tendance va faire des émules sur les réseaux sociaux. Ne vous fiez pas à son apparence : il y a beaucoup à manger sur cette tête rôtie au four, des joues très charnues aux orbites riches en collagène !"
+	},
+	{
+		"name": "ITM_FOD_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Directement importé d'Australie, cet animal est riche en protéines et faible en calories. Certains comparent sa viande à celle du poulet, mais les connaisseurs savent que ce<NBSP>« gibier » est unique."
+	},
+	{
+		"name": "ITM_FOD_Info_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce parfait très demandé contient de nombreux fruits de saison recouverts de couches de crème anglaise. Le tout est surmonté d'une généreuse chantilly, afin de conserver les saveurs naturelles."
+	},
+	{
+		"name": "ITM_FOD_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce délice décadent marie harmonieusement la glace au chocolat venue tout droit de France et la crème de noisettes. La gelée d'espresso amère et le nappage aux baies légèrement acide viennent parachever ce délice tout en hauteur."
+	},
+	{
+		"name": "ITM_FOD_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce parfait associe l'acidité fruitée de la glace au chocolat Ruby à l'aigreur du nappage au yaourt, le tout saupoudré de canneberge. Il va devenir sans conteste la coqueluche d'Udagawa !"
+	},
+	{
+		"name": "ITM_FOD_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Un parfait élégant, dont le goût surpasse même son apparence. Le chef conseille de commencer par la meringue, puis de descendre progressivement jusqu'au sorbet cassis. Mais bon, c'est votre dessert. Mangez-le comme ça vous chante !"
+	},
+	{
+		"name": "ITM_FOD_Info_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette boisson taiwanaise populaire est un mélange de thé noir, de lait et de perles de tapioca. Ces petites<NBSP>« bulles » sont préparées tous les matins pour garantir leur fraîcheur."
+	},
+	{
+		"name": "ITM_FOD_Info_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Un favori de Bubblevision, cette boisson redouble d'intensité grâce à l'ajout de thé vert qui se mélange parfaitement au lait et aux perles. Il fallait y penser !"
+	},
+	{
+		"name": "ITM_FOD_Info_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette concoction crémeuse allie le thé noir taiwanais aux fraises fraîches sur un doux lit de perles de tapioca fruitées. Un régal assuré pour petits et grands."
+	},
+	{
+		"name": "ITM_FOD_Info_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "La douceur incomparable du sucre noir d'Okinawa s'associe parfaitement au thé noir, ce qui crée une saveur complexe digne d'un grand restaurant. On n'en laisse pas une perle !"
+	},
+	{
+		"name": "ITM_FOD_Info_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette boisson décadente concilie la richesse et la douceur de la purée de mangue à l'austérité du thé noir taiwanais. On ne vous promet pas un goût inoubliable, mais vous en redemanderez à coup sûr."
+	},
+	{
+		"name": "ITM_FOD_Info_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous n'arrivez pas à vous décider ? Prenez les trois currys en un seul plat ! Garniture de fromage pané ou de rôti de porc en option. Le plat est tout aussi savoureux sans."
+	},
+	{
+		"name": "ITM_FOD_Info_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat épicé mêle le curry du sud de l'Inde avec un bouillon typiquement japonais. Les palais les plus fins discerneront la coriandre et le cumin, ainsi que la poudre de clous de girofle, spécialité du chef."
+	},
+	{
+		"name": "ITM_FOD_Info_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plat à la fois généreux et sain rassemblant trois types de dhal : aux haricots mungo, aux lentilles corail et au chana. Servi avec des oignons frits pour un repas délicieux jusqu'à la dernière bouchée."
+	},
+	{
+		"name": "ITM_FOD_Info_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat originaire du sud de l'Inde est préparé à partir de deux espèces de maquereaux qui contrebalancent l'acidité du tamarin et de la tomate et la sucrosité de la noix de coco. Pour encore plus de saveurs, on y ajoute des feuilles de curry ainsi que des graines de moutarde."
+	},
+	{
+		"name": "ITM_FOD_Info_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce bol ajoute une touche japonisante à un plat traditionnel indien en associant plusieurs variétés de riz à un bouillon au poisson, le tout accompagné de moules et de Saint-Jacques façon keema. Ajoutez quelques condiments, la soupe miso épicée, et votre palais s'en souviendra !"
+	},
+	{
+		"name": "ITM_FOD_Info_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "On comprend pourquoi cette supérette est réputée pour son rayon alimentaire. Cette boulette de riz contient deux prunes salées pour le prix d'une ! Il n'y a qu'à Moyai Mart qu'on fait de si bonnes affaires !"
+	},
+	{
+		"name": "ITM_FOD_Info_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette boulette de riz déborde de miettes de saumon salé et fumé, pour un goût inimitable. Le meilleur rapport, qualité-yen !"
+	},
+	{
+		"name": "ITM_FOD_Info_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Toute la troupe est au complet : crevettes frites, œufs brouillés, légumes bouillis et sans oublier la vedette de cette gamelle... le filet de saumon grillé ! Ça vaut bien une standing ovation !"
+	},
+	{
+		"name": "ITM_FOD_Info_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "(Un conseil : s'il est sorti de la friteuse depuis un moment, laissez-le dans le rayon !)"
+	},
+	{
+		"name": "ITM_FOD_Info_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce ragoût est très apprécié par la clientèle de Moyai Mart. Certains ont même la fantaisie de tremper un onigiri dans le bouillon de poisson pour créer un risotto de fortune."
+	},
+	{
+		"name": "ITM_FOD_Info_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Un paquet de chips d'Hokkaido, épaisses et croustillantes à souhait. Moyai Mart prend la<NBSP>« date limite de consommation » très au sérieux : chaque invendu ayant dépassé sa date est retiré du rayon."
+	},
+	{
+		"name": "ITM_FOD_Info_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plat copieux débordant de bœuf de Matsusaka marbré. Préparez-vous à l'extase culinaire dès l'instant où vos papilles toucheront ce morceau de viande divin. Le bœuf comme vous ne l'avez jamais goûté !"
+	},
+	{
+		"name": "ITM_FOD_Info_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Un incroyable bol dans lequel nagent d'épaisses tranches de thon et une pléthore de fruits de mer tout droit venus de la criée de Toyosu chaque matin pour toujours plus de fraîcheur. Les mains expertes du chef se chargent du reste."
+	},
+	{
+		"name": "ITM_FOD_Info_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bol contenant deux produits de qualité d'Hokkaido : de délicieuses tranches d'oursins et une myriade d'œufs de saumon. Avec une bouchée de ce festin iodé, vous vous retrouverez propulsé sur la côte."
+	},
+	{
+		"name": "ITM_FOD_Info_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bol charnu, proposant de généreuses tranches de rôti de bœuf accompagnées d'une sauce cresson-wasabi qui vous aérera le palais et apportera une touche d'<i>umami</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bol très demandé qui propose les véritables anguilles de Nagoya : grillées, et non cuites à la vapeur. Dégustez la première bouchée avec une sauce soja sucrée, la seconde avec du wasabi et de la ciboule, puis la dernière avec une goutte de bouillon."
+	},
+	{
+		"name": "ITM_FOD_Info_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce bol légendaire rassemble neuf viandes de qualité endémiques du Japon : le bœuf, le porc, le poulet, le mouton, le canard, le chevreuil, le sanglier, l'ours et le lapin. Un rêve pour tous les carnivores !"
+	},
+	{
+		"name": "ITM_FOD_Info_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bol très spécial qui contient environ 200 % des apports journaliers recommandés en végétaux. La vinaigrette maison parviendra même à faire aimer ce plat aux plus<NBSP>« végétophobes » d'entre vous."
+	},
+	{
+		"name": "ITM_FOD_Info_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Une belle tranche de pain légèrement toastée au four, tartinée de mayonnaise maison, puis recouverte d'avocat. Sa texture généreuse remplit les estomacs et les cœurs. (Façon de parler : si vous en avez dans le cœur, appelez une ambulance !)"
+	},
+	{
+		"name": "ITM_FOD_Info_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bouillon de saison composé de dés de carottes, de pommes de terre et bien d'autres légumes racines. Faible en calories, ce plat se consomme à volonté, même à l'excès, sans culpabilité."
+	},
+	{
+		"name": "ITM_FOD_Info_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Des épinards, du chou kale et une myriade de végétaux viennent se mixer à la pomme, l'orange et à une touche de citron dans cette boisson ultra vitaminée. Le petit-déjeuner idéal dans une tasse !"
+	},
+	{
+		"name": "ITM_FOD_Info_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette mixture savoureuse contient la très nourrissante baie d'açai ainsi que de nombreuses baies cousines, sans oublier une touche de lait, pour vous apporter fer, polyphénols et un goût intense."
+	},
+	{
+		"name": "ITM_FOD_Info_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Les cieux de Shibuya en boîte. Capturé à plus de 100 m au-dessus de la ville, cet air est filtré trois fois pour vous garantir une pureté incomparable. Bon, d'accord, c'est du vent, mais... ça fait un super souvenir, non ?"
+	},
+	{
+		"name": "ITM_FOD_Info_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Une spécialité des rues coréennes qui consiste à envelopper de la mozzarella fondante dans une pâte de maïs frite. À accompagner de ketchup, moutarde, sirop d'érable... faites-vous plaisir !"
+	},
+	{
+		"name": "ITM_FOD_Info_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Une banane frite qui fond dans la bouche. Pensez au nappage au chocolat pour sublimer ce dessert coréen. Il suffira d'un post sur les réseaux pour faire saliver le monde entier."
+	},
+	{
+		"name": "ITM_FOD_Info_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces boules de pâte frites sont fourrées de pâte de haricots et de sauce aigre-douce. La gourmandise qui fait toujours plaisir. Pani puri par-ci, pani puri par-là, et c'est la fiesta !"
+	},
+	{
+		"name": "ITM_FOD_Info_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Une sorte de ravioli à base de haché de porc similaire au dimsum, cuit à la vapeur dans un panier en bambou. Mais chaud devant ! Le bouillon est... bouillant !"
+	},
+	{
+		"name": "ITM_FOD_Info_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Le takoyaki, littéralement<NBSP>« pieuvre grillée », est une spécialité d'Osaka se présentant sous forme de petites boules de pâte cuite contenant des morceaux de poulpe. N'oubliez pas la mayo... C'est <i>meilleur</i> avec."
+	},
+	{
+		"name": "ITM_FOD_Info_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un cône de glace fondante élaborée à partir de lait entier récupéré à la ferme du coin. Toute en douceur, cette crème glacée est un incontournable."
+	},
+	{
+		"name": "ITM_FOD_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Une crêpe de saison fourrée de merveilleux raisins muscat et surmontée d'une chantilly au champagne, pour toujours plus de luxe. Santé !"
+	},
+	{
+		"name": "ITM_FOD_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette crêpe déborde de fruits rouges : fraises, framboises, myrtilles... une fantastique palette de couleurs couchée sur une toile de chantilly au rhum."
+	},
+	{
+		"name": "ITM_FOD_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette onctueuse gourmandise allie l'amertume du cacao à la douceur de la crème. Le plaisir est garanti jusqu'à la dernière bouchée, car le cornet est également tapissé de poudre de cacao."
+	},
+	{
+		"name": "ITM_FOD_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Les patates douces japonaises sont réputées pour leur sucrosité. Une fois rôties puis mixées à une crème glacée, c'est un régal. Sans oublier les fritures, parce que c'est toujours meilleur !"
+	},
+	{
+		"name": "ITM_FOD_Info_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat traditionnel mexicain propose une viande saisie et enveloppée dans une tortilla de maïs. Les fins gourmets sauront apprécier les saveurs fumées de la salsa tomate-oignon."
+	},
+	{
+		"name": "ITM_FOD_Info_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Uniquement servi aux habitués sous le manteau, ce taco n'est pas fait pour les palais sensibles. La puissance des piments habanero et Bhut Jolokia est si brutale que vous allez pleurer votre <i>madre</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette tortilla d'épinards fourrée de viande est recouverte de piments verts pour un plat tout en couleur et tout en piquant. Servie uniquement aux habitués."
+	},
+	{
+		"name": "ITM_FOD_Info_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "La sauce mole, riche en cacao, cannelle, clous de girofle et autres épices en tout genre, accompagne avec merveille le poulet grillé. Si vous trouvez ce plat au menu, vous êtes un petit veinard !"
+	},
+	{
+		"name": "ITM_FOD_Info_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Chez Suzu, le chef prépare d'abord un bouillon de poule frémissant dans lequel il incorpore un savant mélange de sauce tamari et soja... la marinade parfaite pour une poignée de nouilles."
+	},
+	{
+		"name": "ITM_FOD_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Ne vous fiez pas à ce bouillon translucide. En réalité, il foisonne de saveurs grâce à l'association de poulet, de Saint-Jacques, de varech et de cinq sortes de sel. La touche vivace de citron illuminera votre journée."
+	},
+	{
+		"name": "ITM_FOD_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Léger sur le palais, puissant dans les goûts : c'est le plat signature de Suzu. La saveur fumée provient du miso caramélisé versé sur les nouilles juste avant le service."
+	},
+	{
+		"name": "ITM_FOD_Info_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat mérite son nom. Les épices sont bien présentes et l'élèvent vers de nouveaux sommets. Cette ciboule et cette touche d'huile de sésame rendent tous ceux qui l'ont goûté accros."
+	},
+	{
+		"name": "ITM_FOD_Info_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Les notes sucrées d'agrumes de ce thé Dimbula apportent un côté rafraîchissant. Une fois la boisson terminée, pensez à déguster les quartiers d'orange pour votre complément en vitamine C !"
+	},
+	{
+		"name": "ITM_FOD_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Plus jus de fruits que thé, cette boisson réunit la fraise, la framboise et la myrtille dans un tourbillon délectable qu'on pourrait presque qualifier de<NBSP>« dessert »."
+	},
+	{
+		"name": "ITM_FOD_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette boisson est tout ce qu'on recherche par fortes chaleurs. Pour plus de fraîcheur, pensez à rajouter quelques zestes de citron !"
+	},
+	{
+		"name": "ITM_FOD_Info_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce soda carmin est aussi rouge qu'il est délicieux. Vous serez surpris par l'intensité de la sucrosité des fruits. Le secret ? Une touche de vinaigre de fraise... mais chut ! Ça reste entre nous !"
+	},
+	{
+		"name": "ITM_FOD_Info_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plat originaire du nord de l'Inde contient du curry au poulet, au mouton et à bien d'autres viandes, le tout accompagné de naan et de roti. La crème et les noix en tout genre viennent également sublimer le plat."
+	},
+	{
+		"name": "ITM_FOD_Info_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plateau du sud de l'Inde propose du sambar végétarien ainsi que du rasam épicé, le tout accompagné de riz. Dégustez chaque préparation séparément ou mélangez le tout ! À vous de voir !"
+	},
+	{
+		"name": "ITM_FOD_Info_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce plateau du nord de l'Inde comblera les végétariens d'un repas riche en saveurs sans pour autant les gaver."
+	},
+	{
+		"name": "ITM_FOD_Info_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Une sorte de crêpe préparée à partir d'une pâte de riz et de lentilles fermentée, puis fourrée de pommes de terre épicées et servie avec du sambar et du chutney."
+	},
+	{
+		"name": "ITM_FOD_Info_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plat indien composé de couches de riz basmati et de morceaux de poulets cuits dans un four spécial. On peut l'apprécier tel quel, ou accompagné de raïta."
+	},
+	{
+		"name": "ITM_FOD_Info_1600",
+		"speaker": "",
+		"listener": "",
+		"content": "Bien que ce dessert ressemble à un poisson, il n'en contient pas un seul morceau. Il contient soit une pâte de haricots rouges, soit du fromage fondant."
+	},
+	{
+		"name": "ITM_FOD_Info_1601",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plat magnifique comprenant une crème glacée nappée d'une sauce épaisse au matcha décorée de haricots azuki mijotés et de boules de mochi fermes et fondantes."
+	},
+	{
+		"name": "ITM_FOD_Info_1602",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette douce folie sucrée renchérit sur son prédécesseur par l'ajout d'une glace et d'un bavarois tous deux aromatisés au thé vert, formant ainsi une expérience multidimensionnelle au matcha qui rendra tous les autres clients verts de jalousie."
+	},
+	{
+		"name": "ITM_FOD_Info_1603",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces sublimes boules de mochi sont recouvertes d'une onctueuse pâte de haricots rouges de près de vingt ans d'âge. L'harmonie irréprochable entre le sucré et le salé est à son paroxysme."
+	},
+	{
+		"name": "ITM_FOD_Info_1604",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce dessert haut en couleur a rejoint la carte lorsque le chef est rentré d'un voyage à Sendai. Les edamame sont broyés à la main afin de préserver leur saveur et leur texture."
+	},
+	{
+		"name": "ITM_FOD_Info_1700",
+		"speaker": "",
+		"listener": "",
+		"content": "Dégoulinants d'une onctueuse crème à la noix de cajou, ces pancakes ultra épais fondent littéralement dans la bouche. Pour se sentir moins coupable, des fruits vous sont proposés en option."
+	},
+	{
+		"name": "ITM_FOD_Info_1701",
+		"speaker": "",
+		"listener": "",
+		"content": "Un petit plaisir givré plus gourmand qu'il ne le laisse penser. La sauce à la fraise acidulée, accordée au lait concentré sucré, fait chavirer le cœur de tous les clients."
+	},
+	{
+		"name": "ITM_FOD_Info_1702",
+		"speaker": "",
+		"listener": "",
+		"content": "De la glace à la menthe finement pilée, mélangée à de la menthe ciselée et couverte d'un nappage au chocolat intense pour braver avec délice les chaudes journées d'été."
+	},
+	{
+		"name": "ITM_FOD_Info_1703",
+		"speaker": "",
+		"listener": "",
+		"content": "Une pile de pancakes recouverte de sauce au chocolat. N'hésitez pas à en commander une deuxième assiette. Les calories et le sucre sont moins présents qu'il n'y paraît."
+	},
+	{
+		"name": "ITM_FOD_Info_1704",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce dessert glacé glorifie la sucrosité de la mangue en l'incorporant dans tous les éléments de la recette, de la glace jusqu'à la chantilly."
+	}
+]
+}

@@ -1,0 +1,2506 @@
+{
+"columns":[
+	{
+		"name": "ITM_EQU_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "装備品",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "お花カチューシャ",
+		"comment": "Mouse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "りぼんカチューシャ",
+		"comment": "Mouse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チューチューねずぼうし",
+		"comment": "Mouse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "どきどきブラウス",
+		"comment": "Mouse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "もこもこニットセーター",
+		"comment": "Mouse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トポトッポTシャツ",
+		"comment": "Mouse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ふんわりチュールスカート",
+		"comment": "Mouse_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "わくわく7分丈パンツ",
+		"comment": "Mouse_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "お嬢様ガーリーワンピ",
+		"comment": "Mouse_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マリンガーリーワンピ",
+		"comment": "Mouse_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ときめきリボンパンプス",
+		"comment": "Mouse_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ひらひらフリルサンダル",
+		"comment": "Mouse_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "やわらかドライビングシューズ",
+		"comment": "Mouse_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にこにこリボンバッグ",
+		"comment": "Mouse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "おちつきトートバッグ",
+		"comment": "Mouse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ぬくぬくニットカーデ",
+		"comment": "Mouse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "さわやかフレアスカート",
+		"comment": "Mouse_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "お花シュシュ",
+		"comment": "Mouse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムデコキャップ",
+		"comment": "Cow_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アニマル柄ハット",
+		"comment": "Cow_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アニマルベルトキャスケット",
+		"comment": "Cow_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムジャケット",
+		"comment": "Cow_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークネスカーデ",
+		"comment": "Cow_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オープンショルダーカットソー",
+		"comment": "Cow_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セクシーレースビスチェ",
+		"comment": "Cow_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハードダメージデニム",
+		"comment": "Cow_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークネスデニム",
+		"comment": "Cow_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レザーミニスカート",
+		"comment": "Cow_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンクフリルスカパン",
+		"comment": "Cow_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セクシーニットセットアップ",
+		"comment": "Cow_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0212",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャイニーデコサンダル",
+		"comment": "Cow_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "編み上げニーハイブーツ",
+		"comment": "Cow_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワインレッドドレープブーツ",
+		"comment": "Cow_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークネスレザーシューズ",
+		"comment": "Cow_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャイニーデコスマホケース",
+		"comment": "Cow_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンクデコネイルチップ",
+		"comment": "Cow_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゴールデンオイルライター",
+		"comment": "Cow_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピンクフレームサングラス",
+		"comment": "Cow_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "紅モヒカンセット",
+		"comment": "Tiger_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "虎スタッズキャップ",
+		"comment": "Tiger_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "革スタッズキャップ",
+		"comment": "Tiger_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "虎モヒカンセット",
+		"comment": "Tiger_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライダースジャケット",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワッペンライダース",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "紅ライダースベスト",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0307",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "虎ライダースベスト",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0308",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "紅タータンコート",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "白ガーゼシャツ",
+		"comment": "Tiger_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0310",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボンデージパンツ",
+		"comment": "Tiger_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0311",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スカート付きボンデージ",
+		"comment": "Tiger_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0312",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボンデージハーフパンツ",
+		"comment": "Tiger_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0313",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タータンパンツ",
+		"comment": "Tiger_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0314",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタッズブーツ",
+		"comment": "Tiger_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0315",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "白ラバーソール",
+		"comment": "Tiger_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "虎ラバーソール",
+		"comment": "Tiger_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベルトブーツ",
+		"comment": "Tiger_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブルトゲブレス",
+		"comment": "Tiger_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0319",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トゲチョーカー",
+		"comment": "Tiger_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0320",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミニショルダーバッグ",
+		"comment": "Tiger_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0321",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "虎リュック",
+		"comment": "Tiger_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0400",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピーチブロッサム",
+		"comment": "Rabbit_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イベリス",
+		"comment": "Rabbit_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サルビア",
+		"comment": "Rabbit_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0403",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スミレ",
+		"comment": "Rabbit_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0404",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロユリ",
+		"comment": "Rabbit_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0405",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カスミソウ",
+		"comment": "Rabbit_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0406",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カラー",
+		"comment": "Rabbit_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0407",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロツバキ",
+		"comment": "Rabbit_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0408",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ペチュニア",
+		"comment": "Rabbit_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0409",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タチアオイ",
+		"comment": "Rabbit_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0410",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クローバー",
+		"comment": "Rabbit_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0411",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒヤシンス",
+		"comment": "Rabbit_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0412",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラナンキュラス",
+		"comment": "Rabbit_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0413",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カンナ",
+		"comment": "Rabbit_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0414",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダリア",
+		"comment": "Rabbit_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0415",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベラドンナ",
+		"comment": "Rabbit_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0416",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブーゲンビリア",
+		"comment": "Rabbit_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0417",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アンスリウム",
+		"comment": "Rabbit_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0418",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャクヤク",
+		"comment": "Rabbit_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0419",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アオバラ",
+		"comment": "Rabbit_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0420",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノバラ",
+		"comment": "Rabbit_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0421",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロバラ",
+		"comment": "Rabbit_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0500",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華濡羽",
+		"comment": "Dragon_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0501",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華葵",
+		"comment": "Dragon_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0502",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "麻葉ニ縹",
+		"comment": "Dragon_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0503",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "藁ニ秋桜",
+		"comment": "Dragon_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0504",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "毘沙門ニ蒼",
+		"comment": "Dragon_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0505",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華黒紅",
+		"comment": "Dragon_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0506",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "乱菊ニ玄",
+		"comment": "Dragon_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0507",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "小菊ニ瑠璃",
+		"comment": "Dragon_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0508",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華金色雀",
+		"comment": "Dragon_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0509",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "流ニ藍鼠",
+		"comment": "Dragon_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0510",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "流ニ錫",
+		"comment": "Dragon_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0511",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華青磁",
+		"comment": "Dragon_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0512",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "桐ニ紫黒",
+		"comment": "Dragon_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0513",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華朱砂",
+		"comment": "Dragon_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0514",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華乙女",
+		"comment": "Dragon_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0515",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "竹ニ黄金",
+		"comment": "Dragon_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0516",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "華赤丹",
+		"comment": "Dragon_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0600",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロングワッチ",
+		"comment": "Snake_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0601",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヘアバンド",
+		"comment": "Snake_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0602",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トルコ石ヒッピーバンド",
+		"comment": "Snake_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0603",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックTシャツ",
+		"comment": "Snake_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0604",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックプルオーバー",
+		"comment": "Snake_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0605",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポンチョ",
+		"comment": "Snake_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0606",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケープ",
+		"comment": "Snake_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0607",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックパンツ",
+		"comment": "Snake_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0608",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アラジンパンツ",
+		"comment": "Snake_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0609",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックロングスカート",
+		"comment": "Snake_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0610",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エキゾチックサロペット",
+		"comment": "Snake_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0611",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エキゾチックワンピ",
+		"comment": "Snake_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0612",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックワンピ",
+		"comment": "Snake_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0613",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックサンダル",
+		"comment": "Snake_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0614",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビーズサンダル",
+		"comment": "Snake_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0615",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックスリッポン",
+		"comment": "Snake_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0616",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エキゾチックブーツ",
+		"comment": "Snake_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0617",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トルコ石ネックレス",
+		"comment": "Snake_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0618",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トルコ石ブレスレット",
+		"comment": "Snake_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0619",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エキゾチックポーチ",
+		"comment": "Snake_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0700",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Compagno",
+		"comment": "Horse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0701",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Galassia",
+		"comment": "Horse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0702",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Bellezza suprema",
+		"comment": "Horse_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0703",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Onore",
+		"comment": "Horse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0704",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Tradizione",
+		"comment": "Horse_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0705",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Rispetto ",
+		"comment": "Horse_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0706",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Innovazione",
+		"comment": "Horse_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0707",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Inimitabile",
+		"comment": "Horse_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0708",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Notte romantica",
+		"comment": "Horse_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0709",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Futuro",
+		"comment": "Horse_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0710",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Infinito",
+		"comment": "Horse_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0711",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Sentiero",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0712",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Vacanza",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0713",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Denaro e potere",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0714",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Amore e desiderio",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0715",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Pigliatutto",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0716",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Fiore di cristallo",
+		"comment": "Horse_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0800",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バケットハット",
+		"comment": "Sheep_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0801",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バレッタ",
+		"comment": "Sheep_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0802",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シェパくんTシャツ",
+		"comment": "Sheep_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0803",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポロシャツ",
+		"comment": "Sheep_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0804",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タートルネック",
+		"comment": "Sheep_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0805",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワイシャツ",
+		"comment": "Sheep_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0806",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウンジャケット",
+		"comment": "Sheep_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0807",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チノパン",
+		"comment": "Sheep_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0808",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コーデュロイパンツ",
+		"comment": "Sheep_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0809",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "膝丈スカート",
+		"comment": "Sheep_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0810",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラップスカート",
+		"comment": "Sheep_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0811",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャツワンピ",
+		"comment": "Sheep_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0812",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストラップパンプス",
+		"comment": "Sheep_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0813",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スリッポン",
+		"comment": "Sheep_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0814",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビジネスバッグ",
+		"comment": "Sheep_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0815",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウールマフラー",
+		"comment": "Sheep_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0900",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フドウ",
+		"comment": "Monkey_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0901",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クジャク",
+		"comment": "Monkey_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0902",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダルマ",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0903",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スイテン",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0904",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アミダ",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0905",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コウモクテン",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0906",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミロク",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0907",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビシャモンテン",
+		"comment": "Monkey_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0908",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イナヅマ",
+		"comment": "Monkey_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0909",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イダテン",
+		"comment": "Monkey_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0910",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クビラ",
+		"comment": "Monkey_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0911",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エンマ",
+		"comment": "Monkey_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0912",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アウン",
+		"comment": "Monkey_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0913",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲキリン",
+		"comment": "Monkey_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0914",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セツナ",
+		"comment": "Monkey_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0915",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンネ",
+		"comment": "Monkey_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0916",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カルマ",
+		"comment": "Monkey_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0917",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナラク",
+		"comment": "Monkey_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロキャップ",
+		"comment": "Bird_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロニット帽",
+		"comment": "Bird_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロTシャツ",
+		"comment": "Bird_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロブルゾン",
+		"comment": "Bird_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロパーカー",
+		"comment": "Bird_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッククロスタンク",
+		"comment": "Bird_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サルエルパンツ",
+		"comment": "Bird_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロハーフパンツ",
+		"comment": "Bird_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジャージミニ",
+		"comment": "Bird_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジャージワンピ",
+		"comment": "Bird_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レザースニーカー",
+		"comment": "Bird_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スニーカーサンダル",
+		"comment": "Bird_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スニーカーブーツ",
+		"comment": "Bird_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロウォッチ",
+		"comment": "Bird_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドッグタグ",
+		"comment": "Bird_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボディバッグ",
+		"comment": "Bird_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マスク",
+		"comment": "Bird_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モテ女優ハット",
+		"comment": "Dog_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストローハット",
+		"comment": "Dog_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラブリーキャミ",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カシュクール",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェスターコート",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テーラードジャケット",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボーダーTシャツ",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クールドレスシャツ",
+		"comment": "Dog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホワイトデニム",
+		"comment": "Dog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレアスカート",
+		"comment": "Dog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラックデニム",
+		"comment": "Dog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゆったりサロペット",
+		"comment": "Dog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "愛されワンピ",
+		"comment": "Dog_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "天使ワンピ",
+		"comment": "Dog_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラブリーワンピ",
+		"comment": "Dog_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンプルミュール",
+		"comment": "Dog_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エナメルパンプス",
+		"comment": "Dog_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャッカブーツ",
+		"comment": "Dog_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンプルネクタイ",
+		"comment": "Dog_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ニットタイ",
+		"comment": "Dog_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストレートキャップ",
+		"comment": "WildBoar_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベースボールキャップ",
+		"comment": "WildBoar_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴィンテージ風ニット帽",
+		"comment": "WildBoar_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワイヤーカチューシャ",
+		"comment": "WildBoar_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウンベスト",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プルオーバーパーカー",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プリントTシャツ",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネルシャツ",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モッズコート",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴィンテージ風スタジャン",
+		"comment": "WildBoar_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロールアップジーンズ",
+		"comment": "WildBoar_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴィンテージクラッシュジーンズ",
+		"comment": "WildBoar_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1212",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "迷彩カーゴパンツ",
+		"comment": "WildBoar_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムタイトスカート",
+		"comment": "WildBoar_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムシャツワンピ",
+		"comment": "WildBoar_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワークブーツ",
+		"comment": "WildBoar_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハイカットスニーカー",
+		"comment": "WildBoar_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ローカットスニーカー",
+		"comment": "WildBoar_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワッペンスニーカー",
+		"comment": "WildBoar_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェーンネックレス",
+		"comment": "WildBoar_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウォレットチェーン",
+		"comment": "WildBoar_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サングラス",
+		"comment": "WildBoar_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴィンテージ風ラジカセ",
+		"comment": "WildBoar_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムキャスケット",
+		"comment": "Cat_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベレー帽",
+		"comment": "Cat_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "セパレートバックルTシャツ",
+		"comment": "Cat_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジッパーシャツ",
+		"comment": "Cat_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アシメオフショルカットソー",
+		"comment": "Cat_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シャツジャケット",
+		"comment": "Cat_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デニムマイクロミニ",
+		"comment": "Cat_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1307",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アシメミニスカート",
+		"comment": "Cat_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1308",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダメージパンツ",
+		"comment": "Cat_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アシメクラッシュスキニー",
+		"comment": "Cat_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1310",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベルスリーブセットアップ",
+		"comment": "Cat_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1311",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジャンプスーツ",
+		"comment": "Cat_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1312",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミドルカットブーツ",
+		"comment": "Cat_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1313",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロングブーツ",
+		"comment": "Cat_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1314",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "網タイツ風ソックス",
+		"comment": "Cat_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1315",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウエストポーチ",
+		"comment": "Cat_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタンパーカー",
+		"comment": "Cat_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタンスマホケース",
+		"comment": "Cat_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタンポシェット",
+		"comment": "Cat_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1400",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レインボーアフロ",
+		"comment": "Frog_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サムライヘア",
+		"comment": "Frog_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "うさ耳メイドカチューシャ",
+		"comment": "Frog_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1403",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇宙猫Tシャツ",
+		"comment": "Frog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1404",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サンタの上着",
+		"comment": "Frog_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1405",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カエルの浮き輪",
+		"comment": "Frog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1406",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サンタのズボン",
+		"comment": "Frog_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1407",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メイド服",
+		"comment": "Frog_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1408",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "忍者装束",
+		"comment": "Frog_TB",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1409",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "竹馬",
+		"comment": "Frog_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1410",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ローラースケート",
+		"comment": "Frog_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1411",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "心ばかりのお中元",
+		"comment": "Frog_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1412",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "鼻メガネ",
+		"comment": "Frog_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1413",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トモナミの刀",
+		"comment": "Frog_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1500",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C パナマハット",
+		"comment": "Collabo_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1501",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C ベースボールキャップ",
+		"comment": "Collabo_H",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1502",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C Tシャツ",
+		"comment": "Collabo_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1503",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C ライダース",
+		"comment": "Collabo_T",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1504",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C レザーパンツ",
+		"comment": "Collabo_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1505",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C ショートパンツ",
+		"comment": "Collabo_B",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1506",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C シューズ",
+		"comment": "Collabo_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1507",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C サイドゴアブーツ",
+		"comment": "Collabo_S",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_1508",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "B.H.C.C トートバッグ",
+		"comment": "Collabo_A",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伝説のヘッドフォン",
+		"comment": "Monkey_H 前作ネク衣装",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伝説のオフタートル",
+		"comment": "Monkey_T 前作ネク衣装",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伝説のハーフパンツ",
+		"comment": "Monkey_B 前作ネク衣装",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伝説のスニーカー",
+		"comment": "Monkey_S 前作ネク衣装",
+		"annotation": ""
+	},
+	{
+		"name": "ITM_EQU_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伝説のオーディオプレイヤー",
+		"comment": "Monkey_A 前作ネク衣装",
+		"annotation": ""
+	}
+]
+}

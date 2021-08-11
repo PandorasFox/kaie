@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin Info"
+	},
+	{
+		"name": "ITM_BDG_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash <CRE>2</C> fierce forward slashes that <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash, then leap into the air and bring your weapon down to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash, then leap into the air and bring your weapon down to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash <CRE>2</C> fierce forward slashes that <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0007>"
+	},
+	{
+		"name": "ITM_BDG_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0008>"
+	},
+	{
+		"name": "ITM_BDG_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Tear through the enemy with a single stroke from a razor-sharp rake and <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>2-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>2-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>2-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>3-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>3-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to leap into the air and bring your weapon down, then unleash a <CRE>5-hit</C> upward slash that <CRE>launches the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a whirling slash that <CRE>sends the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash, then a whirling slash that <CRE>sends the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash <CRE>2</C> whirling slashes that <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash <CRE>3</C> whirling slashes that <CRE>knock the enemy back</C>. The third slash reaches a wider area."
+	},
+	{
+		"name": "ITM_BDG_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0020>"
+	},
+	{
+		"name": "ITM_BDG_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0021>"
+	},
+	{
+		"name": "ITM_BDG_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0022>"
+	},
+	{
+		"name": "ITM_BDG_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0023>"
+	},
+	{
+		"name": "ITM_BDG_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0024>"
+	},
+	{
+		"name": "ITM_BDG_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0025>"
+	},
+	{
+		"name": "ITM_BDG_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0026>"
+	},
+	{
+		"name": "ITM_BDG_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and assail them with your fists. Unleash a barrage of punches, then finish with a hard hit that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and assail them with your fists. Unleash a barrage of punches, then finish with a hard hit that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0029>"
+	},
+	{
+		"name": "ITM_BDG_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0030>"
+	},
+	{
+		"name": "ITM_BDG_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0031>"
+	},
+	{
+		"name": "ITM_BDG_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam down on your target with a wild, hefty hand. Keep attacking to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. <CRE>Rapidly</C> attack to knock the enemy back, then <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then <CRE>send them flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to <CRE>knock the enemy back</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to <CRE>knock the enemy back</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to <CRE>knock the enemy back</C>. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to <CRE>knock the enemy back</C>. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike at your target's blind spot with your poisonous tail. Keep attacking to <CRE>knock the enemy back</C>. Chance of <CRE>tremendously poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then land a low strike that <CRE>knocks them down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Knock the enemy back with a <CRE>2-hit</C> attack, then land a low <CRE>5-hit</C> strike that <CRE>knocks them down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Knock the enemy back with a <CRE>3-hit</C> attack, then land a low <CRE>7-hit</C> strike that <CRE>knocks them down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Keep attacking to knock the enemy back, then land a low strike that <CRE>knocks them down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Thrust your spear at the target. Knock the enemy back with a <CRE>3-hit</C> attack, then land a low <CRE>7-hit</C> strike that <CRE>knocks them down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire rounds at the target. Keep attacking to blast the enemy with a bullet that <CRE>knocks them back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire rounds at the target. Keep attacking to blast the enemy with a <CRE>piercing bullet</C> that <CRE>knocks them back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire rounds at the target. Keep attacking to blast the enemy with <CRE>2 piercing bullets</C> that <CRE>knock them back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire <CRE>high-speed piercing bullets</C> at the target. Keep attacking to blast the enemy with a <CRE>piercing bullet</C> that <CRE>knocks them back</C>. Chance of <CRE>moderately shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire <CRE>high-speed piercing bullets</C> at the target. Keep attacking to blast the enemy with a <CRE>piercing bullet</C> that <CRE>knocks them back</C>. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire rounds at the target. Keep attacking to blast the enemy with a bullet that <CRE>knocks them back</C>. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire rounds at the target. Keep attacking to shoot in <CRE>3 directions</C> and <CRE>knock the enemy back</C>. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw trash at the target in <CRE>waves of 4</C>. Large objects appear at random to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw trash at the target in <CRE>waves of 4</C>. Large objects appear at random to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Deploy bubbles toward the target in <CRE>waves of 2</C>. Keep attacking to release a giant bubble that <CRE>knocks the enemy back</C>. Chance of <CRE>slightly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Deploy a wave of bursting bubbles that change the tide of battle. Keep attacking to release a large bubble that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Send spheres of ice hurtling at your target. Keep attacking to fire in <CRE>6 directions</C> and <CRE>knock the enemy back</C>. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire sonic bullets at your target. After bouncing off nearby foes <CRE>up to 5 times</C>, they will <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire sonic bullets in <CRE>3 directions</C>. After bouncing off nearby foes <CRE>up to 5 times</C>, they will <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire a line of <CRE>3</C> radiant bullets at your target, then a final round that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire a line of <CRE>5</C> radiant bullets at your target, then a final round that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw shuriken in <CRE>6 directions</C>, then hurl a huge star that will <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw shuriken in <CRE>8 directions</C>, then hurl a huge star that will <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw cards that pursue foes around the target in <CRE>waves of 2</C>. Keep attacking to release a final card that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw cards that pursue foes around the target in <CRE>waves of 3</C>. Keep attacking to release a final card that <CRE>knocks the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw red cards that pursue foes around the target in <CRE>waves of 2</C>. Keep attacking to release a final card that <CRE>knocks the enemy back</C>. Chance of <CRE>moderately burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw red cards that pursue foes around the target in <CRE>waves of 4</C>. Keep attacking to release a final card that <CRE>knocks the enemy back</C>. Chance of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw black cards that pursue foes around the target in <CRE>waves of 3</C>. The cards creep toward the enemy, then <CRE>knock them back</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw black cards that pursue foes around the target in <CRE>waves of 4</C>. The cards creep toward the enemy, then <CRE>knock them back</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "A mysterious orb chases the target as if it has a will of its own, then <CRE>knocks the enemy back</C> on impact. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>8 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies."
+	},
+	{
+		"name": "ITM_BDG_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>12 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies."
+	},
+	{
+		"name": "ITM_BDG_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>15 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies."
+	},
+	{
+		"name": "ITM_BDG_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>8 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies. High chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>12 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies. High chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>8 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies. High chance of <CRE>entombing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>12 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies. High chance of <CRE>entombing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an exploding arrow at the target. Fire <CRE>20 arrows</C> within a fixed time to trigger a massive explosion that <CRE>knocks back</C> any nearby enemies."
+	},
+	{
+		"name": "ITM_BDG_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Face the target and shoot poison needles in <CRE>3 directions</C>. Keep attacking to release a mighty needle that <CRE>knocks the enemy back</C>. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>knocked back</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies struck with the explosion's ensuing debris will be <CRE>knocked back</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies struck with the explosion's ensuing debris will be <CRE>sent flying</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies struck with the explosion's ensuing debris will be <CRE>sent flying</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>sent flying</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>sent flying</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Place <CRE>5</C> time bombs <CRE>around you</C>. Enemies caught in the explosion will be <CRE>knocked back</C>. Chance of <CRE>greatly shocking</C> the enemy. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Stick a spiked bomb on your target. Enemies caught in the explosion will be <CRE>knocked back</C>. Chance of <CRE>greatly poisoning</C> the enemy. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Make a row of <CRE>3</C> time bombs <CRE>in front of you</C>. Enemies caught in the explosion will be <CRE>knocked back</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Make a row of <CRE>5</C> time bombs <CRE>in front of you</C>. Enemies caught in the explosion will be <CRE>knocked back</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a <CRE>massive</C> ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>sent flying far</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion might become <CRE>chained</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion might become <CRE>chained</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Make a line of <CRE>4</C> time bombs <CRE>ahead of you</C>. Enemies caught in the explosion will be <CRE>knocked back</C>. Chance of <CRE>greatly poisoning</C> the enemy. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Make a line of <CRE>4</C> time bombs <CRE>ahead of you</C>. Enemies caught in the explosion will be <CRE>knocked back</C>. Chance of <CRE>greatly poisoning</C> the enemy. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>drawn in</C>. Chance of <CRE>confusing</C> the enemy. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>launched into the air</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Place a ticking time bomb at your feet. Enemies caught in the explosion will be <CRE>launched into the air</C>. (Pin gauge will not refill automatically.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0100>"
+	},
+	{
+		"name": "ITM_BDG_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0101>"
+	},
+	{
+		"name": "ITM_BDG_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0102>"
+	},
+	{
+		"name": "ITM_BDG_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0103>"
+	},
+	{
+		"name": "ITM_BDG_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0104>"
+	},
+	{
+		"name": "ITM_BDG_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0105>"
+	},
+	{
+		"name": "ITM_BDG_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Your fleet feet can't be stopped as you pursue your prey at breakneck speed. Strike <CRE>8 times</C> to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Summon bolts of lightning to strike the target and surrounding enemies. Chance of <CRE>slightly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Shower spears down on the target and surrounding enemies. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Drench the target and surrounding enemies with torrents of rain. Chance of <CRE>knocking the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Drench the target and surrounding enemies with torrents of rain. Chance of <CRE>knocking the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Drench the target and surrounding enemies with torrents of rain. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Drop debris on the target and surrounding enemies. Enemies struck by large objects will be <CRE>sent flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Drop debris on the target and surrounding enemies. Enemies struck by large objects will be <CRE>sent flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire an electrifying attack at the target. The attack will chain if enemies are nearby. Chance of <CRE>moderately shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a chain at your target. The attack will chain if enemies are nearby. Chance of <CRE>chaining</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire <CRE>up to 2</C> electrifying attacks at the target and <CRE>enemies behind them</C>. The attack will chain if enemies are nearby. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire <CRE>up to 3</C> electrifying attacks at the target and <CRE>surrounding enemies</C>. The attack will chain if enemies are nearby. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire <CRE>up to 3</C> lasers at <CRE>enemies around you</C>. The attack will chain if enemies are nearby."
+	},
+	{
+		"name": "ITM_BDG_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire a laser at your target. The attack will chain if enemies are nearby."
+	},
+	{
+		"name": "ITM_BDG_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire a laser at your target. The attack will chain if enemies are nearby. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Pierce the target with your rainbow tail feathers. The attack will chain if enemies are nearby. Inflicts enemy with a <CRE>random status effect</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Garb your gams with a gust of wind, then strike your target with an aerial kick to draw in foes <CRE>in a wide area</C>. Fully charge it to unleash a <CRE>3-hit</C> attack that <CRE>sends the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Garb your gams with a gust of wind, then strike your target with an aerial kick to draw in foes <CRE>in a wide area</C>. Fully charge it to unleash a <CRE>3-hit</C> attack that <CRE>sends the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>send the enemy flying</C>. Charging up for an attack takes <CRE>less time</C> than usual."
+	},
+	{
+		"name": "ITM_BDG_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>send the enemy flying</C>. Charging up for an attack takes <CRE>less time</C> than usual."
+	},
+	{
+		"name": "ITM_BDG_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Swiftly drop down onto your enemy from above and show off your perfect vector kick. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Pelt your target with a rock from above. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Pelt your target with a rock from above. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Pelt your target with a rock from above. Fully charge it to <CRE>knock the enemy down</C>, then generate a shock wave to <CRE>send surrounding enemies flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target with a lightning orb from above. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target with a lightning orb from above. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target with a lightning orb from above. Fully charge it to <CRE>knock the enemy down</C>, then generate a shock wave to <CRE>send surrounding enemies flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam a fossil fragment of an ancient king down onto the target. Fully charge it to <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam the target with an object from above. The object is chosen at random during charging. Enemies struck by large objects will be <CRE>knocked down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam the target with an object from above. The object is chosen at random during charging. Enemies struck by large objects will be <CRE>knocked down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam the target with an object from above. The object is chosen at random during charging. Enemies struck by large objects will be <CRE>knocked down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure a pillar of ice beneath the target. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure a pillar of ice beneath the target. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure a pillar of ice beneath the target that strikes <CRE>3 times</C>. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target from left to right <CRE>3 times</C> with stone pillars. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target from left to right <CRE>5 times</C> with stone pillars. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure a pillar of fire beneath the target. Fully charge it to unleash a <CRE>3-hit</C> attack, then <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Simultaneously conjure <CRE>2</C> pillars of light beneath the target. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Simultaneously conjure <CRE>3</C> pillars of light beneath the target. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Ice sculptures peck the target with their sharp bills, their adorable appearance belying their fearsome strength. Fully charge it to <CRE>launch the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>knock the enemy back</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>knock the enemy back</C>. Chance of <CRE>slightly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>knock the enemy back</C>. Chance of <CRE>moderately poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Toss a bomb at the target. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Phantom butterflies <CRE>scatter</C> across the stage, dealing damage to any they touch. They float from flower to flower, following their foe."
+	},
+	{
+		"name": "ITM_BDG_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast <CRE>2</C> chains at your target. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>slightly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast <CRE>3</C> chains at your target. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure <CRE>cross-shaped</C> chains at the target's position. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure <CRE>cross-shaped</C> chains at the target's position. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Surround</C> the target with chains. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>moderately shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Surround</C> the target with chains. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>greatly shocking</C> the enemy. Engraved with the words, <MK_11>With FuJin...<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a chain that <CRE>chases</C> your target and nearby enemies. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>moderately poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a <CRE>horizontal</C> chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a thick, long-lasting chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a thick, long-lasting chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast <CRE>2</C> chains that <CRE>chase</C> your target and nearby enemies. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Cast a <CRE>vertical</C> chain at your target. High chance of <CRE>chaining</C> any foes struck."
+	},
+	{
+		"name": "ITM_BDG_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure clones, then course an electrifying current through the chain connecting them. High chance of <CRE>chaining</C> any foes struck. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>3</C> arching boomerangs hurtling at your target. Fully charge it to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>5</C> arching boomerangs hurtling at your target. Fully charge it to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in and launch an object at your target. The object is chosen at random during charging. Enemies struck by large objects will be <CRE>sent flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in and launch an object at your target. The object is chosen at random during charging. Enemies struck by large objects will be <CRE>sent flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>3</C> arching boomerangs hurtling at your target. Fully charge it to <CRE>launch the enemy into the air</C> or <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>5</C> arching boomerangs hurtling at your target. Fully charge it to <CRE>launch the enemy into the air</C> or <CRE>knock the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>7</C> arching boomerangs hurtling at your target. Fully charge it to <CRE>knock the enemy back</C>. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Glide through the air with breathtaking black wings. Fully charge it to <CRE>send the enemy flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 8</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>sent flying</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 10</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>sent flying</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 8</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 15</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 15</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>sent flying</C> on impact. Engraved with the words, <MK_11>Fill the mystic dish with moisture and light.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 8</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 10</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>draw the enemy in</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>. Engraved with the words, <MK_11>Light and dark, forever entwined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>. Engraved with the words, <MK_11>Light and dark, forever entwined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0196>"
+	},
+	{
+		"name": "ITM_BDG_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0197>"
+	},
+	{
+		"name": "ITM_BDG_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0198>"
+	},
+	{
+		"name": "ITM_BDG_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Instantly cures your team's <CRE>status ailments</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for a short time, <CRE>nullifying all enemy attacks</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for a while, <CRE>nullifying all enemy attacks</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for an instant, <CRE>nullifying all enemy attacks</C>. Deals damage to enemies who come into contact and <CRE>knocks them far back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for a short time, <CRE>nullifying all enemy attacks</C>. Deals damage to enemies who come into contact and <CRE>knocks them far back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for an instant, <CRE>nullifying all enemy attacks</C>. Deals <CRE>heavy damage</C> to enemies who come into contact and <CRE>knocks them back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for a short time, <CRE>nullifying all enemy attacks</C> and <CRE>recovering HP</C>. Engraved with the words, <MK_11>Aligned, we shall create the ultimate sound.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Erect a barrier for an instant, <CRE>nullifying all enemy attacks</C>. Its heavenward horn deals damage to any it touches and <CRE>launches them into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target."
+	},
+	{
+		"name": "ITM_BDG_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. The swords may scatter and <CRE>stalk multiple foes</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. The swords may scatter and <CRE>stalk multiple foes</C>. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of <CRE>swift</C> swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target."
+	},
+	{
+		"name": "ITM_BDG_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Disperse bubbles in <CRE>3 directions</C>, including at the target, dealing damage to any struck. When a bubble strikes an enemy, it changes course and pursues a new target."
+	},
+	{
+		"name": "ITM_BDG_Info_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Countless bladelike leaves float on the wind, protecting the wearer and dealing damage to any foe that comes in contact."
+	},
+	{
+		"name": "ITM_BDG_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Countless bladelike leaves float on the wind, protecting the wearer and dealing damage to any foe that comes in contact. Engraved with the words, <MK_11>With RaiJin...<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in debris to shield the wearer and deal damage to any foe that comes in contact. Enemies struck by large objects will be <CRE>knocked back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure swords of light to protect the wearer and deal damage to any foe that comes in contact."
+	},
+	{
+		"name": "ITM_BDG_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an erratic laser at the target."
+	},
+	{
+		"name": "ITM_BDG_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot an erratic laser at the target."
+	},
+	{
+		"name": "ITM_BDG_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot a laser at the target. Chance of <CRE>slightly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot a laser at the target. Chance of <CRE>slightly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot a laser at the target. Chance of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot a laser at the target. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot <CRE>3</C> fanning lasers at the target. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot <CRE>5</C> fanning lasers at the target. Chance of <CRE>freezing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoot a laser at the target. Chance of <CRE>knocking the enemy down</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Simultaneously shoot <CRE>2</C> lasers at the target. Chance of <CRE>confusing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Don't let this cool cat's cute face fool you. It blasts through enemies with an erratic and extremely destructive beam."
+	},
+	{
+		"name": "ITM_BDG_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirpool of lightning around the target that damages any foe caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>moderately shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirpool of lightning around the target that damages any foe caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Invoke a sandstorm around the target that damages any foe caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>entombing</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Generate a gravitational storm around the target that damages any foe caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>knocking the enemy back</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Generate a gravitational storm around the target that damages any foe caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>launching the enemy into the air</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Generate a <CRE>giant</C> gravitational storm around the target that damages any foe caught inside. Chance of <CRE>knocking the enemy down</C>. Engraved with the words, <MK_11>Magnetic dipoles are the way of the world.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a whirling tide that damages any foes caught inside. Colliding enemies deal heavy damage to each other."
+	},
+	{
+		"name": "ITM_BDG_Info_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0234>"
+	},
+	{
+		"name": "ITM_BDG_Info_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0235>"
+	},
+	{
+		"name": "ITM_BDG_Info_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a whirlpool of light that damages any foes caught inside. Colliding enemies deal heavy damage to each other."
+	},
+	{
+		"name": "ITM_BDG_Info_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a whirlpool of light that damages any foes caught inside. Colliding enemies deal heavy damage to each other. Engraved with the words, <MK_11>Fill the mystic dish with moisture and light.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a whirling tide that damages any foes caught inside. Colliding enemies deal heavy damage to each other."
+	},
+	{
+		"name": "ITM_BDG_Info_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a <CRE>small</C> whirlpool of fire around the target that damages any foes caught inside. Wherever the target goes, this storm <CRE>swiftly</C> follows. Chance of <CRE>slightly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirlpool of fire around the target that damages any foes caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>moderately burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirlpool of fire around the target that damages any foes caught inside. Wherever the target goes, this storm slowly follows. Chance of <CRE>moderately burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirlpool of fire around the target that damages any foes caught inside. Wherever the target goes, this storm <CRE>swiftly</C> follows while spewing <CRE>embers</C>. Chance of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "A giant foot descends down to stomp after the target. Any foe trampled underfoot will be <CRE>sent flying</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0244>"
+	},
+	{
+		"name": "ITM_BDG_Info_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0245>"
+	},
+	{
+		"name": "ITM_BDG_Info_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0246>"
+	},
+	{
+		"name": "ITM_BDG_Info_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0247>"
+	},
+	{
+		"name": "ITM_BDG_Info_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0248>"
+	},
+	{
+		"name": "ITM_BDG_Info_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0249>"
+	},
+	{
+		"name": "ITM_BDG_Info_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a black hole that damages any foes caught inside. Colliding enemies deal heavy damage to each other."
+	},
+	{
+		"name": "ITM_BDG_Info_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Draw in enemies with a black hole that damages any foes caught inside. Colliding enemies deal heavy damage to each other."
+	},
+	{
+		"name": "ITM_BDG_Info_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0252>"
+	},
+	{
+		"name": "ITM_BDG_Info_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0253>"
+	},
+	{
+		"name": "ITM_BDG_Info_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0254>"
+	},
+	{
+		"name": "ITM_BDG_Info_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0255>"
+	},
+	{
+		"name": "ITM_BDG_Info_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0256>"
+	},
+	{
+		"name": "ITM_BDG_Info_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 5</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 7</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 8</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact. Chance of <CRE>chaining</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 10</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact. Chance of <CRE>chaining</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. Chance of <CRE>moderately burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. The swords may scatter and <CRE>stalk multiple foes</C>. Chance of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize the <CRE>foes surrounding your target</C> to stop their movements. This has no effect when there is only 1 enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize the <CRE>foes surrounding your target</C> to stop their movements. This has no effect when there is only 1 enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of swords soaring at the target, dealing damage to any struck. When the swarm strikes an enemy, it changes course and pursues a new target. The swords may scatter and <CRE>stalk multiple foes</C>. Chance of <CRE>greatly shocking</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Launch <CRE>up to 8</C> rockets at your target. Lock on to multiple foes by changing targets while charging. Enemies will be <CRE>knocked back</C> on impact. Chance of <CRE>greatly poisoning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0268>"
+	},
+	{
+		"name": "ITM_BDG_Info_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0269>"
+	},
+	{
+		"name": "ITM_BDG_Info_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0270>"
+	},
+	{
+		"name": "ITM_BDG_Info_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0271>"
+	},
+	{
+		"name": "ITM_BDG_Info_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0272>"
+	},
+	{
+		"name": "ITM_BDG_Info_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0273>"
+	},
+	{
+		"name": "ITM_BDG_Info_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0274>"
+	},
+	{
+		"name": "ITM_BDG_Info_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0275>"
+	},
+	{
+		"name": "ITM_BDG_Info_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0276>"
+	},
+	{
+		"name": "ITM_BDG_Info_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restore a bit</C> of your team's HP <CRE>in an instant</C>. (<CRE>Single use</C>. Pin gauge will not refill automatically or reboot.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restore</C> your team's HP <CRE>in an instant</C>. (<CRE>Single use</C>. Pin gauge will not refill automatically or reboot.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Restores a large amount</C> of your team's HP <CRE>in an instant</C>. (<CRE>Single use</C>. Pin gauge will not refill automatically or reboot.)"
+	},
+	{
+		"name": "ITM_BDG_Info_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0280>"
+	},
+	{
+		"name": "ITM_BDG_Info_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0281>"
+	},
+	{
+		"name": "ITM_BDG_Info_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0282>"
+	},
+	{
+		"name": "ITM_BDG_Info_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0283>"
+	},
+	{
+		"name": "ITM_BDG_Info_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0284>"
+	},
+	{
+		"name": "ITM_BDG_Info_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0285>"
+	},
+	{
+		"name": "ITM_BDG_Info_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0286>"
+	},
+	{
+		"name": "ITM_BDG_Info_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0287>"
+	},
+	{
+		"name": "ITM_BDG_Info_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0288>"
+	},
+	{
+		"name": "ITM_BDG_Info_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize the target, then wave them about. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize the target, then wave them about. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "A single touch of that tongue is all it takes to become its prisoner. Grab the <CRE>target and surrounding enemies</C>, then <CRE>draw them in</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Assail the target with Mr. Mew. Keep attacking to knock the enemy back, then launch a <CRE>3-hit</C> attack that <CRE>sends them flying</C>. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw an adorable Mr. Mew card. Keep attacking to release a final card that <CRE>knocks the enemy back</C>. Chance of <CRE>greatly shocking</C> the enemy. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Slam the target from above with a meteorite shaped like Mr. Mew. Fully charge it to <CRE>knock the enemy down</C>. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Manifest a Mr. Mew pyramid below the target. Fully charge it to <CRE>launch the enemy into the air</C>. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a swarm of Mr. Mews soaring at the target. Whenever a Mr. Mew strikes an enemy, it changes course and pursues a new target. Chance of <CRE>freezing</C> the enemy. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Stir up a whirlpool of black flames around the target that damages any foes caught inside. Wherever the target goes, Mr. Mew slowly follows. Chance of <CRE>confusing</C> the enemy. Engraved with the words, <MK_11>Naught is more ferocious than six felines combined.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a <CRE>3-hit</C> upward slash that <CRE>launches the enemy into the air</C>. Engraved with the words, <MK_11>Seasons' greetings.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "Throw sun-shaped objects at the target. Keep attacking to randomly hurl a larger object that <CRE>knocks the enemy back</C>. Engraved with the words, <MK_11>Seasons' greetings.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Strike your target with an aerial kick. Fully charge it to <CRE>send the enemy flying</C>. Engraved with the words, <MK_11>Seasons' greetings.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Send a wide-sweeping shock wave at your target. Those caught in the middle will take heavy damage. Fully charge it to <CRE>knock the enemy back</C>. Engraved with the words, <MK_11>Seasons' greetings.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0302>"
+	},
+	{
+		"name": "ITM_BDG_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize <CRE>only the target</C> to stop their movements for <CRE>a long time</C>. Engraved with the words, <MK_11>A true friend shares your dreams.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to leap into the air and bring your weapon down, then unleash a whirling slash that <CRE>knocks back enemies in a wide area</C>. Engraved with the words, <MK_11>Did I leave the lights on?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Summon bolts of lightning to strike the target and surrounding enemies. Chance of <CRE>moderately shocking</C> the enemy. Engraved with the words, <MK_11>Do you hear that music?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Send <CRE>3</C> arching boomerangs hurtling at your target that explode on impact, damaging any in the area. Fully charge it to <CRE>send the enemy flying</C>. Engraved with the words, <MK_11>Keep on swimmin'?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to unleash a fierce forward slash that <CRE>knocks the enemy back</C>. Engraved with the words, <MK_11>May Tenka's twin swords be reunited.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Close in on your target and slice them. Keep attacking to leap into the air and bring your weapon down to <CRE>knock the enemy back</C>. Engraved with the words, <MK_11>May Tenka's twin swords be reunited.<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize <CRE>all enemies</C> to stop their movement."
+	},
+	{
+		"name": "ITM_BDG_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjure flaming swords to protect the wearer and deal damage to any foe that comes in contact. Chances of <CRE>greatly burning</C> the enemy."
+	},
+	{
+		"name": "ITM_BDG_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Seize the target and <CRE>slam them down</C> multiple times. Enemies will be <CRE>knocked back</C> on impact."
+	},
+	{
+		"name": "ITM_BDG_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0312>"
+	},
+	{
+		"name": "ITM_BDG_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>1</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>5</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>10</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>50</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>100</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>500</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>1,000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>5,000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>10,000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "Cash this in for <CRE><MK_YEN>100,000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with a red jewel. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with two orange jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with three yellow jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with four green jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with five light blue jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with six blue jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin inlaid with seven purple jewels. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin reminiscent of the world of memories. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin reminiscent of a transient world. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin reminiscent of an unseen world. Exchange it for <CRE>items</C> at a certain shop."
+	},
+	{
+		"name": "ITM_BDG_Info_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "A pin reminiscent of a multiplanar world. Exchange it for <CRE>items</C> at a certain shop."
+	}
+]
+}

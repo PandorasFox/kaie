@@ -1,0 +1,1672 @@
+{
+"columns":[
+	{
+		"name": "ITM_EQU_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Ropa y complementos"
+	},
+	{
+		"name": "ITM_EQU_Name_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Diadema floral"
+	},
+	{
+		"name": "ITM_EQU_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Diadema con lazo"
+	},
+	{
+		"name": "ITM_EQU_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorro de Topo"
+	},
+	{
+		"name": "ITM_EQU_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Blusa romántica"
+	},
+	{
+		"name": "ITM_EQU_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Suéter jugoso"
+	},
+	{
+		"name": "ITM_EQU_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de Top o' Topo"
+	},
+	{
+		"name": "ITM_EQU_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda de tul vaporosa"
+	},
+	{
+		"name": "ITM_EQU_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones pirata"
+	},
+	{
+		"name": "ITM_EQU_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido elegante"
+	},
+	{
+		"name": "ITM_EQU_Name_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido marinero"
+	},
+	{
+		"name": "ITM_EQU_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Bailarinas con lazo"
+	},
+	{
+		"name": "ITM_EQU_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandalias con volantes"
+	},
+	{
+		"name": "ITM_EQU_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Mocasines cómodos"
+	},
+	{
+		"name": "ITM_EQU_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolso con lazo"
+	},
+	{
+		"name": "ITM_EQU_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolso de tela humilde"
+	},
+	{
+		"name": "ITM_EQU_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Rebeca calentita"
+	},
+	{
+		"name": "ITM_EQU_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda holgada"
+	},
+	{
+		"name": "ITM_EQU_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Goma de pelo de flores"
+	},
+	{
+		"name": "ITM_EQU_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra vaquera deslumbrante"
+	},
+	{
+		"name": "ITM_EQU_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Sombrero con estampado de ganado"
+	},
+	{
+		"name": "ITM_EQU_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra con estampado de ganado"
+	},
+	{
+		"name": "ITM_EQU_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta vaquera"
+	},
+	{
+		"name": "ITM_EQU_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Rebeca siniestra"
+	},
+	{
+		"name": "ITM_EQU_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "<i>Top</i> con los hombros al aire"
+	},
+	{
+		"name": "ITM_EQU_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "<i>Bustier</i> de encaje"
+	},
+	{
+		"name": "ITM_EQU_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros rotos"
+	},
+	{
+		"name": "ITM_EQU_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros tornasolados"
+	},
+	{
+		"name": "ITM_EQU_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Minifalda de cuero"
+	},
+	{
+		"name": "ITM_EQU_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Minifalda de volantes rosa"
+	},
+	{
+		"name": "ITM_EQU_Name_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Dos piezas moderno"
+	},
+	{
+		"name": "ITM_EQU_Name_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandalias brillantes"
+	},
+	{
+		"name": "ITM_EQU_Name_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas de caña con cordones"
+	},
+	{
+		"name": "ITM_EQU_Name_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas arrugadas de color carmín"
+	},
+	{
+		"name": "ITM_EQU_Name_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatos de piel"
+	},
+	{
+		"name": "ITM_EQU_Name_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Funda de teléfono brillante"
+	},
+	{
+		"name": "ITM_EQU_Name_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Uñas postizas rosas"
+	},
+	{
+		"name": "ITM_EQU_Name_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Mechero dorado"
+	},
+	{
+		"name": "ITM_EQU_Name_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Gafas de sol rosas"
+	},
+	{
+		"name": "ITM_EQU_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjunto mohawk rojo"
+	},
+	{
+		"name": "ITM_EQU_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de tigre tachonada"
+	},
+	{
+		"name": "ITM_EQU_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de cuero tachonada"
+	},
+	{
+		"name": "ITM_EQU_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Conjunto mohawk de tigre"
+	},
+	{
+		"name": "ITM_EQU_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Chupa de motero"
+	},
+	{
+		"name": "ITM_EQU_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Chupa de motero con parches"
+	},
+	{
+		"name": "ITM_EQU_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaleco de motero rojo"
+	},
+	{
+		"name": "ITM_EQU_Name_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaleco de motero de tigre"
+	},
+	{
+		"name": "ITM_EQU_Name_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta de tartán roja"
+	},
+	{
+		"name": "ITM_EQU_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de lino blanca"
+	},
+	{
+		"name": "ITM_EQU_Name_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones con correas"
+	},
+	{
+		"name": "ITM_EQU_Name_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones con correas y falda"
+	},
+	{
+		"name": "ITM_EQU_Name_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Shorts con correas"
+	},
+	{
+		"name": "ITM_EQU_Name_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de tartán"
+	},
+	{
+		"name": "ITM_EQU_Name_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas tachonadas"
+	},
+	{
+		"name": "ITM_EQU_Name_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Creepers blancos"
+	},
+	{
+		"name": "ITM_EQU_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Creepers de tigre"
+	},
+	{
+		"name": "ITM_EQU_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas con hebillas"
+	},
+	{
+		"name": "ITM_EQU_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Muñequera de pinchos"
+	},
+	{
+		"name": "ITM_EQU_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Gargantilla de pinchos"
+	},
+	{
+		"name": "ITM_EQU_Name_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Minibolso"
+	},
+	{
+		"name": "ITM_EQU_Name_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Mochila de tigre"
+	},
+	{
+		"name": "ITM_EQU_Name_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de melocotón"
+	},
+	{
+		"name": "ITM_EQU_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Iberis"
+	},
+	{
+		"name": "ITM_EQU_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Savia escarlata"
+	},
+	{
+		"name": "ITM_EQU_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Viola"
+	},
+	{
+		"name": "ITM_EQU_Name_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Azucena negra"
+	},
+	{
+		"name": "ITM_EQU_Name_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Gypsophila"
+	},
+	{
+		"name": "ITM_EQU_Name_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Azucena cala"
+	},
+	{
+		"name": "ITM_EQU_Name_0407",
+		"speaker": "",
+		"listener": "",
+		"content": "Camelia negra"
+	},
+	{
+		"name": "ITM_EQU_Name_0408",
+		"speaker": "",
+		"listener": "",
+		"content": "Petunia"
+	},
+	{
+		"name": "ITM_EQU_Name_0409",
+		"speaker": "",
+		"listener": "",
+		"content": "Malvarrosa"
+	},
+	{
+		"name": "ITM_EQU_Name_0410",
+		"speaker": "",
+		"listener": "",
+		"content": "Trébol"
+	},
+	{
+		"name": "ITM_EQU_Name_0411",
+		"speaker": "",
+		"listener": "",
+		"content": "Jacinto"
+	},
+	{
+		"name": "ITM_EQU_Name_0412",
+		"speaker": "",
+		"listener": "",
+		"content": "Ranúnculo"
+	},
+	{
+		"name": "ITM_EQU_Name_0413",
+		"speaker": "",
+		"listener": "",
+		"content": "Azucena canna"
+	},
+	{
+		"name": "ITM_EQU_Name_0414",
+		"speaker": "",
+		"listener": "",
+		"content": "Dalia"
+	},
+	{
+		"name": "ITM_EQU_Name_0415",
+		"speaker": "",
+		"listener": "",
+		"content": "Belladona"
+	},
+	{
+		"name": "ITM_EQU_Name_0416",
+		"speaker": "",
+		"listener": "",
+		"content": "Buganvilla"
+	},
+	{
+		"name": "ITM_EQU_Name_0417",
+		"speaker": "",
+		"listener": "",
+		"content": "Actinidia"
+	},
+	{
+		"name": "ITM_EQU_Name_0418",
+		"speaker": "",
+		"listener": "",
+		"content": "Peonia"
+	},
+	{
+		"name": "ITM_EQU_Name_0419",
+		"speaker": "",
+		"listener": "",
+		"content": "Rosa azul"
+	},
+	{
+		"name": "ITM_EQU_Name_0420",
+		"speaker": "",
+		"listener": "",
+		"content": "Capullo de rosa"
+	},
+	{
+		"name": "ITM_EQU_Name_0421",
+		"speaker": "",
+		"listener": "",
+		"content": "Rosa negra"
+	},
+	{
+		"name": "ITM_EQU_Name_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de cuervo"
+	},
+	{
+		"name": "ITM_EQU_Name_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de malvarrosa"
+	},
+	{
+		"name": "ITM_EQU_Name_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Cáñamo aciano"
+	},
+	{
+		"name": "ITM_EQU_Name_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Flores de cerezo en paja"
+	},
+	{
+		"name": "ITM_EQU_Name_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Bishamon cobalto"
+	},
+	{
+		"name": "ITM_EQU_Name_0505",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor negra escarlata"
+	},
+	{
+		"name": "ITM_EQU_Name_0506",
+		"speaker": "",
+		"listener": "",
+		"content": "Crisantemos de sombras"
+	},
+	{
+		"name": "ITM_EQU_Name_0507",
+		"speaker": "",
+		"listener": "",
+		"content": "Crisantemo de lapislázuli"
+	},
+	{
+		"name": "ITM_EQU_Name_0508",
+		"speaker": "",
+		"listener": "",
+		"content": "Golondrina dorada"
+	},
+	{
+		"name": "ITM_EQU_Name_0509",
+		"speaker": "",
+		"listener": "",
+		"content": "Índigo fluido"
+	},
+	{
+		"name": "ITM_EQU_Name_0510",
+		"speaker": "",
+		"listener": "",
+		"content": "Plata fluida"
+	},
+	{
+		"name": "ITM_EQU_Name_0511",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de porcelana"
+	},
+	{
+		"name": "ITM_EQU_Name_0512",
+		"speaker": "",
+		"listener": "",
+		"content": "Dedalera ébano y violeta"
+	},
+	{
+		"name": "ITM_EQU_Name_0513",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de arena carmesí"
+	},
+	{
+		"name": "ITM_EQU_Name_0514",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor de doncella"
+	},
+	{
+		"name": "ITM_EQU_Name_0515",
+		"speaker": "",
+		"listener": "",
+		"content": "Bambú dorado"
+	},
+	{
+		"name": "ITM_EQU_Name_0516",
+		"speaker": "",
+		"listener": "",
+		"content": "Flor llameante"
+	},
+	{
+		"name": "ITM_EQU_Name_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Boina enorme"
+	},
+	{
+		"name": "ITM_EQU_Name_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Diadema de tela"
+	},
+	{
+		"name": "ITM_EQU_Name_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Diadema de turquesas"
+	},
+	{
+		"name": "ITM_EQU_Name_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta bohemia"
+	},
+	{
+		"name": "ITM_EQU_Name_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Suéter bohemio"
+	},
+	{
+		"name": "ITM_EQU_Name_0605",
+		"speaker": "",
+		"listener": "",
+		"content": "Poncho"
+	},
+	{
+		"name": "ITM_EQU_Name_0606",
+		"speaker": "",
+		"listener": "",
+		"content": "Capa"
+	},
+	{
+		"name": "ITM_EQU_Name_0607",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones bohemios"
+	},
+	{
+		"name": "ITM_EQU_Name_0608",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de harén"
+	},
+	{
+		"name": "ITM_EQU_Name_0609",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda bohemia"
+	},
+	{
+		"name": "ITM_EQU_Name_0610",
+		"speaker": "",
+		"listener": "",
+		"content": "Mono jipi"
+	},
+	{
+		"name": "ITM_EQU_Name_0611",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido jipi"
+	},
+	{
+		"name": "ITM_EQU_Name_0612",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido bohemio"
+	},
+	{
+		"name": "ITM_EQU_Name_0613",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandalias bohemias"
+	},
+	{
+		"name": "ITM_EQU_Name_0614",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandalias de cuentas"
+	},
+	{
+		"name": "ITM_EQU_Name_0615",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatos bohemios"
+	},
+	{
+		"name": "ITM_EQU_Name_0616",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas mocasines"
+	},
+	{
+		"name": "ITM_EQU_Name_0617",
+		"speaker": "",
+		"listener": "",
+		"content": "Collar de turquesas"
+	},
+	{
+		"name": "ITM_EQU_Name_0618",
+		"speaker": "",
+		"listener": "",
+		"content": "Brazalete de turquesas"
+	},
+	{
+		"name": "ITM_EQU_Name_0619",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolso de jipi"
+	},
+	{
+		"name": "ITM_EQU_Name_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Compagno"
+	},
+	{
+		"name": "ITM_EQU_Name_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Galassia"
+	},
+	{
+		"name": "ITM_EQU_Name_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Bellezza suprema"
+	},
+	{
+		"name": "ITM_EQU_Name_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "Onore"
+	},
+	{
+		"name": "ITM_EQU_Name_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Tradizione"
+	},
+	{
+		"name": "ITM_EQU_Name_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Rispetto"
+	},
+	{
+		"name": "ITM_EQU_Name_0706",
+		"speaker": "",
+		"listener": "",
+		"content": "Innovazione"
+	},
+	{
+		"name": "ITM_EQU_Name_0707",
+		"speaker": "",
+		"listener": "",
+		"content": "Inimitabile"
+	},
+	{
+		"name": "ITM_EQU_Name_0708",
+		"speaker": "",
+		"listener": "",
+		"content": "Notte romantica"
+	},
+	{
+		"name": "ITM_EQU_Name_0709",
+		"speaker": "",
+		"listener": "",
+		"content": "Futuro"
+	},
+	{
+		"name": "ITM_EQU_Name_0710",
+		"speaker": "",
+		"listener": "",
+		"content": "Infinito"
+	},
+	{
+		"name": "ITM_EQU_Name_0711",
+		"speaker": "",
+		"listener": "",
+		"content": "Sentiero"
+	},
+	{
+		"name": "ITM_EQU_Name_0712",
+		"speaker": "",
+		"listener": "",
+		"content": "Vacanza"
+	},
+	{
+		"name": "ITM_EQU_Name_0713",
+		"speaker": "",
+		"listener": "",
+		"content": "Denaro e potere"
+	},
+	{
+		"name": "ITM_EQU_Name_0714",
+		"speaker": "",
+		"listener": "",
+		"content": "Amore e desiderio"
+	},
+	{
+		"name": "ITM_EQU_Name_0715",
+		"speaker": "",
+		"listener": "",
+		"content": "Pigliatutto"
+	},
+	{
+		"name": "ITM_EQU_Name_0716",
+		"speaker": "",
+		"listener": "",
+		"content": "Fiore di cristallo"
+	},
+	{
+		"name": "ITM_EQU_Name_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorro de pesca"
+	},
+	{
+		"name": "ITM_EQU_Name_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Broche para el pelo"
+	},
+	{
+		"name": "ITM_EQU_Name_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de oveja"
+	},
+	{
+		"name": "ITM_EQU_Name_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Polo"
+	},
+	{
+		"name": "ITM_EQU_Name_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Suéter de cuello alto"
+	},
+	{
+		"name": "ITM_EQU_Name_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa blanca"
+	},
+	{
+		"name": "ITM_EQU_Name_0806",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta aislante"
+	},
+	{
+		"name": "ITM_EQU_Name_0807",
+		"speaker": "",
+		"listener": "",
+		"content": "Chinos"
+	},
+	{
+		"name": "ITM_EQU_Name_0808",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de pana"
+	},
+	{
+		"name": "ITM_EQU_Name_0809",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda a la rodilla"
+	},
+	{
+		"name": "ITM_EQU_Name_0810",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda envolvente"
+	},
+	{
+		"name": "ITM_EQU_Name_0811",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido camisa"
+	},
+	{
+		"name": "ITM_EQU_Name_0812",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatos con hebilla"
+	},
+	{
+		"name": "ITM_EQU_Name_0813",
+		"speaker": "",
+		"listener": "",
+		"content": "Slip-ons"
+	},
+	{
+		"name": "ITM_EQU_Name_0814",
+		"speaker": "",
+		"listener": "",
+		"content": "Maletín formal"
+	},
+	{
+		"name": "ITM_EQU_Name_0815",
+		"speaker": "",
+		"listener": "",
+		"content": "Bufanda de lobo"
+	},
+	{
+		"name": "ITM_EQU_Name_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorro impermeable"
+	},
+	{
+		"name": "ITM_EQU_Name_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de pavo real"
+	},
+	{
+		"name": "ITM_EQU_Name_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de tirantes Bodhidharma"
+	},
+	{
+		"name": "ITM_EQU_Name_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta Varuna"
+	},
+	{
+		"name": "ITM_EQU_Name_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Cortavientos Amitabha"
+	},
+	{
+		"name": "ITM_EQU_Name_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Sudadera con capucha Virupaksa"
+	},
+	{
+		"name": "ITM_EQU_Name_0906",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta Maitreya"
+	},
+	{
+		"name": "ITM_EQU_Name_0907",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta Vaisravana"
+	},
+	{
+		"name": "ITM_EQU_Name_0908",
+		"speaker": "",
+		"listener": "",
+		"content": "Shorts de rayo"
+	},
+	{
+		"name": "ITM_EQU_Name_0909",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalón de chándal Skanda"
+	},
+	{
+		"name": "ITM_EQU_Name_0910",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalón de chándal Kumbhira"
+	},
+	{
+		"name": "ITM_EQU_Name_0911",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalón de chándal Yama"
+	},
+	{
+		"name": "ITM_EQU_Name_0912",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas Om"
+	},
+	{
+		"name": "ITM_EQU_Name_0913",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas Gekirin"
+	},
+	{
+		"name": "ITM_EQU_Name_0914",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas Kshana"
+	},
+	{
+		"name": "ITM_EQU_Name_0915",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas Samsara"
+	},
+	{
+		"name": "ITM_EQU_Name_0916",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolso Karma"
+	},
+	{
+		"name": "ITM_EQU_Name_0917",
+		"speaker": "",
+		"listener": "",
+		"content": "Mochila Naraka"
+	},
+	{
+		"name": "ITM_EQU_Name_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Boina lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Sudadera lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1005",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de tirantes cruzada"
+	},
+	{
+		"name": "ITM_EQU_Name_1006",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones Sarouel"
+	},
+	{
+		"name": "ITM_EQU_Name_1007",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones cortos lisos"
+	},
+	{
+		"name": "ITM_EQU_Name_1008",
+		"speaker": "",
+		"listener": "",
+		"content": "Minifalda deportiva"
+	},
+	{
+		"name": "ITM_EQU_Name_1009",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido deportivo"
+	},
+	{
+		"name": "ITM_EQU_Name_1010",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas de piel"
+	},
+	{
+		"name": "ITM_EQU_Name_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandalias"
+	},
+	{
+		"name": "ITM_EQU_Name_1012",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas-zapatillas"
+	},
+	{
+		"name": "ITM_EQU_Name_1013",
+		"speaker": "",
+		"listener": "",
+		"content": "Reloj en un color"
+	},
+	{
+		"name": "ITM_EQU_Name_1014",
+		"speaker": "",
+		"listener": "",
+		"content": "Chapas de identificación"
+	},
+	{
+		"name": "ITM_EQU_Name_1015",
+		"speaker": "",
+		"listener": "",
+		"content": "Bandolera"
+	},
+	{
+		"name": "ITM_EQU_Name_1016",
+		"speaker": "",
+		"listener": "",
+		"content": "Máscara"
+	},
+	{
+		"name": "ITM_EQU_Name_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Sombrero de clase alta"
+	},
+	{
+		"name": "ITM_EQU_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorro de paja"
+	},
+	{
+		"name": "ITM_EQU_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta mona"
+	},
+	{
+		"name": "ITM_EQU_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta cruzada"
+	},
+	{
+		"name": "ITM_EQU_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Abrigo Chesterfield"
+	},
+	{
+		"name": "ITM_EQU_Name_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta a medida"
+	},
+	{
+		"name": "ITM_EQU_Name_1106",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de rayas"
+	},
+	{
+		"name": "ITM_EQU_Name_1107",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa de traje de dandi"
+	},
+	{
+		"name": "ITM_EQU_Name_1108",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros blancos"
+	},
+	{
+		"name": "ITM_EQU_Name_1109",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda con vuelo"
+	},
+	{
+		"name": "ITM_EQU_Name_1110",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros negros"
+	},
+	{
+		"name": "ITM_EQU_Name_1111",
+		"speaker": "",
+		"listener": "",
+		"content": "Mono cómodo"
+	},
+	{
+		"name": "ITM_EQU_Name_1112",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido encantador"
+	},
+	{
+		"name": "ITM_EQU_Name_1113",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido de ángel"
+	},
+	{
+		"name": "ITM_EQU_Name_1114",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido precioso"
+	},
+	{
+		"name": "ITM_EQU_Name_1115",
+		"speaker": "",
+		"listener": "",
+		"content": "Mules minimalistas"
+	},
+	{
+		"name": "ITM_EQU_Name_1116",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatos de PVC"
+	},
+	{
+		"name": "ITM_EQU_Name_1117",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas Chukka"
+	},
+	{
+		"name": "ITM_EQU_Name_1118",
+		"speaker": "",
+		"listener": "",
+		"content": "Corbata corriente"
+	},
+	{
+		"name": "ITM_EQU_Name_1119",
+		"speaker": "",
+		"listener": "",
+		"content": "Corbata con nudo"
+	},
+	{
+		"name": "ITM_EQU_Name_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de visera lisa"
+	},
+	{
+		"name": "ITM_EQU_Name_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de béisbol"
+	},
+	{
+		"name": "ITM_EQU_Name_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorro faux-vintage"
+	},
+	{
+		"name": "ITM_EQU_Name_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Cinta a rayas"
+	},
+	{
+		"name": "ITM_EQU_Name_1204",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaleco aislante"
+	},
+	{
+		"name": "ITM_EQU_Name_1205",
+		"speaker": "",
+		"listener": "",
+		"content": "Sudadera con capucha"
+	},
+	{
+		"name": "ITM_EQU_Name_1206",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta estampada"
+	},
+	{
+		"name": "ITM_EQU_Name_1207",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa de franela"
+	},
+	{
+		"name": "ITM_EQU_Name_1208",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta de campo M-1951"
+	},
+	{
+		"name": "ITM_EQU_Name_1209",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta faux-vintage"
+	},
+	{
+		"name": "ITM_EQU_Name_1210",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros remangados"
+	},
+	{
+		"name": "ITM_EQU_Name_1211",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros rotos vintage"
+	},
+	{
+		"name": "ITM_EQU_Name_1212",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de trabajo de camuflaje"
+	},
+	{
+		"name": "ITM_EQU_Name_1213",
+		"speaker": "",
+		"listener": "",
+		"content": "Falda vaquera ceñida"
+	},
+	{
+		"name": "ITM_EQU_Name_1214",
+		"speaker": "",
+		"listener": "",
+		"content": "Vestido camisa vaquero"
+	},
+	{
+		"name": "ITM_EQU_Name_1215",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas de trabajo"
+	},
+	{
+		"name": "ITM_EQU_Name_1216",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas high-top"
+	},
+	{
+		"name": "ITM_EQU_Name_1217",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas low-top"
+	},
+	{
+		"name": "ITM_EQU_Name_1218",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas con parches"
+	},
+	{
+		"name": "ITM_EQU_Name_1219",
+		"speaker": "",
+		"listener": "",
+		"content": "Collar de cadena"
+	},
+	{
+		"name": "ITM_EQU_Name_1220",
+		"speaker": "",
+		"listener": "",
+		"content": "Cadena para el monedero"
+	},
+	{
+		"name": "ITM_EQU_Name_1221",
+		"speaker": "",
+		"listener": "",
+		"content": "Gafas de sol"
+	},
+	{
+		"name": "ITM_EQU_Name_1222",
+		"speaker": "",
+		"listener": "",
+		"content": "Radiocasete retro"
+	},
+	{
+		"name": "ITM_EQU_Name_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra vaquera"
+	},
+	{
+		"name": "ITM_EQU_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Boina"
+	},
+	{
+		"name": "ITM_EQU_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa de mangas con broches"
+	},
+	{
+		"name": "ITM_EQU_Name_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Camisa con cremallera"
+	},
+	{
+		"name": "ITM_EQU_Name_1304",
+		"speaker": "",
+		"listener": "",
+		"content": "Top con los hombros al aire"
+	},
+	{
+		"name": "ITM_EQU_Name_1305",
+		"speaker": "",
+		"listener": "",
+		"content": "Chaqueta vaquera"
+	},
+	{
+		"name": "ITM_EQU_Name_1306",
+		"speaker": "",
+		"listener": "",
+		"content": "Microminifalda vaquera"
+	},
+	{
+		"name": "ITM_EQU_Name_1307",
+		"speaker": "",
+		"listener": "",
+		"content": "Minifalda asimétrica"
+	},
+	{
+		"name": "ITM_EQU_Name_1308",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de trabajo deshilachados"
+	},
+	{
+		"name": "ITM_EQU_Name_1309",
+		"speaker": "",
+		"listener": "",
+		"content": "Vaqueros asimétricos"
+	},
+	{
+		"name": "ITM_EQU_Name_1310",
+		"speaker": "",
+		"listener": "",
+		"content": "Dos piezas de manga acampanada"
+	},
+	{
+		"name": "ITM_EQU_Name_1311",
+		"speaker": "",
+		"listener": "",
+		"content": "Mono"
+	},
+	{
+		"name": "ITM_EQU_Name_1312",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas bajas"
+	},
+	{
+		"name": "ITM_EQU_Name_1313",
+		"speaker": "",
+		"listener": "",
+		"content": "Botas de media caña"
+	},
+	{
+		"name": "ITM_EQU_Name_1314",
+		"speaker": "",
+		"listener": "",
+		"content": "Medias de rejilla"
+	},
+	{
+		"name": "ITM_EQU_Name_1315",
+		"speaker": "",
+		"listener": "",
+		"content": "Riñonera"
+	},
+	{
+		"name": "ITM_EQU_Name_1316",
+		"speaker": "",
+		"listener": "",
+		"content": "Sudadera del Sr. Miau"
+	},
+	{
+		"name": "ITM_EQU_Name_1317",
+		"speaker": "",
+		"listener": "",
+		"content": "Funda de teléfono del Sr. Miau"
+	},
+	{
+		"name": "ITM_EQU_Name_1318",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolsa del Sr. Miau"
+	},
+	{
+		"name": "ITM_EQU_Name_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Peluca afro arcoíris"
+	},
+	{
+		"name": "ITM_EQU_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Peluca de samurái"
+	},
+	{
+		"name": "ITM_EQU_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Diadema de criada conejita"
+	},
+	{
+		"name": "ITM_EQU_Name_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de gatito espacial"
+	},
+	{
+		"name": "ITM_EQU_Name_1404",
+		"speaker": "",
+		"listener": "",
+		"content": "Abrigo navideño"
+	},
+	{
+		"name": "ITM_EQU_Name_1405",
+		"speaker": "",
+		"listener": "",
+		"content": "Flotador de ranas"
+	},
+	{
+		"name": "ITM_EQU_Name_1406",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones navideños"
+	},
+	{
+		"name": "ITM_EQU_Name_1407",
+		"speaker": "",
+		"listener": "",
+		"content": "Atuendo de criada"
+	},
+	{
+		"name": "ITM_EQU_Name_1408",
+		"speaker": "",
+		"listener": "",
+		"content": "Atuendo de ninja"
+	},
+	{
+		"name": "ITM_EQU_Name_1409",
+		"speaker": "",
+		"listener": "",
+		"content": "Zancos"
+	},
+	{
+		"name": "ITM_EQU_Name_1410",
+		"speaker": "",
+		"listener": "",
+		"content": "Patines"
+	},
+	{
+		"name": "ITM_EQU_Name_1411",
+		"speaker": "",
+		"listener": "",
+		"content": "Regalo veraniego"
+	},
+	{
+		"name": "ITM_EQU_Name_1412",
+		"speaker": "",
+		"listener": "",
+		"content": "Gafas con nariz y bigote"
+	},
+	{
+		"name": "ITM_EQU_Name_1413",
+		"speaker": "",
+		"listener": "",
+		"content": "Hoja de Tomonami"
+	},
+	{
+		"name": "ITM_EQU_Name_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Sombrero panamá de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "Gorra de béisbol de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Chupa de motero de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones de cuero de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1505",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones cortos de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1506",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatos de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1507",
+		"speaker": "",
+		"listener": "",
+		"content": "Botines con elástico de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_1508",
+		"speaker": "",
+		"listener": "",
+		"content": "Bolso de tela de BHCC"
+	},
+	{
+		"name": "ITM_EQU_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Cascos legendarios"
+	},
+	{
+		"name": "ITM_EQU_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Camiseta de tirantes legendaria"
+	},
+	{
+		"name": "ITM_EQU_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Pantalones cortos legendarios"
+	},
+	{
+		"name": "ITM_EQU_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Zapatillas legendarias"
+	},
+	{
+		"name": "ITM_EQU_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Reproductor de música legendario"
+	}
+]
+}

@@ -1,0 +1,580 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Essen und Trinken"
+	},
+	{
+		"name": "ITM_FOD_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Tasse Kaffee aus hell gerösteten Bohnen mit einem frischen, fruchtigen Aroma. Der leicht bittere Geschmack dieser Mischung erfrischt dich wie eine Sommerbrise.<BR>*Die tatsächliche Eiswürfelmenge kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Tasse kalt gebrühter Kaffee mit kalorien- und fettarmer Milch, die nicht vom herben Kaffeearoma ablenkt.<BR>*Das tatsächliche Verhältnis von Milch zu Kaffee kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses erfrischende Getränk darf in keinem Café fehlen. Man <i>könnte</i> das Eis zuerst essen, aber dann wäre nur noch eine Kirsche in Melonenlimo übrig und das wäre unspektakulär.<BR>*Kugelgröße kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Tasse Kaffee aus einer einzigartigen Bohnenmischung aus Mittel- und Südamerika. Kaffeekenner lieben das angenehme Mundgefühl und den köstlichen Nachgeschmack.<BR>*Tatsächliche Mischung kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Heißgetränk aus Espresso und warmer Milch darf in keinem Café fehlen. Womöglich mit etwas weniger Milch als anderswo, aber hier im Hachikō Café schwören wir auf herben Geschmack.<BR>*Muster kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine süße Köstlichkeit, die kurz vor Ladenöffnung frisch gebacken wird. Dieses knusprige Konfekt ist voller Bitterschokolade und passt hervorragend zu einer heißen Tasse Kaffee.<BR>*Schokoladenstückchen können variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein populäres Gericht, das drei beliebte Zutaten vereint: Speck, Salat und Tomaten. Der Speck wird zur Verfeinerung kurz vor der Zubereitung leicht angebraten.<BR>*Tomaten können variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein schmackhafter Nachtisch, bei dem frische Erdbeeren, Kiwis und Orangen in Schlagsahne gebettet und zwischen zwei Scheiben Brot serviert werden. Recht fotogen.<BR>*Sahnemenge kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Spezialität aus Sapporo. Eine Hühnchen-Schweinefleischbrühe wird mit einer Bonito-Meeresfrüchtesuppe kombiniert. Mit Hühnerfleisch, reichlich Gemüse und einer ganzen Palette an Gewürzen wird eine stattliche Mahlzeit draus.<BR>*Schärfegrad kann variieren."
+	},
+	{
+		"name": "ITM_FOD_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser Dauerbrenner ist seit Betriebsgründung auf dem Menü. Zwischen zwei samtweichen Hefebrötchen schmiegt sich eine perfekt gebratene Rinderhackfrikadelle an frisch geerntetes Bio-Gemüse."
+	},
+	{
+		"name": "ITM_FOD_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser Burger ist nicht nur dem Namen nach ein Champion, sondern auch das beliebteste Gericht von JB – und nicht ohne Grund. Die zwei Bratlinge und der extra Käse machen ihn zum Traum eines jeden hungrigen Fleischliebhabers."
+	},
+	{
+		"name": "ITM_FOD_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Sandwich besteht aus einem frisch gebratenen Seelachsfilet in einer erfrischend scharfen hausgemachten Remoulade. Für eingefleischte JB-Fans sind vor allem die säuerlichen Zitronen und Essiggurken das Zünglein an der Waage."
+	},
+	{
+		"name": "ITM_FOD_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein besonderes Wagyū-Sandwich zum 30. Jubiläum der Betriebsgründung, das nun einen festen Platz auf dem Menü innehat. Schaffst <i>du</i> diesen Monsterburger?"
+	},
+	{
+		"name": "ITM_FOD_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese leckeren Fritten aus ungeschälten Kartoffeln werden zweimal gebraten – zuerst bei niedriger, dann hoher Temperatur. So erzielt man das unwiderstehliche Geschmackserlebnis „außen knusprig, innen weich“."
+	},
+	{
+		"name": "ITM_FOD_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses extrem kohlensäurehaltige Erfrischungsgetränk passt perfekt zu jedem Justice-Burger-Sandwich. Der sprudelige Drink setzt dich unter Schock und bringt deinen Mund zum Kribbeln!"
+	},
+	{
+		"name": "ITM_FOD_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Erfrischungsgetränk ist eher süß als sauer und passt erstaunlich gut zu den Fleischgerichten der Speisekarte. Aus 100 % echtem Saft von Orangen von echten Bauernhöfen! (Kein Konzentrat!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Gericht wird in einer schmackhaften weißen Sesamsuppe serviert. Das scharfe Chiliöl sowie der japanische Pfeffer betonen das sanfte Aroma des eigentlichen kulinarischen Stars: des schwarzen Pfeffers. Für echte Ramenliebhaber."
+	},
+	{
+		"name": "ITM_FOD_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Die dicksten Nudeln der Stadt werden in einer Schweinebrühe serviert und mit üppigen Scheiben gebratenem Schweinefilet und reichlich Schweinefett verfeinert. Enthält mindestens die empfohlene tägliche Kalorienmenge für einen erwachsenen Mann! Ein wahrlich sündhafter Genuss."
+	},
+	{
+		"name": "ITM_FOD_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein unvergleichliches Originalrezept von G4G, das zwei unterschiedliche Arten von Ölnudelgerichten vereint. Genieße ultra-dicke Nudeln in einer Geheimsauce, die über Generationen hinweg weitergegeben wurde."
+	},
+	{
+		"name": "ITM_FOD_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Gericht überzeugt mit einer üppigen dunklen Sesamsuppe, die du nicht so schnell vergisst. Das fein gehackte Schweinefleisch wird für extra Geschmack in einer würzigen Mischung aus Knoblauch, Ingwer und Pfeffer mariniert."
+	},
+	{
+		"name": "ITM_FOD_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Schweinchen ist das Maskottchen von SBY BBQ und perfekt geröstet – von der knusprigen Haut bis zum köstlich saftigen Fleisch. Es ruht außerdem auf einem Bett aus Gemüse und hinterlässt stets einen köstlichen Eindruck!"
+	},
+	{
+		"name": "ITM_FOD_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Freilandhuhn wandert in einen maßgefertigten Bräter und verlässt diesen als saftiges Wunderwerk. Man genießt es am besten in Sandwichform mit SBY BBQs hausgemachtem Relish und Krautsalat."
+	},
+	{
+		"name": "ITM_FOD_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein brasilianisches Grillgericht mit blutigem Picanha-Steak und Molho-Vinaigrette. (Der Koch/Kellner ist auch ein ziemlicher Augenschmaus!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Fleisch reift einen Monat in einer Tiefkühltruhe und wird dann bei großer Hitze geröstet, um schließlich in einem unvergesslichen Gericht mit nussigem Aroma aufzugehen. Gäste, die das Chateaubriand genießen möchten, sollten ein Jahr im Voraus buchen."
+	},
+	{
+		"name": "ITM_FOD_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein beliebtes Gericht der Speisekarte, das in den sozialen Medien gewaltige Wellen schlagen wird. Lass dich nicht von seinem Aussehen abschrecken: Dieser geröstete Kopf ist durchaus genießbar – ganz besonders die fleischigen Wangen und betörenden Augenhöhlen!"
+	},
+	{
+		"name": "ITM_FOD_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses geröstete Reptil aus Australien ist reich an Proteinen und arm an Kalorien. Manche vergleichen die Konsistenz mit Hühnchen, doch wahre Kenner wissen, dass frisch gegrillter Alligator unvergleichlich ist."
+	},
+	{
+		"name": "ITM_FOD_Info_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein beliebtes Parfait mit einer Auswahl an Früchten der Saison. Es wird auf Pudding und mit leckerer Schlagsahne serviert, um Gäste in den Genuss des natürlichen Geschmacks der Frucht zu bringen."
+	},
+	{
+		"name": "ITM_FOD_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser dekadente Gaumenschmaus vereint üppiges französisches Schokoladeneis mit Haselnussschlagsahne. Bitteres Espresso-Gelee mit einer leicht säuerlichen Beerensauce sind für den verwöhnten Gaumen ein wahrer Genuss."
+	},
+	{
+		"name": "ITM_FOD_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Parfait verbindet die fruchtige Herbe von rubinrotem Schokoladeneis mit einer herrlich säuerlichen Joghurtsauce. Verziert wird beides mit satten Preiselbeersprenkeln. Bald wird man in Udagawa von nichts anderem mehr sprechen!"
+	},
+	{
+		"name": "ITM_FOD_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein wunderbares Parfait, das grandios schmeckt und noch besser aussieht. Der Küchenchef empfiehlt, oben mit der Meringe zu beginnen und sich zum Cassis-Sorbet nach unten vorzuarbeiten – aber lass dir nichts vorschreiben! Es ist dein Nachtisch."
+	},
+	{
+		"name": "ITM_FOD_Info_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses beliebte taiwanesische Getränk mischt starken schwarzen Tee mit Milch und Tapioka-Kügelchen. Die porösen „Bläschen“ werden jeden Morgen neu zubereitet, was sie unvergleichlich frisch macht."
+	},
+	{
+		"name": "ITM_FOD_Info_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser Latte ist ein beliebtes Getränk auf der Karte von Bubblevision. Der grüne Tee bekommt dank der Milch und den Tapioka-Kügelchen noch mehr Kick. Was denken sie sich als Nächstes aus?"
+	},
+	{
+		"name": "ITM_FOD_Info_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses cremige Machwerk kombiniert wohlschmeckenden taiwanesischen Tee mit frischen Erdbeeren und fruchtigen Tapioka-Kügelchen. Eine Köstlichkeit für Jung und Alt."
+	},
+	{
+		"name": "ITM_FOD_Info_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Der starke Geschmack des braunen Zuckers aus Okinawa verbindet sich mit dem Basisaroma aus schwarzem Tee perfekt zu einem komplexen Geschmackserlebnis, das es mit jedem Konfekt aufnehmen kann. Perfekt bis zum letzten Kügelchen!"
+	},
+	{
+		"name": "ITM_FOD_Info_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein dekadentes Getränk, das den süßen Geschmack von echtem Mangopüree mit dem herberen Geschmack von taiwanesischem Tee ausgleicht. Das unaufdringliche Aroma hinterlässt das glühende Verlangen nach einem weiteren Becher."
+	},
+	{
+		"name": "ITM_FOD_Info_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Koste alle drei der berühmten Currys des Don auf einem einzigen Teller – perfekt für den unentschlossenen Gast. Wahlweise mit knusprigem Käse und Schweinebraten, aber nicht zwingend notwendig."
+	},
+	{
+		"name": "ITM_FOD_Info_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein würziges Gericht, bei dem südindisches Curry mit einer japanischen Brühe verfeinert wird. Geschulte Gaumen werden das Aroma von Koriander, Kreuzkümmel und einen Hauch von Gewürznelken zu schätzen wissen, auf die der Küchenchef persönlich besteht."
+	},
+	{
+		"name": "ITM_FOD_Info_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein schmackhaftes und doch gesundes Gericht, das aus drei Arten von Dal – Mung, Masur und Chana – mit duftenden Röstzwiebeln ein Curry zaubert, das die Gäste des Don bis zum letzten Happen genießen werden."
+	},
+	{
+		"name": "ITM_FOD_Info_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses südindische Gericht bietet zwei Arten frischer Makrelen in einem Curry, das die Säuerlichkeit von Tamarinde und Tomaten mit der milden Süße der Kokosnuss ausgleicht. Curryblätter und Senfkörner sorgen dabei zusätzlich für Geschmack."
+	},
+	{
+		"name": "ITM_FOD_Info_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Bei dieser japanischen Variante des traditionellen indischen Gerichts wird eine Schüssel Reis mit Bonito-Brühe und Muscheln nach Keema-Art verfeinert. Gib verschiedene Gewürze hinzu, um eine aromatische Kettenreaktion auszulösen – und vergiss die scharfe Miso-Suppe als Beilage nicht!"
+	},
+	{
+		"name": "ITM_FOD_Info_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses berühmte japanische Fast Food ist in jedem Konbini-Laden zu finden. Das Reisbällchen enthält zwei Pflaumen zum Preis von einer – wie du es vom Moyai Mart gewohnt bist!"
+	},
+	{
+		"name": "ITM_FOD_Info_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Reisbällchen ist randvoll mit duftenden Lachsflocken, die zuerst in Salz eingelegt und dann zur Verfeinerung an der Luft getrocknet wurden. Mehr Genuss für dein Geld bekommst du sonst nirgendwo!"
+	},
+	{
+		"name": "ITM_FOD_Info_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Ensemble aus köstlichen Beilagen – darunter gebratene Garnelen, Rührei und gedünstetes Wurzelgemüse – umgibt die Hauptattraktion dieser Lunchbox: ein gegrilltes Lachsfilet. Die stehenden Ovationen sind wohlverdient!"
+	},
+	{
+		"name": "ITM_FOD_Info_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "(Es gilt die Faustregel: Was nicht frisch aus der Fritteuse kommt, wird nicht gegessen!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Suppe der Saison steht bei den Kunden von Moyai Mart sehr hoch im Kurs. Lässt man ein Onigiri die Bonito-Brühe aufsaugen, kann man es als improvisiertes Risotto für unterwegs genießen."
+	},
+	{
+		"name": "ITM_FOD_Info_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Tüte Hokkaido-Chips, die dick geschnitten und knusprig gebacken sind. Das Verfallsdatum ist keineswegs nur ein Vorschlag: Moyai Mart entfernt unverkaufte Tüten aus den Regalen, damit der Kunde ausschließlich die frischesten Snacks genießt."
+	},
+	{
+		"name": "ITM_FOD_Info_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein opulentes Mahl mit mehr Matsuzaka-Fleisch, als du dir erträumen kannst. Freue dich auf ein Geschmacksfeuerwerk, wenn dieses edle Fleisch deine Zunge berührt. Ein besseres Gyūdon gibt es nicht."
+	},
+	{
+		"name": "ITM_FOD_Info_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein unvergleichliches Gericht mit einer Auswahl an imposantem Thunfisch und anderen ausgewählten Meeresfrüchten, die jeden Morgen frisch vom Toyosu-Fischmarkt kommen und vom Chefkoch persönlich zubereitet werden."
+	},
+	{
+		"name": "ITM_FOD_Info_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein erstklassiges Gericht mit zwei der erlesensten Delikatessen Hokkaidos: cremige, dicke Seeigelscheiben und köstlicher Lachsrogen. Jeder Bissen dieser salzigen Gaumenfreude bringt dich der Insel im Norden ein Stück näher."
+	},
+	{
+		"name": "ITM_FOD_Info_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Schüssel voller saftiger, gebratener Rindfleischscheiben mit perfektem Aroma. Wird mit Brunnenkresse und saurer Sahne mit Wasabi als Beilage serviert, um deinen Gaumen zu reinigen. Unglaublich <i>umami</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein angesagtes Gericht mit Aal nach Nagoya-Art: gegrillt, nicht gedünstet. Genieße die erste Portion mit süßer Sojasauce, die zweite mit Wasabi und Frühlingszwiebeln und die dritte mit einem Schuss Suppe."
+	},
+	{
+		"name": "ITM_FOD_Info_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein legendäres Gericht, bei dem neun verschiedene Sorten feinsten Fleisches aus ganz Japan aufgefahren werden: Rind, Schwein, Hühnchen, Hammel, Ente, Wild, Wildschwein, Bär und Kaninchen. Der Traum eines jeden Fleischfans!"
+	},
+	{
+		"name": "ITM_FOD_Info_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein besonderes Gericht, das etwa 200 % der empfohlenen Tagesmenge an Blattgemüse enthält. Das hausgemachte Dressing bekehrt selbst eingefleischte Gemüsehasser."
+	},
+	{
+		"name": "ITM_FOD_Info_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine dicke Scheibe Brot, die mit einer speziell angerührten Mayo bestrichen, im Ofen geröstet und dann mit einer ganzen Avocado belegt wird, die so mächtig ist, dass du sie für Speck hältst. (Ist sie aber nicht – wirklich!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Brühe der Saison mit gewürfelten Karotten, Kartoffeln und anderem Wurzelgemüse. Diese kalorienarme Suppe schont das Gewissen, also iss dich satt und hol dir noch Nachschlag."
+	},
+	{
+		"name": "ITM_FOD_Info_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Spinat, Kohl und anderes Blattgemüse werden mit Äpfeln, Orangen und einem Schuss Zitronensaft zu diesem vitaminreichen Powerdrink fusioniert. Ein ausgezeichneter Frühstücksersatz."
+	},
+	{
+		"name": "ITM_FOD_Info_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser leckere Drink mixt eine Handvoll äußerst nahrhafter Açaí-Früchte mit weiteren Beeren und einem Schuss Milch, um deinen Bedarf an Eisen und Polyphenolen zu decken."
+	},
+	{
+		"name": "ITM_FOD_Info_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Stück des Himmels über Shibuya in 90 Meter Höhe, für optimale Reinheit dreifach gefiltert. Gibt ein tolles Andenken ab, obwohl es, nun ja ... nur Luft ist."
+	},
+	{
+		"name": "ITM_FOD_Info_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Angesagtes koreanisches Street Food aus geschmolzenem Mozzarella, mit süßem Mais überzogen. Genieß es mit Ketchup, Senf oder Ahornsirup – die Wahl liegt bei dir!"
+	},
+	{
+		"name": "ITM_FOD_Info_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser koreanische Nachtisch besteht aus einer frittierten Banane, die auf der Zunge zergeht und sich perfekt mit leckerer Schokosauce ergänzt. Nur einen viralen Blogpost vom kulinarischen Kultstatus entfernt."
+	},
+	{
+		"name": "ITM_FOD_Info_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese kleinen Teigbällchen werden gebraten und mit Bohnenpaste sowie einer sauren Sauce gefüllt. Die mundgerechten Happen machen beim Essen garantiert Spaß. Wirf ein paar Panipuri ein, dann kann die Party starten!"
+	},
+	{
+		"name": "ITM_FOD_Info_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Für dieses unverzichtbare Dim Sum wird gehacktes Schweinefleisch in kleine Klöße gewickelt und dann in einem Bambuskorb gedünstet. Doch Vorsicht ist geboten: An der leckeren Suppenfüllung verbrüht man sich leicht!"
+	},
+	{
+		"name": "ITM_FOD_Info_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Oktopusbällchen sind außen knusprig und innen klebrig und womöglich das beliebteste Street Food in Osaka. Vergiss die Mayonnaise nicht – hier schmeckt sie einfach <i>besser</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Softeis aus natürlicher Milch direkt aus der Molkerei. Sein sanftes Mundgefühl und der erfrischend süße Geschmack machen es unwiderstehlich."
+	},
+	{
+		"name": "ITM_FOD_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine Crêpe der Saison, die mit luxuriös glänzenden Muskattrauben gefüllt ist. Dabei sorgt die Champagner-Schlagsahne für noch mehr Dekadenz. Cheers!"
+	},
+	{
+		"name": "ITM_FOD_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese beliebte Crêpe platzt vor Früchten aus allen Nähten. Hier räkeln sich Erdbeeren, Himbeeren und Blaubeeren auf einem Bett aus Schlagsahne mit Rumgeschmack."
+	},
+	{
+		"name": "ITM_FOD_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese cremige Leckerei kombiniert bitteren Kakao mit einem sanften Nachgeschmack. Die erlesenen Kakaobohnen der Waffel machen jeden Bissen dieses Desserts zu einem Erlebnis."
+	},
+	{
+		"name": "ITM_FOD_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Extrasüße Satsuma-Kartoffeln werden im Steinofen geröstet, dann püriert und schließlich mit 100%iger Milch zu einem glatten Softeis verrührt. Bestreut mit zuckrig-frittierten Stückchen, denn wer kann da widerstehen?!"
+	},
+	{
+		"name": "ITM_FOD_Info_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses mexikanische Fleischgericht besteht aus einem angebratenen Steak, das gewürfelt und in eine Maistortilla gewickelt wird. Geschulten Gourmets entgeht der rauchige Geschmack der Salsa aus gerösteten Tomaten und Zwiebeln bestimmt nicht."
+	},
+	{
+		"name": "ITM_FOD_Info_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser Wrap eignet sich nicht für arglose Gäste und bleibt deshalb Stammgästen vorbehalten. Die Salsamischung aus Habanero- und Bhut-Jolokia-Chilis ist so brutal scharf, dass du nach deiner <i>madre</i> schreist."
+	},
+	{
+		"name": "ITM_FOD_Info_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese fleischgefüllte Spinattortilla wird mit gehackten grünen Chilis belegt und verursacht ein Kribbeln auf deiner Zunge. Nur für Stammkunden."
+	},
+	{
+		"name": "ITM_FOD_Info_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Die kakaohaltige Mole und ihre erlesene Mischung aus Zimt, Nelken und anderen Gewürzen ergänzen das Grillhähnchen dieses üppigen Gerichts optimal. Entdeckst du es auf der Speisekarte, kannst du dich glücklich schätzen!"
+	},
+	{
+		"name": "ITM_FOD_Info_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Suzus Koch beginnt mit einer köchelnden Hühnerbrühe und rührt schließlich eine angenehme Mischung aus Tamari- und Sojasauce unter – das perfekte Bad für leicht gekräuselte Nudeln."
+	},
+	{
+		"name": "ITM_FOD_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Lass dich von der glasigen Brühe nicht täuschen: Dank einer einzigartigen Kombination aus Huhn, Jakobsmuscheln, Seetang und fünf verschiedenen Salzarten schmeckt sie sehr intensiv. Das frische Zitronenaroma wird deinen Tag versüßen."
+	},
+	{
+		"name": "ITM_FOD_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Gericht schmeichelt dem Gaumen mit intensivem Geschmack und ist eines von Suzus besten. Ein großzügige Portion Miso wird karamellisiert und für eine rauchige Note kurz vor dem Auftischen über die Nudeln geträufelt."
+	},
+	{
+		"name": "ITM_FOD_Info_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Die namensgebende Paste sorgt für milde Würze und einen subtilen herzhaften Geschmack. Ein paar Frühlingszwiebeln und ein Spritzer Sesamöl runden ein Gericht ab, das dich in Kürze wiederkommen lässt."
+	},
+	{
+		"name": "ITM_FOD_Info_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Duft von süßen Zitrusfrüchten verleiht diesem Dimbula-Tee einen reinen und erfrischenden Abgang. Genieße nach dem Getränk die Orangenscheiben und hol dir eine Extraportion Vitamin C!"
+	},
+	{
+		"name": "ITM_FOD_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein fruchtiges Teegetränk, das eigentlich eher Obstsalat als Tee ist. Perfekt konservierte Erdbeeren, Himbeeren und Blaubeeren sorgen für ein Getränk, das sich mit Fug und Recht „Dessert“ nennen kann."
+	},
+	{
+		"name": "ITM_FOD_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein erfrischendes Limonadengetränk, das an glühend heißen Tagen den Nagel auf den Kopf trifft. Ein paar Zitronenscheiben sorgen dafür, dass du diesen Sommer einen kühlen Kopf bewahrst!"
+	},
+	{
+		"name": "ITM_FOD_Info_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein köstliches Limonadengetränk von betörend roter Farbe. Das Geheimnis hinter dem saftig süßen Beerengeschmack ist ein Schuss Erdbeeressig – aber nicht weitersagen!"
+	},
+	{
+		"name": "ITM_FOD_Info_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese nordindische Platte bietet neben Huhn, Hammelfleisch und anderen fleischhaltigen Currys auch Naan- und Roti-Brot. Bereichert wird dieses Gericht außerdem durch Nüsse und saure Sahne."
+	},
+	{
+		"name": "ITM_FOD_Info_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "Bei dieser südindischen Platte dreht sich alles um vegetarisches Sambar und scharf-saures Rasam. Sie wird mit Reis serviert. Mische die Beilagen oder genieße sie einzeln – du hast die Wahl!"
+	},
+	{
+		"name": "ITM_FOD_Info_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese nordindische Platte richtet sich an vegetarische Gäste und bietet ein unglaublich leckeres Essen, das kaum Völlegefühl hinterlässt."
+	},
+	{
+		"name": "ITM_FOD_Info_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine indische Crêpe aus fermentiertem Reis- und Linsenteig, die mit würzigen Kartoffeln gefüllt und schließlich mit Sambar und Chutney serviert wird."
+	},
+	{
+		"name": "ITM_FOD_Info_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein indisches Reisgericht aus Basmatireisschichten und Hühnerbratensauce, die in einem speziellen Ofen zusammen gekocht werden. Wird oft mit Raita gemischt, schmeckt aber auch ohne köstlich."
+	},
+	{
+		"name": "ITM_FOD_Info_1600",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieser Snack im Fischformat hat keine geschmackliche Ähnlichkeit mit der Meerbrasse, der er nachempfunden wurde. Eine Füllung aus roten Bohnen macht ihn zu einer Süßigkeit und eine Käsefüllung zum herzhaften Snack."
+	},
+	{
+		"name": "ITM_FOD_Info_1601",
+		"speaker": "",
+		"listener": "",
+		"content": "Behutsam gekochte Azuki-Bohnen aus Hokkaido und elastische Mochi-Kugeln schmücken diesen köstlichen Nachtisch aus Softeis unter einer dicken Matcha-Sauce."
+	},
+	{
+		"name": "ITM_FOD_Info_1602",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses dekadente Dessert übertrifft seinen Vorgänger und lockt mit Grüntee-Eis sowie Bayrischer Creme, was für ein multidimensionales Matcha-Erlebnis sorgt, dessen Anblick andere Gäste grün vor Neid werden lässt."
+	},
+	{
+		"name": "ITM_FOD_Info_1603",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese erlesenen Mochi-Kugeln werden durch eine schmackhafte Paste aus roten Bohnen abgerundet, deren Herstellung fast zwanzig Jahre in Anspruch nimmt. Die makellose Balance von süß und herzhaft ist unschlagbar."
+	},
+	{
+		"name": "ITM_FOD_Info_1604",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses zauberhaft bunte Dessert landete nach einem Besuch der Gründer*innen in Sendai auf der Speisekarte. Die Edamame werden von Hand gemahlen, damit Geschmack und Konsistenz erhalten bleiben."
+	},
+	{
+		"name": "ITM_FOD_Info_1700",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese extraweichen Soufflé-Pfannkuchen mit üppiger Cashew-Sahne zergehen dir auf der Zunge. Serviert wird dieser Gaumenschmaus mit einer Auswahl an Früchten, um das schlechte Gewissen zu beruhigen."
+	},
+	{
+		"name": "ITM_FOD_Info_1701",
+		"speaker": "",
+		"listener": "",
+		"content": "Eine gefrorene und leicht gesüßte Leckerei, die viel cremiger ist, als man erwarten würde. Die gezuckerte Kondensmilch wird durch eine würzige Erdbeersauce ergänzt und lässt die Herzen der Gäste höherschlagen."
+	},
+	{
+		"name": "ITM_FOD_Info_1702",
+		"speaker": "",
+		"listener": "",
+		"content": "Milcheis mit Minzgeschmack wird abgeschabt, mit zerstampfter Minze vermengt und schließlich mit einer herben Bitterschokoladensauce beträufelt. Dieses süße Vergnügen passt perfekt zu einem heißen Sommertag."
+	},
+	{
+		"name": "ITM_FOD_Info_1703",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Stapel fluffiger Soufflé-Pfannkuchen mit Schokosahne. Sie sind weniger süß und kalorienreich, als sie aussehen, also bestell dir noch einen Teller!"
+	},
+	{
+		"name": "ITM_FOD_Info_1704",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese tiefgefrorene Köstlichkeit feiert die vollmundige Süße reifer Mangos und verwendet die tropische Frucht in sämtlichen Elementen, vom Eis bis hin zur Schlagsahne."
+	}
+]
+}

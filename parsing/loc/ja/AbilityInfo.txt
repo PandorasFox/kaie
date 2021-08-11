@@ -1,0 +1,1966 @@
+{
+"columns":[
+	{
+		"name": "ABL_Info_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アビリティInfo",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "攻撃で与えるダメージが少しアップする",
+		"comment": "アタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "攻撃で与えるダメージがアップする",
+		"comment": "アタックアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "攻撃で与えるダメージが大きくアップする",
+		"comment": "アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\n攻撃で与えるダメージが少しアップする",
+		"comment": "Ri：アタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\n攻撃で与えるダメージがアップする",
+		"comment": "Ri：アタックアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Ri：アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\n攻撃で与えるダメージが少しアップする",
+		"comment": "Fr：アタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\n攻撃で与えるダメージがアップする",
+		"comment": "Fr：アタックアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Fr：アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカが装備すると\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Sh：アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\n攻撃で与えるダメージが少しアップする",
+		"comment": "Na：アタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\n攻撃で与えるダメージがアップする",
+		"comment": "Na：アタックアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Na：アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Be：アタックアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\n攻撃で与えるダメージが凄まじくアップする",
+		"comment": "Be：アタックアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクが装備すると\n攻撃で与えるダメージが凄まじくアップする",
+		"comment": "Ne：アタックアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモトが装備すると\n攻撃で与えるダメージが凄まじくアップする",
+		"comment": "Mi：アタックアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPがあまり減っていない敵に\n与えるダメージが少しアップする",
+		"comment": "アタックアップ：敵バイタル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPがあまり減っていない敵に\n与えるダメージがアップする",
+		"comment": "アタックアップ：敵バイタル＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の数が自分たちより多い時\n攻撃で与えるダメージが少しアップする",
+		"comment": "アタックアップ：敵パーティ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の数が自分たちより多い時\n攻撃で与えるダメージがアップする",
+		"comment": "アタックアップ：敵パーティ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の数が１体の時\n攻撃で与えるダメージが少しアップする",
+		"comment": "アタックアップ：敵シングル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが満タンの時\n攻撃で与えるダメージがアップする",
+		"comment": "HP満タンでアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが少ない時\n攻撃で与えるダメージがアップする",
+		"comment": "ピンチでアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクが装備すると\nTEAM HPが少ない時\n攻撃で与えるダメージが大きくアップする",
+		"comment": "Ne：ピンチでアタックアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが<CRE>少ない状態</C>で\nバトルが開始される代わりに\n攻撃で与えるダメージがアップする",
+		"comment": "呪われアタックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0028>",
+		"comment": "オートチャージアタック\nPF\nボタンを１回押すだけで\n自動で最大までチャージして攻撃を行う\n操作タイプ［チャージ］のみ有効",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジの使用時間・回数が少し増える",
+		"comment": "ゲージドライヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジの使用時間・回数が増える",
+		"comment": "ゲージドライヴ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジのリブート時間を少し短くする",
+		"comment": "リブートドライヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジのリブート時間を短くする",
+		"comment": "リブートドライヴ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックのチャージ時間を短くする\n操作タイプ［チャージ］のみ有効",
+		"comment": "チャージドライヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0036>",
+		"comment": "Xボタンアタックアップ\nPF\nXボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0037>",
+		"comment": "Yボタンアタックアップ\nPF\nYボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0038>",
+		"comment": "Lボタンアタックアップ\nPF\nLボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0039>",
+		"comment": "Rボタンアタックアップ\nPF\nRボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0040>",
+		"comment": "ZLボタンアタックアップ\nPF\nZLボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0041>",
+		"comment": "ZRボタンアタックアップ\nPF\nZRボタンのバッジで与えるダメージが\nアップする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［発火］で与えるダメージがアップする",
+		"comment": "エレメントアップ：発火",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［氷結］で与えるダメージがアップする",
+		"comment": "エレメントアップ：氷結",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［電気］で与えるダメージがアップする",
+		"comment": "エレメントアップ：電気",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［風力］で与えるダメージがアップする",
+		"comment": "エレメントアップ：風力",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［液化］で与えるダメージがアップする",
+		"comment": "エレメントアップ：液化",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［石化］で与えるダメージがアップする",
+		"comment": "エレメントアップ：石化",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［時空］で与えるダメージがアップする",
+		"comment": "エレメントアップ：時空",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［音波］で与えるダメージがアップする",
+		"comment": "エレメントアップ：音波",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［暗黒］で与えるダメージがアップする",
+		"comment": "エレメントアップ：暗黒",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［閃光］で与えるダメージがアップする",
+		"comment": "エレメントアップ：閃光",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［転移］で与えるダメージがアップする",
+		"comment": "エレメントアップ：転移",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0054",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［爆破］で与えるダメージがアップする",
+		"comment": "エレメントアップ：爆破",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0055",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［引力］で与えるダメージがアップする",
+		"comment": "エレメントアップ：引力",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0056",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "属性［毒素］で与えるダメージがアップする",
+		"comment": "エレメントアップ：毒素",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0057",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「トポトッポ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：TT",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0058",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ジョリ・ベコ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：JB",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0059",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ティガー・パンクス」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：TP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0060",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「コニー×コニー」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：CC",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「RyuGu」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：RG",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0062",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ガラガラ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：GG",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0063",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「イル・カヴァッロ・ディ・レ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：IL",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0064",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「シェパード・ハウス」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：SH",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0065",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「JPオブザモンキー」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：JM",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0066",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「モノクロウ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：MC",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0067",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ナチュラル・パピィ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：NP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0068",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ホグ・ファング」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：HF",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0069",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ガット・ネーロ」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：GN",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0070",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「クローキー・パニック」の\nバッジの攻撃力がアップする",
+		"comment": "レゾナンス：CP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「トポトッポ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：TT",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0072",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ジョリ・ベコ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：JB",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0073",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ティガー・パンクス」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：TP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0074",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「コニー×コニー」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：CC",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0075",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「RyuGu」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：RG",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0076",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ガラガラ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：GG",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0077",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「イル・カヴァッロ・ディ・レ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：IL",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0078",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「シェパード・ハウス」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：SH",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0079",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「JPオブザモンキー」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：JM",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0080",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「モノクロウ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：MC",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ナチュラル・パピィ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：NP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0082",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ホグ・ファング」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：HF",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0083",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「ガット・ネーロ」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：GN",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0084",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「クローキー・パニック」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：CP",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0085",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFが少しアップする",
+		"comment": "DEFアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0086",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFがアップする",
+		"comment": "DEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0087",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DEFが大きくアップする",
+		"comment": "DEFアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0088",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nDEFが少しアップする",
+		"comment": "Ri：DEFアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0089",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nDEFがアップする",
+		"comment": "Ri：DEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0090",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nDEFが大きくアップする",
+		"comment": "Ri：DEFアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nDEFが少しアップする",
+		"comment": "Fr：DEFアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0092",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nDEFがアップする",
+		"comment": "Fr：DEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0093",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nDEFが大きくアップする",
+		"comment": "Fr：DEFアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0094",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカが装備すると\nDEFがアップする",
+		"comment": "Sh：DEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0095",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nDEFが少しアップする",
+		"comment": "Na：DEFアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0096",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nDEFがアップする",
+		"comment": "Na：DEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0097",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nDEFが大きくアップする",
+		"comment": "Na：DEFアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0098",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\nDEFが大きくアップする",
+		"comment": "Be：DEFアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0099",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\nDEFが凄まじくアップする",
+		"comment": "Be：DEFアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0100",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクが装備すると\nDEFが凄まじくアップする",
+		"comment": "Ne：DEFアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモトが装備すると\nDEFが凄まじくアップする",
+		"comment": "Mi：DEFアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが少ない時\nDEFが少しアップする",
+		"comment": "ピンチでDEFアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nTEAM HPが少ない時\nDEFが大きくアップする",
+		"comment": "Ri：ピンチでDEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の数が自分たちより多い時\nDEFが少しアップする",
+		"comment": "DEFアップ：敵パーティ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の数が自分たちより多い時\nDEFがアップする",
+		"comment": "DEFアップ：敵パーティ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "満腹度の<CRE>減りが遅くなる</C>代わりに\nDEFが大きくアップする",
+		"comment": "呪われDEFアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPが少しアップする",
+		"comment": "HPアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPがアップする",
+		"comment": "HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0109",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPが大きくアップする",
+		"comment": "HPアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "HPが凄まじくアップする",
+		"comment": "HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nHPがアップする",
+		"comment": "Ri：HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nHPが大きくアップする",
+		"comment": "Ri：HPアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nHPが凄まじくアップする",
+		"comment": "Ri：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカが装備すると\nHPがアップする",
+		"comment": "Sh：HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカが装備すると\nHPが大きくアップする",
+		"comment": "Sh：HPアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nHPがアップする",
+		"comment": "Fr：HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nHPが大きくアップする",
+		"comment": "Fr：HPアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nHPが凄まじくアップする",
+		"comment": "Fr：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nHPが少しアップする",
+		"comment": "Na：HPアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nHPがアップする",
+		"comment": "Na：HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nHPが凄まじくアップする",
+		"comment": "Na：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\nHPが大きくアップする",
+		"comment": "Be：HPアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\nHPが凄まじくアップする",
+		"comment": "Be：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクが装備すると\nHPが凄まじくアップする",
+		"comment": "Ne：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモトが装備すると\nHPがアップする",
+		"comment": "Mi：HPアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモトが装備すると\nHPが凄まじくアップする",
+		"comment": "Mi：HPアップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル中、一定時間ごとに\nTEAM HPが少し回復する",
+		"comment": "HPリジェネレート",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル中、一定時間ごとに\nTEAM HPが回復する",
+		"comment": "HPリジェネレート＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル中、一定時間ごとに\nTEAM HPが大きく回復する",
+		"comment": "HPリジェネレート＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵にダメージを与えると\nTEAM HPが少し回復する\n回復する量は与えたダメージ量に比例する",
+		"comment": "ヒットリカバリー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵にダメージを与えると\nTEAM HPが回復する\n回復する量は与えたダメージ量に比例する",
+		"comment": "ヒットリカバリー＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックで敵を倒すと\nTEAM HPが少し回復する\n回復する量は倒した敵のHPに比例する",
+		"comment": "イレースリカバリー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが回復する時に\n回復量が少し増える",
+		"comment": "回復量アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが回復する時に\n回復量が増える",
+		"comment": "回復量アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが回復する時に\n回復量が大きく増える",
+		"comment": "回復量アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが回復する時に\n回復量が凄まじく増える",
+		"comment": "回復量アップ＋＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0140",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップレートが1アップする",
+		"comment": "ドロップアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0141",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップレートが3アップする",
+		"comment": "ドロップアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0142",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップレートが5アップする",
+		"comment": "ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0143",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウが装備すると\nドロップレートが5アップする",
+		"comment": "Ri：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0144",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカが装備すると\nドロップレートが5アップする",
+		"comment": "Sh：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0145",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレットが装備すると\nドロップレートが5アップする",
+		"comment": "Fr：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0146",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギが装備すると\nドロップレートが5アップする",
+		"comment": "Na：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0147",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトが装備すると\nドロップレートが5アップする",
+		"comment": "Be：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0148",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクが装備すると\nドロップレートが5アップする",
+		"comment": "Ne：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0149",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモトが装備すると\nドロップレートが5アップする",
+		"comment": "Mi：ドロップアップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "EXPとBPが<CRE>入手できなくなる</C>代わりに\nドロップレートが20アップする",
+		"comment": "呪われドロップアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "満腹度の<CRE>減りが遅くなる</C>代わりに\nドロップレートが10アップする",
+		"comment": "呪われドロップアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0152",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "入手するEXPがアップする",
+		"comment": "EXPアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "入手するBPがアップする",
+		"comment": "BPアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "入手するEXPとBPがアップする",
+		"comment": "ダブルアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが<CRE>少ない状態</C>で\nバトルが開始される代わりに\n入手するEXPとBPが大きくアップする",
+		"comment": "呪われダブルアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0156",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "EXPが<CRE>入手できなくなる</C>",
+		"comment": "EXPゼロ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0157",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BPが<CRE>入手できなくなる</C>",
+		"comment": "BPゼロ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0158",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルのリザルトで\nVIP RANKが少し上がりやすくなる",
+		"comment": "VIP RANKアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0159",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている状態異常\n［炎上］［感電］［毒］の\n効果時間が少しのびる",
+		"comment": "継続ダメージ時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0160",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている状態異常\n［炎上］［感電］［毒］の\n効果時間がのびる",
+		"comment": "継続ダメージ時間アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0161",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている状態異常\n［炎上］［感電］［毒］の\n効果時間が大きくのびる",
+		"comment": "継続ダメージ時間アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0162",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n敵を行動不能にする状態異常の\n発生確率が少しアップする",
+		"comment": "行動不能確率アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0163",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n敵を行動不能にする状態異常の\n発生確率がアップする",
+		"comment": "行動不能確率アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0164",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n敵を行動不能にする状態異常の\n発生確率が大きくアップする",
+		"comment": "行動不能確率アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0165",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n全ての状態異常の\n発生確率が少しアップする",
+		"comment": "状態異常確率アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0166",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n全ての状態異常の\n発生確率がアップする",
+		"comment": "状態異常確率アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0167",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n全ての状態異常の\n発生確率が大きくアップする",
+		"comment": "状態異常確率アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0168",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［スタン］の\n効果時間が少しのびる",
+		"comment": "スタン時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0169",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［スタン］の\n効果時間がのびる",
+		"comment": "スタン時間アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0170",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［スタン］の\n効果時間が大きくのびる",
+		"comment": "スタン時間アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0171",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［チェーンバインド］の\n効果時間が少しのびる",
+		"comment": "チェーンバインド時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0172",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［チェーンバインド］の\n効果時間がのびる",
+		"comment": "チェーンバインド時間アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0173",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［チェーンバインド］の\n効果時間が大きくのびる",
+		"comment": "チェーンバインド時間アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0174",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［アイスバインド］の\n効果時間が少しのびる",
+		"comment": "アイスバインド時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0175",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［アイスバインド］の\n効果時間がのびる",
+		"comment": "アイスバインド時間アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0176",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［アイスバインド］の\n効果時間が大きくのびる",
+		"comment": "アイスバインド時間アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0177",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［ロックバインド］の\n効果時間が少しのびる",
+		"comment": "ロックバインド時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0178",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［ロックバインド］の\n効果時間がのびる",
+		"comment": "ロックバインド時間アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0179",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジについている\n状態異常［ロックバインド］の\n効果時間が大きくのびる",
+		"comment": "ロックバインド時間アップ＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0180",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常［炎上］で\n受けるダメージを軽減する",
+		"comment": "レジスト炎上",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0181",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常［感電］で\n受けるダメージを軽減する",
+		"comment": "レジスト感電",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0182",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常［毒］で\n受けるダメージを軽減する",
+		"comment": "レジスト毒",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0183",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル中の移動速度がアップする",
+		"comment": "クイックムーブ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0184",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "吹き飛ばされる攻撃を受けても\n吹き飛ばなくなる",
+		"comment": "レジストふっとび",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0185",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TEAM HPが多く残っている時\n一撃でHPが0になる攻撃を受けても\nHPが「1」残る\n条件さえ満たしていれば何度でも発動する",
+		"comment": "HPサバイヴ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0186",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキック発動中に攻撃を受けると\nたまに自動で回避行動をとる",
+		"comment": "サイキック中自動回避",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0187",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メインで操作していない時\n受けるダメージを少し軽減する",
+		"comment": "フォローレジスト",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0188",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メインで操作していない時\n受けるダメージを軽減する",
+		"comment": "フォローレジスト＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0189",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メインで操作していない時\n受けるダメージを大きく軽減する",
+		"comment": "フォローレジスト＋＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0190",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウン時間が少し短くなる",
+		"comment": "ダウン時間軽減",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0191",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダウン時間が短くなる",
+		"comment": "ダウン時間軽減＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0192",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "与えるダメージが<CRE>かなり下がる</C>代わりに\n満腹度の減りがかなり早くなる",
+		"comment": "呪われ消化アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0193",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "満腹度の減りが少し早くなる",
+		"comment": "消化アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0194",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "満腹度の減りが早くなる",
+		"comment": "消化アップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0195",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグとバトルする時の\n制限時間が少しのびる",
+		"comment": "ピグマージン",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0196",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズシンボルに触れても\nエンカウントしなくなる",
+		"comment": "ドントタッチミー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0197",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロチャンスの時間が\n少しのびる",
+		"comment": "シンクロチャンス時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0198",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロコンボ成功時に\nシンクロ率の上昇量が少し増える",
+		"comment": "シンクロアップ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0199",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マッシュアップで与えるダメージが\nアップする",
+		"comment": "マッシュアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル開始からの経過時間を表示する",
+		"comment": "タイム表示",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を背後から攻撃すると\nフィニッシュ攻撃がすぐに出る",
+		"comment": "クイックエンド：ビハインド",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "倒れている敵を攻撃すると\nフィニッシュ攻撃がすぐに出る",
+		"comment": "クイックエンド：ダウン",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "勢いよく吹き飛んでいる状態の敵を\n攻撃するとフィニッシュ攻撃がすぐに出る",
+		"comment": "クイックエンド：ブロー",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "高く打ち上げている敵を攻撃すると\n攻撃が多段ヒットになる",
+		"comment": "多段ヒット：エリアル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0210>",
+		"comment": "オートコンボ\nPF\nボタンを押しっぱなしにしている間\n自動で連続攻撃をする",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0211",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0211>",
+		"comment": "オートアサルト\nPF\nボタンを押しっぱなしにしている間\n自動で移動しながら攻撃する\n敵に攻撃が当たるたびに狙う相手を変える",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0213",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_ABL_Info_0213>",
+		"comment": "オートターゲット\nPF\nボタンを押すたびに\n自動で移動しながら攻撃する\n敵に攻撃が当たるたびに狙う相手を変える",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0214",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "空中にいる敵を攻撃した時\n与えるダメージが大きくアップする",
+		"comment": "アタックアップ：エリアル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0215",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "行動不能の状態異常にかかっている敵に\n攻撃した時\n与えるダメージが大きくアップする",
+		"comment": "アタックアップ：行動不能",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0216",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "攻撃した敵のHPが少ない時\n与えるダメージが大きくアップする",
+		"comment": "アタックアップ：敵ピンチ",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0217",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンクロコンボ成功時に\nシンクロ率の上昇量が増える",
+		"comment": "シンクロアップ＋",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0218",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "6つ揃った時のみ発動する\n与えるダメージが最高にアップする",
+		"comment": "黒猫のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0219",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "4つ揃った時のみ発動する\n敵にダメージを与えると\nTEAM HPがかなり回復する\n回復する量は与えたダメージ量に比例する",
+		"comment": "四季のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0220",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "3つ揃った時のみ発動する\n与えるダメージがすばらしくアップする",
+		"comment": "信号のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0221",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "vinculum [lux]と\nvinculum [nox]が揃うと\nリブート時間が短くなる",
+		"comment": "結束のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0222",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RaiJin・電で\n状態異常［チェーンバインド］にした敵を\nFuuJin・嵐で攻撃すると\n与えるダメージがアップする",
+		"comment": "神様のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0223",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テンカ・ジュズマルと\nテンカ・ミカヅキが揃うと\n与えるダメージがアップして\n更に攻撃速度が上がる",
+		"comment": "天下のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0224",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ソウタイテキゼッタイで\nダウンさせた敵を\nゼッタイテキソウタイで攻撃すると\n与えるダメージがアップする",
+		"comment": "相対のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0225",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Ｈサイドヒーリングと\nＦサイドデフレクターが揃うと\nリブート時間が短くなる",
+		"comment": "再生のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0226",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャプチャー・Ｅで\nキャプチャーした敵を\nチャージパンチ・Ｅで攻撃すると\n与えるダメージがアップする",
+		"comment": "友情のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0227",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "かっぱパニック・ゴールドで\n引き寄せた敵を\nかっぱパニックで攻撃すると\n与えるダメージがアップする",
+		"comment": "妖怪のアンサンブル",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0231",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランド「BLACK HONEY\nCHILI COOKIE（B.H.C.C）」で\n全身の装備を統一すると\nファッションのパラメータがアップする",
+		"comment": "コーディネート：B.H.C.C\n※法務対応：ブランド名 正式名と略称を併記",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0232",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックを発動していない時間が長いと\nバッジゲージの自然回復が早くなる",
+		"comment": "スーパーブレイク",
+		"annotation": ""
+	},
+	{
+		"name": "ABL_Info_0233",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "状態異常［ロックバインド］か\n［アイスバインド］にかかっている敵を\n攻撃すると強く吹き飛ばし\nチャンスタイプが［クラッシュ］になる",
+		"comment": "ダイナミクス：ロックorアイス",
+		"annotation": ""
+	}
+]
+}

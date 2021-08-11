@@ -1,0 +1,580 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Información sobre la comida"
+	},
+	{
+		"name": "ITM_FOD_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Una taza de café preparado con granos ligeramente tostados, de aroma fresco y afrutado. Esta mezcla de granos prensados en frío para reducir el amargor es muy refrescante.<BR>* La cantidad de hielo puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Una taza de una variedad prensada en frío, con leche baja en grasa y calorías que añade suavidad sin restar nada al aroma natural del café.<BR>* La proporción de café y leche puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Este clásico de las cafeterías es tan refrescante como parece. <i>Podrías</i> empezar por el helado, pero entonces solo sería un refresco de melón con una cereza y, así, ¿qué gracia tendría?<BR>* El tamaño de la bola puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Una taza de café con una mezcla única de granos procedentes de América Central y del Sur. Los cafeteros destacan su suavidad en el paladar y el regusto suculento que deja.<BR>* La mezcla concreta puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Un clásico de las cafeterías que combina café expreso y leche caliente. Irresistible. En Hachiko le añaden menos leche para darle un toque más amargo.<BR>* El dibujo puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Un riquísimo dulce que se hornea en el local antes de abrir. Esta deliciosa bomba de chocolate negro se deshace en la boca y es el complemento perfecto a una tacita de café caliente.<BR>* El número de trozos puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Uno de los platos estrella de cualquier menú, con tres clásicos: beicon, lechuga y tomate. El beicon se fríe antes de montar el plato para que desprenda más aroma.<BR>* La presencia del tomate puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Un sabroso postre que mezcla fresas, kiwis y naranja entre olas de crema batida, todo ello entre dos rebanadas de pan. A destacar su fotogenia.<BR>* La cantidad de crema puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Una especialidad de Sapporo preparada con caldos de cerdo, pollo y pescado con bonito infusionado. Se le añade pollo, verduras, diferentes especias ¡y a la mesa!<BR>* El nivel de picante puede variar."
+	},
+	{
+		"name": "ITM_FOD_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta hamburguesa de ternera, uno de los platos fuertes de la carta desde que se fundó el local, se prepara en la parrilla y va en pan de harina orgánica, acompañada de verduras frescas."
+	},
+	{
+		"name": "ITM_FOD_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "No es solo una campeona por su nombre: también es el plato estrella de JB, y no sin razón. Esta hamburguesa doble con extra de queso es el sueño húmedo de los amantes de la carne."
+	},
+	{
+		"name": "ITM_FOD_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Este sándwich lleva un filete de abadejo recién frito, bañado en una refrescante salsa tártara casera. Los fans de JB siempre recalcan que la acidez del limón y los pepinillos es lo que da categoría al plato."
+	},
+	{
+		"name": "ITM_FOD_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Una hamburguesa de ternera wagyu, creada con ocasión del 30.º aniversario de la franquicia e incorporada a la carta de forma permanente. ¿<i>Podrás</i> vencer en duelo a esta colosal hamburguesa?"
+	},
+	{
+		"name": "ITM_FOD_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Estos sabrosos palitos se elaboran con patatas sin pelar fritas dos veces (primero a baja temperatura y luego a alta) para que su textura, crujiente por fuera y blanda por dentro, sea totalmente irresistible."
+	},
+	{
+		"name": "ITM_FOD_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Este refresco carbonatado es el complemento perfecto a cualquier sándwich de Justice Burger. ¡Sus burbujas producen un hormigueo tanto en la boca como en el resto del cuerpo!"
+	},
+	{
+		"name": "ITM_FOD_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Este refresco, más dulce que ácido, encaja sorprendentemente bien con los platos con más carne de la carta. ¡Hecho con zumo 100 % natural, extraído de naranjas de huertos de verdad! (¡En serio!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato, acompañado por una sopa de sésamo blanco, combina aceite de chile picante y guindilla japonesa que realza el delicado sabor de su auténtica estrella: la pimienta negra. Para auténticos entusiastas del ramen."
+	},
+	{
+		"name": "ITM_FOD_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Los fideos más gruesos de la ciudad, acompañados por un caldo de huesos de cerdo y pedazos de filete de cerdo asado y extra de manteca, por si las moscas. Aporta todas las calorías recomendadas para la ingesta diaria de un adulto. Un placer realmente oculto."
+	},
+	{
+		"name": "ITM_FOD_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Una receta original de G4G que combina dos tipos distintos de platos de fideos en aceite. Fideos ultragruesos, acompañados por una salsa especial cuyo secreto se ha transmitido de generación en generación."
+	},
+	{
+		"name": "ITM_FOD_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Una alternativa al estándar de G4G con una sabrosa sopa de sésamo negro que no se olvida fácilmente. El cerdo desmigado se marina en una mezcla picante de ajo, jengibre y pimienta que le da una maravillosa pegada."
+	},
+	{
+		"name": "ITM_FOD_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Este cochinillo está asado de manera impecable por todas partes, de la piel crujiente a la carne dulce y suculenta. Se sirve sobre un lecho de vegetales. ¡Un plato que causa auténtica impresión!"
+	},
+	{
+		"name": "ITM_FOD_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Con pollos criados en libertad se hornea este plato en un recipiente a medida y sale prácticamente rebosante de jugo. La mejor manera de disfrutarlo es en un sándwich, con ensalada de col y el aliño casero de SBY BBQ."
+	},
+	{
+		"name": "ITM_FOD_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato de barbacoa brasileña con carne de <i>picanha</i> asada a la parrilla y con una vinagreta de <i>molho</i>. (¡Y no te pierdas el espectáculo del chef que se encarga de cortarla y servirla!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta carne se envejece en una cámara durante un mes antes de asarse a fuego fuerte para crear un plato con aroma a frutos secos y un impresionante sabor. Quienes quieran saborear el Chateaubriand deben tener en cuenta que la reserva se realiza con un año de antelación."
+	},
+	{
+		"name": "ITM_FOD_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato muy popular que dejará huella en las redes sociales. Que no te engañe su aspecto: esta cabeza asada al horno es realmente deliciosa, ¡sobre todo en la zona de las mejillas y los ojos, repletos de colágeno!"
+	},
+	{
+		"name": "ITM_FOD_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Este reptil asado, traído directamente desde Australia, es rico en proteínas y bajo en calorías. Su textura recuerda a la del pollo, pero los que de verdad lo aprecian saben que no hay nada como el caimán asado."
+	},
+	{
+		"name": "ITM_FOD_Info_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Un <i>parfait</i> muy popular con una selección de frutas de temporada. Se sirve sobre varias capas de natillas y lo corona una cucharada de crema batida que realza los sabores naturales de la fruta."
+	},
+	{
+		"name": "ITM_FOD_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta exquisita golosina toma el mejor helado de chocolate y lo armoniza con un <i>parfait</i> de avellana. La jalea de café y la salsa de grosellas que la coronan se combinan para crear un plato digno del paladar más refinado."
+	},
+	{
+		"name": "ITM_FOD_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Este <i>parfait</i> combina la acidez frutal del helado de chocolate rubí con una salsa de yogur amarga y le pone la proverbial guinda con un colorido triturado de arándanos. ¡No tardará mucho en convertirse en la comidilla de Udagawa!"
+	},
+	{
+		"name": "ITM_FOD_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bonito <i>parfait</i> que sabe aún mejor de lo que parece. El chef aconseja comenzar por el merengue de arriba e ir bajando hasta el sorbete de cassis de la parte baja, pero oye, el postre es tuyo. ¡Disfrútalo como prefieras!"
+	},
+	{
+		"name": "ITM_FOD_Info_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Una popular bebida taiwanesa que combina un fuerte té negro con leche y perlas de tapioca. Las esponjosas <MK_11>pompas<MK_11>, preparadas cada mañana, le dan una frescura sin igual."
+	},
+	{
+		"name": "ITM_FOD_Info_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta bebida, una de las más populares de la carta de Bubblevision, refuerza todo el sabor del té verde con leche y una base de perlas de tapioca. ¿Qué será lo próximo que se les ocurra?"
+	},
+	{
+		"name": "ITM_FOD_Info_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta cremosa bebida combina un suculento té de Formosa con fresas recién trituradas y perlas de tapioca con sabor a fruta. El resultado es una dulce golosina para todas las edades."
+	},
+	{
+		"name": "ITM_FOD_Info_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "El dulzor del azúcar moreno de Okinawa combina con una base de té negro para crear un perfil de sabores complejo, capaz de rivalizar con las preparaciones más sofisticadas. ¡Delicioso hasta la última perla!"
+	},
+	{
+		"name": "ITM_FOD_Info_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Una bebida exquisita que equilibra el intenso dulzor de un puré de mango 100 % natural con el sabor más austero del té de Formosa. El sabor no perdura demasiado, pero al desaparecer deja un intenso deseo de repetir."
+	},
+	{
+		"name": "ITM_FOD_Info_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato, perfecto para el comensal indeciso, incluye los tres famosos curris de Don Don. Se puede complementar con queso crujiente y cerdo asado, pero también está delicioso sin él."
+	},
+	{
+		"name": "ITM_FOD_Info_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Un suculento plato que funde el curri del sur de la India con un caldo japonés. El comensal experto reconocerá las notas del cilantro y el comino, así como la de un preparado a base de polvo de clavo que se añade."
+	},
+	{
+		"name": "ITM_FOD_Info_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato sabroso pero saludable que combina tres tipos de dal (mung, masur y chana) con fragante cebolla frita para crear un curri que satisfará a los clientes de Don Don hasta la última cucharada."
+	},
+	{
+		"name": "ITM_FOD_Info_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato del sur de la India presenta dos tipos de caballa fresca en curri que compensa la acidez del tamarindo y el tomate con la dulce untuosidad del coco, y añade hoja de curri templada y semillas de mostaza para conferirle aún más aroma."
+	},
+	{
+		"name": "ITM_FOD_Info_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "En esta versión japonesa del clásico de la cocina india, se echa caldo de bonito en un cuenco de arroz tres delicias y se acompaña con mejillones y vieiras. A esto se le añaden diferentes condimentos para crear una reacción en cadena de sabores..., ¡sin olvidarse de la sopa de miso a un lado!"
+	},
+	{
+		"name": "ITM_FOD_Info_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Clásico de los supermercados japoneses y uno de los platos de comida rápida más famosos. Esta bola de arroz contiene dos ciruelas por el precio de una: ¡un chollo de los que solo se ven en Moyai Mart!"
+	},
+	{
+		"name": "ITM_FOD_Info_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta bola de arroz rebosa literalmente copos de fragante salmón, primero conservado en sal y luego secado al aire para potenciar el sabor. ¡La relación sabor-precio es sencillamente inigualable!"
+	},
+	{
+		"name": "ITM_FOD_Info_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Las gambas fritas, el huevo escalfado y los tubérculos asados dan la réplica a la gran estrella de este plato: un filete de salmón a la parrilla. ¡Su sabor es digno de una ovación cerrada!"
+	},
+	{
+		"name": "ITM_FOD_Info_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "(El truqui del experto: ¡si no acaba de salir de la freidora, a la basura con él!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta sopa de temporada es muy popular entre la clientela del Moyai Mart. Algunos llegan a sumergir onigiris en ella para que absorban el caldo de bonito y disfrutar así de un risotto improvisado."
+	},
+	{
+		"name": "ITM_FOD_Info_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Una bolsa de patatas fritas de Hokkaido, tan gruesas como crujientes. La fecha del <MK_11>consumir preferentemente<MK_11> no es orientativa: el Moyai Mart retira las bolsas que no se venden para que sus clientes disfruten solo de lo más fresco."
+	},
+	{
+		"name": "ITM_FOD_Info_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Una comida suntuosa con más ternera de Matsuzaka de la que puede comerse una persona normal. Tus papilas estallarán de placer en cuanto esta carne entre en contacto con tu lengua. Si buscas un plato de ternera, este es el mejor."
+	},
+	{
+		"name": "ITM_FOD_Info_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato inigualable lleno a rebosar de una selección del mejor atún y otros productos del mar, traídos a diario desde el mercado de pescado de Toyosu y preparados con todo esmero por el jefe de cocina en persona."
+	},
+	{
+		"name": "ITM_FOD_Info_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato magnífico con dos de los productos más famosos de Hokkaido: erizo de mar cortado en gruesas lonchas y deliciosos glóbulos de huevas de salmón. Un bocado de esta delicia te transporta al instante al norte de Japón."
+	},
+	{
+		"name": "ITM_FOD_Info_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Un suculento cuenco lleno de tajadas de aromática ternera asada a la perfección. Se sirve con una guarnición de crema agria infusionada con wasabi para limpiar el paladar y darle algo más de pegada al <i>umami</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Un popular guiso de anguila al estilo de Nagoya: es decir, a la parrilla y no al vapor. Se aconseja disfrutarlo primero con salsa de soja dulce, luego con wasabi, y por fin con un chorrito de sopa."
+	},
+	{
+		"name": "ITM_FOD_Info_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato legendario con una combinación estelar de carnes procedentes de todos los rincones de Japón: ternera, cerdo, pollo, cordero, pato, venado, jabalí, oso y conejo. ¡El sueño de un carnívoro!"
+	},
+	{
+		"name": "ITM_FOD_Info_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato especial que contiene el 200 % de la dosis recomendada de verduras diarias. Se riega con un aliño lo bastante sabroso como para complacer incluso a los más carnívoros."
+	},
+	{
+		"name": "ITM_FOD_Info_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Una gruesa rebanada de pan untada de mayonesa especial, tostada al horno y coronada por un aguacate tan sabroso que casi parece hecho de manteca. (¡En serio, lo parece!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Un caldo de temporada repleto de zanahorias, patatas y otros tubérculos cortados en dados. Un plato saludable y muy bajo en calorías, así que repite y, si te apetece, vuelve a repetir."
+	},
+	{
+		"name": "ITM_FOD_Info_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Las espinacas, la col y otras verduras se combinan con manzanas, naranjas y un chorrito de zumo de limón en esta bebida energética rebosante de vitaminas. Una fantástica alternativa para el desayuno."
+	},
+	{
+		"name": "ITM_FOD_Info_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Este sabroso batido combina un puñado de supernutritivos açaí con otros frutos y un chorro de leche para crear una bebida rica en hierro, polifenoles y, cómo no, sabor."
+	},
+	{
+		"name": "ITM_FOD_Info_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "El sabor de los cielos de Shibuya, tomado a 100 metros sobre la ciudad y filtrado tres veces para máxima pureza. Un fantástico souvenir a pesar de que está hecho de... de aire, vaya."
+	},
+	{
+		"name": "ITM_FOD_Info_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Un popular plato de cocina callejera coreana hecho de mozzarella fundida envuelta en una capa de maíz dulce. Se acompaña con kétchup, mostaza, sirope de arce... ¡o el condimento que más te guste!"
+	},
+	{
+		"name": "ITM_FOD_Info_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Este postre coreano lleva un plátano frito que se funde en la boca, acompañado por un buen chocolate fundido. Solo le falta un post viral para convertirse en un fenómeno culinario."
+	},
+	{
+		"name": "ITM_FOD_Info_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Estas bolitas de masa se fríen y se rellenan con pasta de alubias y una sopa agria para crear un bocado que resulta divertido de comer. ¡Súmale un par de pani puri y ya tienes una fiesta!"
+	},
+	{
+		"name": "ITM_FOD_Info_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Este clásico dim sum relleno de cerdo desmigado se cocina al vapor dentro de una cesta de bambú. Tómalo con cuidado si no quieres escaldarte el paladar con el caldo."
+	},
+	{
+		"name": "ITM_FOD_Info_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Estas bolitas de pulpo están crujientes por fuera y blanditas por dentro. No te olvides de la mayonesa: aquí es <i>mejor</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un cono de helado hecho de leche fresca recién traída de la vaquería. Con esa cremosa suavidad y su refrescante dulzura, es imposible resistirse."
+	},
+	{
+		"name": "ITM_FOD_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Una crepe de temporada llena de uvas moscatel y coronada con crema batida infusionada con champán para mayor deleite. ¡Que aproveche!"
+	},
+	{
+		"name": "ITM_FOD_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta popular crepe rebosa fruta. Literalmente. Sobre un lecho de crema batida con sabor a ron se dispone con esmero un bello desfile de fresas, grosellas y arándanos."
+	},
+	{
+		"name": "ITM_FOD_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Este cremoso postre destaca por el amargo sabor a cacao y el suave regusto que deja. Los granos de cacao seleccionados y triturados que lleva el cono garantizan el máximo placer hasta el último bocado."
+	},
+	{
+		"name": "ITM_FOD_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Unas dulces patatas de Satsuma se asan a la piedra y luego se trituran para preparar un suave puré con un 100 % de leche. El conjunto se remata con patatitas fritas, ¡que gustan a todo el mundo!"
+	},
+	{
+		"name": "ITM_FOD_Info_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato mejicano lleva un bisté de ternera marinado en dados y envuelto en una tortilla de maíz. El buen comensal detectará el aroma ahumado de la salsa de cebollas y tomates asados."
+	},
+	{
+		"name": "ITM_FOD_Info_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Este <i>wrap</i>, receta secreta reservada para los habituales, no está hecho para cualquier paladar. La brutal salsa de pimiento habanero y chile fantasma puede hacer que regreses llorando a los brazos de tu mami."
+	},
+	{
+		"name": "ITM_FOD_Info_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Esta tortilla de espinacas rellena de carne lleva chiles verdes en rodajas para crear un plato colorido que deja un refrescante regusto en la lengua. Solo se ofrece a los clientes que vuelven."
+	},
+	{
+		"name": "ITM_FOD_Info_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "La salsa de mole, con su abundante cacao y su exquisita combinación de canela, clavo y otras especias, es el complemento perfecto para el pollo a la parrilla de este plato. ¡Considérate afortunado si lo ves en la carta del día!"
+	},
+	{
+		"name": "ITM_FOD_Info_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "El chef de Suzu comienza con un caldo de pollo hervido a fuego lento y termina añadiendo una mezcla de tamari y salsa de soja; el baño perfecto para unos fideos ligeramente rizados."
+	},
+	{
+		"name": "ITM_FOD_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Que no te engañe la claridad de este caldo. Tiene sabor para dar y regalar gracias a una combinación única de pollo, vieira, algas y cinco tipos distintos de sal. Además, el vivaz toque de limón que lo acompaña te alegrará el día."
+	},
+	{
+		"name": "ITM_FOD_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato, ligero al paladar, pero repleto de sabor, es uno de los mejores de Suzu. Justo antes de servirlos, se añade un poco de miso caramelizado sobre los fideos para darles un toque ahumado."
+	},
+	{
+		"name": "ITM_FOD_Info_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Este cuenco ofrece al comensal un suave picante y un sabor delicadamente untuoso. Si a esto le añadimos unas chalotas y un toque de aceite de sésamo, el resultado es un plato que te hará volver a por más."
+	},
+	{
+		"name": "ITM_FOD_Info_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "El aroma y la dulzura de los cítricos otorga a este té de Dimbula un toque limpio y refrescante. ¡Tómate las rodajas de naranja tras la bebida si quieres una dosis extra de vitamina C!"
+	},
+	{
+		"name": "ITM_FOD_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Un té frutal que, para qué negarlo, tiene más fruta que té. La armónica combinación de fresas, grosellas y arándanos crea una bebida tan deliciosa que entra en la categoría de postre."
+	},
+	{
+		"name": "ITM_FOD_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Un refresco que hará las delicias de los sedientos en los días de calor sofocante. ¡Con extra de rodajas de limón para sobrellevar mejor el verano!"
+	},
+	{
+		"name": "ITM_FOD_Info_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Un delicioso refresco de fastuoso color rojizo. El secreto para realzar toda la deliciosa dulzura de las frutas es un chorrito de vinagre de fresa. ¡Que nadie se entere!"
+	},
+	{
+		"name": "ITM_FOD_Info_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato del norte de la India combina pollo, cordero y otros sabrosos curris con naan y roti. Los frutos secos y la crema son esenciales para enriquecer el plato."
+	},
+	{
+		"name": "ITM_FOD_Info_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "En este plato del sur de la India destacan el sambar vegetariano y el rasam caliente y amargo acompañados con arroz. Combínalos a un lado o disfrútalos por separado. ¡Tú decides!"
+	},
+	{
+		"name": "ITM_FOD_Info_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Este plato del norte de la India es un homenaje a los vegetarianos que, además de su delicioso sabor, no deja una sensación de hartazgo."
+	},
+	{
+		"name": "ITM_FOD_Info_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Una especie de crepe de estilo indio preparada con un puré fermentado de arroz y lentejas, rellena de patata picante y acompañada de sambar y chutney."
+	},
+	{
+		"name": "ITM_FOD_Info_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Un plato indio formado por varias capas de arroz basmati y salsa de pollo cocinadas en un horno especial. Suele acompañarse de deliciosa raita, pero sin ella está igual de suculento."
+	},
+	{
+		"name": "ITM_FOD_Info_1600",
+		"speaker": "",
+		"listener": "",
+		"content": "El sabor de este aperitivo con forma de pescado no se parece al del besugo del que toma el aspecto. Dale un toque dulce con un relleno de alubia roja o potencia el sabor con uno de queso."
+	},
+	{
+		"name": "ITM_FOD_Info_1601",
+		"speaker": "",
+		"listener": "",
+		"content": "Este delicioso cono bañado en una densa salsa de té verde se acompaña con alubias azuki de Hokkaido y bolitas de elástico mochi."
+	},
+	{
+		"name": "ITM_FOD_Info_1602",
+		"speaker": "",
+		"listener": "",
+		"content": "Este postre va un paso más allá de su predecesor y añade helado de té verde y bavarois. El resultado es una experiencia sensorial centrada en el matcha."
+	},
+	{
+		"name": "ITM_FOD_Info_1603",
+		"speaker": "",
+		"listener": "",
+		"content": "Estas bolas de mochi se coronan con una rica pasta de alubia roja que se tarda casi veinte años en elaborar. El resultado es insuperable por su impecable equilibrio entre sabor y dulzura."
+	},
+	{
+		"name": "ITM_FOD_Info_1604",
+		"speaker": "",
+		"listener": "",
+		"content": "Este postre deliciosamente colorido se añadió a la carta después de que el fundador visitara Sendai. El edamame se tritura a mano para que no pierda sabor ni textura."
+	},
+	{
+		"name": "ITM_FOD_Info_1700",
+		"speaker": "",
+		"listener": "",
+		"content": "Este suflé, empapado en suntuosa crema de anacardos, se funde literalmente en la boca. Suele servirse con distintos tipos de frutas para acallar un poco la voz de la conciencia."
+	},
+	{
+		"name": "ITM_FOD_Info_1701",
+		"speaker": "",
+		"listener": "",
+		"content": "Un bocado helado y ligeramente dulce que resulta más esponjoso de lo que cabe esperar. La acidez de la salsa de fresa complementa la leche condensada y crea un aleteo de placer en el corazón."
+	},
+	{
+		"name": "ITM_FOD_Info_1702",
+		"speaker": "",
+		"listener": "",
+		"content": "Para preparar este plato se pulveriza hielo de leche mentolado y se mezcla con menta triturada, antes de espolvorearle chocolate amargo. El resultado: un postre ideal para los días de verano."
+	},
+	{
+		"name": "ITM_FOD_Info_1703",
+		"speaker": "",
+		"listener": "",
+		"content": "Pastelitos de suflé amontonados y cubiertos de crema de chocolate. ¡Es menos dulce y tiene menos calorías de lo que parece, así que no tengas miedo de repetir!"
+	},
+	{
+		"name": "ITM_FOD_Info_1704",
+		"speaker": "",
+		"listener": "",
+		"content": "Este bocado helado celebra la pujante dulzura del mango maduro utilizándolo en cada uno de sus elementos, del hielo del fondo a la <i>mousse</i> de la parte superior."
+	}
+]
+}

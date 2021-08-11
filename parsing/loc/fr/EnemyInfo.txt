@@ -1,0 +1,502 @@
+{
+"columns":[
+	{
+		"name": "ENM_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Infos sur l'Écho"
+	},
+	{
+		"name": "ENM_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho très musclé en forme d'ours. Vous risquez bien plus qu'une égratignure si vous vous faites frapper de plein fouet."
+	},
+	{
+		"name": "ENM_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous l'entendez hurler, il faut décamper ! Cet Écho est rapide et fondra sur vous avant que vous ayez le temps de réagir."
+	},
+	{
+		"name": "ENM_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "C'est plus fort de tous les Échos ours. Cet ennemi terrifiant est connu pour frapper le sol de ses pattes et provoquer ainsi une onde de choc omnidirectionnelle. Quand il lève les pattes, c'est qu'il faut fuir !"
+	},
+	{
+		"name": "ENM_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho en forme de corbeau qui attaque ses ennemis à coups de bec. S'il vous choisit comme proie, il faut vous enfuir ou il vous harcèlera."
+	},
+	{
+		"name": "ENM_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho baraqué qui utilise ses serres pour vous piéger dans son étreinte. Si un de vos alliés est pris au piège, libérez-le en donnant une bonne correction à ce corbeau revenant."
+	},
+	{
+		"name": "ENM_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Un horrible Écho qui lance des plumes acérées, piège ses ennemis par surprise et vient en aide à ses alliés pendant les combats. Si vous croisez son chemin, assurez-vous de l'effacer avant qu'il ne cause trop de problèmes."
+	},
+	{
+		"name": "ENM_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho en forme de grenouille plutôt docile, mais qui réagit mal quand il se sent menacé. Il saute peut-être beaucoup, mais ne vous inquiétez pas, il n'y a aucune de raison d'en avoir peur."
+	},
+	{
+		"name": "ENM_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet Écho n'est pas à prendre à la légère. Il peut cracher des bulles mortelles à distance. Ses projectiles flottent dans l'air pendant un certain temps, alors attention à ne pas les toucher."
+	},
+	{
+		"name": "ENM_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho qui écrabouille tout ce qui se trouve sur son passage. Battez en retraite dès qu'il commence à taper des pieds, ou vous vous ferez écraser en un clin d'œil !"
+	},
+	{
+		"name": "ENM_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Le roi des Échos grenouilles. Cet Écho abominable renforce les autres grenouilles pendant les combats et s'associe à elles pour lancer des jets d'eau. Il peut cracher plus de bulles que ses semblables et a un certain talent pour l'écrasement. C'est un ennemi redoutable."
+	},
+	{
+		"name": "ENM_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho canidé qui court dans tous les sens à la recherche de sa prochaine proie. S'il réussit à vous attraper entre ses mâchoires, le reste de la meute fondra sur vous. Vous devriez attendre qu'il ralentisse avant d'attaquer."
+	},
+	{
+		"name": "ENM_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho canidé qui laisse dans son sillage une traînée de flammes où qu'il aille. Utilisez un psych qui l'arrête net si vous ne voulez pas vous retrouver encerclé par le feu."
+	},
+	{
+		"name": "ENM_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Le chef de la meute. Cet Écho canidé court si vite qu'il est impossible de le suivre à l'œil nu. Essayez de le frapper avant qu'il n'entame sa course folle assourdissante."
+	},
+	{
+		"name": "ENM_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho en forme de méduse qui flotte dans l'air et se clone à répétition. Repérez les signes qui indiquent les clones et concentrez vos attaques sur l'original."
+	},
+	{
+		"name": "ENM_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho prédateur qui s'accroche à ses victimes et les électrocute. Ne le laisser pas se multiplier, où il causera encore plus de problèmes."
+	},
+	{
+		"name": "ENM_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho particulièrement malfaisant, aux tentacules empoisonnés. Essayez de rester à distance quand il les agite et rétorquez par des attaques à distance."
+	},
+	{
+		"name": "ENM_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho gênant capable de se cloner à la perfection. Il faut vraiment commencer par effacer ce casse-pied lorsque vous le rencontrez."
+	},
+	{
+		"name": "ENM_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho agressif qui fonce sur tous les ennemis qu'il voit. La peau de sa tête est si épaisse qu'elle forme un bouclier impénétrable."
+	},
+	{
+		"name": "ENM_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho si féroce qu'il produit des nuages de poussière quand il charge. Gardez la tête froide et faites attention, même si vous vous croyez protégé."
+	},
+	{
+		"name": "ENM_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Le plus féroce et résistant de tous les Échos rhinos. Sa corne incassable sert à la fois à le protéger des coups et à frapper brutalement. Évitez de l'attaquer de front."
+	},
+	{
+		"name": "ENM_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho sournois en forme de requin. Il se cache en plongeant dans le sol. Vous ne lui ferez pas très mal en attaquant son aileron, alors attendez qu'il refasse surface."
+	},
+	{
+		"name": "ENM_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces énormes monstres sont connus pour faire brusquement surface et avaler leurs proies tout rond. Faites de votre mieux pour éviter leurs mâchoires avant de contre-attaquer."
+	},
+	{
+		"name": "ENM_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Même si cet Écho peut faire beaucoup de dégâts avec son attaque sautée, celle-ci le laisse vulnérable, car il doit faire surface un certain temps pour l'effectuer. Faites aussi attention : il éclabousse beaucoup en retombant."
+	},
+	{
+		"name": "ENM_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho qui compense sa faible mobilité par une attaque laser mortelle à longue portée. Quand cet ennemi vous a dans le viseur, c'est l'horreur."
+	},
+	{
+		"name": "ENM_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces monstres sont connus pour frapper du pied dès qu'ils sentent un danger, provoquant d'énormes ondes de choc."
+	},
+	{
+		"name": "ENM_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ennemi terrifiant, qu'on pourrait surnommer<NBSP>« canon vivant ». Il traque sa proie avec ténacité tout en faisant déferler une pluie de lasers sur elle. On ne donnera pas cher de votre peau si cet Écho vous repère."
+	},
+	{
+		"name": "ENM_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces Échos peuvent sembler mignons, mais baissez votre garde, et ils vous chargeront en masse. Gardez à l'œil chaque Écho quand vous attaquez un groupe."
+	},
+	{
+		"name": "ENM_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Des ennemis particulièrement pénibles à cause de leur tendance à attaquer en formations serrées. Si vous les voyez se mettre en position, préparez-vous à résister !"
+	},
+	{
+		"name": "ENM_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho autoritaire, qui dirige ses subordonnés lors des combats. En plus, cet ennemi impérialiste continuera à aider ses alliés tant qu'il sera sur le champ de bataille."
+	},
+	{
+		"name": "ENM_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ennemi en forme de poisson qui explose quand il est vaincu, mais aussi quand on l'ignore. L'explosion qu'il émet inflige aussi des dégâts aux autres Échos."
+	},
+	{
+		"name": "ENM_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho piquant qui tire des dards dans toutes les directions. Faites attention face à lui, car il explose en mourant."
+	},
+	{
+		"name": "ENM_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho lâche qui attaque de loin en tirant des dards empoisonnés. Faites très attention, son corps expulse aussi des épines au moment du tir."
+	},
+	{
+		"name": "ENM_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Le plus fort des Échos poissons. Connu pour intimider ses ennemis en se gonflant jusqu'à atteindre des proportions extrêmes. Non seulement ses dards ont une plus longue portée quand il est gonflé, mais le rayon de l'explosion qu'il provoque en mourant augmente également."
+	},
+	{
+		"name": "ENM_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet Écho au mauvais caractère affaiblit ses ennemis en les piquant avec sa queue ou en les pinçant (les deux attaques sont pareillement chargées en poison)."
+	},
+	{
+		"name": "ENM_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho malfaisant qui libère un gaz toxique par la queue. Ses pinces sont cependant rabougries par manque d'utilisation et peu dangereuses."
+	},
+	{
+		"name": "ENM_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho mortel capable de découper ses ennemis avec ses pinces, de les étouffer de son gaz toxique ou de les piéger avec sa queue. Vous feriez bien d'avoir un antidote ou deux à portée de main pour affronter un de ces monstres."
+	},
+	{
+		"name": "ENM_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho difficile à détecter, car il sait se fondre dans le paysage. Vous saurez qu'il vous attaque quand vous verrez apparaître le viseur."
+	},
+	{
+		"name": "ENM_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Cette créature est douée pour abattre ses ennemis à distance. Essayez de l'attaquer quand ses yeux brillent, lorsqu'il vous repère."
+	},
+	{
+		"name": "ENM_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Cet Écho possède une langue bizarre qui lui permet de soigner ses alliés tout en se guérissant lui-même. Vous feriez bien de l'éliminer vite pour éviter que le combat s'éternise."
+	},
+	{
+		"name": "ENM_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho dinosaure meurtrier. Il a tendance à se déchaîner s'il réussit à toucher sa cible. Cependant, ses mouvements le trahissent quand il est sur le point de perdre son calme, alors vous devriez pouvoir vous préparer."
+	},
+	{
+		"name": "ENM_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Un abominable Écho qui a appris à se servir de sa queue comme d'une arme. Faites très attention quand il s'énerve, car la rage le rend particulièrement rapide."
+	},
+	{
+		"name": "ENM_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Un monstre terrifiant, capable d'infliger des dégâts d'un simple rugissement. Cette attaque est encore plus meurtrière quand il s'énerve, car sa portée s'étend alors au champ de bataille entier."
+	},
+	{
+		"name": "ENM_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Un petit Écho cochon, plutôt inoffensif. Si vous en voyez un, <CRE>éliminez-le avant la fin du temps imparti</C>, sinon, il s'enfuira !"
+	},
+	{
+		"name": "ENM_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Le roi des petits cochons. Il faudra mettre <CRE>les bouchées doubles</C> pour venir à bout de ce puissant monarque."
+	},
+	{
+		"name": "ENM_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Il y a peu d'attaques assez fortes pour ennuyer ce cochon d'or. Mais en <CRE>maintenant un barrage d'attaques</C>, vous finirez par l'effacer."
+	},
+	{
+		"name": "ENM_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Il semble chic à première vue, mais de près, on se rend compte que ce n'est qu'une pâle imitation. Il <CRE>suffira de peu</C> pour venir à bout de cette contrefaçon."
+	},
+	{
+		"name": "ENM_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Un porc plutôt casse-pieds qui <CRE>subit uniquement des dégâts si on attaque sa faiblesse élémentaire</C>. Chacun de ces Échos réagit à un élément différent, alors préparez vos psychs."
+	},
+	{
+		"name": "ENM_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Une étrange créature qui semble hésiter entre se cloner et rester un Écho à part entière. Essayez d'<CRE>infliger de nombreuses attaques différentes à cet Écho ainsi qu'à ses clones avant qu'ils se réunissent</C>."
+	},
+	{
+		"name": "ENM_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ennemi tenace qui change de couleur et ressuscite quand vous l'abattez. Il peut sembler invincible, mais <CRE>si toutes les couleurs des cochons valses s'accordent, la chance peut tourner</C>."
+	},
+	{
+		"name": "ENM_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho énervant qui explose à intervalles réguliers. <CRE>Repoussez-le près de ses alliés avant le grand boum</C>, car ses détonations les touchent aussi."
+	},
+	{
+		"name": "ENM_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce cochon farouchement loyal ne se bat jamais seul. Vous obtiendrez peut-être un meilleur résultat <CRE>si vous parvenez à abattre ce cochon et son allié simultanément</C>."
+	},
+	{
+		"name": "ENM_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Ce porc s'accrochera à la vie tant que ses amis combattront. Vous obtiendrez peut-être un meilleur résultat <CRE>si vous parvenez à abattre ce cochon et ses alliés simultanément</C>."
+	},
+	{
+		"name": "ENM_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Des introvertis rassemblés au sein de la Deep Rivers Society. Doués pour le combat à distance, mais nullissimes au corps-à-corps."
+	},
+	{
+		"name": "ENM_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Des Joueurs qui appartiennent à l'équipe la plus pure du Jeu. Ils sont doués dans tous les types de combat, alors vous devriez ouvrir l'œil et saisir la moindre ouverture pour frapper."
+	},
+	{
+		"name": "ENM_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Des extravertis qui combattent au nom de la beauté. Ils préfèrent le corps-à-corps, alors essayez au maximum de garder vos distances et de les abattre de loin."
+	},
+	{
+		"name": "ENM_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Ce ne sont pas les ennemis les plus forts, mais ils peuvent parfaitement casser votre Groove."
+	},
+	{
+		"name": "ENM_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Ils sont capables d'infliger une attaque violente réduisant considérablement votre Groove."
+	},
+	{
+		"name": "ENM_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Leurs attaques empoisonnées sont brutales et peuvent réduire votre Groove."
+	},
+	{
+		"name": "ENM_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Essayez de ne pas toucher leurs tentacules, ou vos PV et votre Groove en prendront un coup."
+	},
+	{
+		"name": "ENM_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Ils ne sont pas très dangereux séparément, mais si une meute vous attaque, votre Groove en pâtira."
+	},
+	{
+		"name": "ENM_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Une nouvelle espèce d'Échos qui menace de réduire à néant Shibuya. Essayez d'éviter ses ondes de choc, ou vos PV et votre Groove prendront un sacré coup."
+	},
+	{
+		"name": "ENM_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Le roi des Échos grenouilles pestiférées, créé par Shiba lui-même. Ne le laissez pas vous piétiner, ou ça fera très mal. En plus, votre Groove en fera les frais."
+	},
+	{
+		"name": "ENM_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Le roi des Échos méduses pestiférées, créé par Shiba lui-même. Il tremblote pour se cloner et créer sa propre armée invincible."
+	},
+	{
+		"name": "ENM_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Écho primate baraqué, mais qui n'est pas aussi fort qu'il en a l'air. Frappez ses bras assez longtemps et vous finirez par les détruire. Ils se régénéreront au bout d'un moment, mais cela l'empêchera de porter certaines attaques pendant quelque temps."
+	},
+	{
+		"name": "ENM_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Le timide chef de la Deep Rivers Society. Il évite de se salir les mains en se cachant derrière ses coéquipiers et en posant des bombes sur tout le champ de bataille. Il vous faudra réfléchir vite pour éviter qu'il vous batte."
+	},
+	{
+		"name": "ENM_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Le chef des Purehearts, une célébrité sur Internet. Il utilise son psych pour paralyser ses ennemis. La plupart de ses attaques nécessitent l'aide de ses coéquipiers, alors éliminez-les d'abord."
+	},
+	{
+		"name": "ENM_Info_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Un trio de peluches en forme de chats contrôlé par Tsugumi. Elles ont des tailles différentes et chacune possède ses propres capacités offensives. Cependant, elles partagent toutes les trois une seule et même vie."
+	},
+	{
+		"name": "ENM_Info_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "Les funestes félins sont de retour en nombre ! À vous de décider lesquels attaquer en premier : les petits M. Miaou rapides et adroits, ou les gros M. Miaou coriaces ?"
+	},
+	{
+		"name": "ENM_Info_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Une fille robot peu loquace, alliée aux Ruinbringers. Sa façon de combattre reflète sa personnalité et peut être prévisible si vous l'observez suffisamment."
+	},
+	{
+		"name": "ENM_Info_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "La seule Reaper qui a toujours eu les intérêts de Shoka à cœur. Ne vous approchez pas trop, ou vous serez balayé par les symboles de chakrams qui flottent autour d'elle."
+	},
+	{
+		"name": "ENM_Info_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Une grosse brute qui agit au nom des Ruinbringers. L'aura qui l'entoure alterne entre le noir et le blanc, ce qui affecte les attaques qu'il peut utiliser. En général, blanc veut dire qu'il va essayer de vous tacler et noir signifie qu'il a envie de mettre un coup de poing à quelqu'un."
+	},
+	{
+		"name": "ENM_Info_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Le gros balourd est de retour, et il est en colère. Il a encore plus d'auras différentes, inspirées par son amour pour l'Othello. Gardez à l'œil ses changements de couleur !"
+	},
+	{
+		"name": "ENM_Info_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "La forme ultime de Reaper de Susukichi. Il est capable d'attirer la foudre avec ses bois et de l'utiliser pour attaquer. Cependant, ces protubérances sont aussi son point faible. Concentrez vos attaques sur elles !"
+	},
+	{
+		"name": "ENM_Info_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Un prédateur solitaire doté d'une soif de pouvoir inextinguible. Dans son état normal, il est rapide et ses mouvements sont fluides. Cependant, quand il en a besoin, il peut se tapir dans son armure et attendre une occasion de frapper."
+	},
+	{
+		"name": "ENM_Info_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "Le seul et unique Maître du Jeu, en personne. Il est capable de produire des clones qui trompent les sens de ses ennemis. Gardez la tête froide et ne tombez pas dans ses pièges."
+	},
+	{
+		"name": "ENM_Info_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Capable de se transformer en n'importe quel Écho, c'est l'incarnation de tout ce que les Wicked Twisters ont dû affronter jusque-là. Vous allez devoir utiliser tout ce que vous avez appris en combat pour en venir à bout !"
+	},
+	{
+		"name": "ENM_Info_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ennemi complexe, capable de porter des attaques à distance à l'aide de ses treize queues tout en crachant du feu par le bec. Ne perdez pas espoir ! Ses attaques peuvent sembler impossibles à contrer au premier abord, mais si vous détruisez ses queues, tout est possible."
+	},
+	{
+		"name": "ENM_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Un garde du corps baraqué qui protège Kanon à son relais de la Récré des Reapers. Faites en sorte d'éviter ses attaques électriques et de le frapper au bon moment."
+	},
+	{
+		"name": "ENM_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Une Reaper responsable d'un relais de la Récré des Reapers, et une fangirl de Def Märch aussi dévouée que Nagi. Ses attaques peuvent sembler inévitables, mais si vous étudiez ses mouvements, vous pourrez rapidement la battre."
+	},
+	{
+		"name": "ENM_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Une intérimaire qui se retrouve à tamponner les cartes de la Récré des Reapers. Les chakrams qui tournent autour d'elle sont si nombreux que vous aurez du mal à l'atteindre au corps-à-corps. Le plus sûr est de lui asséner un flot continu d'attaques à distance."
+	},
+	{
+		"name": "ENM_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Le boss de la manche bonus de la Récré des Reapers. Personne ne devient VIP sans l'accord de Shiba. Pour affronter ce mâle alpha, vous devrez équiper un psych capable de frapper plusieurs ennemis à la fois."
+	},
+	{
+		"name": "ENM_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Un ennemi frustrant qui mémorise vos attaques et calcule comment les éviter et les contrer. Accumulez beaucoup de psychs différents et utilisez ceux qu'il n'a pas encore vus."
+	}
+]
+}

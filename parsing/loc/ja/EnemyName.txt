@@ -1,0 +1,778 @@
+{
+"columns":[
+	{
+		"name": "ENM_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エネミー",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モッシュグリズ",
+		"comment": "ザコ：クマ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストムグリズ",
+		"comment": "ザコ：クマ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヘドバグリズ",
+		"comment": "ザコ：クマ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デカダンレイブン",
+		"comment": "ザコ：カラス1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イースティックレイブン",
+		"comment": "ザコ：カラス2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネファストレイブン",
+		"comment": "ザコ：カラス3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディキシーフログ",
+		"comment": "ザコ：カエル1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビッグバフログ",
+		"comment": "ザコ：カエル2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ファングフログ",
+		"comment": "ザコ：カエル3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トラディフログ",
+		"comment": "ザコ：カエル4",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガレージウルフ",
+		"comment": "ザコ：オオカミ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オルタナウルフ",
+		"comment": "ザコ：オオカミ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラウトウルフ",
+		"comment": "ザコ：オオカミ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェリマンチェスター",
+		"comment": "ザコ：クラゲ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェリスウェディッシュ",
+		"comment": "ザコ：クラゲ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェリネオアコ",
+		"comment": "ザコ：クラゲ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0054",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェリジャーマ",
+		"comment": "ザコ：クラゲ4",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハウスライノ",
+		"comment": "ザコ：サイ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0062",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミニマルライノ",
+		"comment": "ザコ：サイ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0063",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブライノ",
+		"comment": "ザコ：サイ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スウィングシャーク",
+		"comment": "ザコ：サメ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0072",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビバップシャーク",
+		"comment": "ザコ：サメ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0073",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スムーズシャーク",
+		"comment": "ザコ：サメ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレファＲ＆Ｒ",
+		"comment": "ザコ：ゾウ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0082",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マンモＲ＆Ｂ",
+		"comment": "ザコ：ゾウ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0083",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ステゴＡＯＲ",
+		"comment": "ザコ：ゾウ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジェイペンギ",
+		"comment": "ザコ：ペンギン1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0092",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エレクトロペンギ",
+		"comment": "ザコ：ペンギン2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0093",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブリットペンギ",
+		"comment": "ザコ：ペンギン3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プロトポキュパ",
+		"comment": "ザコ：ハリセンボン1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オイポキュパ",
+		"comment": "ザコ：ハリセンボン2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エモポキュパ",
+		"comment": "ザコ：ハリセンボン3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デトロイポキュパ",
+		"comment": "ザコ：ハリセンボン4",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブレイクスコル",
+		"comment": "ザコ：サソリ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドラムンスコル",
+		"comment": "ザコ：サソリ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドリルンスコル",
+		"comment": "ザコ：サソリ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カメレビグルム",
+		"comment": "ザコ：カメレオン1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カメレバウンス",
+		"comment": "ザコ：カメレオン2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カメレトロピカ",
+		"comment": "ザコ：カメレオン3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディストレクス",
+		"comment": "ザコ：ティラノ1",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フェイザレクス",
+		"comment": "ザコ：ティラノ2",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マキシマイザレクス",
+		"comment": "ザコ：ティラノ3",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグサンバ",
+		"comment": "ザコ：通常ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0202",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグマズルカ",
+		"comment": "ザコ：王様ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0203",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグパソドブレ",
+		"comment": "ザコ：金ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0204",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグバゾドブレ",
+		"comment": "ザコ：偽金ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0205",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグキャロル",
+		"comment": "ザコ：弱点属性ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0206",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグチャチャチャ",
+		"comment": "ザコ：分裂ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0207",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグワルツ",
+		"comment": "ザコ：色変わりピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0208",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグジャイヴ",
+		"comment": "ザコ：爆弾ピグ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0209",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグボレロ",
+		"comment": "ザコ：同時倒しピグＡ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0210",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピグマンボ",
+		"comment": "ザコ：同時倒しピグＢ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎",
+		"comment": "ザコ：サイキッカー（フウヤチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0301s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎（強）",
+		"comment": "ザコ：サイキッカー強（フウヤチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハート",
+		"comment": "ザコ：サイキッカー（モトイチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0302s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハート（強）",
+		"comment": "ザコ：サイキッカー強（モトイチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリー",
+		"comment": "ザコ：サイキッカー（カノンチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0303s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリー（強）",
+		"comment": "ザコ：サイキッカー強（カノンチーム）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズフログ",
+		"comment": "ザコ：銀ピカカエル",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズグリズ",
+		"comment": "ザコ：銀ピカクマ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0403",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズスコル",
+		"comment": "ザコ：銀ピカサソリ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0404",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズジェリ",
+		"comment": "ザコ：銀ピカクラゲ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0405",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズウルフ",
+		"comment": "ザコ：銀ピカオオカミ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_0406",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズエレファ",
+		"comment": "ザコ：銀ピカゾウ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1401",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズバトラコス",
+		"comment": "ボス：銀ピカ巨大カエル",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1402",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディジーズネモピレマ",
+		"comment": "ボス：銀ピカ巨大クラゲ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゴーゴーベリンゲイ",
+		"comment": "ボス：ゴリラ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フウヤ",
+		"comment": "ボス：フウヤ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モトイ",
+		"comment": "ボス：モトイ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタン",
+		"comment": "ボス：にゃんたん1戦目",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "にゃんタン（2戦目）",
+		"comment": "ボス：にゃんたん2戦目",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルースカンタス",
+		"comment": "ボス：ツグミ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イーリスカンタス",
+		"comment": "ボス：アヤノ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ススキチ",
+		"comment": "ボス：ススキチ（人）1戦目",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1052",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ススキチ（2戦目）",
+		"comment": "ボス：ススキチ（人）2戦目",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1053",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケルウスカンタス",
+		"comment": "ボス：ススキチ（死神）",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1061",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レオカンタスアルミス",
+		"comment": "ボス：ミナミモト",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1071",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シイバ",
+		"comment": "ボス：シイバ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1081",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ソウルプルヴィス",
+		"comment": "ボス：リプレイノイズ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1091",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フェニックスカンタス",
+		"comment": "ボス：ホウオウ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ケルウスカンタス（アナザー）",
+		"comment": "ボス：アナザーススキチ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルースカンタス（アナザー）",
+		"comment": "ボス：アナザーツグミ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イーリスカンタス（アナザー）",
+		"comment": "ボス：アナザーアヤノ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シイバ（アナザー）",
+		"comment": "ボス：アナザーシイバ",
+		"annotation": ""
+	},
+	{
+		"name": "ENM_Name_1105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フェリダエカンタス",
+		"comment": "ボス：アナザー裏ミナミモト",
+		"annotation": ""
+	}
+]
+}

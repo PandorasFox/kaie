@@ -1,0 +1,2008 @@
+{
+"columns":[
+	{
+		"name": "ITM_BDG_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Appunti sulle spille"
+	},
+	{
+		"name": "ITM_BDG_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare <CRE>2</C> feroci fendenti in avanti che <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti, poi salta in aria e cala l'arma per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti, poi salta in aria e cala l'arma per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare <CRE>2</C> feroci fendenti in avanti che <CRE>scagliano via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0007>"
+	},
+	{
+		"name": "ITM_BDG_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0008>"
+	},
+	{
+		"name": "ITM_BDG_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Trafiggi il nemico con un singolo colpo affilato come la lama di un rasoio e <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto a <CRE>2 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto a <CRE>2 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto a <CRE>2 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto a <CRE>3 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto a <CRE>3 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per saltare in aria, cala l'arma e poi sferra un fendente in alto a <CRE>5 colpi</C> che <CRE>lancia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente rotante che <CRE>scaglia via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti e poi un fendente rotante che <CRE>scaglia via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare <CRE>2</C> fendenti rotanti che <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare <CRE>3</C> fendenti rotanti che <CRE>respingono il nemico</C>. Il terzo fendente ha un raggio maggiore."
+	},
+	{
+		"name": "ITM_BDG_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0020>"
+	},
+	{
+		"name": "ITM_BDG_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0021>"
+	},
+	{
+		"name": "ITM_BDG_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0022>"
+	},
+	{
+		"name": "ITM_BDG_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0023>"
+	},
+	{
+		"name": "ITM_BDG_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0024>"
+	},
+	{
+		"name": "ITM_BDG_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0025>"
+	},
+	{
+		"name": "ITM_BDG_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0026>"
+	},
+	{
+		"name": "ITM_BDG_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e aggrediscilo prendendolo a pugni. Sferra una raffica di pugni, poi concludi con una mazzata che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e aggrediscilo prendendolo a pugni. Sferra una raffica di pugni, poi concludi con una mazzata che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0029>"
+	},
+	{
+		"name": "ITM_BDG_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0030>"
+	},
+	{
+		"name": "ITM_BDG_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0031>"
+	},
+	{
+		"name": "ITM_BDG_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Gettati sul bersaglio con un colpo a tutta potenza. Continua l'attacco per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Attacca <CRE>rapidamente</C> per respingere il nemico, poi <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi <CRE>scaglialo via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per <CRE>respingere il nemico</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per <CRE>respingere il nemico</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per <CRE>respingere il nemico</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per <CRE>respingere il nemico</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio nel suo punto cieco con la tua coda velenosa. Continua l'attacco per <CRE>respingere il nemico</C>. Possibilità di <CRE>avvelenamento fortissimo</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi colpisci in basso per <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Respingi il nemico con un attacco a <CRE>2 colpi</C>, poi dai <CRE>5 colpi</C> in basso per <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Respingi il nemico con un attacco a <CRE>3 colpi</C>, poi dai <CRE>7 colpi</C> in basso per <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Continua l'attacco per respingere il nemico, poi colpisci in basso per <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "Affonda la lancia contro il bersaglio. Respingi il nemico con un attacco a <CRE>3 colpi</C>, poi dai <CRE>7 colpi</C> in basso per <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara colpi al bersaglio. Continua l'attacco per sparare un proiettile che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara colpi al bersaglio. Continua l'attacco per sparare un <CRE>proiettile perforante</C> che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara colpi al bersaglio. Continua l'attacco per sparare <CRE>2 proiettili perforanti</C> che <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>proiettili perforanti ad alta velocità</C> al bersaglio. Continua l'attacco per sparare un <CRE>proiettile perforante</C> che <CRE>respinge il nemico</C>. Possibilità di <CRE>dare una moderata scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>proiettili perforanti ad alta velocità</C> al bersaglio. Continua l'attacco per sparare un <CRE>proiettile perforante</C> che <CRE>respinge il nemico</C>. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara colpi al bersaglio. Continua l'attacco per sparare un proiettile che <CRE>respinge il nemico</C>. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara colpi al bersaglio. Continua l'attacco per sparare in <CRE>3 direzioni</C> e <CRE>respingere il nemico</C>. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0055",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia spazzatura al bersaglio a <CRE>ondate di 4</C>. Degli oggetti grandi appaiono a caso e <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0056",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia spazzatura al bersaglio a <CRE>ondate di 4</C>. Degli oggetti grandi appaiono a caso e <CRE>scagliano via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0057",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio con le bolle a <CRE>ondate di 2</C>. Continua l'attacco per rilasciare una bolla gigante che <CRE>respinge il nemico</C>. Possibilità di <CRE>avvelenare leggermente</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0058",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda di bolle che esplodono cambiando il corso della battaglia. Continua l'attacco per rilasciare una bolla gigante che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0059",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia sfere di ghiaccio contro il bersaglio. Continua l'attacco per sparare in <CRE>6 direzioni</C> e <CRE>respingere il nemico</C>. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0060",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara proiettili sonici al bersaglio. Dopo aver rimbalzato sui nemici vicini <CRE>fino a 5 volte</C>, <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara proiettili sonici in <CRE>3 direzioni</C>. Dopo aver rimbalzato sui nemici vicini <CRE>fino a 5 volte</C>, <CRE>respingono il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara una scarica di <CRE>3</C> proiettili radianti al bersaglio, poi un colpo finale che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara una scarica di <CRE>5</C> proiettili radianti al bersaglio, poi un colpo finale che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0064",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia shuriken in <CRE>6 direzioni</C>, poi scaglia un'enorme stella ninja che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0065",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia shuriken in <CRE>8 direzioni</C>, poi scaglia un'enorme stella ninja che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0066",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte che inseguono i nemici intorno al bersaglio a <CRE>ondate di 2</C>. Continua l'attacco per lanciare una carta finale che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0067",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte che inseguono i nemici intorno al bersaglio a <CRE>ondate di 3</C>. Continua l'attacco per lanciare una carta finale che <CRE>respinge il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0068",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte rosse che inseguono i nemici intorno al bersaglio a <CRE>ondate di 2</C>. Continua l'attacco per lanciare una carta finale che <CRE>respinge il nemico</C>. Possibilità di <CRE>bruciature moderate</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0069",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte rosse che inseguono i nemici intorno al bersaglio a <CRE>ondate di 4</C>. Continua l'attacco per lanciare una carta finale che <CRE>respinge il nemico</C>. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0070",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte nere che inseguono i nemici intorno al bersaglio a <CRE>ondate di 3</C>. Le carte strisciano verso il nemico e poi <CRE>lo respingono</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia carte nere che inseguono i nemici intorno al bersaglio a <CRE>ondate di 4</C>. Le carte strisciano verso il nemico e poi <CRE>lo respingono</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Una sfera misteriosa insegue il bersaglio come avesse una volontà propria, poi <CRE>respinge il nemico</C> all'impatto. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>8 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0074",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>12 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0075",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>15 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0076",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>8 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini. Alte probabilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0077",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>12 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini. Alte probabilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0078",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>8 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini. Alte probabilità di <CRE>seppellire</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0079",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>12 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini. Alte probabilità di <CRE>seppellire</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0080",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia una freccia esplosiva al bersaglio. Scaglia <CRE>20 frecce</C> nel tempo stabilito per innescare un'esplosione enorme che <CRE>respinge</C> i nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Rivolgiti verso il bersaglio e spara aghi avvelenati in <CRE>3 direzioni</C>. Continua l'attacco per sparare un ago potentissimo che <CRE>respinge il nemico</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici colpiti dai detriti causati dall'esplosione vengono <CRE>respinti</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0084",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici colpiti dai detriti causati dall'esplosione saranno <CRE>scagliati via</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0085",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici colpiti dai detriti causati dall'esplosione saranno <CRE>scagliati via</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0086",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>scagliati via</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0087",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>scagliati via</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0088",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza <CRE>5</C> bombe a tempo <CRE>attorno a te</C>. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C>. Possibilità di <CRE>dare una notevole scossa</C> al nemico (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0089",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca una bomba chiodata al bersaglio. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0090",
+		"speaker": "",
+		"listener": "",
+		"content": "Fai una fila di <CRE>3</C> bombe a tempo <CRE>davanti a te</C>. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Fai una fila di <CRE>5</C> bombe a tempo <CRE>davanti a te</C>. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo <CRE>enorme</C> ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>scagliati molto lontano</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione potrebbero restare <CRE>incatenati</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0094",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione potrebbero restare <CRE>incatenati</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0095",
+		"speaker": "",
+		"listener": "",
+		"content": "Metti in linea <CRE>4</C> bombe a tempo <CRE>davanti a te</C>. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0096",
+		"speaker": "",
+		"listener": "",
+		"content": "Metti in linea <CRE>4</C> bombe a tempo <CRE>davanti a te</C>. I nemici coinvolti nell'esplosione vengono <CRE>respinti</C>. Possibilità di <CRE>avvelenamento notevole</C> del nemico (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0097",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>attirati</C>. Possibilità di <CRE>confondere</C> il nemico (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0098",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>scagliati in aria</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0099",
+		"speaker": "",
+		"listener": "",
+		"content": "Piazza una bomba a tempo ai tuoi piedi. I nemici coinvolti nell'esplosione vengono <CRE>scagliati in aria</C> (la barra della spilla non si ricarica automaticamente)."
+	},
+	{
+		"name": "ITM_BDG_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0100>"
+	},
+	{
+		"name": "ITM_BDG_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0101>"
+	},
+	{
+		"name": "ITM_BDG_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0102>"
+	},
+	{
+		"name": "ITM_BDG_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0103>"
+	},
+	{
+		"name": "ITM_BDG_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0104>"
+	},
+	{
+		"name": "ITM_BDG_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0105>"
+	},
+	{
+		"name": "ITM_BDG_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Niente può fermare i tuoi passi veloci mentre insegui la preda a tutta velocità. Colpisci <CRE>8 volte</C> per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Evochi dei lampi per colpire il bersaglio e i nemici circostanti. Possibilità di <CRE>dare una leggera scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Fai piovere delle lance sul bersaglio e sui nemici circostanti. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Inzuppa il bersaglio e i nemici circostanti con una pioggia torrenziale. Possibilità di <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Inzuppa il bersaglio e i nemici circostanti con una pioggia torrenziale. Possibilità di <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Inzuppa il bersaglio e i nemici circostanti con una pioggia torrenziale. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Getta detriti sul bersaglio e sui nemici circostanti. I nemici colpiti da grossi oggetti verranno <CRE>scagliati via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Getta detriti sul bersaglio e sui nemici circostanti. I nemici colpiti da grossi oggetti verranno <CRE>scagliati via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un attacco folgorante al bersaglio. L'attacco diventa a catena se ci sono nemici vicini. Possibilità di <CRE>dare una moderata scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena al bersaglio. L'attacco diventa a catena se ci sono nemici vicini. Possibilità di <CRE>incatenare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>fino a 2</C> attacchi folgoranti al bersaglio e <CRE>ai nemici alle sue spalle</C>. L'attacco diventa a catena se ci sono nemici vicini. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>fino a 3</C> attacchi folgoranti al bersaglio e <CRE>ai nemici circostanti</C>. L'attacco diventa a catena se ci sono nemici vicini. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>fino a 3</C> laser ai <CRE>nemici attorno a te</C>. L'attacco diventa a catena se ci sono nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. L'attacco diventa a catena se ci sono nemici vicini."
+	},
+	{
+		"name": "ITM_BDG_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. L'attacco diventa a catena se ci sono nemici vicini. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Trafiggi il bersaglio con un arcobaleno di piume. L'attacco diventa a catena se ci sono nemici vicini. Infligge al nemico un <CRE>effetto di stato casuale.</C>"
+	},
+	{
+		"name": "ITM_BDG_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una folata di vento, poi tira un calcio volante al bersaglio per attirare nemici <CRE>in un'area ampia</C>. Caricalo al massimo per sferrare un attacco a <CRE>3 colpi</C> che <CRE>scaglia via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una folata di vento, poi tira un calcio volante al bersaglio per attirare nemici <CRE>in un'area ampia</C>. Caricalo al massimo per sferrare un attacco a <CRE>3 colpi</C> che <CRE>scaglia via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare via il nemico</C>. Caricare un attacco richiede <CRE>meno tempo</C> del normale."
+	},
+	{
+		"name": "ITM_BDG_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare via il nemico</C>. Caricare un attacco richiede <CRE>meno tempo</C> del normale."
+	},
+	{
+		"name": "ITM_BDG_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Piomba sul nemico dall'alto e fagli vedere il tuo preciso calcio vettoriale. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Tira al bersaglio una sassata dall'alto. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Tira al bersaglio una sassata dall'alto. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Tira al bersaglio una sassata dall'alto. Caricalo al massimo per <CRE>atterrare il nemico</C>, poi genera un'onda d'urto per <CRE>scagliare via i nemici circostanti</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio dall'alto con una sfera di saette. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio dall'alto con una sfera di saette. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio dall'alto con una sfera di saette. Caricalo al massimo per <CRE>atterrare il nemico</C>, poi genera un'onda d'urto per <CRE>scagliare via i nemici circostanti</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianta contro il bersaglio un frammento di fossile di un re antico. Caricalo al massimo per <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianta il bersaglio con un oggetto dall'alto. L'oggetto è scelto a caso durante il caricamento. I nemici colpiti da grossi oggetti verranno <CRE>atterrati</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianta il bersaglio con un oggetto dall'alto. L'oggetto è scelto a caso durante il caricamento. I nemici colpiti da grossi oggetti verranno <CRE>atterrati</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianta il bersaglio con un oggetto dall'alto. L'oggetto è scelto a caso durante il caricamento. I nemici colpiti da grossi oggetti verranno <CRE>atterrati</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca una colonna di ghiaccio sotto il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca una colonna di ghiaccio sotto il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca una colonna di ghiaccio sotto il bersaglio che colpisce <CRE>3 volte</C>. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio da sinistra a destra <CRE>3 volte</C> con colonne di pietra. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio da sinistra a destra <CRE>5 volte</C> con colonne di pietra. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca una colonna di fuoco sotto il bersaglio. Caricalo al massimo per sferrare un attacco a <CRE>3 colpi</C>, poi <CRE>scaglia il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca simultaneamente <CRE>2</C> colonne di luce sotto il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0148",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca simultaneamente <CRE>3</C> colonne di luce sotto il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0149",
+		"speaker": "",
+		"listener": "",
+		"content": "Delle sculture di ghiaccio dall'aspetto adorabile colpiscono il bersaglio con i loro becchi appuntiti, celando una forza temibile. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>. Possibilità di <CRE>avvelenare leggermente</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>. Possibilità di <CRE>avvelenamento moderato</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0157",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0158",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una bomba al bersaglio. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0159",
+		"speaker": "",
+		"listener": "",
+		"content": "Delle farfalle fantasma <CRE>si sparpagliano</C> dappertutto, infliggendo danni a chiunque tocchino. Svolazzano di fiore in fiore, inseguendo i nemici."
+	},
+	{
+		"name": "ITM_BDG_Info_0160",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0161",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0162",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>2</C> catene al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>bruciature leggere</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0163",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>3</C> catene al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0164",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca catene <CRE>a forma di croce</C> nella posizione del bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0165",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca catene <CRE>a forma di croce</C> nella posizione del bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0166",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Circonda</C> di catene il bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>dare una moderata scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0167",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Circonda</C> di catene il bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>dare una notevole scossa</C> al nemico. Riporta incise le parole: <MK_11>Con FuJin...<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0168",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena che <CRE>insegue</C> il bersaglio e i nemici vicini. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>avvelenamento moderato</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0169",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena <CRE>orizzontale</C> al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0170",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena spessa e duratura al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0171",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena spessa e duratura al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0172",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>2</C> catene che <CRE>inseguono</C> il bersaglio e i nemici vicini. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0173",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia una catena <CRE>verticale</C> al bersaglio. Alte probabilità di <CRE>incatenare</C> i nemici colpiti."
+	},
+	{
+		"name": "ITM_BDG_Info_0174",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca dei cloni, poi lancia una scossa elettrica attraverso la catena che li collega. Alte probabilità di <CRE>incatenare</C> i nemici colpiti. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0175",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>3</C> boomerang che sfrecciano contro il bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0176",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>5</C> boomerang che sfrecciano contro il bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0177",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira e lancia un oggetto contro il bersaglio. L'oggetto è scelto a caso durante il caricamento. I nemici colpiti da grossi oggetti verranno <CRE>scagliati via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0178",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira e lancia un oggetto contro il bersaglio. L'oggetto è scelto a caso durante il caricamento. I nemici colpiti da grossi oggetti verranno <CRE>scagliati via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0179",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>3</C> boomerang che sfrecciano contro il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C> o <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0180",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>5</C> boomerang che sfrecciano contro il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C> o <CRE>atterrarlo</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0181",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>7</C> boomerang che sfrecciano contro il bersaglio. Caricalo al massimo per <CRE>respingere il nemico</C>. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0182",
+		"speaker": "",
+		"listener": "",
+		"content": "Ti libri in aria con delle ali nere mozzafiato. Caricalo al massimo per <CRE>scagliare via il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0183",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 8</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>scagliati via</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0184",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 10</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>scagliati via</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0185",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 8</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0186",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 15</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0187",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 15</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>scagliati via</C> all'impatto. Riporta incise le parole: <MK_11>Riempi il piatto mistico di umidità e luce<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0188",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 8</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0189",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 10</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0190",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0191",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>attirare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0192",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0193",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>. Riporta incise le parole: <MK_11>Luce e tenebra, eternamente intrecciate<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0194",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>. Riporta incise le parole: <MK_11>Luce e tenebra, eternamente intrecciate<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0195",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio verso il bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0196",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0196>"
+	},
+	{
+		"name": "ITM_BDG_Info_0197",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0197>"
+	},
+	{
+		"name": "ITM_BDG_Info_0198",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0198>"
+	},
+	{
+		"name": "ITM_BDG_Info_0199",
+		"speaker": "",
+		"listener": "",
+		"content": "Cura all'istante ogni <CRE>effetto di stato</C> della tua squadra."
+	},
+	{
+		"name": "ITM_BDG_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un breve tempo, <CRE>annullando tutti gli attacchi nemici</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un breve tempo, <CRE>annullando tutti gli attacchi nemici</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un istante, <CRE>annullando tutti gli attacchi nemici</C>. Causa danni ai nemici che vi entrano in contatto e <CRE>li respinge allontanandoli</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un breve tempo, <CRE>annullando tutti gli attacchi nemici</C>. Causa danni ai nemici che vi entrano in contatto e <CRE>li respinge allontanandoli</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un istante, <CRE>annullando tutti gli attacchi nemici</C>. Causa <CRE>danni pesanti</C> ai nemici che vi entrano in contatto e <CRE>li respinge allontanandoli</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un breve tempo, <CRE>annullando tutti gli attacchi nemici</C> e <CRE>recuperando PF</C>. Riporta incise le parole: <MK_11>Allineati, creeremo il suono supremo<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea una barriera per un istante, <CRE>annullando tutti gli attacchi nemici</C>. Il suo corno rivolto al cielo infligge danni a tutti quelli che tocca e <CRE>li scaglia in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio."
+	},
+	{
+		"name": "ITM_BDG_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Le spade potrebbero sparpagliarsi e <CRE>inseguire diversi nemici</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Le spade potrebbero sparpagliarsi e <CRE>inseguire diversi nemici</C>. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di <CRE>rapide</C> spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio."
+	},
+	{
+		"name": "ITM_BDG_Info_0211",
+		"speaker": "",
+		"listener": "",
+		"content": "Rilascia delle bolle in <CRE>3 direzioni</C>, tra cui quella del bersaglio, causando danno a chiunque sia colpito. Quando una bolla colpisce un nemico, cambia rotta e attacca un nuovo bersaglio."
+	},
+	{
+		"name": "ITM_BDG_Info_0212",
+		"speaker": "",
+		"listener": "",
+		"content": "Innumerevoli foglie affilate fluttuano nel vento, proteggendo il portatore e infliggendo danno a qualsiasi nemico le tocchi."
+	},
+	{
+		"name": "ITM_BDG_Info_0213",
+		"speaker": "",
+		"listener": "",
+		"content": "Innumerevoli foglie affilate fluttuano nel vento, proteggendo il portatore e infliggendo danno a qualsiasi nemico le tocchi. Riporta incise le parole: <MK_11>Con RaiJin...<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0214",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira detriti che fanno da scudo al portatore, infliggendo danni a qualsiasi nemico vi entri in contatto. I nemici colpiti da grossi oggetti verranno <CRE>respinti</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0215",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca spade di luce per proteggere il portatore e infliggere danni a qualsiasi nemico vi entri in contatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0216",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser imprevedibile al bersaglio."
+	},
+	{
+		"name": "ITM_BDG_Info_0217",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser imprevedibile al bersaglio."
+	},
+	{
+		"name": "ITM_BDG_Info_0218",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. Possibilità di <CRE>dare una leggera scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0219",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. Possibilità di <CRE>bruciature leggere</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0220",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0221",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0222",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>3</C> laser a ventaglio al bersaglio. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0223",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara <CRE>5</C> laser a ventaglio al bersaglio. Possibilità di <CRE>congelare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0224",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara un laser al bersaglio. Possibilità di <CRE>atterrare il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0225",
+		"speaker": "",
+		"listener": "",
+		"content": "Spara simultaneamente <CRE>2</C> laser al bersaglio. Possibilità di <CRE>confondere</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0226",
+		"speaker": "",
+		"listener": "",
+		"content": "Non lasciarti fregare da questo musetto da micio. Fa saltare in aria i nemici con un raggio imprevedibile e distruttivo."
+	},
+	{
+		"name": "ITM_BDG_Info_0227",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di lampi attorno al bersaglio che infligge danni a ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>dare una moderata scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0228",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di lampi attorno al bersaglio che infligge danni a ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0229",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca una tempesta di sabbia attorno al bersaglio infliggendo danni ai nemici coinvolti. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>seppellire</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0230",
+		"speaker": "",
+		"listener": "",
+		"content": "Genera una tempesta gravitazionale attorno al bersaglio danneggiando i nemici coinvolti. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>respingere il nemico</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0231",
+		"speaker": "",
+		"listener": "",
+		"content": "Genera una tempesta gravitazionale attorno al bersaglio danneggiando i nemici coinvolti. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>scagliare il nemico in aria</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0232",
+		"speaker": "",
+		"listener": "",
+		"content": "Genera una tempesta gravitazionale <CRE>gigante</C> attorno al bersaglio danneggiando i nemici coinvolti. Possibilità di <CRE>atterrare il nemico</C>. Riporta incise le parole: <MK_11>I dipoli magnetici sono la via del mondo<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0233",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un vortice che danneggia i nemici coinvolti. Gli scontri tra nemici causano loro danni pesanti."
+	},
+	{
+		"name": "ITM_BDG_Info_0234",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0234>"
+	},
+	{
+		"name": "ITM_BDG_Info_0235",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0235>"
+	},
+	{
+		"name": "ITM_BDG_Info_0236",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un vortice di luce che danneggia i nemici coinvolti. Gli scontri tra nemici causano loro danni pesanti."
+	},
+	{
+		"name": "ITM_BDG_Info_0237",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un vortice di luce che danneggia i nemici coinvolti. Gli scontri tra nemici causano loro danni pesanti. Riporta incise le parole: <MK_11>Riempi il piatto mistico di umidità e luce<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0238",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un vortice che danneggia i nemici coinvolti. Gli scontri tra nemici causano loro danni pesanti."
+	},
+	{
+		"name": "ITM_BDG_Info_0239",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un <CRE>piccolo</C> vortice di fuoco attorno al bersaglio che infligge danni a ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue <CRE>rapida</C>. Possibilità di <CRE>bruciature leggere</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0240",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di fuoco attorno al bersaglio che danneggia ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>bruciature moderate</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0241",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di fuoco attorno al bersaglio che danneggia ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue lenta. Possibilità di <CRE>bruciature moderate</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0242",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di fuoco attorno al bersaglio che danneggia ogni nemico coinvolto. Ovunque vada il bersaglio, la tempesta lo segue <CRE>rapida</C> mentre fa piovere <CRE>lapilli</C>. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0243",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piede gigante compare per calpestare il bersaglio. Tutti i nemici calpestati sono <CRE>scagliati via</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0244",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0244>"
+	},
+	{
+		"name": "ITM_BDG_Info_0245",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0245>"
+	},
+	{
+		"name": "ITM_BDG_Info_0246",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0246>"
+	},
+	{
+		"name": "ITM_BDG_Info_0247",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0247>"
+	},
+	{
+		"name": "ITM_BDG_Info_0248",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0248>"
+	},
+	{
+		"name": "ITM_BDG_Info_0249",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0249>"
+	},
+	{
+		"name": "ITM_BDG_Info_0250",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un buco nero che danneggia tutti i nemici colpiti. Gli scontri tra nemici causano loro danni pesanti."
+	},
+	{
+		"name": "ITM_BDG_Info_0251",
+		"speaker": "",
+		"listener": "",
+		"content": "Attira i nemici con un buco nero che danneggia tutti i nemici colpiti. Gli scontri tra nemici causano loro danni pesanti."
+	},
+	{
+		"name": "ITM_BDG_Info_0252",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0252>"
+	},
+	{
+		"name": "ITM_BDG_Info_0253",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0253>"
+	},
+	{
+		"name": "ITM_BDG_Info_0254",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0254>"
+	},
+	{
+		"name": "ITM_BDG_Info_0255",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0255>"
+	},
+	{
+		"name": "ITM_BDG_Info_0256",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0256>"
+	},
+	{
+		"name": "ITM_BDG_Info_0257",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 5</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0258",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 7</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0259",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 8</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto. Possibilità di <CRE>incatenare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0260",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 10</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto. Possibilità di <CRE>incatenare</C> il nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0261",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Possibilità di <CRE>bruciature moderate</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0262",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Le spade potrebbero sparpagliarsi e <CRE>inseguire diversi nemici</C>. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0263",
+		"speaker": "",
+		"listener": "",
+		"content": "Imprigiona i <CRE>nemici attorno al bersaglio</C> bloccando i loro movimenti. Non ha effetto quando c'è solo un nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0264",
+		"speaker": "",
+		"listener": "",
+		"content": "Imprigiona i <CRE>nemici attorno al bersaglio</C> bloccando i loro movimenti. Non ha effetto quando c'è solo un nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0265",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0266",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di spade verso il bersaglio, causando danni a chiunque sia colpito. Quando lo sciame colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Le spade potrebbero sparpagliarsi e <CRE>inseguire diversi nemici</C>. Possibilità di <CRE>dare una notevole scossa</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0267",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>fino a 8</C> razzi al bersaglio. Aggancia più nemici cambiando bersaglio durante la carica. I nemici vengono <CRE>respinti</C> all'impatto. Possibilità di <CRE>avvelenamento notevole</C> del nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0268",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0268>"
+	},
+	{
+		"name": "ITM_BDG_Info_0269",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0269>"
+	},
+	{
+		"name": "ITM_BDG_Info_0270",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0270>"
+	},
+	{
+		"name": "ITM_BDG_Info_0271",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0271>"
+	},
+	{
+		"name": "ITM_BDG_Info_0272",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0272>"
+	},
+	{
+		"name": "ITM_BDG_Info_0273",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0273>"
+	},
+	{
+		"name": "ITM_BDG_Info_0274",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0274>"
+	},
+	{
+		"name": "ITM_BDG_Info_0275",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0275>"
+	},
+	{
+		"name": "ITM_BDG_Info_0276",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0276>"
+	},
+	{
+		"name": "ITM_BDG_Info_0277",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Ripristina un po'</C> dei PF della tua squadra <CRE>in un istante</C> (<CRE>uso singolo</C>. La barra della spilla non si ricarica automaticamente né si riattiva)."
+	},
+	{
+		"name": "ITM_BDG_Info_0278",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Ripristina</C> i PF della tua squadra <CRE>in un istante</C> (<CRE>uso singolo</C>. La barra della spilla non si ricarica automaticamente né si riattiva)."
+	},
+	{
+		"name": "ITM_BDG_Info_0279",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Ripristina gran parte</C> dei PF della tua squadra <CRE>in un istante</C> (<CRE>uso singolo</C>. La barra della spilla non si ricarica automaticamente né si riattiva)."
+	},
+	{
+		"name": "ITM_BDG_Info_0280",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0280>"
+	},
+	{
+		"name": "ITM_BDG_Info_0281",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0281>"
+	},
+	{
+		"name": "ITM_BDG_Info_0282",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0282>"
+	},
+	{
+		"name": "ITM_BDG_Info_0283",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0283>"
+	},
+	{
+		"name": "ITM_BDG_Info_0284",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0284>"
+	},
+	{
+		"name": "ITM_BDG_Info_0285",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0285>"
+	},
+	{
+		"name": "ITM_BDG_Info_0286",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0286>"
+	},
+	{
+		"name": "ITM_BDG_Info_0287",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0287>"
+	},
+	{
+		"name": "ITM_BDG_Info_0288",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0288>"
+	},
+	{
+		"name": "ITM_BDG_Info_0289",
+		"speaker": "",
+		"listener": "",
+		"content": "Afferra il bersaglio, poi scuotilo. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0290",
+		"speaker": "",
+		"listener": "",
+		"content": "Afferra il bersaglio, poi scuotilo. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0291",
+		"speaker": "",
+		"listener": "",
+		"content": "Un singolo tocco di quella lingua è sufficiente per diventare suo prigioniero. Afferra <CRE>il bersaglio e i nemici circostanti</C>, poi <CRE>attirali</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0292",
+		"speaker": "",
+		"listener": "",
+		"content": "Attacca il bersaglio con Mr. Miao. Continua l'attacco per respingere il nemico, poi scaglia un attacco a <CRE>3 colpi</C> che <CRE>lo scaglia via</C>. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0293",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'adorabile carta di Mr. Miao. Continua l'attacco per lanciare una carta finale che <CRE>respinge il nemico</C>. Possibilità di <CRE>dare una notevole scossa</C> al nemico. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0294",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianta il bersaglio dall'alto con un meteorite a forma di Mr. Miao. Caricalo al massimo per <CRE>atterrare il nemico</C>. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0295",
+		"speaker": "",
+		"listener": "",
+		"content": "Innalza una piramide di Mr. Miao sotto il bersaglio. Caricalo al massimo per <CRE>scagliare il nemico in aria</C>. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0296",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia uno sciame di Mr. Miao verso il bersaglio. Quando un Mr. Miao colpisce un nemico, cambia rotta e attacca un nuovo bersaglio. Possibilità di <CRE>congelare</C> il nemico. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0297",
+		"speaker": "",
+		"listener": "",
+		"content": "Crea un vortice di fiamme nere attorno al bersaglio che danneggia ogni nemico coinvolto. Ovunque vada il bersaglio, Mr. Miao lo segue lento. Possibilità di <CRE>confondere</C> il nemico. Riporta incise le parole: <MK_11>Non vi è niente di più feroce di sei felini congiunti<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0298",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un fendente in alto da <CRE>3 colpi</C> che <CRE>lancia il nemico in aria</C>. Riporta incise le parole: <MK_11>Buone feste<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0299",
+		"speaker": "",
+		"listener": "",
+		"content": "Scaglia oggetti a forma di sole contro il bersaglio. Continua l'attacco per lanciare casualmente un oggetto più grande che <CRE>respinge il nemico</C>. Riporta incise le parole: <MK_11>Buone feste<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci il bersaglio con un calcio volante. Caricalo al massimo per <CRE>scagliare via il nemico</C>. Riporta incise le parole: <MK_11>Buone feste<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia un'onda d'urto ad ampio raggio al bersaglio. Causa danni pesanti a chi si ritrova nel mezzo. Caricalo al massimo per <CRE>respingere il nemico</C>. Riporta incise le parole: <MK_11>Buone feste<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0302>"
+	},
+	{
+		"name": "ITM_BDG_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Cattura <CRE>solo il bersaglio</C> per fermare i suoi movimenti per <CRE>molto tempo</C>. Riporta incise le parole: <MK_11>Un vero amico condivide i tuoi sogni<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per saltare in aria, cala l'arma e poi sferra un fendente rotante che <CRE>respinge il nemico in un'area ampia</C>. Riporta incise le parole: <MK_11>Ho lasciato le luci accese?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Evochi dei lampi per colpire il bersaglio e i nemici circostanti. Possibilità di <CRE>dare una moderata scossa</C> al nemico. Riporta incise le parole: <MK_11>La senti questa musica?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Lancia <CRE>3</C> boomerang che sfrecciano contro il bersaglio e che esplodono all'impatto, danneggiando chiunque si trovi nell'area. Caricalo al massimo per <CRE>scagliare via il nemico</C>. Riporta incise le parole: <MK_11>Continuare a nuotare?<MK_11>"
+	},
+	{
+		"name": "ITM_BDG_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per sferrare un feroce fendente in avanti che <CRE>respinge il nemico</C>. Riporta incise le parole: <MK_11>Possano le spade gemelle di Tenka riunirsi<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Avvicinati al bersaglio e colpiscilo. Continua l'attacco per saltare in aria e cala l'arma per <CRE>respingere il nemico</C>. Riporta incise le parole: <MK_11>Possano le spade gemelle di Tenka riunirsi<MK_11>."
+	},
+	{
+		"name": "ITM_BDG_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Cattura <CRE>tutti i nemici</C> e blocca i loro movimenti."
+	},
+	{
+		"name": "ITM_BDG_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Evoca spade fiammeggianti per proteggere il portatore e infliggi danni a qualsiasi nemico venga a contatto. Possibilità di <CRE>bruciature notevoli</C> al nemico."
+	},
+	{
+		"name": "ITM_BDG_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Imprigiona il bersaglio e <CRE>sbattilo a terra</C> diverse volte. I nemici vengono <CRE>respinti</C> all'impatto."
+	},
+	{
+		"name": "ITM_BDG_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BDG_Info_0312>"
+	},
+	{
+		"name": "ITM_BDG_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>1</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>5</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>10</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>50</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>100</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>500</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>1000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0320",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>5000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0321",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>10.000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0322",
+		"speaker": "",
+		"listener": "",
+		"content": "Vale <CRE><MK_YEN>100.000</C>."
+	},
+	{
+		"name": "ITM_BDG_Info_0323",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con un gioiello rosso. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0324",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con due gioielli arancioni. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0325",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con tre gioielli gialli. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0326",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con quattro gioielli verdi. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0327",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con cinque gioielli azzurri. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0328",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con sei gioielli blu. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0329",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla intarsiata con sette gioielli viola. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0330",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla che ricorda il mondo delle memorie. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0331",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla che ricorda un mondo transitorio. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0332",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla che ricorda un mondo mai visto. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	},
+	{
+		"name": "ITM_BDG_Info_0333",
+		"speaker": "",
+		"listener": "",
+		"content": "Una spilla che ricorda un mondo multiplanare. Scambiala con degli <CRE>oggetti</C> in un certo negozio."
+	}
+]
+}

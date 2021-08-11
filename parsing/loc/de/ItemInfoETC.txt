@@ -1,0 +1,1084 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Objektinfo"
+	},
+	{
+		"name": "ITM_VAL_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Freundschaftspunkte"
+	},
+	{
+		"name": "ITM_BOK_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Geheimnisvolle Notizen, Verfasser unbekannt."
+	},
+	{
+		"name": "ITM_BOK_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Stadt unsicher machen"
+	},
+	{
+		"name": "ITM_BOK_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Scannen – Teil 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Scannen – Teil 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins und Psychs"
+	},
+	{
+		"name": "ITM_BOK_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Bewegen und Ausweichen"
+	},
+	{
+		"name": "ITM_BOK_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin reaktivieren"
+	},
+	{
+		"name": "ITM_BOK_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "„Dreh auf!“-Kombos"
+	},
+	{
+		"name": "ITM_BOK_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Mashups"
+	},
+	{
+		"name": "ITM_BOK_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Killer-Remixe"
+	},
+	{
+		"name": "ITM_BOK_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins tragen"
+	},
+	{
+		"name": "ITM_BOK_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Mode"
+	},
+	{
+		"name": "ITM_BOK_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwierigkeitsgrad und Stufen"
+	},
+	{
+		"name": "ITM_BOK_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Flucht aus dem Kampf"
+	},
+	{
+		"name": "ITM_BOK_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Mentale Notizen"
+	},
+	{
+		"name": "ITM_BOK_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Soziales Netzwerk – Teil 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Soziales Netzwerk – Teil 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Läden"
+	},
+	{
+		"name": "ITM_BOK_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "ShibuPay"
+	},
+	{
+		"name": "ITM_BOK_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Essen und Trinken"
+	},
+	{
+		"name": "ITM_BOK_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Einflüstern"
+	},
+	{
+		"name": "ITM_BOK_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Erinnern mit Fret"
+	},
+	{
+		"name": "ITM_BOK_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Mentale Invasion mit Nagi"
+	},
+	{
+		"name": "ITM_BOK_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Teleportieren mit Shoka"
+	},
+	{
+		"name": "ITM_BOK_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Soundsurfen mit Beat"
+	},
+	{
+		"name": "ITM_BOK_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeitsprünge mit Rindo"
+	},
+	{
+		"name": "ITM_BOK_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeitsprünge mit Rindo – Teil 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Kapitelauswahl"
+	},
+	{
+		"name": "ITM_BOK_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Noise-Kompendium"
+	},
+	{
+		"name": "ITM_BOK_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Graffitimauer"
+	},
+	{
+		"name": "ITM_BOK_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Sammlung (Menü)"
+	},
+	{
+		"name": "ITM_BOK_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya-Slam"
+	},
+	{
+		"name": "ITM_BOK_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Letztes „Gegen die Uhr“"
+	},
+	{
+		"name": "ITM_BOK_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein neuer Tag"
+	},
+	{
+		"name": "ITM_BOK_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Superstarke Mashups"
+	},
+	{
+		"name": "ITM_BOK_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Neue Gruppenmitglieder"
+	},
+	{
+		"name": "ITM_BOK_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Super-Pins"
+	},
+	{
+		"name": "ITM_BOK_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Kampfserien"
+	},
+	{
+		"name": "ITM_BOK_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Seuchen-Noise"
+	},
+	{
+		"name": "ITM_BOK_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "„Dreh auf!“-Sweetspot"
+	},
+	{
+		"name": "ITM_BOK_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Kräfte sammeln!"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0200_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nicht nachlassen! Füge Gegnern mit deinen Gruppenmitgliedern enorm hohen Schaden zu und hol dir den Sieg."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn du einen Treffer mit einem Psych landest, erscheint eine runde „Dreh auf!“-Anzeige. Greife mit einem anderen Charakter an, während diese Anzeige aktiv ist, um aufzudrehen und den Groove deines Teams zu erhöhen."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Halte Ausschau nach Klamottenfähigkeiten und Talenten im sozialen Netzwerk, die deinen Groove schneller erhöhen können."
+	},
+	{
+		"name": "ITM_BOK_Info_0202_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0202_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0202_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Während du ausweichst, ist dein Charakter kurz unverwundbar – sehr nützlich, um schmerzhafte Erfahrungen zu vermeiden. Hinweis: Talente (soziales Netzwerk) können deine Unverwundbarkeit verlängern."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige Noise starten Gegenangriffe, wenn du ihnen mit Psychs zusetzt. Vorsicht: Gegner können dann nicht durch erlittenen Schaden aufgehalten werden."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Leuchtet ein Gegner rot auf, steht ein Gegenangriff kurz bevor. Mach dich bereit zum Ausweichen, wenn du das rote Leuchten siehst."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Nutze die Elementarschwächen von Gegnern aus, um ihnen hohen Schaden zuzufügen. Achte auf die Elementaraffinitäten deiner ausgerüsteten Pins, um Gegner plattzumachen."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Folgende Elemente stehen dir zur Verfügung: Feuer, Eis, Elektro, Wind, Wasser, Stein, Gift, Explosion, Schall, Licht, Finsternis, Schwerkraft, Kinetik und Zeit."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Bestimmte Angriffe verursachen vorübergehende Statusleiden bei Teamkollegen oder Gegnern. Diese Effekte klingen mit der Zeit ab und reichen von LP-Entzug bis hin zu Bewegungsunfähigkeit."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige Statusleiden entziehen LP (Vergiftung, Elektroschock und Verbrennung), andere machen einen Charakter oder Gegner bewegungsunfähig (Betäubung, Anketten, Einfrieren und Begraben). Nicht vergessen: Bestimmte Objekte heilen (und schützen vor) Statusleiden!"
+	},
+	{
+		"name": "ITM_BOK_Info_0206_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Mit jedem besiegten Gegner verdienst du EP und PP. EP erhöhen die Stufe deiner Teamkollegen, während PP die Stufe der Pins erhöhen, die du im Kampf eingesetzt hast."
+	},
+	{
+		"name": "ITM_BOK_Info_0206_2",
+		"speaker": "",
+		"listener": "",
+		"content": "So verdienst du mehr PP: 1) Fahre bei einer Kampfserie mehrere Siege ein. 2) Bring den Kampf schnell zu Ende. 3) Erleide möglichst wenig Schaden!"
+	},
+	{
+		"name": "ITM_BOK_Info_0207_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Wird ein Gegner zurück- oder in die Luft geschleudert, ist er handlungsunfähig. Das ist die perfekte Gelegenheit für dein Team, Kleinholz aus ihm zu machen."
+	},
+	{
+		"name": "ITM_BOK_Info_0207_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige Gegner kann man weder zurückstoßen noch in die Luft schleudern. Für sie solltest du einen Plan in der Hinterhand haben."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Steigere deinen Groove auf mind. 200 %, um superaufgeladene Mashup-Angriffe auszuführen."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Mashup-Angriffe ändern sich je nach Element des letzten Psychs in deiner Kombo. Der Mashup wird deutlich stärker, wenn du mehrere Charaktere in deiner Kombo einsetzt."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn dein Groove 300 % erreicht, kannst du als Team Killer-Remixe entfesseln. Je mehr Teamkollegen den Groove erhöht haben, desto länger dauert dein Teamangriff und umso stärker ist er."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nach dem Einsatz eines Killer-Remixes regeneriert dein Team LP. Je mehr Teamkollegen an dem Angriff beteiligt sind, desto mehr LP regenerierst du."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Gelegentlich lassen besiegte Gegner Pins als Beute fallen. Im Kampf erhaltene Pins variieren je nach Schwierigkeitsgrad, Noise-Art und Fundrate."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Gewinne mehr Kämpfe in einer Serie und verringere deine Stufe, um deine Fundrate zu erhöhen. Du willst richtig seltene Beute haben? Dann minimiere deine Stufe und stürze dich in Kampfserien!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manche Pins können entwickelt werden, sobald sie Stufen aufsteigen, bei anderen müssen bestimmte Bedingungen erfüllt sein. Du willst alle Pins sammeln? Dann solltest du sie entwickeln!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Du entscheidest, ob du einen Pin entwickelst oder nicht. Deine unentwickelten Pins Stufen aufsteigen zu lassen, ist keine schlechte Strategie!"
+	},
+	{
+		"name": "ITM_BOK_Info_0213_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Bestimmte Pins lösen interessante Effekte aus, wenn sie kombiniert werden."
+	},
+	{
+		"name": "ITM_BOK_Info_0213_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Im Pin-Menü erfährst du, ob ein Pin im richtigen Set besondere Effekte auslöst."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Super-Pins sind überaus mächtige Pins, die du erst ausrüsten kannst, wenn du ein bestimmtes Talent im sozialen Netzwerk freigeschaltet hast."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Je mehr Talente du freischaltest, desto mehr Super-Pins kannst du ausrüsten."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Du willst deine Pin-Sammlung vervollständigen? Einige Pins erhältst du ausschließlich in Läden, durch Kämpfe, Ereignisse oder indem du sie entwickelst."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Noise-Kompendium verrät dir, welcher Gegner welchen Pin fallen lässt."
+	},
+	{
+		"name": "ITM_BOK_Info_0216_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0216_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0216_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Bestimmte Talente im sozialen Netzwerk erhöhen die Anzahl an Sets, die dir zur Verfügung stehen."
+	},
+	{
+		"name": "ITM_BOK_Info_0217_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0217_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0217_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Doch sei auf der Hut vor Noise-Symbolen. Wenn du eins berührst, startet ein Kampf."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Noise-Symbol bestimmt, gegen welchen Gegnertyp du hauptsächlich kämpfst. Das ist praktisch, wenn du es auf ein bestimmtes Noise abgesehen hast."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Keine Lust auf Noise-Symbole? Bestimmte Klamotten können sie dir vom Leib halten."
+	},
+	{
+		"name": "ITM_BOK_Info_0219_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0219_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0219_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn du auf Kampfserien aus bist, kannst du Noise-Symbole mit dem Noise-Magneten anziehen! Die Anzahl an Kämpfen in einer Serie ist zwar begrenzt, kann aber durch Talente (soziales Netzwerk) erhöht werden."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Rote Noise-Symbole bieten schwächere Monster. Trotzdem ist Vorsicht geboten! Selbst hinter roten Symbolen warten furchterregende Gegner."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Symbole tauchen im Gegensatz zu anderen erneut auf, wenn du an den Ort zurückkehrst, wo der Kampf stattfand."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Gegner hinter blauen Noise-Symbolen sind stärker als die hinter roten Symbolen."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Du musst Talente im sozialen Netzwerk freischalten, um diese speziellen Symbole zu finden."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Rosa Noise-Symbole bieten Grunzer-Noise, die garantiert Pins fallen lassen, wenn du sie besiegst."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hörst du beim Scannen Grunzgeräusche, lauert ein Grunzer-Noise in der Nähe."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manche Grunzer-Noise sind gegen bestimmte Psychs immun, also ist Strategie gefragt. Setze verschiedene Psychs ein, um den Schweinchen ihren Tag zu vermiesen."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Beim Kampf gegen Schweine gibt es ein Zeitlimit. Einige Klamotten können dir jedoch mehr Zeit verschaffen."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese seltenen, geheimnisvollen Noise-Symbole laufen davon, wenn sie Rindo und Co sehen."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Besiegst du diese seltene Noise-Art, erhöht sich deine Fundrate. Wenn du viele Pins abgreifen möchtest, sollten sie Teil deiner Kampfserie sein."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Orange Noise-Symbole erscheinen nur beim Shibuya-Slam. Wenn du sie besiegst, erhält dein Team Shibuya-Punkte."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn du gegen diese Noise-Art kämpfst, lassen alle anderen Gegner im Kampf ebenfalls Shibuya-Punkte fallen. Erziele durch Kampfserien einen Haufen Punkte!"
+	},
+	{
+		"name": "ITM_BOK_Info_0226_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Je nachdem, wie schnell du eine mentale Invasion abschließt, erhältst du eine Bewertung (Gold, Silber, Bronze). Je besser die Bewertung ist, desto mehr FP erhältst du."
+	},
+	{
+		"name": "ITM_BOK_Info_0226_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöhe die Stufen deiner Teamkollegen, iss etwas, rüste neue Pins aus und zieh neue Klamotten an, um mentale Invasionen schneller abzuschließen."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die roten Noise bei mentalen Invasionen sind aggressiv."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wütende Noise sind gefährliche Widersacher, die es in sich haben. Lass dich nicht von ihnen treffen!"
+	},
+	{
+		"name": "ITM_BOK_Info_0228_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die blauen Noise bei mentalen Invasionen sind eher traurig."
+	},
+	{
+		"name": "ITM_BOK_Info_0228_2",
+		"speaker": "",
+		"listener": "",
+		"content": "In der Gegenwart trauriger Noise verliert dein Team stetig LP. Je mehr von ihnen zugegen sind, desto mehr LP gehen flöten! Besiege diese melancholischen Monster zuerst."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die grünen Noise bei mentalen Invasionen sind friedlich."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Besiege diese gelassenen Noise, um die LP des Teams wiederherzustellen."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die lila Noise bei mentalen Invasionen sind ängstlich."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ängstliche Noise sind riesig und widerstehen Angriffen mit Leichtigkeit. Außerdem starten sie gerne Gegenangriffe, also ziehe dich rechtzeitig zurück!"
+	},
+	{
+		"name": "ITM_BOK_Info_0231_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Verkaufe nicht benötigte Pins, um dein digitales ShibuPay-Konto aufzuladen."
+	},
+	{
+		"name": "ITM_BOK_Info_0231_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Mithilfe des Talents (soziales Netzwerk) „Geniales Guthaben“ wandelst du Geld-Pins automatisch in ShibuPay-Währung um."
+	},
+	{
+		"name": "ITM_BOK_Info_0232_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0232_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0232_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige Fähigkeiten wirken nur, wenn die Kleidung von bestimmten Charakteren getragen wird. Diese besonderen Kleidungsstücke sind häufig nützlicher als Standardklamotten."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Klamottenfähigkeiten aktivieren sich erst, wenn der Style deines Charakters den der Kleidungsstücke übersteigt. Iss bestimmte Gerichte, um deinen Style zu erhöhen."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Klamottenfähigkeiten erfüllen unterschiedliche Zwecke: Einige helfen dir im Kampf, andere bei der Erkundung der Stadt. Und es gibt welche für sehr sonderbare Situationen ..."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Objekte mit der Markierung „Tauschen“ können nicht in Läden erworben werden. Stattdessen musst du sie – wer hätte es gedacht? – gegen entsprechende Quest-Materialien eintauschen."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ist das Wort „Tauschen“ grau, hast du nicht ausreichend Materialien zum Tauschen beisammen. Durchkämme die Straßen, um die nötigen Materialien zu finden."
+	},
+	{
+		"name": "ITM_BOK_Info_0235_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn du häufig im selben Laden einkaufst, schließen dich die Angestellten ins Herz. Dadurch werden sie freundlicher und verkaufen dir vielleicht sogar besondere Ware!"
+	},
+	{
+		"name": "ITM_BOK_Info_0235_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wenn du im Kampf die entsprechenden Klamotten und Pins trägst, erhöhst du deinen VIP-Rang für Markenläden. Die Angestellten der Läden freuen sich über die kostenlose Werbung!"
+	},
+	{
+		"name": "ITM_BOK_Info_0236_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Iss etwas, um die Werte deines Teams zu erhöhen ... Das ist alles. Kein Scherz. So einfach erhöhst du deine Werte."
+	},
+	{
+		"name": "ITM_BOK_Info_0236_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Sobald du satt bist, kannst du nichts mehr essen, aber nach Kämpfen schiebst du wieder Kohldampf. Essen, kämpfen, Hunger kriegen. Und dann wieder von vorne. Dein Team wird’s dir danken!"
+	},
+	{
+		"name": "ITM_BOK_Info_0237_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Jeder deiner Charaktere hat einen Lieblingssnack. Essen sie ihn, erhöht sich einer ihrer Werte besonders."
+	},
+	{
+		"name": "ITM_BOK_Info_0237_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie findest du heraus, welches Essen deinen Charakteren schmeckt? Achte auf ihre Reaktion, wenn sie etwas essen. Mit ihren Vorlieben halten sie nicht gerade hinterm Berg ..."
+	},
+	{
+		"name": "ITM_BOK_Info_0238_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Mauer in den Gassen von Udagawa ist ein Abbild deiner Wand im Graffiti-Bereich des Archivmenüs. Hier verleihst du Shibuya deinen ganz persönlichen Anstrich!"
+	},
+	{
+		"name": "ITM_BOK_Info_0238_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hilf Leuten in der Stadt, um neue Graffitis zu erhalten. Im Graffiti-Bereich des Archivmenüs findest du Hinweise dazu, wie du die Straßenkunstwerke erhältst."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Bei Shibuya-Slam-Kämpfen erscheint ein Gegner mit dem Wort „Bonus“. Wenn du ihn besiegst, erhält dein Team massig Punkte."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Greife Gegner mit Kombos an, um mehr Shibuya-Punkte zu erhalten. Heb dir den Bonus bis zum Schluss auf, damit es am Ende des Kampfs Punkte regnet."
+	},
+	{
+		"name": "ITM_BOK_Info_0240_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0240_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0240_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Notizen kannst du jederzeit öffnen, selbst wenn du dich gerade an einem superkniffligen Rätsel versuchst. Vielleicht findest du ja die Lösung!"
+	},
+	{
+		"name": "ITM_BOK_Info_0241_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Gib im Hauptmenü unter „Memos“ FP aus, um Talente im sozialen Netzwerk deiner Charaktere freizuschalten."
+	},
+	{
+		"name": "ITM_BOK_Info_0241_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Spiele die Geschichte, löse die Probleme der Stadt und freunde dich mit Angestellten an, um dein soziales Netzwerk zu erweitern!"
+	},
+	{
+		"name": "ITM_BOK_Info_0242_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige Ereignisse in der Stadt haben keinen Einfluss auf die Hauptgeschichte, also kannst du sie ignorieren. Allerdings winken dir FP und Objekte, also zahlt sich Hilfsbereitschaft aus."
+	},
+	{
+		"name": "ITM_BOK_Info_0242_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Du willst nachsehen, ob du offene Nebenquests hast? Im Kapitelbildschirm des Archivmenüs findest du es heraus."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Im Kapitelbildschirm des Archivmenüs kannst du jeden Tag wiederholen, den du bereits abgeschlossen hast. Das ist hilfreich, falls dir ein wichtiges Detail entgangen ist oder du dein Team trainieren möchtest."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Du behältst deine gesamte Ausrüstung und deine Gruppenmitglieder und Werte bleiben unverändert. So kannst du übersprungene Missionen abschließen und unbesiegte Gegner schlagen."
+	},
+	{
+		"name": "ITM_MSC_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "„Wander Around Shibuya“<BR>Stimm dich auf dein neues Abenteuer ein. Nimmt die Musik an Fahrt auf, steigt auch deine Vorfreude."
+	},
+	{
+		"name": "ITM_MSC_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "„INCONGRUOUS“<BR>Wer braucht schon Harmonie? Dieses unvorhersehbare Stück bricht mit den Konventionen gewöhnlicher Musik."
+	},
+	{
+		"name": "ITM_MSC_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "„Your Ocean“<BR>Der ruhige Gesang und das harte Gitarrenriff geben einen ordentlichen Song für die neue Generation ab."
+	},
+	{
+		"name": "ITM_MSC_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "„Insomnia“<BR>Lauschst du den Synthiebeats, bekommst du das Gefühl, alle Geheimnisse der Stadt aufdecken zu können."
+	},
+	{
+		"name": "ITM_MSC_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "„Breaking Free“<BR>Der melodische Gesang dieses rockigen Stücks gibt dir den nötigen Ruck, um alle Hindernisse aus dem Weg zu räumen."
+	},
+	{
+		"name": "ITM_MSC_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "„Hustle and Bustle“<BR>Dieser süße, poppige Elektro-Bebop-Mix hält dich immer auf dem Boden der Tatsachen."
+	},
+	{
+		"name": "ITM_MSC_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "„Shibuya Survivor“<BR>Entspannter Gesang vermischt sich mit tiefen Gitarrentönen und verleiht dem Song ein gewichtiges Underground-Feeling."
+	},
+	{
+		"name": "ITM_MSC_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "„Kill the Itch“<BR>Ein echter Rocksong, der dich nicht mehr loslässt, wenn du dich den Widrigkeiten des Lebens stellst."
+	},
+	{
+		"name": "ITM_MSC_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "„unconscious“<BR>Nichts in dieser Welt ist von Dauer, aber dieses Lied gibt dir das Gefühl, dir ist – ganz knapp – etwas entgangen."
+	},
+	{
+		"name": "ITM_MSC_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "„Rockin’ Rockin’“<BR>Spüre, wie der Beat den Boden unter dir erbeben lässt, während du zu diesem krassen Song abrockst. Wundere dich nicht, wenn alle anderen es dir gleichtun."
+	},
+	{
+		"name": "ITM_MSC_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "„Unpainted“<BR>Verliere dich in diesen Beats und vergiss den Schmerz, der dich bedrückt."
+	},
+	{
+		"name": "ITM_MSC_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "„DIVIDE“<BR>Dieses emotionale Stück kann dir vielleicht dabei helfen, die zwiespältigen Wahrheiten in deinem Inneren zu versöhnen."
+	},
+	{
+		"name": "ITM_MSC_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "„We’re Losing You“<BR>Schwarz oder Weiß? Stille geht gar nicht. Der Hardcore-Sound dieses Songs durchbohrt dein Herz und bringt das innere Noise in Schwingung."
+	},
+	{
+		"name": "ITM_MSC_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "„LAST CALL“<BR>Zackige Ambient-Beats rufen nach überraschend angenehmem, direkten Gesang."
+	},
+	{
+		"name": "ITM_MSC_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "„Storm“<BR>Wenn du nicht aufpasst, haut dich der funkige Flow dieses umwerfenden Songs von den Socken."
+	},
+	{
+		"name": "ITM_MSC_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "„The Beginning of a Happy Life“<BR>Die frechen Synthieklänge und der mächtige Bass halten dich auf Trab, wenn du in einen neuen Tag startest."
+	},
+	{
+		"name": "ITM_MSC_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "„CHASE“<BR>Schau niemals zurück. Die intensiven Akustikbeats läuten ein neues, glanzvolles Zeitalter ein."
+	},
+	{
+		"name": "ITM_MSC_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "„bird in the hand“<BR>Die gegensätzlichen Singstimmen kommen in diesem Lied, das täuschend simpel erscheint, auf keinen gemeinsamen Nenner."
+	},
+	{
+		"name": "ITM_MSC_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "„Beyond Oblivion“<BR>Freundschaft wird zur Erinnerung und Erinnerung zum Traum. Eine Elegie für alle trauernden Herzen da draußen."
+	},
+	{
+		"name": "ITM_MSC_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "„World Is Yours“<BR>Melodien erheben sich aus der Asche, während der Beat in dieser Hommage an Fahrt aufnimmt."
+	},
+	{
+		"name": "ITM_MSC_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "„take away“<BR>Dieses Lächeln ist einfach unwiderstehlich, stimmt’s? Du weißt schon, was ich meine. Denk dran, dein ShibuPay aufzuladen, bevor du gehst."
+	},
+	{
+		"name": "ITM_MSC_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "„NEW GAME“<BR>Die Welt endet mit dieser Hardrock-Hymne. Der Countdown läuft und ist nicht zu stoppen."
+	},
+	{
+		"name": "ITM_MSC_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "„LITTLE THINGS – JP“<BR>Wohltuende Klavierklänge und der beständige Rhythmus des Schlagzeugs durchfluten dich wie das Sonnenlicht die Kreuzung."
+	},
+	{
+		"name": "ITM_MSC_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "„hopeless“<BR>Kein Lichtstrahl vermag dich durch den Kummer zu leiten. Nur ein melancholischer Begleiter in Nächten voller Sorgen."
+	},
+	{
+		"name": "ITM_MSC_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "„disturbance“<BR>Böse Vorahnungen. Angst. Grauen. Beim Hören dieses furchterregenden Capriccios sträuben sich dir die Nackenhaare."
+	},
+	{
+		"name": "ITM_MSC_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "„death throes“<BR>Die Gefahr rückt immer näher. Hältst du ihr stand? Oder lässt du dich von der lauernden Gefahr verschlingen?"
+	},
+	{
+		"name": "ITM_MSC_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "„a tranquil mind“<BR>Mach ganz entspannt. Atme tief durch. Lass dich von der Arie besänftigen und leere deinen Geist."
+	},
+	{
+		"name": "ITM_MSC_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "„act the fool“<BR>Dich beschleicht ein komisches Gefühl. Etwas ist im Anmarsch und du ahnst, was es sein könnte."
+	},
+	{
+		"name": "ITM_MSC_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "„ENCOUNTER“<BR>Du hast deine Beute im Blick. Diese Toccata erhöht die Spannung: Der Moment zum Angriff ist gekommen."
+	},
+	{
+		"name": "ITM_MSC_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "„peaceful day“<BR>Wenn dieses muntere Stück läuft, ist der Tag schon gewonnen. Es ist Zeit, sich zurückzulehnen und eine wohlverdiente Pause zu genießen."
+	},
+	{
+		"name": "ITM_MSC_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "„Twister (NEO Mix)“<BR>Das Meisterwerk ist zurück und beschert dem Hörer eine Portion musikalisches Adrenalin. <MK_11>That power is yet unknown.<MK_11>"
+	},
+	{
+		"name": "ITM_MSC_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "„Revelation (NEO Mix)“<BR>Synthesizer schärfen die Sinne, während kräftiger Gesang dich an die Vergangenheit erinnert. Stell dich mit alten Freunden neuen Herausforderungen."
+	},
+	{
+		"name": "ITM_MSC_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "„March On (NEO Mix)“<BR>Dank des wechselhaften Gesangs und der dystopischen Schreie setzt sich dieses Pop-Bebop-Lied von der Masse ab."
+	},
+	{
+		"name": "ITM_MSC_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "„Calling (NEO Mix)“<BR>Läuft dieses Lied, ist klar: Gleich passiert was. Es ruft dich: <MK_11>Dear friend, once more.<MK_11>"
+	},
+	{
+		"name": "ITM_MSC_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "„Hybrid (NEO Mix)“<BR>Dieses Lied springt von gefährlich zu chillig, während du durch die Gefahrenzone sprintest."
+	},
+	{
+		"name": "ITM_MSC_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "„Ooparts – JP (NEO Mix)“<BR>In diesem zeitlosen Stück für alle Generationen herrscht Dissonanz – gegensätzliche Genres stehen für gegensätzliche Ansichten."
+	},
+	{
+		"name": "ITM_MSC_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "„Jump Over Yourself (NEO Mix)“<BR>Ein unvergessliches Intro führt direkt zu Zurückhaltung und Ungewissheit. Aber fürchte dich nie. Die Antworten wollen hinter deinem Rücken gesehen werden."
+	},
+	{
+		"name": "ITM_MSC_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "„Someday – JP (NEO Mix)“<BR>Ein Klassiker! Der altbewährte Hardrock-Song erinnert dich an vergangene Zeiten."
+	},
+	{
+		"name": "ITM_MSC_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "„Make or Break (NEO Mix)“<BR>Bei dieser Synth-Drum-Nummer singst du im Nu mit. Sie ist so eingängig, da kann man nicht anders."
+	},
+	{
+		"name": "ITM_MSC_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "„SCRAMBLE“<BR>Es beginnt ruhig, doch erreicht schnell energetische Höhen. Nimmt man noch die orthodoxen Popelemente dazu, ist der garantierte Ohrwurm fertig."
+	},
+	{
+		"name": "ITM_MSC_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "„Revelation – JP (NEO Mix)“<BR>Durchgängiger Gesang und melodisches Drama. Nicht mal das Schicksal kann sich dir in den Weg stellen, wenn du dieses Lied hörst."
+	},
+	{
+		"name": "ITM_MSC_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "„Transformation (NEO Mix)“<BR>Wenn du nicht weißt, was dir bevorsteht, verleiht dir das dramatische Orchesterarrangement den Mut, dich der Situation zu stellen."
+	},
+	{
+		"name": "ITM_MSC_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "„Three Minutes Clapping (NEO Mix)“<BR>Der funkige Beat und die jubelnde Menge machen dieses Lied zur idealen Motivationsspritze. So werden Kämpfe gegen Noise zum Kinderspiel."
+	},
+	{
+		"name": "ITM_MSC_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "„The One Star (NEO Mix)“<BR>Ein solider Song mit einem eleganten Gitarrenriff. Dieses Lied kommt am besten zur Geltung, wenn man Kopfhörer trägt."
+	},
+	{
+		"name": "ITM_MSC_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "„OWARI-HAJIMARI (NEO Mix)“<BR>Dreh ordentlich auf, denn dieses Genre-Grenzen sprengende Stück muss laut gehört werden."
+	},
+	{
+		"name": "ITM_MSC_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "„OWARI-HAJIMARI – JP (NEO Mix)“<BR>Dreh ordentlich auf, denn dieses Genre-Grenzen sprengende Stück muss laut gehört werden."
+	},
+	{
+		"name": "ITM_MSC_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "„Twister“<BR>Er ist wieder da, in seiner alten Pracht. Mit diesem schlichten, puren Song fühlst du dich taufrisch."
+	},
+	{
+		"name": "ITM_MSC_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "„Someday (NEO Mix)“<BR>Ein Klassiker! Der altbewährte Hardrock-Song bringt dich richtig auf Touren."
+	},
+	{
+		"name": "ITM_MSC_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "„Hybrid – JP (NEO Mix)“<BR>Dieses Lied springt von gefährlich zu chillig, während du durch die Gefahrenzone sprintest – diesmal auf Japanisch."
+	},
+	{
+		"name": "ITM_MSC_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "„Rockin’ Rockin’ (Live Version)“<BR>Der legendäre Hit erobert die Bühne aufs Neue! Schwelge im lieblichen Sturm dieses essenziellen Sounds und vergiss nicht: Der Traum endet mit dir."
+	},
+	{
+		"name": "ITM_MSC_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "„LITTLE THINGS“<BR>Erneut beginnt die Welt mit dir. Du stehst an der Kreuzung – und vor unendlich vielen Möglichkeiten. Das Schicksal änderst du jedoch nur mit denen, die du wahrnehmen kannst."
+	}
+]
+}

@@ -1,0 +1,502 @@
+{
+"columns":[
+	{
+		"name": "ENM_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Información sobre Ruidos"
+	},
+	{
+		"name": "ENM_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de oso, cuyo golpe te dejará sin aire. Terminarás con algo más que rasguños si uno de sus ataques te pilla de pleno."
+	},
+	{
+		"name": "ENM_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Escóndete si oyes aullar a este Ruido. Es muy rápido y se abalanzará sobre ti antes de que te des cuenta."
+	},
+	{
+		"name": "ENM_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Es el más fuerte de los osos. Este temible Ruido golpea el suelo con sus patas y crea una onda de choque omnidireccional. Echa a correr cuando levante las patas delanteras."
+	},
+	{
+		"name": "ENM_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de cuervo que picotea la cabeza a sus enemigos. No dejes de moverte si te elige como presa del día."
+	},
+	{
+		"name": "ENM_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido robusto que usa sus garras para atrapar a sus presas firmemente. Si atrapa a uno de tus compañeros, dale una soberana paliza para que lo suelte."
+	},
+	{
+		"name": "ENM_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido taimado que puede lanzar plumas afiladas, emboscar a enemigos incautos y prestar ayuda a sus aliados en la batalla. Si te encuentras con uno, elimínalo antes de que te ocasione más molestias."
+	},
+	{
+		"name": "ENM_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de rana que suele ser dócil hasta que se siente en peligro. Salta mucho, pero no es un enemigo del que tengas que preocuparte."
+	},
+	{
+		"name": "ENM_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "No pierdas de vista a este Ruido: puede lanzar burbujas letales desde lejos. Estas permanecen en el aire durante un rato, así que ten cuidado y no las toques."
+	},
+	{
+		"name": "ENM_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido que no se detiene ante nada. Huye cuando lo veas saltar o acabarás aplastado."
+	},
+	{
+		"name": "ENM_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Rey de las ranas. Este malvado Ruido ayuda a sus congéneres en batalla y se une a ellos para lanzar chorros de agua. Lanza más burbujas que los demás y también patea mejor. Esta rana no se anda con tonterías."
+	},
+	{
+		"name": "ENM_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto canino que va corriendo por todas partes en busca de una nueva presa. Si te atrapa, tendrás al resto de la manada encima enseguida. Deberías esperar a que reduzca su velocidad antes de lanzarte al ataque."
+	},
+	{
+		"name": "ENM_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto canino que deja un rastro de llamas allá por donde pasa. Usa un psicopoder que lo deje paralizado a no ser que quieras ser engullido por el fuego."
+	},
+	{
+		"name": "ENM_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Es el líder de la manada. Ruido con aspecto canino que corre tan rápido que es imposible seguirlo a simple vista. Asegúrate de atacar antes de que empiece a correr."
+	},
+	{
+		"name": "ENM_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de medusa que flota en el aire clonándose. Fíjate bien en las marcas de los clones y ataca solo a la medusa original."
+	},
+	{
+		"name": "ENM_Info_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido depredador que se engancha a su presa y le suelta una descarga eléctrica. No dejes que se multiplique o entonces sí que estarás en problemas."
+	},
+	{
+		"name": "ENM_Info_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido especialmente molesto que tiene tentáculos venenosos. Ni te acerques cuando los veas agitarse; limítate a lanzar ataques a distancia."
+	},
+	{
+		"name": "ENM_Info_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido muy molesto que crea clones de sí mismo. Deshazte primero de ellos si te los encuentras en tu camino."
+	},
+	{
+		"name": "ENM_Info_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido agresivo que ataca a cualquiera a la vista. La piel de su cabeza es tan dura que le sirve de impenetrable escudo."
+	},
+	{
+		"name": "ENM_Info_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido feroz que genera nubes de polvo cuando se abalanza sobre su presa. No te relajes, ni aunque creas estar en un lugar seguro."
+	},
+	{
+		"name": "ENM_Info_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido que es el más duro y tozudo de los rinocerontes. Su cuerno no solo le permite defenderse, sino que también le ofrece ventaja en sus embestidas. Evita enfrentarte a él cara a cara a toda costa."
+	},
+	{
+		"name": "ENM_Info_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de tiburón que se oculta buceando bajo tierra. No le harás apenas daño si atacas su aleta, así que espera a que suba a la superficie."
+	},
+	{
+		"name": "ENM_Info_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Estos monstruos gigantescos son famosos por emerger de repente y tragarse a su presa. Haz lo que puedas para evitar sus ataques antes de lanzarte al contraataque."
+	},
+	{
+		"name": "ENM_Info_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido muy peligroso, aunque su potente ataque en salto deja al descubierto su punto débil, ya que tiene que maniobrar y permanecer en la superficie durante bastante tiempo. Ten cuidado: da un fuerte coletazo al llegar a tierra."
+	},
+	{
+		"name": "ENM_Info_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido que compensa su falta de movimiento con su ataque láser de largo alcance. No hay dónde esconderse cuando está cerca."
+	},
+	{
+		"name": "ENM_Info_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando se sienten en peligro, estas bestias pisotean con fuerza el suelo, creando ondas sísmicas letales."
+	},
+	{
+		"name": "ENM_Info_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Temible enemigo que se asemeja a un cañón andante. Genera una lluvia de rayos láser sobre su presa, sin dejar de acosarla. Te costará salir con vida si este Ruido te elige como presa."
+	},
+	{
+		"name": "ENM_Info_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "Estos bichejos te parecerán monos al principio, pero en cuanto bajes la guardia, te atacarán en masa. Fíjate en la posición de cada Ruido cuando te enfrentes a un grupo."
+	},
+	{
+		"name": "ENM_Info_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Son enemigos peligrosos, ya que tienden a atacar en formaciones bien estudiadas. Prepárate cuando los veas colocarse en posición de ataque."
+	},
+	{
+		"name": "ENM_Info_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido al que le gusta dirigir a sus subordinados en combate. Esta amenaza imperial no dejará de apoyar a sus aliados, siempre que estén en el campo de batalla."
+	},
+	{
+		"name": "ENM_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido molesto con forma de pez. Explota cuando lo derrotas, o cuando lo dejas a su suerte. Lo bueno es que la onda expansiva también daña a otros tipos de Ruido."
+	},
+	{
+		"name": "ENM_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido espinoso que dispara sus púas en todas direcciones. Ten cuidado: explotan cuando mueren."
+	},
+	{
+		"name": "ENM_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido cobardica que ataca a distancia lanzando púas venenosas. Ten cuidado: también lanza púas de su propio cuerpo al mismo tiempo."
+	},
+	{
+		"name": "ENM_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de pez globo más fuerte. Es de sobra conocido por inflarse sobremanera para amedrentar a sus enemigos. No solo sus púas llegan más lejos cuando se hincha, sino que, además, genera una gran explosión al detonar."
+	},
+	{
+		"name": "ENM_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido quisquilloso que debilita a sus enemigos cortándolos con sus pinzas o picándolos con su cola. Ambos ataques son venenosos."
+	},
+	{
+		"name": "ENM_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido siniestro que libera gas venenoso por la cola. Al menos, sus pinzas están atrofiadas por la falta de uso y no suponen una amenaza."
+	},
+	{
+		"name": "ENM_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido letal que puede cortar en dos a sus enemigos con sus pinzas, ahogarlos en gas venenoso o atraparlos con su cola. Tienes que asegurarte de llevar antídoto contra veneno cuando te quieras enfrentar a uno de ellos."
+	},
+	{
+		"name": "ENM_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido experto en camuflaje. Sabrás que va a por ti cuando veas el punto de mira literalmente sobre ti."
+	},
+	{
+		"name": "ENM_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido especialista en cortar a sus enemigos a distancia. Intenta atacar cuando notes el brillo en sus ojos."
+	},
+	{
+		"name": "ENM_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido cuya lengua permite curar a sus aliados así como a sí mismo. Deberías encargarte de él pronto si no quieres que el combate se alargue."
+	},
+	{
+		"name": "ENM_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con forma de dinosaurio. Una vez que encaja un golpe, se ensaña con su presa. Aun así, sus movimientos dejan entrever cuándo se dispone a atacar, así que tendrás tiempo de sobra para prepararte."
+	},
+	{
+		"name": "ENM_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido malvado que ha logrado aprender a usar su cola como arma. No te descuides cuando se lance al ataque, ya que su rabia lo hará aún más rápido."
+	},
+	{
+		"name": "ENM_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Bestia temible capaz de infligir daño a sus enemigos con solo su rugido. Este ataque se vuelve letal cuando se descontrola, ya que su alcance cubre todo el campo de batalla."
+	},
+	{
+		"name": "ENM_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido porcino. Prácticamente inofensivo. Asegúrate de <CRE>encargarte de él antes de que se agote el tiempo</C> o huirá del combate."
+	},
+	{
+		"name": "ENM_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Rey de los puercos en persona. Tendrás que <CRE>darlo todo</C> para derrotarlo."
+	},
+	{
+		"name": "ENM_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "No muchos ataques logran hacer mella en este cerdito dorado. Pero, <CRE>si sigues atacándolo sin parar</C>, acabarás eliminándolo."
+	},
+	{
+		"name": "ENM_Info_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Parece elegante a primera vista, pero se le notan los aires de copia barata cuando se inspecciona de cerca. <CRE>No tendrás que esforzarte</C> para derrotar a una imitación."
+	},
+	{
+		"name": "ENM_Info_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Cerdito tramposo que <CRE>solo recibirá daño si se le ataca con su afinidad letal</C>. Cada uno tiene diferentes debilidades, así que hazte con bastantes psicopoderes."
+	},
+	{
+		"name": "ENM_Info_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Extraña criatura que no tiene claro si quiere clonarse o permanecer única. Será mejor que le <CRE>lances un ataque de amplio espectro a este cerdito y sus clones antes de que se vuelvan a unir</C>."
+	},
+	{
+		"name": "ENM_Info_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Criatura tozuda que cambia de color y resucita cuando la derrotan. Puede parecer un ser invencible, pero tu suerte puede cambiar <CRE>si todos los porquivals comparten color</C>."
+	},
+	{
+		"name": "ENM_Info_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido insistente que se autodetona a intervalos regulares. Estas explosiones también afectan a sus aliados, así que <CRE>encárgate de esta criatura antes de que explote cerca de ti</C>."
+	},
+	{
+		"name": "ENM_Info_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Este cerdito leal no se dejará vencer fácilmente. Pero, <CRE>si te encargas de él y su compañero al mismo tiempo</C>, tendrás mejores resultados."
+	},
+	{
+		"name": "ENM_Info_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Este cerdito no se rendirá mientras sus aliados sigan luchando. Pero, <CRE>si te encargas de él y su compañero al mismo tiempo</C>, tendrás mejores resultados."
+	},
+	{
+		"name": "ENM_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Introvertidos que hacen de la Deep Rivers Society su hogar. Amigos del combate a distancia porque apenas saben luchar cuerpo a cuerpo."
+	},
+	{
+		"name": "ENM_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Jugadores que pertenecen al equipo más puro del Juego. Les gusta cualquier estilo de lucha, así que limítate a observar y esperar tu oportunidad."
+	},
+	{
+		"name": "ENM_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Extrovertidos que luchan bajo la bandera de la belleza. Les encanta el combate cuerpo a cuerpo, así que intenta mantener las distancias a toda costa."
+	},
+	{
+		"name": "ENM_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. No es el enemigo más fuerte que encontrarás, pero sí será capaz de reducir el ritmo de tu equipo."
+	},
+	{
+		"name": "ENM_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. Capaz de usar un feroz ataque que reducirá drásticamente el ritmo de tu equipo."
+	},
+	{
+		"name": "ENM_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. Sus ataques venenosos no son poca cosa y pueden reducir el ritmo de tu equipo."
+	},
+	{
+		"name": "ENM_Info_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. Intenta no tocar sus tentáculos o tus PV y ritmo se resentirán."
+	},
+	{
+		"name": "ENM_Info_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. No son una gran amenaza por sí solos, pero tu ritmo se reducirá si toda una manada te ataca."
+	},
+	{
+		"name": "ENM_Info_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido de nueva cosecha que amenaza con dejar Shibuya en ruinas. Intenta evitar las ondas de choque que crea o tus PV y tu ritmo se llevarán la peor parte."
+	},
+	{
+		"name": "ENM_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Rey de las ranas, Ruido creado por el propio Shiba. No dejes que te salte encima o quedarás convaleciente durante días y tu ritmo se quedará a nivel de carga."
+	},
+	{
+		"name": "ENM_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Rey de las medusas, Ruido creado por el propio Shiba. Mueve su cuerpo flexible para clonarse y crear así un ejército imparable."
+	},
+	{
+		"name": "ENM_Info_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido con aspecto de primate burdo que no es tan duro como parece. Ataca sus brazos y conseguirás eliminarlo. Por desgracia, se regenerará si dejas pasar mucho tiempo, pero al menos no podrá realizar ciertos ataques durante un rato."
+	},
+	{
+		"name": "ENM_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Tímido líder de la Deep Rivers Society. Evita ensuciarse las manos ocultándose tras sus compañeros de equipo y dejando el campo de batalla sembrado de bombas. Tienes que plantearte una estrategia o no le vencerás fácilmente."
+	},
+	{
+		"name": "ENM_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "El famoso líder de los Purehearts. Su psicopoder especial es paralizar al enemigo. Casi todos sus ataques necesitan apoyo de sus aliados, así que encárgate de ellos primero."
+	},
+	{
+		"name": "ENM_Info_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Triplete de gatos de peluche controlados por Tsugumi. Cada uno de un tamaño diferente; también tienen distintas habilidades ofensivas. Aun así, todos comparten la misma vitalidad."
+	},
+	{
+		"name": "ENM_Info_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "Los gatitos vuelven y ahora son más. Tú decides de quién te encargas primero: de los pequeñitos y veloces o de los grandes y feroces."
+	},
+	{
+		"name": "ENM_Info_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Chica robótica de pocas palabras que se une a los Ruinbringers. Sus acciones en el campo de batalla son un mero espejo de su personalidad, por lo que se pueden predecir con certeza."
+	},
+	{
+		"name": "ENM_Info_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "La única segadora que se interesa por el bienestar de Shoka. No te acerques demasiado o te hará volar con los símbolos que salen de ella."
+	},
+	{
+		"name": "ENM_Info_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Un tipo grandote y burdo que se considera parte de los Ruinbringers. Su aura cambia de color, de blanco a negro, indicando el tipo de ataques que puede realizar. De modo general, blanco significa que va a cargar contra ti y negro que va a lanzar puñetazos."
+	},
+	{
+		"name": "ENM_Info_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "El bruto ha vuelto. Ahora tiene más auras, inspirándose en su juego favorito. Fíjate bien cuando cambie de color."
+	},
+	{
+		"name": "ENM_Info_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "La forma definitiva de Susukichi. Puede controlar el poder del rayo con su cornamenta y utilizarlo para atacar. Aunque dicho cuerno es también su punto débil y harás bien enfocando tus ataques sobre él."
+	},
+	{
+		"name": "ENM_Info_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Lobo solitario con ansias de poder. En su estado normal, es rápido y de movimientos fluidos. Pero, si lo cree necesario, puede acomodarse en su armadura a esperar el momento oportuno."
+	},
+	{
+		"name": "ENM_Info_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "El único e inigualable maestro del Juego. Utiliza sus poderes de clonación para confundir al enemigo. Fíjate bien y no caigas en su trampa."
+	},
+	{
+		"name": "ENM_Info_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Puede transformarse en cualquier tipo de Ruido. Es la personificación de todo lo que se ha interpuesto en el camino de los Wicked Twisters. Tienes que repasar todo lo aprendido en combate para conseguir vencerlo."
+	},
+	{
+		"name": "ENM_Info_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Un enemigo problemático que puede atacar a distancia con sus trece colas y lanzar llamas con su pico. No pierdas la esperanza: sus ataques parecen muy intensos al principio, pero si destruyes sus colas, tendrás sitio para el optimismo."
+	},
+	{
+		"name": "ENM_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Guardaespaldas cachas que cuida a Kanon en su punto de control del De sello en sello. Intenta evitar sus ataques eléctricos y golpea en el momento justo."
+	},
+	{
+		"name": "ENM_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Una de las segadoras encargadas de los puntos de control del De sello en sello. Rival de Nagi en cuanto a Def Märch se refiere. Sus ataques parecen ineludibles al principio, pero si la observas un rato, seguro que serás capaz de derrotarla."
+	},
+	{
+		"name": "ENM_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Trabajadora a media jornada del De sello en sello. Los chakras que levitan a su alrededor son demasiados para penetrar su armadura. Tu mejor opción es atacar a distancia y sin descanso."
+	},
+	{
+		"name": "ENM_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Jefe de la ronda especial del De sello en sello. Nadie obtiene las entradas VIP sin su consentimiento. Deberás equiparte con psicopoderes que golpeen a varios enemigos a la vez si deseas derrotarlo."
+	},
+	{
+		"name": "ENM_Info_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Enemigo difícil que memoriza tus ataques y calcula cómo evitarlos y contrarrestarlos. Utiliza psicopoderes diferentes en cada ataque para pillarlo desprevenido."
+	}
+]
+}

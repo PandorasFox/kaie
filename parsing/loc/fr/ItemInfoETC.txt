@@ -1,0 +1,1084 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Infos sur l'objet"
+	},
+	{
+		"name": "ITM_VAL_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Les points d'amitié"
+	},
+	{
+		"name": "ITM_BOK_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "De mystérieux mots écrits par un inconnu."
+	},
+	{
+		"name": "ITM_BOK_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Se déplacer en ville"
+	},
+	{
+		"name": "ITM_BOK_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Scanner – Partie 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Scanner – Partie 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Les badges et psychs"
+	},
+	{
+		"name": "ITM_BOK_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Se déplacer et esquiver"
+	},
+	{
+		"name": "ITM_BOK_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Réactiver des badges"
+	},
+	{
+		"name": "ITM_BOK_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Les combos de Beatdrops"
+	},
+	{
+		"name": "ITM_BOK_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Mashups"
+	},
+	{
+		"name": "ITM_BOK_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Remix mortels"
+	},
+	{
+		"name": "ITM_BOK_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Porter des badges"
+	},
+	{
+		"name": "ITM_BOK_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "La mode"
+	},
+	{
+		"name": "ITM_BOK_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "La difficulté et les niveaux"
+	},
+	{
+		"name": "ITM_BOK_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuir un combat"
+	},
+	{
+		"name": "ITM_BOK_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Les pensées"
+	},
+	{
+		"name": "ITM_BOK_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Les connexions sociales – Partie 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Les connexions sociales – Partie 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Les boutiques"
+	},
+	{
+		"name": "ITM_BOK_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "ShibuPay"
+	},
+	{
+		"name": "ITM_BOK_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "La nourriture"
+	},
+	{
+		"name": "ITM_BOK_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Graver"
+	},
+	{
+		"name": "ITM_BOK_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Rappel avec Fret"
+	},
+	{
+		"name": "ITM_BOK_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Plongeon avec Nagi"
+	},
+	{
+		"name": "ITM_BOK_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "La Téléportation avec Shoka"
+	},
+	{
+		"name": "ITM_BOK_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "La Vitesse supersonique avec Beat"
+	},
+	{
+		"name": "ITM_BOK_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Recommencement avec Rindo"
+	},
+	{
+		"name": "ITM_BOK_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Recommencement avec Rindo – Partie 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Sélectionner un chapitre"
+	},
+	{
+		"name": "ITM_BOK_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "L'Échopédie"
+	},
+	{
+		"name": "ITM_BOK_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Le mur de graffitis"
+	},
+	{
+		"name": "ITM_BOK_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Le menu Collections"
+	},
+	{
+		"name": "ITM_BOK_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Le Tabassage piéton"
+	},
+	{
+		"name": "ITM_BOK_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Le dernier contre-la-montre"
+	},
+	{
+		"name": "ITM_BOK_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Un autre jour"
+	},
+	{
+		"name": "ITM_BOK_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Mashups améliorés"
+	},
+	{
+		"name": "ITM_BOK_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Les nouveaux coéquipiers"
+	},
+	{
+		"name": "ITM_BOK_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Les super-badges"
+	},
+	{
+		"name": "ITM_BOK_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Les combats à la chaîne"
+	},
+	{
+		"name": "ITM_BOK_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos pestiférés"
+	},
+	{
+		"name": "ITM_BOK_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Spot de Beatdrop"
+	},
+	{
+		"name": "ITM_BOK_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Gagner en puissance"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0200_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ne laissez pas retomber la pression ! Utilisez les membres de votre équipe pour infliger de lourds dégâts à vos ennemis et gagner le combat."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Réussir à porter un coup avec un psych fera apparaître une jauge de Beatdrops circulaire. Attaquez avec un autre personnage pendant que la jauge est visible pour garder la cadence et augmenter le Groove de votre équipe."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ouvrez l'œil : certaines capacités de vêtements et certaines compétences de connexions sociales peuvent augmenter votre Groove plus rapidement."
+	},
+	{
+		"name": "ITM_BOK_Info_0202_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0202_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0202_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Lorsque vous esquivez une attaque, votre personnage devient invulnérable pendant un court instant. Pratique lorsque vous êtes sur le point de recevoir un coup en pleine figure ! Notez que certaines compétences de connexions sociales peuvent prolonger cette invulnérabilité."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous bombardez un Écho de psychs, il risque de contre-attaquer. Faites attention à ces contre-attaques, car aucun dégât infligé ne peut les interrompre."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous saurez qu'un ennemi est sur le point de contre-attaquer, car il se mettra à rougeoyer. C'est signe qu'il faut stopper vos attaques et vous préparer à esquiver."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les ennemis ont des faiblesses élémentaires à exploiter pour leur infliger plus de dégâts. Gardez à l'esprit l'affinité avec un élément de chacun des badges que vous portez afin de blesser vos ennemis le plus possible."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Voici les éléments qui existent : Feu, Glace, Électricité, Air, Eau, Pierre, Poison, Explosion, Son, Lumière, Ombre, Gravité, Kinésie et Temps."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certaines attaques peuvent provoquer des altérations d'état temporaires chez les ennemis ou coéquipiers. Ces effets s'estompent avec le temps, et peuvent aller du drain progressif de PV à l'immobilisation."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Certains états (comme empoisonné, électrocuté ou brûlé) drainent les PV, tandis que d'autres (comme étourdi, enchaîné, paralysé ou enseveli) immobilisent un personnage ou ennemi. N'oubliez pas que certains objets peuvent guérir (ou empêcher) ces altérations !"
+	},
+	{
+		"name": "ITM_BOK_Info_0206_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous gagnez de l'XP et des PB à chaque ennemi battu. L'XP augmente le niveau de vos coéquipiers, tandis que les PB augmentent celui des badges utilisés pour ce combat."
+	},
+	{
+		"name": "ITM_BOK_Info_0206_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Voici comment augmenter les PB gagnés : 1) enchaînez plusieurs victoires dans des combats à la chaîne, 2) gagnez rapidement le combat et 3) n'encaissez pas trop de dégâts !"
+	},
+	{
+		"name": "ITM_BOK_Info_0207_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Repousser un ennemi ou le projeter dans les airs l'empêchera d'agir pendant un instant, donnant à votre équipe l'occasion parfaite de le massacrer."
+	},
+	{
+		"name": "ITM_BOK_Info_0207_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Certains ennemis ne peuvent pas être repoussés ou projetés, alors assurez-vous d'avoir un plan B au cas où..."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Augmentez votre Groove de 200 % ou plus pour porter des attaques appelées<NBSP>« Mashups surboostés »."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Mashups varient selon l'élément du dernier psych utilisé dans votre combo. Vous pouvez vraiment charger à bloc le Mashup en faisant participer plus de personnages dans votre combo."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Quand votre Groove est à 300 %, vous pouvez déclencher des Remix mortels avec votre équipe. Plus vous utilisez de coéquipiers pour augmenter votre Groove, plus votre attaque d'équipe sera longue et puissante."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Après avoir utilisé un Remix mortel, votre équipe récupérera des PV. Plus vous utiliserez de coéquipiers pour porter l'attaque, plus vous récupérerez de PV."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les ennemis vous donneront parfois des badges à leur mort. Les badges reçus au combat varient selon la difficulté du combat, le type d'Écho et votre taux de butin."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous pouvez augmenter ce taux en gagnant plus de combats à la chaîne et en diminuant votre niveau. Pour gagner des badges vraiment rares, réduisez considérablement votre niveau et lancez-vous dans des combats à la chaîne !"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous pouvez faire évoluer les badges lorsqu'ils ont atteint le niveau requis ou remplissent certaines conditions. Vous voulez obtenir tous les badges possibles ? Alors vous feriez bien de les faire évoluer !"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_2",
+		"speaker": "",
+		"listener": "",
+		"content": "C'est à vous de voir si vous souhaitez faire évoluer un badge. Garder vos badges tels quels et les faire monter en niveau est une stratégie tout aussi valable !"
+	},
+	{
+		"name": "ITM_BOK_Info_0213_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certains badges peuvent avoir des effets intéressants lorsqu'ils sont portés ensemble."
+	},
+	{
+		"name": "ITM_BOK_Info_0213_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Renseignez-vous dans le menu Badges pour découvrir ce qu'un badge peut faire et s'il a un effet spécial dans le bon ensemble."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les super-badges sont, vous l'aurez deviné, très puissants. Vous ne pourrez les porter qu'après avoir déverrouillé une compétence de connexions sociales unique."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Plus vous obtenez de ces compétences, plus vous pourrez équiper de super-badges."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous voulez compléter votre collection de badges ? Attention : certains badges ne peuvent s'obtenir que dans les boutiques, lors des combats ou des événements, ou par des évolutions."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Consultez l'Échopédie pour voir quels badges les ennemis sont susceptibles de vous donner."
+	},
+	{
+		"name": "ITM_BOK_Info_0216_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0216_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0216_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Certaines de vos compétences de connexions sociales peuvent augmenter le nombre total d'ensembles à personnaliser."
+	},
+	{
+		"name": "ITM_BOK_Info_0217_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0217_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0217_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Mais faites attention aux symboles d'Échos. Entrer en contact avec l'un d'eux lancera un combat."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les symboles d'Échos que vous rencontrerez indiquent le type principal d'ennemis que vous affronterez, ce qui peut s'avérer utile quand vous cherchez à abattre une certaine variété d'Échos."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous voulez que ces symboles d'Échos gardent leurs distances ? Certains vêtements ont la capacité de les éloigner."
+	},
+	{
+		"name": "ITM_BOK_Info_0219_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0219_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0219_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Pour augmenter vos chances d'engager des combats à la chaîne, utilisez Aimant à Échos pour attirer les symboles vers vous. Vous pouvez amorcer un nombre limité de combats à la chaîne. Cependant, certaines compétences de connexions sociales peuvent augmenter cette limite."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les symboles d'Échos rouges représentent des monstres faibles, mais ne baissez pas votre garde pour autant. Même les symboles rouges peuvent abriter des ennemis terrifiants."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Contrairement aux autres, ces symboles réapparaîtront si vous retournez à l'endroit où vous les avez combattus."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les symboles d'Échos bleus représentent des ennemis plus coriaces que ceux des symboles rouges."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous devrez déverrouiller des compétences de connexions sociales pour battre ces symboles spéciaux."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les symboles d'Échos roses représentent des Échos porcins qui, une fois battus, vous donneront obligatoirement des badges."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous entendez des grouinements lorsque vous scannez, cela veut dire qu'un Écho porcin n'est pas loin."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certains Échos porcins sont immunisés contre des psychs précis, alors vous devrez faire preuve de stratégie. Essayez tout un éventail de psychs pour faire regretter à ces pourceaux d'avoir croisé votre route."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous avez une limite de temps pour combattre les cochons, mais certains vêtements peuvent augmenter cette durée."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces symboles d'Échos rares et mystérieux s'enfuiront s'ils aperçoivent Rindo et son équipe."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Battre des Échos de ce type augmente votre taux de butin, alors, si vous voulez gagner des tas de badges, essayez de les enchaîner avec d'autres symboles."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les symboles d'Échos orange n'apparaissent que pendant les Tabassages piétons. Ils donnent des points de Tabassage à votre équipe lorsque vous les éliminez."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous affrontez ce type d'Échos, tous les autres ennemis du combat vous rapporteront aussi des points de Tabassage. Obtenez une bonne dose de points en enchaînant les combats !"
+	},
+	{
+		"name": "ITM_BOK_Info_0226_1",
+		"speaker": "",
+		"listener": "",
+		"content": "En fonction de la rapidité avec laquelle vous effectuez un Plongeon, vous obtiendrez l'un des trois scores suivants : or, argent ou bronze. Plus votre score sera élevé, plus vous recevrez de PA."
+	},
+	{
+		"name": "ITM_BOK_Info_0226_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Pour terminer des Plongeons plus rapidement, essayez d'augmenter le niveau de vos coéquipiers, de manger des aliments différents et de porter de nouveaux badges et vêtements."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos rouges que l'on trouve lors des combats de Plongeon sont en colère."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces Échos enragés sont plutôt costauds et peuvent être des adversaires dangereux. Faites en sorte qu'ils ne vous touchent pas !"
+	},
+	{
+		"name": "ITM_BOK_Info_0228_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos bleus trouvés lors des Plongeons sont assez malheureux."
+	},
+	{
+		"name": "ITM_BOK_Info_0228_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Les PV de votre équipe diminuent lentement tant que des Échos tristes sont présents. Et plus il y en a, plus vous perdez de PV ! Commencez donc par éliminer ces monstres mélancoliques."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos verts rencontrés lors des Plongeons sont apaisés."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Battre ces Échos sereins restaurera les PV de votre équipe."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les Échos violets que l'on voit dans les combats de Plongeon sont terrifiés."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ces Échos craintifs sont de taille gigantesque et se moquent des attaques que vous pouvez leur porter. Ils ont aussi l'habitude de contre-attaquer, alors sachez quand lever le pied !"
+	},
+	{
+		"name": "ITM_BOK_Info_0231_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vendez vos badges inutiles pour gagner de l'argent via ShibuPay, un service de paiement numérique utilisé dans la ville."
+	},
+	{
+		"name": "ITM_BOK_Info_0231_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La compétence de connexions sociales Renflouement ShibuPay convertit instantanément les badges d'argent en monnaie ShibuPay sans que vous deviez les vendre."
+	},
+	{
+		"name": "ITM_BOK_Info_0232_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0232_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0232_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Certaines capacités ne fonctionnent que si les vêtements sont portés par certains personnages. Ces fringues spéciales sont souvent plus utiles que les vêtements standards."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Les capacités d'un vêtement s'activent uniquement si le niveau de style de votre personnage est supérieur à celui du vêtement. Pour améliorer votre style, essayez de manger certains aliments."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous disposez d'une grande variété de capacités vestimentaires. Certaines sont utiles au combat ou pour explorer la ville, tandis que d'autres serviront à des fins... particulières."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Dans une boutique, si la mention<NBSP>« À ÉCHANGER » apparaît sur un article, cela signifie qu'il ne peut pas être acheté. Au lieu de ça, vous devez (quelle surprise !) l'échanger contre les matériaux de quête correspondants pour l'obtenir."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si le mot<NBSP>« À ÉCHANGER » est grisé, c'est que vous n'avez pas assez de matériaux pour obtenir l'article. Repartez collecter ce dont vous avez besoin."
+	},
+	{
+		"name": "ITM_BOK_Info_0235_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Si vous effectuez plusieurs fois des achats dans la même boutique, les employés se prendront d'affection pour vous. Non seulement ils seront plus gentils, mais ils pourront même vous vendre des articles spéciaux !"
+	},
+	{
+		"name": "ITM_BOK_Info_0235_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous pouvez augmenter votre niveau VIP dans les boutiques de marque en portant leurs vêtements et leurs badges en combat. Les employés adoreront cette publicité gratuite !"
+	},
+	{
+		"name": "ITM_BOK_Info_0236_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous pouvez augmenter les stats de votre équipe en mangeant... C'est tout. Vraiment. C'est aussi simple que ça."
+	},
+	{
+		"name": "ITM_BOK_Info_0236_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Une fois repus, vos personnages ne pourront plus manger, mais les combats leur rendront l'appétit. Manger, combattre, avoir faim. Et recommencer. Votre équipe n'en sera que plus heureuse !"
+	},
+	{
+		"name": "ITM_BOK_Info_0237_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Chacun de vos personnages a un en-cas préféré et, en le mangeant, il ou elle recevra un bonus de stats supplémentaire."
+	},
+	{
+		"name": "ITM_BOK_Info_0237_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous voulez savoir quel genre de nourriture aime un personnage ? Regardez comment il ou elle réagit en mangeant. Ses préférences ne passeront pas inaperçues..."
+	},
+	{
+		"name": "ITM_BOK_Info_0238_1",
+		"speaker": "",
+		"listener": "",
+		"content": "La fresque située dans les Ruelles d'Udagawa reflète le mur présent dans la section Graffiti du menu Archives. C'est l'occasion d'apposer votre style dans Shibuya !"
+	},
+	{
+		"name": "ITM_BOK_Info_0238_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Recevez des graffitis en aidant les gens en ville. Pour savoir comment les déverrouiller, consultez la section Graffiti dans le menu Archives."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Pendant un combat de Tabassage piéton, un ennemi portant la mention<NBSP>« Bonus » apparaîtra. Abattez-le pour faire gagner beaucoup de points à votre équipe."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Attaquez les ennemis avec des combos pour gagner plus de points de Tabassage. Essayez aussi de garder<NBSP>« l'ennemi bonus » pour la fin, afin de terminer le combat dans une cascade de points."
+	},
+	{
+		"name": "ITM_BOK_Info_0240_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0240_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0240_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ouvrez les pensées à tout moment, même lorsque vous êtes au milieu d'une énigme inextricable. Vous y trouverez peut-être la solution !"
+	},
+	{
+		"name": "ITM_BOK_Info_0241_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Utilisez des PA dans l'onglet Pensées du menu principal pour déverrouiller des compétences de connexions sociales pour vos personnages."
+	},
+	{
+		"name": "ITM_BOK_Info_0241_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Progressez dans l'histoire, résolvez les problèmes des gens et sympathisez avec les employés des boutiques pour développer vos connexions sociales !"
+	},
+	{
+		"name": "ITM_BOK_Info_0242_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certains événements en ville n'ont aucun impact sur l'histoire principale. Vous pouvez donc les ignorer. Cependant, ces interludes permettent de gagner des PA et des objets, alors votre serviabilité sera récompensée."
+	},
+	{
+		"name": "ITM_BOK_Info_0242_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous voulez vérifier si vous avez des quêtes annexes irrésolues ? Consultez l'écran Chapitres dans le menu Archives."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_1",
+		"speaker": "",
+		"listener": "",
+		"content": "En passant par l'écran Chapitres (dans le menu Archives), vous pouvez rejouer n'importe quelle journée que vous avez déjà terminée. Cela peut vous être utile si vous avez raté quelque chose d'important ou si vous avez besoin de renforcer votre équipe."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vous conservez vos objets, coéquipiers et stats quand vous retournez dans le temps. Cela facilite la résolution des missions oubliées ou la victoire face aux ennemis invaincus."
+	},
+	{
+		"name": "ITM_MSC_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "« Wander Around Shibuya »<BR>C'est le son de votre nouvelle aventure. L'enthousiasme s'envole crescendo au rythme de la mélodie."
+	},
+	{
+		"name": "ITM_MSC_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "« INCONGRUOUS »<BR>L'harmonie, c'est dépassé. Cassez les codes imposés par les industries, et laissez-vous porter par cette jam session imprévisible."
+	},
+	{
+		"name": "ITM_MSC_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "« Your Ocean »<BR>Une voix léthargique sur un riff de guitare électrique : voilà le son de la nouvelle vague."
+	},
+	{
+		"name": "ITM_MSC_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "« Insomnia »<BR>Cette rythmique au synthé vous révélera les moindres secrets de la ville."
+	},
+	{
+		"name": "ITM_MSC_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "« Breaking Free »<BR>Grâce à la voix mélodieuse de cette piste pop-rock, vous parviendrez à surmonter tous les obstacles."
+	},
+	{
+		"name": "ITM_MSC_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "« Hustle and Bustle »<BR>Ce charmant bop électro est là pour vous ramener les pieds sur terre."
+	},
+	{
+		"name": "ITM_MSC_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "« Shibuya Survivor »<BR>Alliant chœurs pénétrants et décontractés sur fond de guitare aux notes graves, cette piste ancre sa mélodie dans des tons underground."
+	},
+	{
+		"name": "ITM_MSC_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "« Kill the Itch »<BR>Ça, c'est du rock ! C'est le morceau qu'il vous faut pour tenir bon au quotidien."
+	},
+	{
+		"name": "ITM_MSC_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "« unconscious »<BR>Dans la vie, rien n'est éternel, mais ce morceau vous donnera la sensation que le meilleur est à venir."
+	},
+	{
+		"name": "ITM_MSC_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "« Rockin' Rockin' »<BR>Laissez son tempo démentiel prendre possession de votre corps et déhanchez-vous sur ce titre mortel. Attention : ce son est contagieux."
+	},
+	{
+		"name": "ITM_MSC_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "« Unpainted »<BR>Laissez-vous emporter par ce titre et oubliez tous les tracas du quotidien."
+	},
+	{
+		"name": "ITM_MSC_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "« DIVIDE »<BR>Ce son captivant est idéal pour sonder son for intérieur et renouer avec soi-même."
+	},
+	{
+		"name": "ITM_MSC_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "« We're Losing You »<BR>Le silence ne dure jamais dans la dualité. Laissez le côté hardcore de cette piste réveiller l'Écho qui sommeille en vous."
+	},
+	{
+		"name": "ITM_MSC_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "« LAST CALL »<BR>Un rythme ambiant soutenu pour sublimer la partie vocale franche et directe."
+	},
+	{
+		"name": "ITM_MSC_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "« Storm »<BR>Prudence ! Le flow de ce morceau est décoiffant !"
+	},
+	{
+		"name": "ITM_MSC_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "« The Beginning of a Happy Life »<BR>Les synthés audacieux et le slapping à la basse de cette piste vous tiendront en haleine toute la journée."
+	},
+	{
+		"name": "ITM_MSC_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "« CHASE »<BR>Allez de l'avant. Sans jamais vous retourner. Ce rythme acoustique vous transportera vers de nouveaux horizons."
+	},
+	{
+		"name": "ITM_MSC_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "« bird in the hand »<BR>Les voix dissonantes de cette musique sont toujours en opposition."
+	},
+	{
+		"name": "ITM_MSC_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "« Beyond Oblivion »<BR>L'amitié devient un souvenir, et le souvenir devient un rêve. C'est l'éloge des cœurs brisés."
+	},
+	{
+		"name": "ITM_MSC_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "« World Is Yours »<BR>Les mélodies de cette piste hommage se révèlent à mesure que le rythme s'emballe."
+	},
+	{
+		"name": "ITM_MSC_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "« take away »<BR>Impossible de résister à ce sourire, n'est-ce pas ? Vous savez lequel. N'oubliez pas de renflouer votre compte ShibuPay avant de partir."
+	},
+	{
+		"name": "ITM_MSC_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "« NEW GAME »<BR>Le monde s'arrête sur le son de cet hymne hard rock. Impossible d'arrêter le décompte."
+	},
+	{
+		"name": "ITM_MSC_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "« LITTLE THINGS - JP »<BR>Ce piano enchanteur et ces percussions vivaces vous enveloppent d'un cocon musical comme les rayons d'un soleil d'automne."
+	},
+	{
+		"name": "ITM_MSC_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "« hopeless »<BR>N'espérez pas un seul rayon de lumière pour vous sortir du désespoir. Seul un nocturne mélancolique vous assiste dans votre peine."
+	},
+	{
+		"name": "ITM_MSC_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "« disturbance »<BR>Angoisse. Peur. Terreur. Les poils se hérissent aux premières notes horrifiantes de ce capriccio."
+	},
+	{
+		"name": "ITM_MSC_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "« death throes »<BR>Le danger approche inexorablement. Tiendrez-vous bon ? Ou succomberez-vous aux périls qui vous attendent ?"
+	},
+	{
+		"name": "ITM_MSC_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "« a tranquil mind »<BR>Détendez-vous. Prenez une grande inspiration. Videz votre esprit des pensées négatives avec cet aria."
+	},
+	{
+		"name": "ITM_MSC_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "« act the fool »<BR>Vous avez comme un pressentiment. Quelque chose est sur le point d'arriver, et vous pensez savoir de quoi il s'agit."
+	},
+	{
+		"name": "ITM_MSC_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "« ENCOUNTER »<BR>Vous avez les yeux sur votre cible. C'est le moment de frapper, tant que cette toccata aiguise vos sens."
+	},
+	{
+		"name": "ITM_MSC_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "« peaceful day »<BR>Lorsque cette joyeuse mélodie débute, le reste de la journée n'est que réussite. Prenez un peu de temps pour vous."
+	},
+	{
+		"name": "ITM_MSC_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "« Twister (NEO Mix) »<BR>Le retour du chef-d'œuvre, graciant ses fans d'une envolée épique.<NBSP>« That power is yet unknown »."
+	},
+	{
+		"name": "ITM_MSC_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "« Revelation (NEO Mix) »<BR>Les synthétiseurs éveillent vos sens, tandis que les puissants chœurs dépeignent le monde passé. Vous voilà face à de nouveaux défis, mais toujours avec les mêmes partenaires."
+	},
+	{
+		"name": "ITM_MSC_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "« March On (NEO Mix) »<BR>La voix à la fois chaude et glaciale, liée aux cris dystopiques, fait nettement sortir cette piste du lot."
+	},
+	{
+		"name": "ITM_MSC_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "« Calling (NEO Mix) »<BR>Quand ce titre retentit, les choses sérieuses commencent. Il vous appelle :<NBSP>« c'est reparti, mon ami »."
+	},
+	{
+		"name": "ITM_MSC_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "« Hybrid (NEO Mix) »<BR>Foncez entre les pièges au rythme endiablé et fluctuant de ce titre."
+	},
+	{
+		"name": "ITM_MSC_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "« Ooparts - JP (NEO Mix) »<BR>Toutes les oreilles perçoivent la dissonance du titre. Chaque genre représente une opinion divergente."
+	},
+	{
+		"name": "ITM_MSC_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "« Jump Over Yourself (NEO Mix) »<BR>L'intro inoubliable de ce morceau enchaîne sur la retenue et l'incertitude. Mais rassurez-vous : les réponses demeurent sous vos yeux."
+	},
+	{
+		"name": "ITM_MSC_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "« Someday - JP (NEO Mix) »<BR>Un classique ! On se rappelle tous cette mélodie hard rock testée et approuvée."
+	},
+	{
+		"name": "ITM_MSC_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "« Make or Break (NEO Mix) »<BR>Bientôt, vous chanterez à tue-tête ce morceau de synthé et de batterie. Vous ne pourrez pas y résister."
+	},
+	{
+		"name": "ITM_MSC_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "« SCRAMBLE »<BR>L'intro est douce, mais l'énergie s'invite très vite. Ajoutez un peu de pop de qualité, et c'est un tube garanti."
+	},
+	{
+		"name": "ITM_MSC_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "« Revelation - JP (NEO Mix) »<BR>La voix posée appuie toute la gravité de ce morceau. Avec ça dans les oreilles, pas même le destin ne pourra vous arrêter."
+	},
+	{
+		"name": "ITM_MSC_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "« Transformation (NEO Mix) »<BR>Quand rien ne va plus, un arrangement orchestral est tout ce qu'il faut pour se lancer."
+	},
+	{
+		"name": "ITM_MSC_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "« Three Minutes Clapping (NEO Mix) »<BR>Un tempo enlevé et une foule en délire : le tube parfait à écouter juste avant de s'attaquer aux Échos."
+	},
+	{
+		"name": "ITM_MSC_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "« The One Star (NEO Mix) »<BR>Un titre solide contenant un excellent solo de gratte. À écouter avec un casque de qualité."
+	},
+	{
+		"name": "ITM_MSC_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "« Owari-Hajimari (NEO Mix) »<BR>Montez le son ! Cet ovni musical est à écouter à fond la caisse !"
+	},
+	{
+		"name": "ITM_MSC_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "« Owari-Hajimari - JP (NEO Mix) »<BR>Montez le son ! Cet ovni musical est à écouter à fond la caisse !"
+	},
+	{
+		"name": "ITM_MSC_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "« Twister »<BR>De retour dans toute sa splendeur d'antan. Du son à l'ancienne, comme on aime. Ça va vous requinquer."
+	},
+	{
+		"name": "ITM_MSC_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "« Someday (NEO Mix) »<BR>Un classique ! On se rappelle tous cette mélodie hard rock testée et approuvée."
+	},
+	{
+		"name": "ITM_MSC_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "« Hybrid - JP (NEO Mix) »<BR>Foncez entre les pièges au rythme endiablé et fluctuant de ce titre en japonais."
+	},
+	{
+		"name": "ITM_MSC_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "« Rockin' Rockin' (Live) »<BR>Le titre légendaire revient sur les devants de la scène ! Savourez cette mélodie parfaite et anarchique, mais n'oubliez pas : le rêve s'arrête à vous."
+	},
+	{
+		"name": "ITM_MSC_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "« LITTLE THINGS »<BR>Encore une fois, tout commence avec vous. Votre point de départ : le carrefour et ses innombrables possibilités. Toutefois, seules celles que vous saurez entrevoir vous permettront de réinventer le destin."
+	}
+]
+}

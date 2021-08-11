@@ -1,0 +1,520 @@
+{
+"columns":[
+	{
+		"name": "ENM_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemico"
+	},
+	{
+		"name": "ENM_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly schiaffone"
+	},
+	{
+		"name": "ENM_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly pogo"
+	},
+	{
+		"name": "ENM_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly metallaro"
+	},
+	{
+		"name": "ENM_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Decadencorvo"
+	},
+	{
+		"name": "ENM_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Oriencorvo"
+	},
+	{
+		"name": "ENM_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Nefastcorvo"
+	},
+	{
+		"name": "ENM_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Dixierana"
+	},
+	{
+		"name": "ENM_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Jazzrana"
+	},
+	{
+		"name": "ENM_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Funkrana"
+	},
+	{
+		"name": "ENM_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Tradirana"
+	},
+	{
+		"name": "ENM_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Lupo garage"
+	},
+	{
+		"name": "ENM_Name_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "Lupo alternative"
+	},
+	{
+		"name": "ENM_Name_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "Lupo grunge"
+	},
+	{
+		"name": "ENM_Name_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "Medusa madchester"
+	},
+	{
+		"name": "ENM_Name_0052",
+		"speaker": "",
+		"listener": "",
+		"content": "Medusa swechno"
+	},
+	{
+		"name": "ENM_Name_0053",
+		"speaker": "",
+		"listener": "",
+		"content": "Medusa neoacustica"
+	},
+	{
+		"name": "ENM_Name_0054",
+		"speaker": "",
+		"listener": "",
+		"content": "Medusa germanica"
+	},
+	{
+		"name": "ENM_Name_0061",
+		"speaker": "",
+		"listener": "",
+		"content": "Rinoceronte house"
+	},
+	{
+		"name": "ENM_Name_0062",
+		"speaker": "",
+		"listener": "",
+		"content": "Rinoceronte minimal"
+	},
+	{
+		"name": "ENM_Name_0063",
+		"speaker": "",
+		"listener": "",
+		"content": "Rinoceronte dub"
+	},
+	{
+		"name": "ENM_Name_0071",
+		"speaker": "",
+		"listener": "",
+		"content": "Squalo swing"
+	},
+	{
+		"name": "ENM_Name_0072",
+		"speaker": "",
+		"listener": "",
+		"content": "Squalo bebop"
+	},
+	{
+		"name": "ENM_Name_0073",
+		"speaker": "",
+		"listener": "",
+		"content": "Squalo smooth"
+	},
+	{
+		"name": "ENM_Name_0081",
+		"speaker": "",
+		"listener": "",
+		"content": "Pachi R&R"
+	},
+	{
+		"name": "ENM_Name_0082",
+		"speaker": "",
+		"listener": "",
+		"content": "Mammut R&B"
+	},
+	{
+		"name": "ENM_Name_0083",
+		"speaker": "",
+		"listener": "",
+		"content": "Elefante AOR"
+	},
+	{
+		"name": "ENM_Name_0091",
+		"speaker": "",
+		"listener": "",
+		"content": "J Popguino"
+	},
+	{
+		"name": "ENM_Name_0092",
+		"speaker": "",
+		"listener": "",
+		"content": "Electro Popguino"
+	},
+	{
+		"name": "ENM_Name_0093",
+		"speaker": "",
+		"listener": "",
+		"content": "Brit Popguino"
+	},
+	{
+		"name": "ENM_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Pesce palla punk"
+	},
+	{
+		"name": "ENM_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Pesce palla Oi"
+	},
+	{
+		"name": "ENM_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Pesce palla emo"
+	},
+	{
+		"name": "ENM_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Pesce palla hardcore"
+	},
+	{
+		"name": "ENM_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Scorpione break"
+	},
+	{
+		"name": "ENM_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Drum'n'scorpio"
+	},
+	{
+		"name": "ENM_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Drill'n'scorpio"
+	},
+	{
+		"name": "ENM_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Hardtechnoleonte"
+	},
+	{
+		"name": "ENM_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Camhouseonte"
+	},
+	{
+		"name": "ENM_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Tropicaleonte"
+	},
+	{
+		"name": "ENM_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Distortius Rex"
+	},
+	{
+		"name": "ENM_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Phasaurus Rex"
+	},
+	{
+		"name": "ENM_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Maximizaurus Rex"
+	},
+	{
+		"name": "ENM_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale samba"
+	},
+	{
+		"name": "ENM_Name_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale mazurca"
+	},
+	{
+		"name": "ENM_Name_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale bachata"
+	},
+	{
+		"name": "ENM_Name_0204",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale baciato"
+	},
+	{
+		"name": "ENM_Name_0205",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale carol"
+	},
+	{
+		"name": "ENM_Name_0206",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale cha-cha"
+	},
+	{
+		"name": "ENM_Name_0207",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale valzer"
+	},
+	{
+		"name": "ENM_Name_0208",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale jive"
+	},
+	{
+		"name": "ENM_Name_0209",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale bolero"
+	},
+	{
+		"name": "ENM_Name_0210",
+		"speaker": "",
+		"listener": "",
+		"content": "Maiale mambo"
+	},
+	{
+		"name": "ENM_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Society"
+	},
+	{
+		"name": "ENM_Name_0301s",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Deep Rivers gasato"
+	},
+	{
+		"name": "ENM_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Purehearts"
+	},
+	{
+		"name": "ENM_Name_0302s",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Purehearts gasato"
+	},
+	{
+		"name": "ENM_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauties"
+	},
+	{
+		"name": "ENM_Name_0303s",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Variabeauties gasato"
+	},
+	{
+		"name": "ENM_Name_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Rana appestata"
+	},
+	{
+		"name": "ENM_Name_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Grizzly appestato"
+	},
+	{
+		"name": "ENM_Name_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Scorpione appestato"
+	},
+	{
+		"name": "ENM_Name_0404",
+		"speaker": "",
+		"listener": "",
+		"content": "Medusa appestata"
+	},
+	{
+		"name": "ENM_Name_0405",
+		"speaker": "",
+		"listener": "",
+		"content": "Lupo appestato"
+	},
+	{
+		"name": "ENM_Name_0406",
+		"speaker": "",
+		"listener": "",
+		"content": "Pachi appestato"
+	},
+	{
+		"name": "ENM_Name_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Rospo appestato"
+	},
+	{
+		"name": "ENM_Name_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Nemopilema appestata"
+	},
+	{
+		"name": "ENM_Name_1011",
+		"speaker": "",
+		"listener": "",
+		"content": "Go-gorilla"
+	},
+	{
+		"name": "ENM_Name_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuya"
+	},
+	{
+		"name": "ENM_Name_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Motoi"
+	},
+	{
+		"name": "ENM_Name_1021",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Miao"
+	},
+	{
+		"name": "ENM_Name_1022",
+		"speaker": "",
+		"listener": "",
+		"content": "Mr. Miao"
+	},
+	{
+		"name": "ENM_Name_1031",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus cantus"
+	},
+	{
+		"name": "ENM_Name_1041",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris cantus"
+	},
+	{
+		"name": "ENM_Name_1051",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1052",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "ENM_Name_1053",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus cantus"
+	},
+	{
+		"name": "ENM_Name_1061",
+		"speaker": "",
+		"listener": "",
+		"content": "Leo cantus armo"
+	},
+	{
+		"name": "ENM_Name_1071",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "ENM_Name_1081",
+		"speaker": "",
+		"listener": "",
+		"content": "Animus pulvis"
+	},
+	{
+		"name": "ENM_Name_1091",
+		"speaker": "",
+		"listener": "",
+		"content": "Phoenix cantus"
+	},
+	{
+		"name": "ENM_Name_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Cervus cantus α"
+	},
+	{
+		"name": "ENM_Name_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Grus cantus α"
+	},
+	{
+		"name": "ENM_Name_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Iris cantus α"
+	},
+	{
+		"name": "ENM_Name_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba α"
+	},
+	{
+		"name": "ENM_Name_1105",
+		"speaker": "",
+		"listener": "",
+		"content": "Felidae cantus"
+	}
+]
+}

@@ -1,0 +1,1084 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Información de objeto"
+	},
+	{
+		"name": "ITM_VAL_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Puntos de amistad"
+	},
+	{
+		"name": "ITM_BOK_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Unas misteriosas notas anónimas."
+	},
+	{
+		"name": "ITM_BOK_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Moverse por la ciudad"
+	},
+	{
+		"name": "ITM_BOK_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Escanear: parte 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Escanear: parte 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Pines y psicopoderes"
+	},
+	{
+		"name": "ITM_BOK_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Moverse y evadir"
+	},
+	{
+		"name": "ITM_BOK_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Recargar los pines"
+	},
+	{
+		"name": "ITM_BOK_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Combos de clímax"
+	},
+	{
+		"name": "ITM_BOK_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Mezclas"
+	},
+	{
+		"name": "ITM_BOK_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Mezclas pegadizas"
+	},
+	{
+		"name": "ITM_BOK_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Llevar pines"
+	},
+	{
+		"name": "ITM_BOK_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Moda"
+	},
+	{
+		"name": "ITM_BOK_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Dificultad y niveles"
+	},
+	{
+		"name": "ITM_BOK_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Huir del combate"
+	},
+	{
+		"name": "ITM_BOK_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Notas mentales"
+	},
+	{
+		"name": "ITM_BOK_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Red social: parte 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Red social: parte 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiendas"
+	},
+	{
+		"name": "ITM_BOK_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "ShibuPay"
+	},
+	{
+		"name": "ITM_BOK_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Comida"
+	},
+	{
+		"name": "ITM_BOK_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Improntas"
+	},
+	{
+		"name": "ITM_BOK_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Refrescar la memoria con Fret"
+	},
+	{
+		"name": "ITM_BOK_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Adentrarse con Nagi"
+	},
+	{
+		"name": "ITM_BOK_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Teletransportarse con Shoka"
+	},
+	{
+		"name": "ITM_BOK_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Surf sonoro con Beat"
+	},
+	{
+		"name": "ITM_BOK_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Repetir con Rindo"
+	},
+	{
+		"name": "ITM_BOK_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Repetir con Rindo: parte 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Selección de capítulo"
+	},
+	{
+		"name": "ITM_BOK_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "La Ruidopedia"
+	},
+	{
+		"name": "ITM_BOK_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Muro de grafiti"
+	},
+	{
+		"name": "ITM_BOK_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Menú de colecciones"
+	},
+	{
+		"name": "ITM_BOK_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Conquistas cruzadas"
+	},
+	{
+		"name": "ITM_BOK_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Contrarreloj final"
+	},
+	{
+		"name": "ITM_BOK_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Otro día"
+	},
+	{
+		"name": "ITM_BOK_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Mezclas supercargadas"
+	},
+	{
+		"name": "ITM_BOK_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Nuevos miembros del grupo"
+	},
+	{
+		"name": "ITM_BOK_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Superpines"
+	},
+	{
+		"name": "ITM_BOK_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Batallas en cadena"
+	},
+	{
+		"name": "ITM_BOK_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Ruido contagioso"
+	},
+	{
+		"name": "ITM_BOK_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Punto óptimo de clímax"
+	},
+	{
+		"name": "ITM_BOK_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Potenciando"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0200_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_2",
+		"speaker": "",
+		"listener": "",
+		"content": "¡Que no decaiga! Usa a los miembros de tu equipo para infligir una enorme cantidad de daño a tus enemigos y alzarte con la victoria."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando un psicopoder impacta con éxito, aparece un indicador de clímax circular. Ataca con otro personaje mientras el indicador sigue en pantalla para darle caña y aumentar el ritmo de tu equipo."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Presta atención a las habilidades de la ropa y de red social que pueden hacer que tu ritmo suba más rápido."
+	},
+	{
+		"name": "ITM_BOK_Info_0202_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0202_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0202_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Al esquivar, tu personaje se vuelve intocable durante un instante, lo que viene muy bien cuando estás a punto de recibir un golpe. Ten en cuenta que hay habilidades de red social que pueden ampliar tu invulnerabilidad."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay Ruidos que podrían contraatacar al lanzarles psicopoderes. Ten cuidado cuando lo intenten, ya que no hay daño capaz de interrumpirlos."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Sabrás que un enemigo va a contraatacar cuando brille de color rojo. Cuando veas dicha señal, deja de atacar y prepárate para esquivar."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los enemigos tienen debilidades elementales que puedes explotar para infligirles más daño. Ten en cuenta la afinidad elemental de los pines que llevas para poder someter a tus enemigos."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Estos son los elementos que encontrarás: fuego, hielo, electricidad, viento, agua, piedra, veneno, explosión, sonido, luz, oscuridad, gravedad, cinético y tiempo."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay ciertos ataques que pueden provocar alteraciones del estado a tus compañeros o enemigos. Dichos efectos desaparecen con el tiempo, y van desde reducir los PV hasta inmovilizar."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay alteraciones, como el envenenamiento, la conmoción o la quemadura, que reducen los PV, y otras como el aturdimiento, el encadenamiento, la congelación o la sepultación, que inmovilizan al personaje o enemigo. No te olvides: ¡hay objetos que pueden curar (y prevenir) las alteraciones!"
+	},
+	{
+		"name": "ITM_BOK_Info_0206_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Conseguirás EXP y PP por cada enemigo que derrotes. La EXP hará que aumente el nivel de tus compañeros, mientras que los PP harán que aumente el nivel de los pines que uses en combate."
+	},
+	{
+		"name": "ITM_BOK_Info_0206_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Para conseguir más PP, haz lo siguiente: 1) cosecha múltiples victorias con un batalla en cadena; 2) termina con rapidez el combate; 3) ¡no recibas mucho daño!"
+	},
+	{
+		"name": "ITM_BOK_Info_0207_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Al empujar o lanzar por los aires a un enemigo, este no podrá reaccionar, dando así a tu equipo la oportunidad perfecta para hacerle pasar un infierno."
+	},
+	{
+		"name": "ITM_BOK_Info_0207_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay enemigos a los que no se puede empujar ni lanzar por los aires, así que asegúrate de tener un plan b por si acaso."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Alcanza un ritmo del 200 % o más para lanzar ataques de mezcla supercargados."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Los ataques de mezcla cambian según el elemento del último psicopoder que hayas usado en tu combo. Puedes usar más personajes en tu combo para potenciar la mezcla."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuando tienes un ritmo del 300 %, el equipo puede utilizar mezclas pegadizas. Cuantos más compañeros de equipo uses para aumentar el ritmo, más potente y duradero será el ataque especial del equipo."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Tras usar mezclas pegadizas, tu equipo recuperará PV. Cuantos más compañeros de equipo uses para lanzar el ataque, más PV recuperaréis."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_1",
+		"speaker": "",
+		"listener": "",
+		"content": "De vez en cuando, los enemigos dejarán caer pines cuando los derrotes. Los pines que recibas gracias al combate variarán según la dificultad, la clase de Ruido y lo alta que sea tu tasa de botín."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Gana más batallas en cadena y reduce el nivel del combate para aumentar la tasa de botín. Para conseguir cosas superraras, ¡reduce a lo bestia el nivel y participa en batallas en cadena!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay pines que pueden evolucionar al subir de nivel, mientras que otros primero necesitan cumplir ciertos requisitos. ¿Quieres conseguir todos los pines? ¡Pues más vale que te pongas a evolucionarlos!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Te toca a ti decidir si evolucionas los pines. ¡No evolucionar un pin y subirlo de nivel es una estrategia totalmente viable!"
+	},
+	{
+		"name": "ITM_BOK_Info_0213_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay ciertos pines que pueden producir efectos interesantes al emparejarlos con otros."
+	},
+	{
+		"name": "ITM_BOK_Info_0213_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Infórmate en el menú Pines de si un pin tiene alguna habilidad especial que aparece al emparejarlo con el pin adecuado."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los superpines son ─tal y como te imaginabas─ pines extremadamente poderosos que no te puedes equipar sin antes desbloquear una habilidad única en tu red social."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cuantas más habilidades especiales desbloquees, más superpines te podrás equipar."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_1",
+		"speaker": "",
+		"listener": "",
+		"content": "¿Quieres ampliar tu colección de pines? Ten en cuenta que hay pines que solo podrás conseguir en tiendas, combates, eventos o evolucionando otros."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Para ver qué enemigos sueltan pines, echa un vistazo a la Ruidopedia."
+	},
+	{
+		"name": "ITM_BOK_Info_0216_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0216_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0216_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ciertas habilidades de tu red social pueden aumentar el número total de conjuntos de los que puedes disponer."
+	},
+	{
+		"name": "ITM_BOK_Info_0217_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0217_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0217_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Pero ten cuidado con los símbolos de Ruido. Si entras en contacto con uno, dará comienzo un combate."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El símbolo de Ruido dicta el tipo principal de enemigo al que te enfrentarás, lo que puede serte de utilidad si necesitas acabar con una clase de Ruido en particular."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_2",
+		"speaker": "",
+		"listener": "",
+		"content": "¿Quieres mantener alejados los símbolos de Ruido? Hay prendas que permiten mantenerlos a raya."
+	},
+	{
+		"name": "ITM_BOK_Info_0219_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0219_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0219_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si te encantan las batallas en cadena, usa un imán de Ruido para atraer los símbolos de Ruido. Hay un número máximo de batallas en cadena que puedes iniciar, pero ciertas habilidades de red social pueden aumentar dicho número."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los símbolos de Ruido rojo contienen monstruos más débiles, pero no bajes la guardia. Hasta los símbolos rojos pueden ocultar enemigos temibles."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_2",
+		"speaker": "",
+		"listener": "",
+		"content": "A diferencia de otros símbolos, estos reaparecerán cuando vuelvas al lugar donde te enfrentaste con ellos."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los símbolos de Ruido azul contienen enemigos más poderosos."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Para ver estos símbolos especiales, tendrás que desbloquear ciertas habilidades en tu red social."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los símbolos de Ruido rosa contienen Ruido porcino, que siempre deja caer pines si lo derrotas."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si al escanear oyes algún <MK_11>oinc-oinc<MK_11>, es que hay Ruido porcino cerca."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido porcino puede ser inmune a ciertos psicopoderes, así que piensa bien tu estrategia. Prueba varios psicopoderes para hacer que estos gorrinos se arrepientan de haberse metido contigo."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Los combates contra el Ruido porcino tienen un tiempo límite, pero hay prendas de ropa capaces de ampliarlo."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Estos extraños y misteriosos símbolos de Ruido huirán si detectan a Rindo y compañía."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Derrotar a este tipo de Ruido hará que aumente tu tasa de botín, así que si quieres hacerte con un montón de pines, intenta encadenarlos con otros símbolos."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los símbolos de Ruido naranja solo aparecerán durante Conquistas cruzadas y, al derrotarlos, darán puntos de conquista a tu equipo."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Al enfrentarte a este tipo de Ruido, los demás enemigos del combate también te darán puntos de conquista. ¡Encadena batallas para llevarte un montón de puntos!"
+	},
+	{
+		"name": "ITM_BOK_Info_0226_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Según lo rápido que te adentres, se te entregará una de estas tres puntuaciones: oro, plata o bronce. Cuanto mejor sea tu puntuación, más PA recibirás."
+	},
+	{
+		"name": "ITM_BOK_Info_0226_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Para adentrarte más rápido, prueba a aumentar el nivel de tus compañeros, comer distintas comidas y equiparte nuevas prendas y medallas."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Al adentrarte, el Ruido rojo con el que luches estará rabioso."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido rabioso no es poca cosa y puede ser un adversario peligroso. ¡No dejes que te toque!"
+	},
+	{
+		"name": "ITM_BOK_Info_0228_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido azul que veas al adentrarte es bastante desdichado."
+	},
+	{
+		"name": "ITM_BOK_Info_0228_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Los PV de tu equipo bajarán constantemente mientras haya Ruido azul presente y, cuanto más Ruido haya, ¡más PV perderás! Derrota primero a estos monstruos de la melancolía."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido verde que veas al adentrarte estará en calma."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Derrotar a este tranquilo Ruido hará que tu equipo recupere PV."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido morado que veas al adentrarte estará asustado."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_2",
+		"speaker": "",
+		"listener": "",
+		"content": "El Ruido asustado es enorme y no se verá afectado por los ataques que le lances. También tiene la costumbre de contraatacar, ¡así que mide bien los tiempos!"
+	},
+	{
+		"name": "ITM_BOK_Info_0231_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vende los pines que no quieras para conseguir yenes a través de ShibuPay, un servicio de pago digital que se usa en la ciudad."
+	},
+	{
+		"name": "ITM_BOK_Info_0231_2",
+		"speaker": "",
+		"listener": "",
+		"content": "La habilidad de red social <MK_11>Autocarga de ShibuPay<MK_11> convierte automáticamente los pines de dinero en dinero de ShibuPay, lo que te evita tener que venderlos."
+	},
+	{
+		"name": "ITM_BOK_Info_0232_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0232_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0232_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay habilidades que solo funcionan al llevar las prendas ciertos personajes. Estos atuendos específicos suelen ser más útiles que la ropa corriente."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Las habilidades de la ropa no se activarán si el estilo de tu personaje no es superior al de esta. Para aumentar tu estilo, prueba a comer ciertos platos."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay gran cantidad de habilidades de ropa disponibles: para el combate, para explorar la ciudad, o con fines bastante particulares."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Los objetos marcados con la palabra <MK_11>Trueque<MK_11> no se pueden comprar. En su lugar (¿quién lo hubiera dicho?) debes entregar los materiales de trueque correspondientes."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Si la palabra <MK_11>Trueque<MK_11> aparece en gris, es que no tienes materiales suficientes para comprar el objeto. Así que ve a buscar más por ahí."
+	},
+	{
+		"name": "ITM_BOK_Info_0235_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Si compras regularmente en la misma tienda, los empleados te cogerán cariño. No solo serán más amables, ¡sino que puede que te vendan productos especiales!"
+	},
+	{
+		"name": "ITM_BOK_Info_0235_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Puedes aumentar tu nivel VIP en las tiendas de marca al llevar su ropa y sus pines en combate. ¡A sus empleados les encantará la promoción gratis!"
+	},
+	{
+		"name": "ITM_BOK_Info_0236_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Puedes aumentar las estadísticas de tu equipo comiendo... Fin de la historia. En serio, aumentar tus estadísticas es facilísimo."
+	},
+	{
+		"name": "ITM_BOK_Info_0236_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Una vez te hayas saciado, ya no podrás comer más, pero recuperarás el hambre al luchar. Comer, luchar y hacer hambre. Una y otra vez. ¡Tu equipo lo agradecerá!"
+	},
+	{
+		"name": "ITM_BOK_Info_0237_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cada personaje tiene un aperitivo favorito que le proporcionará una mejora adicional de las estadísticas."
+	},
+	{
+		"name": "ITM_BOK_Info_0237_2",
+		"speaker": "",
+		"listener": "",
+		"content": "¿Quieres saber qué comida le gusta a un personaje? Observa su reacción al comer algo. Lo dejan bien clarito..."
+	},
+	{
+		"name": "ITM_BOK_Info_0238_1",
+		"speaker": "",
+		"listener": "",
+		"content": "El arte de los callejones de Udagawa es un reflejo de los diseños del mural de la sección Grafitis del menú Informe. ¡Parece una buena oportunidad para darle vidilla a Shibuya con tu estilo propio!"
+	},
+	{
+		"name": "ITM_BOK_Info_0238_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Echa una mano por la ciudad para conseguir nuevos grafitis. Si quieres pistas sobre cómo obtener cada diseño, ve a la sección Grafitis del menú Informe."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Durante Conquistas cruzadas, aparecerá un enemigo marcado con la palabra <MK_11>bonus<MK_11>. Derrótalo para conseguir un montonazo de puntos."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Descarga combos sobre tus enemigos para conseguir más puntos de conquista. Además, trata de reservar la bonificación para el final para salir del combate cargado de puntos."
+	},
+	{
+		"name": "ITM_BOK_Info_0240_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0240_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0240_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ábrelas en cualquier momento, incluso cuando estés resolviendo un acertijo enrevesado. ¡Puede que contengan respuestas!"
+	},
+	{
+		"name": "ITM_BOK_Info_0241_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Usa PA desde la pestaña Pensamientos del menú principal para desbloquear habilidades en la red social de tus personajes."
+	},
+	{
+		"name": "ITM_BOK_Info_0241_2",
+		"speaker": "",
+		"listener": "",
+		"content": "¡Avanza en la trama, resuelve problemas por la ciudad y traba amistad con los empleados de las tiendas para hacer que crezca tu red social!"
+	},
+	{
+		"name": "ITM_BOK_Info_0242_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Hay eventos que no son relevantes para la historia, es decir, que puedes ignorar. Sin embargo, en ellos se pueden conseguir PA y objetos, así que te conviene ser altruista."
+	},
+	{
+		"name": "ITM_BOK_Info_0242_2",
+		"speaker": "",
+		"listener": "",
+		"content": "¿Quieres saber si tienes alguna misión secundaria sin resolver? Comprueba la sección de capítulos en el menú de registros."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Desde la sección de capítulos del menú de informes, puedes volver a cualquier día que ya hayas completado. Es un truco muy útil si te has dejado algo importante o necesitas fortalecer a tu equipo."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Al retroceder en el tiempo, conservarás todos los objetos, miembros del equipo y estadísticas que tengas, lo que hará más fácil completar las misiones o derrotar a los enemigos que te falten."
+	},
+	{
+		"name": "ITM_MSC_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Wander Around Shibuya<MK_11><BR>Déjate llevar por el ritmo en tu nueva aventura. Conforme la canción se viene arriba, también lo haces tú."
+	},
+	{
+		"name": "ITM_MSC_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>INCONGRUOUS<MK_11><BR>O sea, ¿quién quiere armonía? Aléjate de la música de siempre con este tema tan impredecible."
+	},
+	{
+		"name": "ITM_MSC_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Your Ocean<MK_11><BR>Una voz apática y un potente riff de guitarra conforman un tema perfecto para la nueva generación."
+	},
+	{
+		"name": "ITM_MSC_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Insomnia<MK_11><BR>Basta con escuchar estos ritmos de sintetizador para sentir que puedes descubrir todos los secretos ocultos de la ciudad."
+	},
+	{
+		"name": "ITM_MSC_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Breaking Free<MK_11><BR>La voz melodiosa de esta canción de rock te dará el empujón que necesitas para superar cualquier obstáculo que se interponga en tu camino."
+	},
+	{
+		"name": "ITM_MSC_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hustle and Bustle<MK_11><BR>Este tema electropop tan mono y pegadizo hará que mantengas los pies en la tierra y te recordará dónde estás."
+	},
+	{
+		"name": "ITM_MSC_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Shibuya Survivor<MK_11><BR>Una tranquila melodía de voz se entrelaza meticulosamente con unos graves tonos de guitarra para darle a esta canción un toque alternativo."
+	},
+	{
+		"name": "ITM_MSC_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Kill the Itch<MK_11><BR>Un buen tema de rock que se te irá metiendo en la cabeza mientras te enfrentas a las adversidades de la vida."
+	},
+	{
+		"name": "ITM_MSC_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>unconscious<MK_11><BR>Todo en este mundo es efímero, pero esta canción hará que te sientas como si hubiese algo que, aunque no lo veas, siempre ha estado ahí."
+	},
+	{
+		"name": "ITM_MSC_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Rockin' Rockin'<MK_11><BR>Siente cómo vibra el ritmo desde lo más profundo mientras lo das todo con este temazo. Que no te sorprenda si los demás se te unen."
+	},
+	{
+		"name": "ITM_MSC_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Unpainted<MK_11><BR>Déjate llevar por su ritmo y olvídate del dolor que aflige tu corazón."
+	},
+	{
+		"name": "ITM_MSC_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>DIVIDE<MK_11><BR>Esta emotiva canción podría ser justo lo que necesitas para enfrentarte a las verdades que chocan en tu interior y reconciliarlas."
+	},
+	{
+		"name": "ITM_MSC_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>We're Losing You<MK_11><BR>¿Blanco o negro? El silencio no vale. El sonido cañero de esta canción penetra en tu corazón y resuena con el Ruido que hay dentro."
+	},
+	{
+		"name": "ITM_MSC_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LAST CALL<MK_11><BR>Rápidos ritmos ambientales que invocan lo inesperado con una voz agradable y directa."
+	},
+	{
+		"name": "ITM_MSC_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Storm<MK_11><BR>Si no te andas con cuidado, el ritmo funky de este auténtico temazo podría ser tu perdición."
+	},
+	{
+		"name": "ITM_MSC_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>The Beginning of a Happy Life<MK_11><BR>Los audaces sintes y los pronunciados golpes de bajo harán que no pierdas el ritmo al empezar el día."
+	},
+	{
+		"name": "ITM_MSC_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>CHASE<MK_11><BR>No mires atrás. Estos intensos ritmos acústicos te transportarán hacia una época nueva y deslumbrante."
+	},
+	{
+		"name": "ITM_MSC_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>bird in the hand<MK_11><BR>Las voces opuestas nunca llegan a converger en este tema aparentemente sencillo."
+	},
+	{
+		"name": "ITM_MSC_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Beyond Oblivion<MK_11><BR>La amistad se torna recuerdo, y el recuerdo se torna sueño. Esto es una elegía para todos esos corazones que están sufriendo."
+	},
+	{
+		"name": "ITM_MSC_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>World Is Yours<MK_11><BR>Las melodías surgen de las cenizas a medida que se caldea el ritmo de este tema homenaje."
+	},
+	{
+		"name": "ITM_MSC_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>take away<MK_11><BR>Es imposible que no se te escape una sonrisa, ¿eh? Lo sabes de sobra. No te olvides de recargar ShibuPay antes de irte."
+	},
+	{
+		"name": "ITM_MSC_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>NEW GAME<MK_11><BR>El mundo acaba con este himno del hard rock. Ya nada puede parar la cuenta atrás."
+	},
+	{
+		"name": "ITM_MSC_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LITTLE THINGS - JP<MK_11><BR>Los relajantes tonos de piano y la constante percusión te envolverán como la luz del sol que baña el cruce peatonal."
+	},
+	{
+		"name": "ITM_MSC_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>hopeless<MK_11><BR>No hay ni un rayo de luz que te ayude a conservar la esperanza. Tan solo un melancólico nocturno que te acompaña en tu pesar."
+	},
+	{
+		"name": "ITM_MSC_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>disturbance<MK_11><BR>Asco. Miedo. Terror. Se te pondrán los pelos de punta al escuchar este capricho sobre los horrores que se avecinan."
+	},
+	{
+		"name": "ITM_MSC_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>death throes<MK_11><BR>El peligro está cada vez más cerca. ¿Perseverarás? ¿O sucumbirás a los obstáculos que se avecinan?"
+	},
+	{
+		"name": "ITM_MSC_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>a tranquil mind<MK_11><BR>Relájate. Respira hondo. Deja que esta aria te tranquilice y aleje los malos pensamientos."
+	},
+	{
+		"name": "ITM_MSC_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>act the fool<MK_11><BR>Notas algo extraño. Sabes que va a pasar algo, y te hueles lo que podría ser."
+	},
+	{
+		"name": "ITM_MSC_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>ENCOUNTER<MK_11><BR>Le has echado el ojo a tu presa. Debes aprovechar que esta tocata aumenta tu anticipación y atacar."
+	},
+	{
+		"name": "ITM_MSC_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>peaceful day<MK_11><BR>Al escuchar esta alegre melodía, sabes que has superado el día. Hora de relajarte y disfrutar de tu tan merecido tiempo libre."
+	},
+	{
+		"name": "ITM_MSC_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Twister (NEO Mix)<MK_11><BR>Vuelve la obra maestra para deleitar a sus fans con una explosión de adrenalina musical. <MK_11>That power is yet unknown.<MK_11>"
+	},
+	{
+		"name": "ITM_MSC_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Revelation (NEO Mix)<MK_11><BR>Los sintetizadores agudizarán tus sentidos mientras las potentes melodías de voz te recordarán lo que ha quedado atrás. Es hora de enfrentarte a nuevos desafíos con viejos amigos."
+	},
+	{
+		"name": "ITM_MSC_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>March On (NEO Mix)<MK_11><BR>Su ambivalente melodía de voz salpicada de gritos distópicos hace diferente a esta canción pop."
+	},
+	{
+		"name": "ITM_MSC_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Calling (NEO Mix)<MK_11><BR>Este tema es una clara señal de que está a punto de pasar algo gordo. Y te llama: <MK_11>Dear friend, once more<MK_11>."
+	},
+	{
+		"name": "ITM_MSC_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hybrid (NEO Mix)<MK_11><BR>Atraviesa el peligro mientras este tema pasa de ser amenazante a tranquilo y vuelta a empezar."
+	},
+	{
+		"name": "ITM_MSC_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Ooparts - JP (NEO Mix)<MK_11><BR>La disonancia marca a esta canción atemporal para cualquier generación cuya mezcla de géneros representa puntos de vista opuestos."
+	},
+	{
+		"name": "ITM_MSC_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Jump Over Yourself (NEO Mix)<MK_11><BR>Una intro inolvidable da paso a una sensación de control e incertidumbre, pero nunca de miedo. Las respuestas te están esperando a la vuelta de la esquina."
+	},
+	{
+		"name": "ITM_MSC_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Someday - JP (NEO Mix)<MK_11><BR>¡Todo un clásico! Este tema de hard rock te traerá muy buenos recuerdos."
+	},
+	{
+		"name": "ITM_MSC_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Make or Break (NEO Mix)<MK_11><BR>No tardarás ni un segundo en ponerte a cantar al ritmo del sinte y de la batería. Es demasiado pegadizo."
+	},
+	{
+		"name": "ITM_MSC_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>SCRAMBLE<MK_11><BR>Empieza modosita, pero enseguida se viene muy arriba. A eso añádele algunos elementos típicos del pop y verás como se te mete en la cabeza."
+	},
+	{
+		"name": "ITM_MSC_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Revelation - JP (NEO Mix)<MK_11><BR>Una firme melodía de voz surca el drama melódico. Al escucharla, sientes que ni el propio destino se podría cruzar en tu camino."
+	},
+	{
+		"name": "ITM_MSC_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Transformation (NEO Mix)<MK_11><BR>Cuando no sabes qué va a suceder, un dramático arreglo de orquesta te da el valor para jugártela."
+	},
+	{
+		"name": "ITM_MSC_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Three Minutes Clapping (NEO Mix)<MK_11><BR>El ritmo salsero y las voces de la multitud hacen que este tema sea la motivación perfecta cuando necesitas un empujoncito antes de arrasar al Ruido."
+	},
+	{
+		"name": "ITM_MSC_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>The One Star (NEO Mix)<MK_11><BR>Un buen tema con un riff de guitarra guapísimo. Vale la pena que te pongas los cascos para escucharlo."
+	},
+	{
+		"name": "ITM_MSC_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>OWARI-HAJIMARI (NEO Mix)<MK_11><BR>Sube el volumen, porque esta transgresora composición sabe mejor cuanto más alta esté."
+	},
+	{
+		"name": "ITM_MSC_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>OWARI-HAJIMARI - JP (NEO Mix)<MK_11><BR>Sube el volumen, porque esta transgresora composición sabe mejor cuanto más alta esté."
+	},
+	{
+		"name": "ITM_MSC_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Twister<MK_11><BR>Ha vuelto en todo su esplendor. Pura música sin florituras. Te mantendrá más a tope que nunca."
+	},
+	{
+		"name": "ITM_MSC_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Someday (NEO Mix)<MK_11><BR>¡Todo un clásico! Este tema de hard rock te pone bien las pilas."
+	},
+	{
+		"name": "ITM_MSC_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hybrid - JP (NEO Mix)<MK_11><BR>Atraviesa el peligro mientras este tema pasa de amenazante a tranquilo y vuelta a empezar. Ahora en japonés."
+	},
+	{
+		"name": "ITM_MSC_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Rockin' Rockin' (en directo)<MK_11><BR>¡Vuelve a los escenarios este legendario tema! Disfruta de esta dulce tormenta, su sonido por antonomasia, y recuerda: este sueño acaba contigo."
+	},
+	{
+		"name": "ITM_MSC_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LITTLE THINGS<MK_11><BR>Una vez más, el mundo comienza contigo, parado en el cruce en medio de infinitas posibilidades; pero solo las que puedes percibir te ayudarán a cambiar el destino."
+	}
+]
+}

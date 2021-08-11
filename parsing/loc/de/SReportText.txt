@@ -1,0 +1,604 @@
+{
+"columns":[
+	{
+		"name": "SR_01_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Drei Jahre sind seit dem Spiel vergangen, das die Aufmerksamkeit der Höheren Ebene erregt hat. Die Beobachtung ist noch im Gange, doch vom UG aus gesehen scheint Shibuya erneut am Rande einer Katastrophe zu stehen.<BR><BR>Diesmal darf ich mich nicht in das Spiel einmischen, also wird sich dieser Bericht auf die Veränderungen von RG und UG beschränken müssen."
+	},
+	{
+		"name": "SR_01_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Vollstrecker ist vor drei Jahren in Shibuya eingedrungen. Dieser Engel aus Shinjuku begann ein geheimes Spiel mit Shibuyas Komponisten, das schlussendlich mit Shinjukus Zerstörung endete.<BR><BR>Schon bei seiner Ankunft in Shibuya hätte er gemaßregelt werden müssen, doch aus irgendeinem Grund drücken die Eliten ein Auge zu. Die meisten Bewohner der Höheren Ebene lehnen Shibuyas Verunreinigung wohl immer noch ab."
+	},
+	{
+		"name": "SR_01_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Dieses Spiel ähnelt der erwähnten Verunreinigung, da es ebenfalls besonderen Umständen unterliegt, die es im Gleichgewicht halten. Sie lauten wie folgt: 1) Meinungsverschiedenheiten und Konflikte hinsichtlich Shibuyas Zerstörung,<BR><BR>2) die Abwesenheit des Komponisten,<BR>3) die Teilnahme von zwei Stellvertretern am Spiel und<BR>4) die direkte Einmischung des Vollstreckers."
+	},
+	{
+		"name": "SR_01_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Weder der Vollstrecker, der Shibuyas Zerstörung und Läuterung herbeiführen will, noch der Komponist, der das bisher verhindern konnte, können direkt auf das Geschehen im UG Einfluss nehmen. Dies ist nur über einen Stellvertreter möglich.<BR><BR>Der Stellvertreter des Vollstreckers ist der Dirigent Shiba Miyakaze, der Stellvertreter des Komponisten ist der menschliche Spieler Rindo Kanade."
+	},
+	{
+		"name": "SR_01_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich werde Shiba Miyakaze im Folgenden als „Dirigent“ und Rindo Kanade als „Stellvertreter“ bezeichnen.<BR><BR>Vermutlich hat das Erscheinen des Stellvertreters den Ex-Reaper Sho Minamimoto erneut aktiv werden lassen. Außerdem ähneln die aktuellen Schwingungen jenen, die von Shinjuku kurz vor der Läuterung ausgingen. Noch sind sie schwach, doch ich werde sie im Blick behalten."
+	},
+	{
+		"name": "SR_02_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Anwesenheit eines Stellvertreters anstelle eines aktiven Komponisten wirkt sich vor allem dadurch auf das Spiel aus, dass der Dirigent unsinnige Regeln aufstellt.<BR><BR>Eine davon stammt vermutlich aus Shinjukus Regelwerk und teilt die Spieler in Teams ein."
+	},
+	{
+		"name": "SR_02_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nach diesem System kann das Team, welches unter der Woche die meisten Punkte sammelt, bestimmen, ob es weiterspielen will oder nicht.<BR><BR>Wer aufhört, kann auf Wunsch in den RG zurückkehren. Allerdings kann nur der Komponist Spieler zurück in den RG schicken. Der Dirigent hat weder das Recht, eine solche Regel einzuführen, noch die Fähigkeit, sie durchzusetzen."
+	},
+	{
+		"name": "SR_02_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Deswegen ist dem Dirigenten sehr an der weiteren Teilnahme des Siegerteams gelegen. Zu diesem Zweck hat er sich mit einem Team zusammengetan, das die Absicht hat, das Spiel auf unbestimmte Zeit fortzusetzen: die Ruinbringers."
+	},
+	{
+		"name": "SR_02_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Anhand der jeweiligen Punktzahl wird der relative Wert jedes Teams bestimmt und die Niederlage eines Teams stellt eine Niederlage für jedes seiner Mitglieder dar.<BR><BR>Es ist unklar, wann diese Regeln in Shinjuku eingeführt wurden, doch sie scheinen speziell auf die Beseitigung von Spielern abzuzielen, was dem Ziel des Spiels widerspricht."
+	},
+	{
+		"name": "SR_03_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein neues Mitglied im Team des Stellvertreters. Dass weder der Komponist noch ich, der Produzent, eingreifen können, bringt Shibuya in Schwierigkeiten. Wenden die neue Rekrutin und Minamimoto das Blatt?<BR><BR>Nagi Usui ist gleichzeitig aufgeschlossen und in sich gekehrt. Sie ist das genaue Gegenteil von Tosai Furesawa. Eine gesunde Mischung aus Persönlichkeiten und Fähigkeiten kommt dem Team zugute."
+	},
+	{
+		"name": "SR_03_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Stellvertreter setzt seine Kräfte nun gezielt ein. Unglaublich, dass jemand derart mächtige Kräfte besitzt.<BR><BR>Verborgene Kräfte sind einzigartige, natürliche Fähigkeiten, aktiviert durch Schwingungen. Diese Schwingungen gehen von der Höheren Ebene aus und hallen in der Seele des Individuums wider, wo sie schlummernde Kräfte wecken. Dieselben Schwingungen sind für Wechsel zwischen den Ebenen nötig."
+	},
+	{
+		"name": "SR_03_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Dass gleichzeitig mehrere Spieler mit verborgenen Kräften auftauchen, ist höchst ungewöhnlich. Ich vermute, dass die Pins im RG mit eben jenen Schwingungen diese Individuen aufspüren sollten. In je mehr Hände die Pins gelangen, desto größer ist die Chance, vielversprechende neue Spieler zu finden.<BR><BR>Die Fähigkeit des Stellvertreters weicht allerdings deutlich von den üblichen verborgenen Talenten ab."
+	},
+	{
+		"name": "SR_03_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Sie ist viel zu gefährlich. Zum Wohle des UG und RG hätte ich dafür gesorgt, dass sie verborgen bleibt – wenn ich gekonnt hätte. Sie kann den Code der niederen Ebenen nicht nur verzerren, sondern auch zerstören.<BR><BR>Ob der Komponist das vorhergesehen und deswegen seinen Stellvertreter gewählt hat?"
+	},
+	{
+		"name": "SR_04_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Was also ist der Zweck des Spiels der Reaper? Fassen wir zusammen.<BR><BR>Der Zweck des Spiels ist das Aufspüren außergewöhnlicher Individuen. Spieler mit überlegener Vorstellungskraft werden auf die Höhere Ebene gebracht, um als Reaper oder Engel eine Region zu überwachen."
+	},
+	{
+		"name": "SR_04_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Der UG befindet sich auf einer höheren Ebene als der RG. Er gilt als das Jenseits, da die Seele beim Tod des Körpers im RG moduliert und in den UG befördert wird.<BR><BR>Der Stellvertreter und seine Gefährten wurden jedoch in nichtmoduliertem Zustand in den UG gebracht. Ihnen ist bereits aufgefallen, dass sowohl mit ihnen als auch mit den Ruinbringers etwas nicht stimmt."
+	},
+	{
+		"name": "SR_04_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Reaper sollten eigentlich auch um ihr Leben kämpfen, doch Shibuyas Reaper-Hierarchie ist völlig gelähmt.<BR><BR>Vor drei Jahren wollten Shibuyas aktiver Komponist und sein Dirigent das Schicksal der Stadt durch ein Spiel bestimmen. Die daraus resultierenden Ereignisse werden „Shibuyas Verunreinigung“ genannt. Der hierarchische Stillstand folgt vermutlich aus dem Widerstand gegen die Verunreinigung."
+	},
+	{
+		"name": "SR_04_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Am Ende des Tages stellte ich neue Schwingungen im UG fest.<BR><BR>Anscheinend haben die Pins neue Kräfte in jemandem erweckt und ihn so moduliert, dass auch er den UG betreten konnte.<BR><BR>Diesmal ist es jemand, mit dem der Komponist und ich gut vertraut sind."
+	},
+	{
+		"name": "SR_05_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Revierkampf namens „Shibuya-Slam“ hat gerade stattgefunden.<BR><BR>Die Ruinbringers haben die Teilnahme abgelehnt. Hätten sie teilgenommen, hätte ihr sicherer Sieg sich negativ auf die allgemeine Moral ausgewirkt. Ich vermute, dass diese kleine Ablenkung, bei der Spieler gegeneinander und nicht gegen Noise kämpfen, nur zum Vergnügen des Dirigenten existiert."
+	},
+	{
+		"name": "SR_05_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Woche findet das 104. Spiel unter dem aktuellen Dirigenten statt. Die Deep Rivers Society, die Variabeautys und die Purehearts haben an mindestens 30 davon teilgenommen. Sie alle lassen Ermüdungserscheinungen erkennen, die von der offensichtlichen Dominanz der Ruinbringers herrühren.<BR><BR>Die Aussichtslosigkeit des Spiels fordert einen deutlichen Tribut."
+	},
+	{
+		"name": "SR_05_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Auch wenn das Team des Stellvertreters den letzten Platz vermeiden kann, scheint ein Sieg über die Ruinbringers sehr unwahrscheinlich. Allerdings ist in diesem Spiel nichts unmöglich. Vielleicht können sie mich noch überraschen.<BR><BR>Minamimoto hat die Kräfte des Stellvertreters erkannt und scheint etwas auszuhecken."
+	},
+	{
+		"name": "SR_06_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Seele des Stellvertreters verändert sich langsam. Ihre Evolution tendiert allerdings eher zur Stagnation als zur Weiterentwicklung. Es scheint fast, als würde sein Schwingungsumfang schrumpfen.<BR><BR>Das könnte zum Teil daran liegen, dass er bereitwillig die Meinungen und Werte anderer annimmt und sie irrtümlich für seine eigenen hält. Er scheint das vollkommen unbewusst zu tun, bisher ist es ihm nicht aufgefallen."
+	},
+	{
+		"name": "SR_06_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Unter normalen Umständen entrichten Spieler in Shibuyas Spiel bei ihrer Ankunft eine Teilnahmegebühr. So bietet der Komponist ihnen die Chance zur Selbstreflexion. Bei diesem Spiel gibt es keine Teilnahmegebühr.<BR><BR>Die Shinjuku-Regeln sehen keine persönliche Entwicklung vor und reduzieren das Spiel auf einen reinen Wettkampf um Punkte, um den eigenen Wert zu beweisen."
+	},
+	{
+		"name": "SR_06_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Dank der stagnierenden Seele kann der Stellvertreter seine verborgene Kraft gut nutzen. Er hält eine ungewöhnlich starke Vorstellungskraft aufrecht, welche die Genauigkeit jedes Zeitsprungs erhöht.<BR><BR>Die Puzzleteile ergänzen sich beinahe zu perfekt. Ich hoffe, ich mache mir unnötig Gedanken."
+	},
+	{
+		"name": "SR_07_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Deep Rivers Society wurde gemäß der Spielregeln ausgelöscht. Die Seelen aller Mitglieder und die ihres Anführers sind verloren.<BR><BR>Ihre Auslöschung widerspricht der Zielsetzung, die Fähigkeiten jedes Spielers zu beurteilen, kommt aber nicht überraschend. Angesichts der Auslöschung wurden die Schwingungen des Stellvertreters wieder schwächer. Sein zunehmend verhärtender Gemütszustand gibt Anlass zur Sorge."
+	},
+	{
+		"name": "SR_07_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie vermutet eilte dem Stellvertreter jenes Individuum zur Seite, dessen Schwingungen ich schon vor Tagen wahrgenommen hatte.<BR><BR>Offenbar hatte der Komponist keinen Einfluss auf das plötzliche Erscheinen unseres alten Freundes. Im Gegensatz zum rastlosen Vollstrecker scheint der Komponist abzuwarten."
+	},
+	{
+		"name": "SR_07_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Obwohl ich keinen Kontakt herstellen kann, um dies zu bestätigen, bin ich der Meinung, dass das erneute Auftauchen dieses Individuums Shibuya zugutekommt.<BR><BR>Minamimoto dagegen ist vollständig abgetaucht. Sein Noise-Raffinerie-Siegel verstärkt seine Vorstellungskraft immens. Vielleich erkennt er die Fähigkeiten des Stellvertreter deswegen."
+	},
+	{
+		"name": "SR_07_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich kann mir schon vorstellen, was er vorhat. Es ist gefährlich, aber ich kann ihn nicht aufhalten.<BR><BR>Das Noise-Raffinerie-Siegel ist im Übrigen eine Reproduktion des Originals, die ein gewisser Reaper erstellt hat. Seine Voll- oder Unvollständigkeit könnte einen Teil zu den subtilen Veränderung in Minamimotos Schwingungen beitragen."
+	},
+	{
+		"name": "SR_08_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vier Teams sind noch übrig: die Ruinbringers, die Purehearts, die Variabeautys und die Wicked Twisters. Nur eines kann überleben und obsiegen.<BR><BR>Das Spiel geht endlich seinem Ende entgegen."
+	},
+	{
+		"name": "SR_08_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nach den Shinjuku-Regeln müssen die Fähigkeiten neuer Spieler die durchschnittliche Vorstellungskraft der aktuellen Spieler übertreffen, damit diese am Spiel teilnehmen dürfen.<BR><BR>Da die Teams der unteren Ränge eliminiert werden, steigt dieser Durschnitt an, was die Teilnahme für Neuankömmlinge erschwert."
+	},
+	{
+		"name": "SR_08_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Aus der Deep Rivers Society und die beeindruckenden verborgenen Fähigkeiten der Wicked Twisters haben die durchschnittliche Vorstellungskraft deutlich erhöht.<BR><BR>Nur ein sehr mächtiger Spieler könnte jetzt noch einsteigen.<BR><BR>Man darf davon ausgehen, dass das Spiel weiterläuft und endet, ohne dass weitere Spieler hinzustoßen."
+	},
+	{
+		"name": "SR_08_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Spiel dauert maximal bis zur übernächsten Woche, doch der Dirigent hat den Komponisten noch nicht kontaktiert. Möglicherweise weiß er nichts von der Läuterungsvorschrift der Höheren Ebene.<BR><BR>Wenn der Plan des Dirigenten aufgeht, wird er als Sieger aus diesem Spiel hervorgehen."
+	},
+	{
+		"name": "SR_09_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Als Ersatz für Minamimoto ist unser Neuankömmling dem Team des Stellvertreters beigetreten.<BR><BR>Daisukenojo Bito, auch Beat genannt, hat an jenem Spiel teilgenommen, das zu Shibuyas Verunreinigung führte. Seine mentale Stärke, Seele und Vorstellungskraft sind bemerkenswert. Er dürfte dem Stellvertreter ein mächtiger Verbündeter sein."
+	},
+	{
+		"name": "SR_09_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Doch die Seele des Stellvertreters stagniert noch immer. Genauer gesagt verschlimmert sich ihr Zustand.<BR><BR>Vor acht Tagen spürte ich eine ähnliche Veränderung, als Minamimoto dem Team beitrat.<BR><BR>Ist die grundlegende Unreife der Seele des Stellvertreters verantwortlich, wird sie nur schwer ans Licht zu bringen sein – anders als bei Neku vor der Verunreinigung."
+	},
+	{
+		"name": "SR_09_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Stellvertreter hat erneut die Zeit umgekehrt. Der resultierende starke Anstieg an planaren Verzerrungen lässt vermuten, dass nach wenigen weiteren Anwendungen ein explosionsartiger Anstieg zu erwarten ist.<BR><BR>Der Pin des Stellvertreters absorbiert jedoch die Verzerrungen und verhindert bislang Auswirkungen auf den UG und die niederen Ebenen."
+	},
+	{
+		"name": "SR_10_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Alle in Shibuya stationierten Reaper, einschließlich des Dirigenten, sind eigentlich „Shibuya-Reaper“. Wegen anhaltender Streitigkeiten werden diejenigen aus Shinjuku jedoch als „Shinjuku-Reaper<MK_11> bezeichnet.<BR><BR>Die Inversion vor drei Jahren leitete Shinjukus Läuterung ein und vertrieb die dortigen Reaper nach Shibuya. Eine Inversion ereignet sich, wenn die Grenze zwischen UG und RG zerstört und eine Läuterung in Gang gesetzt wird."
+	},
+	{
+		"name": "SR_10_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Sie tritt auf, wenn es Komponisten und Dirigenten nicht gelingt, sich auf die Läuterung zu einigen.<BR><BR>Ein Reaper braucht die Erlaubnis des Komponisten nicht, um an einem anderen Ort weiterzuarbeiten. Solche Versetzungen sind Sache des Dirigenten.<BR><BR>In diesem Fall erlaubte der Shibuyas temporärer Dirigent den Transfer aller Reaper von Shinjuku nach Shibuya."
+	},
+	{
+		"name": "SR_10_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Aktuell nehme ich weder Zeichen noch Schwingungen des Shinjuku-Dirigenten wahr. Vermutlich ist er mit Shinjuku untergegangen.<BR><BR>Sobald eine Läuterung begonnen hat, wird der Dirigent normalerweise in die Höhere Ebene eingeladen. Es gibt kaum Beweise, dass es nach der Auslöschung eines Dirigenten zu einem Massentransfer von Personal kam."
+	},
+	{
+		"name": "SR_10_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Bei Nachforschungen stieß ich auf vier Fälle, bei denen ein betroffenes Gebiet ins Ungleichgewicht geraten war, bevor dessen Läuterung beschlossen wurde. Einer dieser Fälle ist Shibuyas Verunreinigung.<BR><BR>Der Komponist sollte einen Bericht über die Umstände verfassen, die zu Shinjukus Läuterung geführt haben. Da ihn niedere Ebenen nie interessiert haben, rechne ich jedoch nicht mit ausführlichen Ergebnissen."
+	},
+	{
+		"name": "SR_10_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Da Shibuyas Komponist den Shinjuku-Reapern seine stille Zustimmung gegeben hat, bleibt Shibuyas Reapern keine andere Wahl, als deren Regeln zu folgen.<BR><BR>Ungeachtet der Umstände hat sich Shiba Miyakaze auf legalem Wege zum Dirigenten aufgeschwungen, da man ihn für den Posten geeignet hielt."
+	},
+	{
+		"name": "SR_11_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Unter den Anführern der Teams breitet sich Unruhe aus und die psychische Verfassung des Stellvertreters leidet. Hoffentlich steht er die Woche durch.<BR><BR>Der Groove des Teams ist ungewöhnlich niedrig. In einem System, das auf Teamarbeit ausgelegt ist, haben solche Unregelmäßigkeiten großen Einfluss auf den Ausgang des Spiels."
+	},
+	{
+		"name": "SR_11_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ein Netzwerk mit dem Namen RNS wurde speziell für dieses Spiel geschaffen. Da es problemlos die Schwingungen und Vorstellungskraft einer Person messen kann, lassen sich damit sowohl Spieler als auch Reaper überwachen.<BR><BR>Da diese Informationen sichtbar gemacht werden, kann aber auch vom RG aus zugegriffen werden."
+	},
+	{
+		"name": "SR_11_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Sie können jedoch nur von jemandem gefunden werden, der um die Existenz des UG weiß und sich mit Netzwerken auskennt. Eine solche Kommunikation zwischen den Ebenen erfordert keine Modulation, wobei unklar ist, ob dabei andere Probleme auftreten können.<BR><BR>Möglicherweise hat die Kommunikation über das Netzwerk Auswirkungen auf die Vorstellungskraft, da sich auch Kunstwerke nicht komplett auf einen Bildschirm bannen lassen."
+	},
+	{
+		"name": "SR_11_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich bin nicht länger als CAT aktiv, aber falls sich das ändert, muss ich beachten, wie meine Arbeit digital wahrgenommen wird, und meine Methoden entsprechend anpassen.<BR><BR>Vielleicht kann mir der Entwickler des RNS hier weiterhelfen."
+	},
+	{
+		"name": "SR_12_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die psychische Verfassung des Stellvertreters hat sich verändert, während sich die Beziehungen innerhalb seines Teams verbessert haben. Das sind gute Nachrichten.<BR><BR>Leider stagniert die Seele des Stellvertreters nach wie vor.<BR><BR>Eine Analyse der Stagnation steht noch aus, da ich nichts unternehmen kann, was über reine Beobachtung hinausgeht."
+	},
+	{
+		"name": "SR_12_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Shinjuku-Regeln setzen dem Handlungsspielraum der Reaper Grenzen. Natürlich ist es ihnen nicht gestattet, Spieler zu behindern.<BR><BR>Die Hauptgegner der Spieler sind andere Spieler, nämlich die der gegnerischen Teams. Deswegen muss jedes Team, das an die Spitze will, an den Ruinbringers vorbei."
+	},
+	{
+		"name": "SR_12_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Stellvertreter und sein Team haben eine alternative Strategie gegen die scheinbar unbesiegbaren Ruinbringers. Inwieweit das die Spielregeln verletzt, bleibt abzuwarten.<BR><BR>Ich bezweifle, dass der Dirigent ihrem Treiben tatenlos zusehen wird. Wenn er sich zum Handeln gezwungen sieht, wird das entweder hervorragende oder schlimme Folgen haben."
+	},
+	{
+		"name": "SR_12_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie schon erwähnt dürfen Reaper nicht in das Spiel eingreifen. Und trotzdem tut eine von ihnen genau das.<BR><BR>Möglicherweise kostet sie das ihren Status als Reaper. Was mag aus ihr werden, wenn das Spiel vorüber ist?"
+	},
+	{
+		"name": "SR_13_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Anführer der Purehearts, Motoi Anazawa, hat sich selbst in eine Zwangslage gebracht.<BR><BR>Der Stellvertreter war ein großer Fan von ihm, als er noch lebendig und online war. Sollte Motoi Anazawa ausgelöscht werden, dürfte das unabsehbare Auswirkungen auf die Psyche des Stellvertreters haben."
+	},
+	{
+		"name": "SR_13_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie auch Gespräche von Angesicht zu Angesicht kann Online-Kommunikation zu negativen oder positiven Ergebnissen führen. Die Anonymität, die die digitale Kommunikation mit sich bringt, ist Fehleinschätzungen jedoch äußerst zuträglich.<BR><BR>Motoi Anazawas wahre Natur, die online nicht ersichtlich war, muss den Stellvertreter schockiert haben."
+	},
+	{
+		"name": "SR_13_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Wie erwartet wurde Shoka Sakurane wegen ihrer Eingriffe und Unterstützung von Spielern zur Spielerin degradiert.<BR><BR>Für Reaper gibt es im RNS nur wenige Beschränkungen. Solange sie ihre Identität geheim halten, dürfen sie nach Belieben mit dem RG interagieren. Sollten sie jedoch degradiert werden, wird ihr Account gelöscht und durch einen Spieleraccount ersetzt."
+	},
+	{
+		"name": "SR_13_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Da ihr alter Account deaktiviert wurde, kann Shoka Sakurane nicht länger online mit dem Stellvertreter in Kontakt treten, ohne sich zu erkennen zu geben.<BR><BR>Bisher hat sie dem Stellvertreter in Form von Mitteilungen geholfen, doch da dies nun unmöglich ist, bleibt ihr weiteres Vorgehen abzuwarten."
+	},
+	{
+		"name": "SR_14_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Dirigent hat den Spielern seine Absichten mitgeteilt. Es ist ihm zwar nicht möglich, Shibuya in der Rolle des Dirigenten zu zerstören, doch er hält sich auch für den Vollstrecker, der von der Höheren Ebene entsandt wurde, um die Stadt zu läutern.<BR><BR>Wie vorauszusehen war, sind die Purehearts ausgelöscht worden. Abgesehen von den Ruinbringers bleiben nur noch zwei Teams übrig."
+	},
+	{
+		"name": "SR_14_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Da die Ruinbringers enttarnt wurden, ist im nächsten Spiel von einem veränderten Regelwerk auszugehen, das Spieler Reapern entgegenstellt, anstatt anderen Spielern.<BR><BR>Von einem bestimmten leblosen Objekt gehen Schwingungen aus. Das Auftauchen des alten Stofftiers kam mir merkwürdig vor, aber wie sich herausstellt, birgt es vorübergehend eine verstörte Seele."
+	},
+	{
+		"name": "SR_14_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Seele verdankt ihre Rettung Shinjukus Dirigent, der dafür mit seiner eigenen Auslöschung bezahlte.<BR><BR>Nur ein Engel kann die Seele befreien, doch vom Komponisten fehlt weiterhin jede Spur und ich darf mich nicht einmischen.<BR><BR>Da vermutlich der Vollstrecker selbst die Seele dort eingeschlossen hat, ist mit seiner Hilfe nicht zu rechnen."
+	},
+	{
+		"name": "SR_14_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Wir haben keine andere Wahl, als die Seele in Gefangenschaft zu belassen oder jemand anderen zu finden, der sie befreien kann. Ich denke, dass die Schöpferin des Stofftiers – eine Spielerin, die vor drei Jahren in den RG zurückkehrte – helfen könnte.<BR><BR>Leider ist sie derzeit nicht in Shibuya."
+	},
+	{
+		"name": "SR_15_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Spielregeln haben sich erheblich verändert. Spieler, Reaper und sogar der Dirigent können besiegte Gegner nun auslöschen.<BR><BR>Zum Zeitpunkt der Regeländerung führte Shiba einen unerwarteten Zug gegen Shibuya aus.<BR><BR>Eine Inversion steht bevor."
+	},
+	{
+		"name": "SR_15_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Noise des Dirigenten haben den Code der gesamten Region von Shibuya destabilisiert. Die niederen Ebenen, darunter UG und RG, sind besonders instabil.<BR><BR>Der Code ist eine Reihe von Gesetzen, die alle Seelen verbindet, aus denen die Existenz besteht. Sie sind wie ein Satz Schrauben, der alles zusammenhält."
+	},
+	{
+		"name": "SR_15_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Einige von Shibuyas Schrauben sind locker, andere wurde komplett entfernt. Dadurch hält sich die Stadt nur durch ihr eigenes Gewicht aufrecht. Mit anderen Worten: Shibuya steht am Rande des Zusammenbruchs.<BR><BR>Die Noise vermehren sich rasant und lassen die Grenze zwischen RG und UG noch schneller verfallen. Verschwindet diese Grenze ganz, wird die Stadt zerrissen und geläutert."
+	},
+	{
+		"name": "SR_15_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Auf der Höheren Ebene meinen viele, dass eine Läuterung keinen Sinn hat, da sie die bestehenden planaren Grenzen aufrechterhält. Man ist sich jedoch einig, dass Inversionen die Ausnahme bleiben sollten, da das Gebiet durch Zerstörung und Wiederaufbau seiner Struktur jeglichen Charakter einbüßt.<BR><BR>Obwohl Shibuya demselben Schicksal entgegenblickt wie einst Shinjuku, hält sich der Komponist weiterhin bedeckt."
+	},
+	{
+		"name": "SR_15_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Während sich Shibuya dramatisch verändert hat, ist die psychische Verfassung des Stellvertreters überraschend stabil. Man könnte dies als persönliche Reife interpretieren, da er die Situation, in der er sich befindet, begriffen hat und darauf zu reagieren weiß.<BR><BR>Shoka Sakurane ist dem Team des Stellvertreters beigetreten. Ihre außergewöhnlichen Fähigkeiten sollten sich bezahlt machen."
+	},
+	{
+		"name": "SR_16_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Einer der Shinjuku-Reaper wurde eliminiert. Der Dirigent hat das wohl kommen sehen.<BR><BR>Engelsschwingungen beeinflussen den Verstand derer auf den niederen Ebenen. Viele Shinjuku-Reaper haben bemerkt, dass sich Shiba Miyakaze verändert hat.<BR><BR>Was der Dirigent wohl von all dem halten wird, wenn der Vollstrecker geht und er wieder zu sich kommt?"
+	},
+	{
+		"name": "SR_16_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Stellvertreter hat nun acht Zeitsprünge durchgeführt, während sein Pin die planaren Verzerrungen absorbiert und sich äußerlich verändert hat. Bisher sind keine negativen Auswirkungen feststellbar.<BR><BR>Die physischen Veränderungen des Pins machen mir Sorgen. Sie könnten auf einen grundlegenden Unterschied zu den anderen Pins hinweisen."
+	},
+	{
+		"name": "SR_16_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Vielleicht ist der Zeitsprung gar keine verborgene Kraft. Er ist viel zu mächtig und könnte eher eine Gabe sein, die durch den Pin verliehen wird.<BR><BR>Die Spieler-Pins wurden mit großer Sicherheit vom Vollstrecker geschaffen. Als Engel wäre er in der Lage, nach Belieben spezielle Pins anzufertigen."
+	},
+	{
+		"name": "SR_16_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Wann und wo der Stellvertreter seinen Pin erhalten hat, ist unklar. Es müsste am Tag seiner Ankunft im UG gewesen sein.<BR><BR>Ich weiß ich nur, dass an diesem Tag mehrere Faktoren das Schicksal des Stellvertreters beeinflusst haben.<BR><BR>In jedem Fall wäre es unglaublich mutig oder dreist, den Stellvertreter des Komponisten mit einem solchen Pin auszustatten."
+	},
+	{
+		"name": "SR_17_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Variabeautys wurden ausgelöscht. Für das Team des Stellvertreters, das in Kanon Tachibana eine wichtige emotionale Stütze hatte, ist dies ein schwerer Schlag.<BR><BR>Tosai Furesawas Seele ist trotz all seiner Bemühungen, seine wahren Gefühle zu verbergen, am stärksten betroffen."
+	},
+	{
+		"name": "SR_17_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Sobald Erfahrungen eine bestimmte Überzeugung entstehen lassen, ist diese Haltung nur schwer zu ändern. Oft sind Bitterkeit und Schmerz die Folge.<BR><BR>Ich frage mich, welches Maß an Bitterkeit Tosai Furesawa ertragen kann. Die Antwort könnte durchaus vom Stellvertreter und seinen Teamkameraden abhängen."
+	},
+	{
+		"name": "SR_17_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Doch nun ist nicht die Zeit für Gerede.<BR><BR>Nur das Team des Stellvertreters ist übrig.<BR><BR>Der Dirigent ist auf dessen instabilen Zustand äußerst fixiert. Seine Feinde scheinen ihn stärker zu beschäftigen als der Kampf selbst. Es ist nicht ausgeschlossen, dass er sich irgendwann mit dem Stellvertreter zusammentun wird."
+	},
+	{
+		"name": "SR_17_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Da die Pläne des Dirigenten nun bekannt sind, muss sich jeder Reaper, insbesondere jeder Shibuya-Reaper, für eine Seite entscheiden.<BR><BR>Manche, die mich kennen, versuchen mich zu kontaktieren, doch ich kann nicht antworten.<BR><BR>Die Shibuya-Reaper werden sich anpassen müssen, wenn sie überleben wollen."
+	},
+	{
+		"name": "SR_17_5",
+		"speaker": "",
+		"listener": "",
+		"content": "In meinem alten Café in der Cat Street, das mir vor drei Jahren als Basis diente, sind sie immer willkommen. Wie ich höre, schauen manchmal einige vorbei.<BR><BR>Die schwachen Schwingungen aus Shinjuku sind wieder deutlich wahrnehmbar. Jemand kommt. Jemand, der Shibuyas Schicksal entscheiden kann."
+	},
+	{
+		"name": "SR_18_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba ist nach Shibuya zurückgekehrt. Es waren seine Schwingungen, die ich vor siebzehn Tagen wahrgenommen habe.<BR><BR>Das letzte verbleibende Team zu sein, hat das Zusammengehörigkeitsgefühl der Wicked Twisters gestärkt, doch Daisukenojo Bito glaubt, die Verantwortung ruhe auf seinen Schultern."
+	},
+	{
+		"name": "SR_18_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich kann sein Verhalten gegenüber Minamimoto nicht verurteilen, aber es lässt sich nicht leugnen, dass der Ex-Reaper ihn ohne Nekus Erscheinen vermutlich ausgelöscht hätte.<BR><BR>Das Team ist einer Katastrophe knapp entgangen. Hoffentlich können sie so weitermachen."
+	},
+	{
+		"name": "SR_18_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimotos Fokus war auf die planaren Verzerrungen gerichtet, als er halb zum Noise wurde und durchdrehte. Er mag die Verzerrungen vom UG aus nicht messen können, doch dass er sie überhaupt wahrnimmt, ist beeindruckend.<BR><BR>Vermutlich wird er sich auch der Verzerrungen in seinem Inneren bewusst sowie der Tatsache, dass diese Verzerrungen vom UG aus eigentlich nicht wahrnehmbar sein sollten."
+	},
+	{
+		"name": "SR_18_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto scheint zum selben Schluss gekommen zu sein wie ich: Der Zeitsprung ist eine zu mächtige Fähigkeit für ein Wesen der niederen Ebenen.<BR><BR>Langsam komme ich hinter den Plan des Vollstreckers."
+	},
+	{
+		"name": "SR_18_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Seele des Stellvertreters beunruhigt mich ebenfalls.<BR><BR>Gerade als sie vorbei zu sein schien, ist ihre Stagnation wieder erstarkt. Es muss eine Ursache dafür geben. Vielleicht ist es seine Furcht vor Minamimoto oder die Unsicherheit im Umgang mit Neku."
+	},
+	{
+		"name": "SR_19_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba hat sich dem Stellvertreter angeschlossen. Der Komponist schickte ihn während der Läuterung nach Shinjuku, um die Situation unter Kontrolle zu bringen und ihn vor jenen zu beschützen, die nach seinen Fähigkeiten trachteten.<BR><BR>Die Seele des Stellvertreters stagniert weiter. Ich konnte noch nicht herausfinden, was ihre Entwicklung verhindert. Es wäre einfacher, wenn ich mit ihm reden könnte."
+	},
+	{
+		"name": "SR_19_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Nach etlichen Anfragen habe ich endlich den Bericht über Shinjukus Läuterung erhalten. Auf den ersten Blick handelte es sich um einen Konflikt zwischen Dirigenten und Reapern. Tatsächlich schleuste der Komponist, der Shinjuku läutern wollte, den Vollstrecker bei den Reapern ein, um den Dirigenten auszuschalten.<BR><BR>Das erklärt, warum der Dirigent ausgelöscht und die Reaper in ein anderes Gebiet versetzt wurden."
+	},
+	{
+		"name": "SR_19_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi Matsunae hegte einen Verdacht gegen den Vollstrecker, also versiegelte er ihre Seele. Sie war einst ein Reaper. Der Vollstrecker nahm ihr diesen Status, nachdem sie sich mit ihrem älteren Bruder, dem Dirigenten von Shinjuku, verbündet hatte.<BR><BR>In Shinjuku kam das ihrer Auslöschung gleich. Da seine Niederlage bevorstand, verbarg Shinjukus Dirigent mit letzter Kraft die Seele seiner Schwester in einem Stofftier."
+	},
+	{
+		"name": "SR_19_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Stofftier gehörte Shiki Misaki. Ein Shibuya-Reaper muss es nach Shinjuku gebracht haben.<BR><BR>So war Tsugumi Matsunae die einzige Überlebende von Shinjukus Läuterung, auch wenn ihre Seele versiegelt und vom Vollstrecker streng überwacht wurde."
+	},
+	{
+		"name": "SR_19_5",
+		"speaker": "",
+		"listener": "",
+		"content": "Da sich ihre Seele in der Gewalt von Noise befand, handelte sie ohne eigenen Willen. Ihre verborgene Fähigkeit ermöglichte es ihr jedoch, dem Stellvertreter Nachrichten zu senden.<BR><BR>Sie wird nicht länger von Noise gefangen gehalten. Wenn ihr Stofftierkäfig repariert werden kann, wird ihre Seele befreit."
+	},
+	{
+		"name": "SR_20_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Selbst unter den Wesen der Höheren Ebene gilt der Shibuya als besonderer Ort. Seine Quelle liegt in Shinjuku, er hätte im Zuge der Läuterung also verschwinden müssen. Und doch fließt er ungesehen in seiner eigenen Ebene weiter.<BR><BR>Seelen dort vor der Läuterung zu bewahren, war eine großartige Idee."
+	},
+	{
+		"name": "SR_20_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaichi Susuki liebte das Spiel und fühlte sich seinen Kameraden verbundener als jeder andere Shinjuku-Reaper. Seine Taten lassen keinen Zweifel zu.<BR><BR>Die meisten Shinjuku-Reaper halten eng zusammen. Ich weiß nicht, wie Shiba Miyakaze war, bevor der Vollstrecker ihn korrumpierte. Die bedingungslose Hingabe der Shinjuku-Reaper lässt vermuten, dass er außergewöhnlich charismatisch gewesen ist."
+	},
+	{
+		"name": "SR_20_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Es ist nicht bekannt, ob der Einfluss des Vollstreckers auf Shiba Miyakaze mit dem Spiel enden wird.<BR><BR>Auch wenn er wieder zu Sinnen kommt, wird er sich der tragischen Realität stellen müssen, den Verlust seiner Freunde verschuldet zu haben."
+	},
+	{
+		"name": "SR_20_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba betrachtet die Kräfte des Stellvertreters mit Argwohn. Der Pin absorbiert weiterhin die erzeugten Verzerrungen – doch er zerstört sie nicht. Vermutlich werden sie zu irgendeinem Zweck gespeichert.<BR><BR>Ich frage mich, was der Komponist von all dem hält. Er hält sich weiterhin bedeckt. Hat er überhaupt einen Plan? Morgen werden wir mehr wissen."
+	},
+	{
+		"name": "SR_21_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Die planaren Verzerrungen der Zeitsprünge waren Teil des Plans des Vollstreckers, Shibuya zu läutern. Der Zustand des Stellvertreters und seiner Freunde hat sich schlagartig verschlechtert.<BR><BR>Verzerrte Energie in Noise zu verwandeln ist eine einzigartige Fähigkeit. Vermutlich ist sie dem Vollstrecker eigen, der so Noise erschaffen kann."
+	},
+	{
+		"name": "SR_21_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Diese Verzerrungen waren einmal Seelen. Sie entstehen aus den Gedanken und der verlorenen Zeit aller, deren Zeitstränge von der regulären Geschichte abgetrennt wurden.<BR><BR>Der Pin des Stellvertreters speichert die Verzerrungen der aufgegebenen Zeitstränge, lässt sie sich ähnlich wie ihre Ausgangsgedanken verhalten und neue Verzerrungen erzeugen. Der Pin lässt also die Verzerrungen mit jedem Zeitsprung wachsen und sich vermehren."
+	},
+	{
+		"name": "SR_21_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Die Vögel, die der Stellvertreter gesehen hat, sind Verzerrungen in speicherbarer Form, die aus jenen im Pin entstanden sind.<BR><BR>Normalerweise brauchen Seelen einen Katalysator, um sich zu manifestieren. Der Pin des Vollstreckers ist in diesem Fall der Katalysator, der Noise im Voraus erzeugt und ihnen die Vorstellungskraft der Verzerrungen gewährt."
+	},
+	{
+		"name": "SR_21_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Vollstrecker ist äußerst versiert im Umgang mit Noise.<BR><BR>Es ist durchaus möglich, dass das vogelartige Äußere der Noise nur vorübergehend ist und sich ändern wird.<BR><BR>Wenn dem so ist, steht dem Stellvertreter und seinem Team ein schwerer Kampf bevor.<BR><BR>Shibuya schwebt in größter Gefahr."
+	},
+	{
+		"name": "SR_22_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Es gibt einen neuen Besucher in Shibuya, mit dem nicht einmal der Komponist gerechnet haben dürfte. Es ist die Person, von welcher der Bericht über Shinjukus Inversion stammt.<BR><BR>Aber warum kommt er nach Shibuya? Vermutlich geht es ihm nicht um den Vollstrecker. Was auch immer es ist, für Tanzo Kubo ist nach der Läuterung Zeit."
+	},
+	{
+		"name": "SR_22_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Anscheinend hat Shinjukus Komponist, Hazuki Mikagi, die Noise des Vollstreckers eliminiert und dem Stellvertreter eine weitere Chance gegeben. Seine Gründe sind mir ein Rätsel. Shibuyas Komponist muss gerade den Kopf schütteln."
+	},
+	{
+		"name": "SR_22_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich habe herausgefunden, was die Seele des Stellvertreters stagnieren ließ: Angst, Verantwortung zu übernehmen.<BR><BR>Sobald Verbündete wie Minamimoto, Daisukenojo Bito und Neku Sakuraba erschienen, fühlte sich der Stellvertreter von seiner Verantwortung befreit.<BR><BR>Ausgerechnet der unsympathische Komponist von Shinjuku hat mich zu dieser Einsicht gebracht."
+	},
+	{
+		"name": "SR_22_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuyas Fortbestand hängt nun davon ab, ob der Stellvertreter die Zerstörung durch einen Zeitsprung verhindert.<BR><BR>Dies kann jedoch nur er entscheiden. Dieses Recht steht ihm zu.<BR><BR>Shibuya hat der Zerstörung getrotzt, sieht sich jetzt jedoch einer noch größeren Gefahr gegenüber. Wir müssen uns dieser Herausforderung stellen."
+	},
+	{
+		"name": "SR_23_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Das Team des Stellvertreters kämpfte gegen ein riesiges vogelartiges Noise. Es wurde aus den unbeständigen schwarzen Vogel-Noise wiedergeboren, die zerstört und neu zusammengefügt wurden. Dahinter steckt eindeutig der Komponist von Shinjuku.<BR><BR>So konnte das Team des Stellvertreters sich voll und ganz auf ein Ziel konzentrieren."
+	},
+	{
+		"name": "SR_23_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Jede Schwanzfeder des Phönix ist die karmische Darstellung einer zeitlichen Umkehr.<BR><BR>Vielleicht ist das die Manifestation des inneren Zwiespalts des Komponisten von Shinjuku: Einerseits interessiert er sich für den Stellvertreter und seine Teamkollegen, andererseits will er Shibuya nach wie vor läutern."
+	},
+	{
+		"name": "SR_23_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Ich glaube, dass seine Einmischung – der Umgang mit dem Vollstrecker, der Kontakt mit dem Stellvertreter und sein Eingreifen bei den Verzerrungen – nicht nur eine Entschuldigung an Shibuya war.<BR><BR>Sie lieferte Shibuyas Komponist den perfekten Vorwand, um selbst in Aktion zu treten.<BR><BR>Doch Shibuyas Komponist ignorierte den Köder und reagierte nicht."
+	},
+	{
+		"name": "SR_23_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Er wollte nicht helfen, als er Neku Sakuraba und den anderen erschien, während diese sich mit Shibuyas Vorstellungskraft verbanden. Er wollte mit seiner Anwesenheit Neku Sakurabas Geist stabilisieren.<BR><BR>Vom RNS aufgezeichnete Schwingungen lassen keine äußerlichen Eingriffe erkennen. Das Team des Stellvertreters besiegte den Phönix Cantus gemeinsam mit der Kraft Shibuyas."
+	},
+	{
+		"name": "SR_24_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Da das Spiel nun vorüber ist, kann ich den Komponisten endlich kontaktieren.<BR><BR>Seither sind mehrere Tage vergangen und der Komponist hat bereits zwei Punkte der Tagesordnung erledigt.<BR><BR>Einer betrifft Neku Sakuraba."
+	},
+	{
+		"name": "SR_24_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Mithilfe einer Probe aus einer Parallelwelt, in der Neku nie nach Shinjuku ging und stattdessen drei Jahre lang friedlich im RG lebte, veränderte der Komponist den Raum und die Erinnerungen, damit Neku problemlos wieder im RG leben kann.<BR><BR>Dieselben Schritte sind notwendig, um einen Reaper zurück in den RG zu bringen."
+	},
+	{
+		"name": "SR_24_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Der andere Punkt betrifft Shoka Sakurane.<BR><BR>Aufgrund ihres verlorenen Reaper-Status war ihre Vernichtung bei Spielende unausweichlich. Exakt im Moment der Auslöschung rettete der Komponist jedoch ihre Seele. Sie wurde in Shibuyas RG wiedergeboren.<BR><BR>Ich denke, der Komponist möchte so seine Dankbarkeit dem Stellvertreter gegenüber zeigen."
+	},
+	{
+		"name": "SR_24_4",
+		"speaker": "",
+		"listener": "",
+		"content": "Der Stellvertreter ist ebenfalls in sein Leben im RG zurückgekehrt. Durch ihn habe ich viel über das Netzwerk als simulierte Existenzebene und dessen Auswirkungen auf menschliche Emotionen gelernt.<BR><BR>Sein Nutzen zur Erweiterung der eigenen Welt ist nicht zu leugnen. Letztendlich obliegt es dem Nutzer, diese erweiterte Welt zu erforschen und zu erleben, damit sie nicht nur Simulation bleibt."
+	},
+	{
+		"name": "SR_24_5",
+		"speaker": "",
+		"listener": "",
+		"content": "„Genießt die Gegenwart“ und „bleibt nicht stehen“. Vielleicht wollte der Komponist Shibuya durch seine Abwesenheit sagen, dass man Bedingungen akzeptieren und die Dinge selbst in die Hand nehmen muss.<BR><BR>Ich habe eine Botschaft an den Stellvertreter, Rindo Kanade: Deine Entscheidung hat Mut erfordert. Ich danke dir dafür.<BR><BR>Ich hoffe, dass wir uns eines Tages persönlich kennenlernen."
+	}
+]
+}

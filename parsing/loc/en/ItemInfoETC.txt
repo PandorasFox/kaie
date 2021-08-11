@@ -1,0 +1,1084 @@
+{
+"columns":[
+	{
+		"name": "ITM_ETC_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Item Info"
+	},
+	{
+		"name": "ITM_VAL_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Friendship Points"
+	},
+	{
+		"name": "ITM_BOK_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Mysterious notes penned by an unknown author."
+	},
+	{
+		"name": "ITM_BOK_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Getting Around Town"
+	},
+	{
+		"name": "ITM_BOK_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Scanning Pt. 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Scanning Pt. 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Pins & Psychs"
+	},
+	{
+		"name": "ITM_BOK_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Moving & Evading"
+	},
+	{
+		"name": "ITM_BOK_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Pin Reboot"
+	},
+	{
+		"name": "ITM_BOK_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Beatdrop Combos"
+	},
+	{
+		"name": "ITM_BOK_Info_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Mashups"
+	},
+	{
+		"name": "ITM_BOK_Info_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Killer Remixes"
+	},
+	{
+		"name": "ITM_BOK_Info_0109",
+		"speaker": "",
+		"listener": "",
+		"content": "Wearing Pins"
+	},
+	{
+		"name": "ITM_BOK_Info_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Fashion"
+	},
+	{
+		"name": "ITM_BOK_Info_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Difficulty & Levels"
+	},
+	{
+		"name": "ITM_BOK_Info_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Escaping from Combat"
+	},
+	{
+		"name": "ITM_BOK_Info_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Mental Notes"
+	},
+	{
+		"name": "ITM_BOK_Info_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Social Network Pt. 1"
+	},
+	{
+		"name": "ITM_BOK_Info_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Social Network Pt. 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Shops"
+	},
+	{
+		"name": "ITM_BOK_Info_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "ShibuPay"
+	},
+	{
+		"name": "ITM_BOK_Info_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Food"
+	},
+	{
+		"name": "ITM_BOK_Info_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Imprinting"
+	},
+	{
+		"name": "ITM_BOK_Info_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Reminding with Fret"
+	},
+	{
+		"name": "ITM_BOK_Info_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Diving with Nagi"
+	},
+	{
+		"name": "ITM_BOK_Info_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Telewarping with Shoka"
+	},
+	{
+		"name": "ITM_BOK_Info_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Soundsurfing with Beat"
+	},
+	{
+		"name": "ITM_BOK_Info_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Replaying with Rindo"
+	},
+	{
+		"name": "ITM_BOK_Info_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Replaying with Rindo Pt. 2"
+	},
+	{
+		"name": "ITM_BOK_Info_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Chapter Select"
+	},
+	{
+		"name": "ITM_BOK_Info_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "The Noisepedia"
+	},
+	{
+		"name": "ITM_BOK_Info_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Graffiti Wall"
+	},
+	{
+		"name": "ITM_BOK_Info_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Collection Menu"
+	},
+	{
+		"name": "ITM_BOK_Info_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Scramble Slam"
+	},
+	{
+		"name": "ITM_BOK_Info_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Final Time Trial"
+	},
+	{
+		"name": "ITM_BOK_Info_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Another Day"
+	},
+	{
+		"name": "ITM_BOK_Info_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Powered-Up Mashups"
+	},
+	{
+		"name": "ITM_BOK_Info_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "New Party Members"
+	},
+	{
+		"name": "ITM_BOK_Info_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Uber Pins"
+	},
+	{
+		"name": "ITM_BOK_Info_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Chain Battles"
+	},
+	{
+		"name": "ITM_BOK_Info_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Plague Noise"
+	},
+	{
+		"name": "ITM_BOK_Info_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Beatdrop Sweet Spot"
+	},
+	{
+		"name": "ITM_BOK_Info_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Powering Up"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0200_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0200_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Don't let up! Use your party members to unload an unmerciful amount of damage on your foes and win the day."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Landing a successful hit with a psych will summon a circular Beatdrop gauge. Attack with another character while this gauge is displayed to drop the beat and increase your team's Groove."
+	},
+	{
+		"name": "ITM_BOK_Info_0201_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Keep a look out for clothing abilities and Social Network skills that can increase your Groove faster."
+	},
+	{
+		"name": "ITM_BOK_Info_0202_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0202_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0202_2",
+		"speaker": "",
+		"listener": "",
+		"content": "When you dodge, your character is untouchable for a split second—a handy trick when you're about to get a face full of pain. Note that certain Social Network skills can extend your invulnerability."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Some Noise may counterattack if you pelt them with Psychs. Watch out when an enemy tries this, as no amount of damage dealt can interrupt them."
+	},
+	{
+		"name": "ITM_BOK_Info_0203_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You'll know an enemy is going to counter when they glow red. When you see that telltale sign, stop attacking and get ready to dodge."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Enemies have elemental weaknesses that can be exploited for major damage. Keep in mind the elemental affinity of the pins you're wearing so you can pound your foes into submission."
+	},
+	{
+		"name": "ITM_BOK_Info_0204_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Here are the elements you'll find: Fire, Ice, Electric, Wind, Water, Stone, Poison, Burst, Sound, Light, Darkness, Gravity, Kinesis, and Time."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certain attacks can cast temporary status ailments on teammates or foes. These effects fade with time and range from slowly draining HP to immobilization."
+	},
+	{
+		"name": "ITM_BOK_Info_0205_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Some ailments—such as poisoned, shocked, and burning—drain HP, while others immobilize a character or enemy, such as stunned, chained, frozen, and entombed. Don't forget: certain items can cure (and prevent) what ails you!"
+	},
+	{
+		"name": "ITM_BOK_Info_0206_1",
+		"speaker": "",
+		"listener": "",
+		"content": "You'll earn EXP and PP for every enemy defeated. EXP will raise your teammates' levels, while PP will raise the levels of the pins you used in combat."
+	},
+	{
+		"name": "ITM_BOK_Info_0206_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Here's how to increase PP earned: 1) wrack up multiple wins in a chain battle, 2) wrap up the fight quickly, and 3) don't take too much damage!"
+	},
+	{
+		"name": "ITM_BOK_Info_0207_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Launching an enemy back or into the air will make them unable to act, giving your team the perfect opportunity to show them a world of pain."
+	},
+	{
+		"name": "ITM_BOK_Info_0207_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Some enemies can't be knocked back or launched into the air, so make sure you have a back-up plan to roll with the punches."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Increase your Groove to 200% or more to unleash super-charged Mashup attacks."
+	},
+	{
+		"name": "ITM_BOK_Info_0208_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Mashup attacks change depending on the element of the last Psych used in your combo. You can really power up the Mashup by using more characters in your combo."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_1",
+		"speaker": "",
+		"listener": "",
+		"content": "When your Groove's at 300%, you can unleash Killer Remixes as a team. The more teammates used to increase your Groove, the longer and more powerful your team attack will be."
+	},
+	{
+		"name": "ITM_BOK_Info_0209_2",
+		"speaker": "",
+		"listener": "",
+		"content": "After using Killer Remixes, your team will recover HP. The more teammates used to unleash the attack, the more HP you'll recover."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Enemies will occasionally leave behind pins after you defeat them. Pins received through battle vary depending on combat difficulty, the variety of Noise, and how high your drop rate is."
+	},
+	{
+		"name": "ITM_BOK_Info_0211_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You can increase the drop rate by winning more chain battles, and setting your level lower. To earn the really rare stuff, slash your level and take on chain battles!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Some pins can be evolved once they level up, while others must first meet certain requirements. Looking to collect every pin? Better start evolving them!"
+	},
+	{
+		"name": "ITM_BOK_Info_0212_2",
+		"speaker": "",
+		"listener": "",
+		"content": "It's up to you whether or not to evolve a pin. Keeping your pins as-is and leveling them up is a totally viable strategy!"
+	},
+	{
+		"name": "ITM_BOK_Info_0213_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Certain pins, when worn together, can produce interesting effects."
+	},
+	{
+		"name": "ITM_BOK_Info_0213_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Read up on a pin in the pin menu to find out if it's capable of something extra special when worn with the right set."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Uber Pins are extremely powerful—you guessed it—pins that can't be equipped without unlocking a unique skill on your Social Network."
+	},
+	{
+		"name": "ITM_BOK_Info_0214_2",
+		"speaker": "",
+		"listener": "",
+		"content": "The more of these skills you unlock, the more Uber Pins you'll be able to equip."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Looking to fill out your pin collection? Be aware that some can only be obtained through shops, battles, events, or by evolving them."
+	},
+	{
+		"name": "ITM_BOK_Info_0215_2",
+		"speaker": "",
+		"listener": "",
+		"content": "To see which enemies drop which pins, check out the Noisepedia."
+	},
+	{
+		"name": "ITM_BOK_Info_0216_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0216_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0216_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Certain skills in your Social Network can increase the total number of sets available to you."
+	},
+	{
+		"name": "ITM_BOK_Info_0217_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0217_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0217_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Watch out for Noise symbols, though. Coming into contact with one will initiate combat."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The Noise symbol you encounter dictates the main type of enemy you'll fight, which can be a handy feature when you're looking to take down a certain variety of foe."
+	},
+	{
+		"name": "ITM_BOK_Info_0218_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Want those Noise symbols to stay away? Some clothing items may contain the ability to keep them at bay."
+	},
+	{
+		"name": "ITM_BOK_Info_0219_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0219_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0219_2",
+		"speaker": "",
+		"listener": "",
+		"content": "If you're itching for chain battles, use Noise Magnet to draw Noise symbols to you. There's a fixed number of chain battles you can initiate, but certain Social Network skills can increase that number."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Red Noise symbols contain weaker monsters, but don't let your guard down. Even red symbols can hide some fearsome foes."
+	},
+	{
+		"name": "ITM_BOK_Info_0220_2",
+		"speaker": "",
+		"listener": "",
+		"content": "These symbols, unlike others, will reappear when you return to the location you fought them in."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Blue Noise symbols contain tougher enemies than the ones you'll find in red symbols."
+	},
+	{
+		"name": "ITM_BOK_Info_0221_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You'll have to unlock skills on your Social Network in order to encounter these special symbols."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Pink Noise symbols contain Pig Noise, which—if defeated—are guaranteed to drop pins."
+	},
+	{
+		"name": "ITM_BOK_Info_0222_2",
+		"speaker": "",
+		"listener": "",
+		"content": "If you hear something oinking while scanning, that means Pig Noise is somewhere nearby."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Some Pig Noise are immune to certain Psychs, so strategy is key. Try out a variety of Psychs to make these porkers rue the day they crossed you."
+	},
+	{
+		"name": "ITM_BOK_Info_0223_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Fighting these pigs comes with a time limit, but some articles of clothing have the ability to extend the timer."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_1",
+		"speaker": "",
+		"listener": "",
+		"content": "These rare, mysterious Noise symbols will run away if they spot Rindo and co."
+	},
+	{
+		"name": "ITM_BOK_Info_0224_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Defeating this rare type of Noise increases your drop rate, so if you want to score a ton of pins, try chaining them with other symbols."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Orange Noise symbols only appear during Scramble Slams and, when defeated, will provide your team with Scramble Points."
+	},
+	{
+		"name": "ITM_BOK_Info_0225_2",
+		"speaker": "",
+		"listener": "",
+		"content": "When facing off against this type of Noise, all other foes in the fight will drop Scramble Points, too. Score a heaping helping of points by chaining battles!"
+	},
+	{
+		"name": "ITM_BOK_Info_0226_1",
+		"speaker": "",
+		"listener": "",
+		"content": "You'll be awarded one of three scores—gold, silver, or bronze—based on how fast you complete a dive. The better your score, the more FP you'll receive."
+	},
+	{
+		"name": "ITM_BOK_Info_0226_2",
+		"speaker": "",
+		"listener": "",
+		"content": "To complete dives faster, try increasing your teammates' levels, eating different food, and equipping new badges and clothes."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The red Noise found in dive battles are pissed off."
+	},
+	{
+		"name": "ITM_BOK_Info_0227_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Enraged Noise pack a serious punch and can be dangerous adversaries. Careful not to let them hit you!"
+	},
+	{
+		"name": "ITM_BOK_Info_0228_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The blue Noise found in dives are rather unhappy."
+	},
+	{
+		"name": "ITM_BOK_Info_0228_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Your team's HP will steadily drain while unhappy Noise is present, and the more there are, the more HP you'll bleed! Defeat these melancholy monsters first."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The green Noise encountered in dive battles are at peace."
+	},
+	{
+		"name": "ITM_BOK_Info_0229_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Defeating this serene Noise will restore your team's HP."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The purple Noise seen in dive battles are afraid."
+	},
+	{
+		"name": "ITM_BOK_Info_0230_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Fearful Noise are massive in size and unfazed by the attacks you throw at them. They also have a habit of countering, so know when to ease up!"
+	},
+	{
+		"name": "ITM_BOK_Info_0231_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Sell unwanted pins to earn ShibuPay, a form of digital currency used in the area."
+	},
+	{
+		"name": "ITM_BOK_Info_0231_2",
+		"speaker": "",
+		"listener": "",
+		"content": "The Social Network skill ShibuPay Autoload can instantly convert money pins into ShibuPay currency, sparing you the hassle of selling them."
+	},
+	{
+		"name": "ITM_BOK_Info_0232_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0232_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0232_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Some abilities only work if they're worn by certain characters. This specialty apparel is often more useful than standard clothing items."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Clothing abilities won't activate unless your character's Style is greater than or equal to that of the garment. To increase your Style, try eating certain foods."
+	},
+	{
+		"name": "ITM_BOK_Info_0233_2",
+		"speaker": "",
+		"listener": "",
+		"content": "There are a variety of clothing abilities available to you—some for combat, some for exploring the town, and some for rather peculiar purposes."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Shops selling an item with the word <MK_11>Trade<MK_11> on it can't be purchased. Instead, you must—surprise, surprise!—trade in the corresponding Quest materials to obtain it."
+	},
+	{
+		"name": "ITM_BOK_Info_0234_2",
+		"speaker": "",
+		"listener": "",
+		"content": "If the word <MK_11>Trade<MK_11> is grayed out, you don't have enough materials to acquire the item. Hit the streets to collect more of what you need."
+	},
+	{
+		"name": "ITM_BOK_Info_0235_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Continue to purchase from the same shop, and the employees will take a shine to you. Not only will they be nicer, they might even sell you special wares!"
+	},
+	{
+		"name": "ITM_BOK_Info_0235_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You can increase your VIP Rank with brand-name shops by wearing their clothes and pins into battle. The store's employees'll be glad for the free promotion!"
+	},
+	{
+		"name": "ITM_BOK_Info_0236_1",
+		"speaker": "",
+		"listener": "",
+		"content": "You can increase your team's stats by eating food... The end. Seriously, it's that easy to boost your stats."
+	},
+	{
+		"name": "ITM_BOK_Info_0236_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You won't be able to eat any more once you're full, but battles can make you hungry again. Eat, fight, get hungry. Rinse and repeat. Your team'll be happier for it!"
+	},
+	{
+		"name": "ITM_BOK_Info_0237_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Each of your characters has a favorite snack, and by eating it, they'll receive a bonus stat boost."
+	},
+	{
+		"name": "ITM_BOK_Info_0237_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Want to know what kind of food a character likes? Watch how they react when they eat something. They're not exactly coy about their preferences..."
+	},
+	{
+		"name": "ITM_BOK_Info_0238_1",
+		"speaker": "",
+		"listener": "",
+		"content": "The art in the Udagawa Backstreets is a reflection of the wall you've tagged in the Graffiti section of the Records menu. Sounds like a good chance to spice up Shibuya with your own personal style!"
+	},
+	{
+		"name": "ITM_BOK_Info_0238_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Obtain new graffiti by helping out around town. For hints on how to obtain each piece of street art, check out the Graffiti section of the Records menu."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_1",
+		"speaker": "",
+		"listener": "",
+		"content": "During a Scramble Slam battle, an enemy marked with the word <MK_11>Bonus<MK_11> will appear. Take them down to earn your team a boat load of points."
+	},
+	{
+		"name": "ITM_BOK_Info_0239_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Unload combos on enemies to earn more Scramble Points. Also, try to save the Bonus for last to really come away from a fight flushed with points."
+	},
+	{
+		"name": "ITM_BOK_Info_0240_1",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_ITM_BOK_Info_0240_1>"
+	},
+	{
+		"name": "ITM_BOK_Info_0240_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Open up these notes anytime, even when you're in the middle of solving a real head-scratcher of a puzzle. They might just have the answers!"
+	},
+	{
+		"name": "ITM_BOK_Info_0241_1",
+		"speaker": "",
+		"listener": "",
+		"content": "From the Thoughts tab of the main menu, use FP to unlock skills on your characters' Social Network."
+	},
+	{
+		"name": "ITM_BOK_Info_0241_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Advance the story, solve problems around town, and befriend shop employees to grow your Social Network!"
+	},
+	{
+		"name": "ITM_BOK_Info_0242_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Some events in town have no bearing on the main story, meaning you can ignore them. However, these interludes offer FP and items, so it's in your interest to be philanthropic."
+	},
+	{
+		"name": "ITM_BOK_Info_0242_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Want to see if you have any past unresolved side quests? Check the Chapter screen in the Records menu."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_1",
+		"speaker": "",
+		"listener": "",
+		"content": "From the Chapter screen in the Records menu, you can return to any day you've already completed. This is a handy trick if you missed something important or need to strengthen your team."
+	},
+	{
+		"name": "ITM_BOK_Info_0243_2",
+		"speaker": "",
+		"listener": "",
+		"content": "You'll retain all current items, party members, and stats when you jump back in time, which will make clearing skipped missions or besting undefeated enemies easier."
+	},
+	{
+		"name": "ITM_MSC_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Wander Around Shibuya<MK_11><BR>Get into the groove for your newest adventure. As the tune ramps up, so will your excitement."
+	},
+	{
+		"name": "ITM_MSC_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>INCONGRUOUS<MK_11><BR>Who needs harmony, anyway? Break free from the confines of musical standards with this unpredictable jam."
+	},
+	{
+		"name": "ITM_MSC_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Your Ocean<MK_11><BR>Listless vocals over a hard guitar riff make a solid track for the new generation."
+	},
+	{
+		"name": "ITM_MSC_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Insomnia<MK_11><BR>Just listening to these synth beats makes you feel like you can uncover all of the city's secrets."
+	},
+	{
+		"name": "ITM_MSC_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Breaking Free<MK_11><BR>The melodious vocals of this rock number give just the push you need to break through all obstacles standing in your way."
+	},
+	{
+		"name": "ITM_MSC_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hustle and Bustle<MK_11><BR>This cute, electro-pop bop will keep you grounded and remind you of exactly where you are."
+	},
+	{
+		"name": "ITM_MSC_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Shibuya Survivor<MK_11><BR>Relaxed vocals meticulously mesh with deep guitar tones to give this track a weighty, underground feel."
+	},
+	{
+		"name": "ITM_MSC_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Kill the Itch<MK_11><BR>A proper rock jam, this song will swing its way into your head as you plow through life's adversities."
+	},
+	{
+		"name": "ITM_MSC_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>unconscious<MK_11><BR>Nothing lasts in this world, but this song makes you feel like there's something you've missed lurking just out of sight."
+	},
+	{
+		"name": "ITM_MSC_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Rockin' Rockin'<MK_11><BR>Feel the beat pulse from the very ground beneath you as you rock out to this killer track. Don't be surprised if everyone else joins in, too."
+	},
+	{
+		"name": "ITM_MSC_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Unpainted<MK_11><BR>Lose yourself in these beats and forget all about the pain that fills your sorrowed heart."
+	},
+	{
+		"name": "ITM_MSC_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>DIVIDE<MK_11><BR>This emotional jam may be just what you need to draw up and reconcile the conflicting truths at your core."
+	},
+	{
+		"name": "ITM_MSC_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>We’re Losing You<MK_11><BR>Black or white? Silence won't stand. The hardcore sound of this song penetrates your heart and resonates with the Noise within."
+	},
+	{
+		"name": "ITM_MSC_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LAST CALL<MK_11><BR>Quick, ambient beats summon forth the unexpected with pleasant, straight-shooting vocals."
+	},
+	{
+		"name": "ITM_MSC_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Storm<MK_11><BR>If you aren't careful, the funky flow of this knock-out track may sweep you away."
+	},
+	{
+		"name": "ITM_MSC_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>The Beginning of a Happy Life<MK_11><BR>Bold synth lines and pronounced bass slaps will keep you on-beat as you step out into a new day."
+	},
+	{
+		"name": "ITM_MSC_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>CHASE<MK_11><BR>Never look back. These intense acoustic beats will carry you forward into a shining new era."
+	},
+	{
+		"name": "ITM_MSC_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>bird in the hand<MK_11><BR>Conflicting vocals never quite find common ground in this deceptively simple number."
+	},
+	{
+		"name": "ITM_MSC_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Beyond Oblivion<MK_11><BR>Friendship becomes memory, and memory becomes a dream. This is an elegy for all the grieving hearts out there."
+	},
+	{
+		"name": "ITM_MSC_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>World Is Yours<MK_11><BR>Melodies rise from the ashes as the beat heats up in this homage track."
+	},
+	{
+		"name": "ITM_MSC_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>take away<MK_11><BR>You just can't resist that smile, can you? You know the one. Don't forget to top up ShibuPay before you go."
+	},
+	{
+		"name": "ITM_MSC_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>NEW GAME<MK_11><BR>The world ends with this hard rock anthem. There's no stopping the countdown now."
+	},
+	{
+		"name": "ITM_MSC_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LITTLE THINGS - JP<MK_11><BR>Soothing piano tones and persistent percussion envelop you like the sunlight streaming over the crossing."
+	},
+	{
+		"name": "ITM_MSC_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>hopeless<MK_11><BR>There is not a single ray of light to guide you through despair. Only a melancholic nocturne to accompany you in sorrow."
+	},
+	{
+		"name": "ITM_MSC_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>disturbance<MK_11><BR>Apprehension. Fear. Dread. Your hair stands on end as you listen to this capriccio of horrors to come."
+	},
+	{
+		"name": "ITM_MSC_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>death throes<MK_11><BR>Danger draws ever nearer. Will you persevere? Or will you succumb to the perils that await?"
+	},
+	{
+		"name": "ITM_MSC_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>a tranquil mind<MK_11><BR>Relax. Take a deep breath. Let the aria soothe you and clear your troubled mind."
+	},
+	{
+		"name": "ITM_MSC_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>act the fool<MK_11><BR>You've got a funny feeling. Something's coming, and you've got a hunch about what it is."
+	},
+	{
+		"name": "ITM_MSC_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>ENCOUNTER<MK_11><BR>You've got a lock on your prey. Now is the time to strike while your anticipation is hightened by this toccata."
+	},
+	{
+		"name": "ITM_MSC_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>peaceful day<MK_11><BR>When you hear this chipper number, you know the day is won. Time to kick back and enjoy some hard-earned down time."
+	},
+	{
+		"name": "ITM_MSC_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Twister (NEO Mix)<MK_11><BR>The masterpiece returns, bestowing upon its listeners a burst of musical adrenaline. <MK_11>That power is yet unknown.<MK_11>"
+	},
+	{
+		"name": "ITM_MSC_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Revelation (NEO Mix)<MK_11><BR>Synthesizers heighten the senses as powerful vocals remind you of what came before. It's time to face new challenges with old friends."
+	},
+	{
+		"name": "ITM_MSC_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>March On (NEO Mix)<MK_11><BR>Hot-and-cold vocals over dystopian shouts set this pop bop apart from the crowd."
+	},
+	{
+		"name": "ITM_MSC_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Calling (NEO Mix)<MK_11><BR>This tune is a sure sign that something serious is about to go down. It beckons you, <MK_11>dear friend, once more<MK_11>."
+	},
+	{
+		"name": "ITM_MSC_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hybrid (NEO Mix)<MK_11><BR>Sprint through the danger zone as this jam dashes from perilous to chill and back again."
+	},
+	{
+		"name": "ITM_MSC_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Ooparts - JP (NEO Mix)<MK_11><BR>Dissonance defines this timeless tune for every generation, with conflicting genres representing clashing viewpoints."
+	},
+	{
+		"name": "ITM_MSC_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Jump Over Yourself (NEO Mix)<MK_11><BR>An unforgettable intro gives way to feelings of restraint and uncertainty. But never fear. The answers are waiting for you to look back to them."
+	},
+	{
+		"name": "ITM_MSC_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Someday - JP (NEO Mix)<MK_11><BR>This one's a classic! The tried-and-true hard rock tune really takes you back."
+	},
+	{
+		"name": "ITM_MSC_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Make or Break (NEO Mix)<MK_11><BR>You'll be singing along with this synth-and-drum number in no time. It's just too catchy to resist."
+	},
+	{
+		"name": "ITM_MSC_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>SCRAMBLE<MK_11><BR>It starts out tame, but quickly climbs up to energetic heights. Throw in some orthodox pop elements, and you've got a sure earworm."
+	},
+	{
+		"name": "ITM_MSC_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Revelation - JP (NEO Mix)<MK_11><BR>Steady vocals lay on the melodic drama. Listening to this, you feel like not even fate can get in your way."
+	},
+	{
+		"name": "ITM_MSC_Info_0042",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Transformation (NEO Mix)<MK_11><BR>When there's no telling what will unfold, a dramatic orchestral arrangement gives you the courage to roll the dice."
+	},
+	{
+		"name": "ITM_MSC_Info_0043",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Three Minutes Clapping (NEO Mix)<MK_11><BR>A funky beat and cheering crowds make this jam the perfect pick-me-up when you need some encouragement before ripping through Noise."
+	},
+	{
+		"name": "ITM_MSC_Info_0044",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>The One Star (NEO Mix)<MK_11><BR>A solid jam with a nifty guitar riff. You'll want to put on some nice headphones for this one."
+	},
+	{
+		"name": "ITM_MSC_Info_0045",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>OWARI-HAJIMARI (NEO Mix)<MK_11><BR>Crank up the volume, 'cause this genre-defying piece is best enjoyed loud."
+	},
+	{
+		"name": "ITM_MSC_Info_0046",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>OWARI-HAJIMARI - JP (NEO Mix)<MK_11><BR>Crank up the volume, 'cause this genre-defying piece is best enjoyed loud."
+	},
+	{
+		"name": "ITM_MSC_Info_0047",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Twister<MK_11><BR>It's back in all its original glory. All jam and no frills, it'll have you feeling fresh as ever."
+	},
+	{
+		"name": "ITM_MSC_Info_0048",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Someday (NEO Mix)<MK_11><BR>This one's a classic! The tried-and-true hard rock tune really gets you pumped up."
+	},
+	{
+		"name": "ITM_MSC_Info_0049",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Hybrid - JP (NEO Mix)<MK_11><BR>Sprint through the danger zone as this jam dashes from perilous to chill and back again, this time in Japanese."
+	},
+	{
+		"name": "ITM_MSC_Info_0050",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>Rockin' Rockin' (Live Version)<MK_11><BR>The legendary act has taken the stage once more! Bask in the sweet storm that is their quintessential sound, and remember: this dream ends with you."
+	},
+	{
+		"name": "ITM_MSC_Info_0051",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_11>LITTLE THINGS<MK_11><BR>Once again, the world begins with you, standing in the crossing amid infinite possibilities—but only the ones you can perceive will help you change fate."
+	}
+]
+}

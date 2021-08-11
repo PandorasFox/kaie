@@ -1,0 +1,580 @@
+{
+"columns":[
+	{
+		"name": "ITM_FOD_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Appunti sugli alimenti"
+	},
+	{
+		"name": "ITM_FOD_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "Un caffè ricavato da chicchi a tostatura leggera dall'aroma fresco e fruttato. Pressata a freddo per ridurne il sapore amaro, questa miscela ti rinfresca come una brezza estiva.<BR>*La quantità di ghiaccio può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Al nostro tipico caffè freddo viene aggiunto latte parzialmente scremato che dona un sapore ricco alla miscela, senza rovinarne l'aroma naturale.<BR>*La quantità di latte e caffè può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "La specialità di questo bar è fresca come sembra. Potresti mangiare <i>subito</i> il gelato, ma poi ti rimarrebbe una banale bevanda al melone con una ciliegia. E che gusto c'è a bere una cosa simile?<BR>*Le dimensioni della pallina di gelato possono variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Una tazza di caffè preparata da una miscela unica di chicchi provenienti dal Centro e Sud America. Apprezzata dagli amanti del caffè per il sapore delicato e il retrogusto ricco.<BR>*La miscela può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Una specialità che unisce un caffè corto al latte caldo... È impossibile resisterle. Forse da Hachiko aggiungono meno latte rispetto ad altri posti, ma per loro più un caffè è amaro, meglio è.<BR>*La decorazione sulla schiuma può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Un dolcetto sfornato appena prima dell'apertura del negozio. Ricco di pepite di cioccolato fondente, questo dolce si sbriciola appena lo mordi e si abbina perfettamente a un caffè caldo.<BR>*La quantità di pepite di cioccolato può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto molto amato del nostro menù che unisce tre intramontabili dei panini: pancetta, lattuga e pomodori. La pancetta viene saltata in padella appena prima di aggiungerla al tramezzino per dare mordente a questo piatto.<BR>*Il pomodoro potrebbe non essere sempre incluso"
+	},
+	{
+		"name": "ITM_FOD_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Un dessert salato che nasconde fragole, kiwi e arance fresche tra onde di panna montata, e avvolge il tutto in due fette di pane. Perfetto da postare sui social.<BR>*La quantità di panna può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto tipico di Sapporo che unisce il brodo di maiale e pollo a una zuppa di frutti di mare infusa di bonito. Basta aggiungere del pollo, una bella manciata di verdura, tante spezie e il pranzo è servito!<BR>*La piccantezza del piatto può variare"
+	},
+	{
+		"name": "ITM_FOD_Info_0100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un caposaldo del menù fin dalla fondazione della catena, questo hamburger di manzo viene grigliato alla perfezione e infilato in un panino lievitato naturalmente con una manciata di verdure biologiche a chilometro zero."
+	},
+	{
+		"name": "ITM_FOD_Info_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo hamburger non è un campione solo di nome: è anche il piatto più amato del menù di JB, e per un buon motivo! Questo panino è il sogno di ogni amante della carne con i suoi due hamburger e formaggio extra."
+	},
+	{
+		"name": "ITM_FOD_Info_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Un filetto di merluzzo fritto al momento e ricoperto con salsa tartara artigianale con note aspre e fresche è ciò che rende unico questo panino. I veri amanti di JB ritengono che il sapore acidulo del limone e dei cetrioli sia il legante di questo panino."
+	},
+	{
+		"name": "ITM_FOD_Info_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Un panino di pregiato manzo wagyu, ideato per festeggiare il 30esimo anniversario della catena e oggi piatto fisso nel menù. Riuscirai a <i>battere</i> questo hamburger enorme?"
+	},
+	{
+		"name": "ITM_FOD_Info_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Queste patatine deliziose vengono ricavate da patate non pelate e fritte due volte, la prima a basse temperature e la seconda ad alte, per essere <MK_11>croccanti fuori, tenere dentro<MK_11>."
+	},
+	{
+		"name": "ITM_FOD_Info_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa bevanda super gassata è perfetta per accompagnare qualsiasi panino di Justice Burger. Verrai pervaso da una sensazione frizzantina da capo a piedi!"
+	},
+	{
+		"name": "ITM_FOD_Info_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa bevanda gassata, dal sapore dolce che sovrasta le note aspre, è perfetta da bere con i piatti più carnosi del menù. 100% succo naturale spremuto da arance provenienti dalla campagna (sul serio!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "La zuppa di sesamo bianco molto saporita è alla base di un piatto che unisce olio piccante speziato col pepe giapponese per esaltare il sapore della vera star della pietanza: il pepe nero. Un must per gli amanti del ramen."
+	},
+	{
+		"name": "ITM_FOD_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "In questo piatto il maiale la fa da padrone: i noodles più spessi della città vengono serviti in un brodo di ossa di maiale e accompagnati da fette di filetto arrosto dello stesso, a cui viene aggiunto persino il grasso dell'animale. Soddisfa pienamente il fabbisogno calorico giornaliero di un maschio adulto, e forse lo supera anche! Un vero e proprio peccato di gola."
+	},
+	{
+		"name": "ITM_FOD_Info_0202",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ricetta originale di G4G che unisce due tipi diversi di noodle. Assapora i noodles spessi conditi con una salsa speciale: la sua ricetta segreta si tramanda da generazioni."
+	},
+	{
+		"name": "ITM_FOD_Info_0203",
+		"speaker": "",
+		"listener": "",
+		"content": "Rivisitazione di un piatto classico di G4G, questo piatto presenta una zuppa di sesamo nero molto ricca che non mancherà di sorprenderti. Il maiale macinato viene lasciato marinare in un mix piccante di aglio, zenzero e pepe per dargli un sapore accattivante."
+	},
+	{
+		"name": "ITM_FOD_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Simbolo di SBY BBQ, questo maialino viene arrostito alla perfezione: la pelle è croccante e saporita, mentre la carne sotto rimane morbida e gustosa. Servito su un letto di verdure, questo piatto sorprenderà voi... e le vostre papille gustative!"
+	},
+	{
+		"name": "ITM_FOD_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo pollo ruspante viene infilato in un girarrosto esclusivo che assicura una cottura perfetta: vedrai che aspetto avrà quando verrà tirato fuori. Si gusta al meglio in un tramezzino farcito anche con la salsa speciale di SBY BBQ e l'insalata di cavolo."
+	},
+	{
+		"name": "ITM_FOD_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto tipico della cucina brasiliana composto da carne picanha grigliata al sangue condita con una vinaigrette di molho. (Vedere lo chef che taglia la carne al tavolo e la serve è una delizia per gli occhi!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa carne viene fatta stagionare in freezer per un mese intero, poi cotta ad alte temperature per creare un piatto unico nel suo genere e dal sapore intenso. Per chi fosse interessato ad assaporare il taglio Chateaubriand, è possibile prenotare solo con un anno d'anticipo."
+	},
+	{
+		"name": "ITM_FOD_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto amatissimo del menù che sicuramente ti farà fare un figurone sui social. L'apparenza inganna, in questo caso più che mai: arrostita al forno, la testa nasconde tante porzioncine prelibate, come le guance succulente e gli occhi ricchi di collagene!"
+	},
+	{
+		"name": "ITM_FOD_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Importato direttamente dall'Australia, questo alligatore ha una carne ricca di proteine e al contempo ipocalorica. Alcuni dicono che la consistenza ricordi il pollo, ma i veri amanti della carne sanno bene che niente regge il confronto con un piatto di alligatore grigliato sul momento."
+	},
+	{
+		"name": "ITM_FOD_Info_0400",
+		"speaker": "",
+		"listener": "",
+		"content": "Un semifreddo molto amato abbinato a una selezione di frutta di stagione. La frutta tagliata a pezzi viene servita su diversi strati di crema pasticcera ed è ricoperta da una cucchiaiata di panna montata che fa assaporare appieno i gusti della natura."
+	},
+	{
+		"name": "ITM_FOD_Info_0401",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa delizia goduriosa unisce un ricco gelato al cioccolato francese con una panna al gusto nocciola. La gelatina di caffè amara e la salsa ai frutti rossi dalle note amarognole si uniscono per dare vita a un dolce perfetto per palati raffinati."
+	},
+	{
+		"name": "ITM_FOD_Info_0402",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa coppa abbina perfettamente i toni fruttati e leggermente aspri del gelato al cioccolato ruby con uno yogurt delicato e acidulo, per poi coronare il tutto con una spruzzata di mirtilli rossi. Presto ne parleranno tutti a Udagawa!"
+	},
+	{
+		"name": "ITM_FOD_Info_0403",
+		"speaker": "",
+		"listener": "",
+		"content": "Una coppa gelato che è una delizia per gli occhi, ma ancora di più per il palato. Lo chef consiglia di iniziare dalla meringa in cima e assaporare il dolce in ordine, fino a raggiungere il sorbetto al ribes nero. È solo un consiglio però, alla fine è il tuo dolce, perciò mangialo come vuoi tu!"
+	},
+	{
+		"name": "ITM_FOD_Info_0500",
+		"speaker": "",
+		"listener": "",
+		"content": "Una famosa bevanda taiwanese che unisce tè nero intenso a latte con perle di tapioca. Queste <MK_11>bolle<MK_11> morbide vengono preparate ogni mattina in negozio e mantengono una freschezza unica."
+	},
+	{
+		"name": "ITM_FOD_Info_0501",
+		"speaker": "",
+		"listener": "",
+		"content": "Una delle bevande più amate di Bubblevision che esalta al meglio il sapore intenso del tè verde unendolo al latte e alle perle di tapioca. Siamo forse di fronte al bubble tea definitivo?"
+	},
+	{
+		"name": "ITM_FOD_Info_0502",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa miscela cremosa unisce un tè taiwanese dalle note intense con un frullato di fragole preparato sul momento e perle di tapioca ai frutti. Una bevanda deliziosa che fa gola ai clienti di ogni età."
+	},
+	{
+		"name": "ITM_FOD_Info_0503",
+		"speaker": "",
+		"listener": "",
+		"content": "Le intense note dolci dello zucchero di canna di Okinawa si sposano perfettamente con la base di tè nero: il risultato è una bevanda dal sapore ricco, sofisticato e quasi impareggiabile. Deliziosa dall'inizio fino all'ultima perla!"
+	},
+	{
+		"name": "ITM_FOD_Info_0504",
+		"speaker": "",
+		"listener": "",
+		"content": "Una bevanda goduriosa, il perfetto equilibrio tra la dolcezza del purè di vero mango al 100% e i toni rigorosi del tè taiwanese. Non c'è un sapore predominante in questa ricetta, ma non per questo non vorrai farne il bis."
+	},
+	{
+		"name": "ITM_FOD_Info_0600",
+		"speaker": "",
+		"listener": "",
+		"content": "Assaggia tutti e tre i famosi curry di Don in un solo piatto, perfetto per gli eterni indecisi. Si può condire anche con formaggio croccante e maiale arrosto, ma è saporito anche senza queste aggiunte."
+	},
+	{
+		"name": "ITM_FOD_Info_0601",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto piccante unico, in cui il curry tipico dell'India meridionale viene cucinato in infusione con un brodo giapponese. Gli avventori più esperti potranno captare note di coriandolo e cumino, e anche un retrogusto di chiodi di garofano aggiunto su insistenza dello chef."
+	},
+	{
+		"name": "ITM_FOD_Info_0602",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto sostanzioso ma sano che unisce tre tipi di dhal (mung, masur e chana) con profumate cipolle fritte per creare un curry che i clienti di Don assaporeranno fino all'ultimo cucchiaio."
+	},
+	{
+		"name": "ITM_FOD_Info_0603",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo piatto tipico della cucina dell'India meridionale non è altro che un curry composto da due varietà di sgombro: queste bilanciano il sapore acidulo del tamarindo e del pomodoro e la dolcezza del latte di cocco; inoltre, il tutto è arricchito da foglie di curry e semi di senape."
+	},
+	{
+		"name": "ITM_FOD_Info_0604",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa rivisitazione giapponese di un piatto tipicamente indiano unisce una ciotola di riso misto a brodo di bonito con cozze e capesante cucinate in stile keema. Aggiungi una manciata di ingredienti diversi per creare un'esperienza gustativa unica... e non dimenticarti di bere la zuppa di miso piccante di contorno!"
+	},
+	{
+		"name": "ITM_FOD_Info_0700",
+		"speaker": "",
+		"listener": "",
+		"content": "Un prodotto immancabile di ogni negozio di alimentari e uno dei cibi pronti giapponesi più famosi al mondo. Questa polpetta di riso contiene due prugne al prezzo di una... un affare che si trova solo al Moyai Mart!"
+	},
+	{
+		"name": "ITM_FOD_Info_0701",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa polpetta di riso è così piena di fiocchi di salmone che potrebbe scoppiare. Conservato nel sale e poi lasciato essiccare all'aria, questo pesce dà un sapore unico al tuo spuntino. Questo è l'unico posto che offre un cibo pronto tanto saporito al modico prezzo di quattro yen!"
+	},
+	{
+		"name": "ITM_FOD_Info_0702",
+		"speaker": "",
+		"listener": "",
+		"content": "Gamberi fritti, uova strapazzate e verdure stufate circondano il protagonista indiscusso di questo bento: il filetto di salmone grigliato. Un piatto tanto delizioso da meritarsi una standing ovation!"
+	},
+	{
+		"name": "ITM_FOD_Info_0703",
+		"speaker": "",
+		"listener": "",
+		"content": "(Un consiglio: se non è fresco di cottura, non prenderlo!)"
+	},
+	{
+		"name": "ITM_FOD_Info_0704",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa zuppa di stagione è uno dei piatti più gettonati dagli avventori del Moyai Mart. Alcuni provano anche ad aggiungerci un onigiri per fargli assorbire il brodo di bonito, e si gustano questa sorta di risotto fai-da-te."
+	},
+	{
+		"name": "ITM_FOD_Info_0705",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pacchetto di patatine di Hokkaido, dal taglio spesso e fritte alla croccantezza perfetta. La scritta <MK_11>consumare preferibilmente entro<MK_11> non è solo un consiglio: Moyai Mart si impegna a rimuovere i pacchetti invenduti dagli scaffali per assicurarsi che i clienti mangino solo spuntini freschi."
+	},
+	{
+		"name": "ITM_FOD_Info_0800",
+		"speaker": "",
+		"listener": "",
+		"content": "Un pranzo di lusso che contiene più pezzi di manzo Matsuzaka di quanti tu possa contarne. Le tue papille gustative andranno in visibilio nel momento in cui metterai in bocca questa carne pregiata. Un piatto di carne insuperabile."
+	},
+	{
+		"name": "ITM_FOD_Info_0801",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ciotola unica nel suo genere per la selezione di alimenti: la confezione straripa di tonno prelibato e altri frutti di mare di qualità che ogni mattina vengono presi freschi al mercato del pesce di Toyosu per essere poi preparati dalle mani esperte del capocuoco."
+	},
+	{
+		"name": "ITM_FOD_Info_0802",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto eccezionale che offre due delle specialità più pregiate di Hokkaido: riccio di mare burroso tagliato a grosse fette e deliziose uova di salmone. Basterà un piccolo assaggio di questa prelibatezza per immergerti nelle atmosfere di quest'isola."
+	},
+	{
+		"name": "ITM_FOD_Info_0803",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ciotola di carne ricca di manzo tagliato a fette e arrostito alla perfezione. È accompagnato da un contorno di crescione e panna acida infusa di wasabi, perfetti per pulire il palato e dare quella marcia in più all'<i>umami</i> di questo piatto."
+	},
+	{
+		"name": "ITM_FOD_Info_0804",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto molto amato a base di anguilla preparata secondo la cucina di Nagoya, quindi grigliata e non cotta al vapore. Goditela accompagnata da salsa di soia dolce o wasabi e scalogno, oppure con un po' di zuppa."
+	},
+	{
+		"name": "ITM_FOD_Info_0805",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ciotola leggendaria che sfoggia ben nove tipi di carne diversi provenienti da tutto il Giappone: manzo, maiale, pollo, montone, anatra, cervo, cinghiale, orso e coniglio. Il sogno di ogni carnivoro!"
+	},
+	{
+		"name": "ITM_FOD_Info_0900",
+		"speaker": "",
+		"listener": "",
+		"content": "Una ciotola speciale che contiene circa il 200% del fabbisogno giornaliero di verdure a foglia verde. Ha una spruzzata di un condimento saporito fatta in casa che riesce a soddisfare anche chi odia le verdure."
+	},
+	{
+		"name": "ITM_FOD_Info_0901",
+		"speaker": "",
+		"listener": "",
+		"content": "Dopo averci spalmato sopra la maionese della casa, questa bella fetta di pane viene abbrustolita in forno e poi caricata con un avocado intero a fette così morbido che penserai sia lardo (te lo giuriamo, non è lardo!)."
+	},
+	{
+		"name": "ITM_FOD_Info_0902",
+		"speaker": "",
+		"listener": "",
+		"content": "Un brodo di stagione in cui spiccano carote e patate tagliate a rondelle e altre verdure. Questo piatto ipocalorico non ti farà sentire in colpa per mangiare fuori casa, perciò mangialo tutto, e prendine anche un altro."
+	},
+	{
+		"name": "ITM_FOD_Info_0903",
+		"speaker": "",
+		"listener": "",
+		"content": "Spinaci, cavolo verde e altre verdure a foglia sono stati frullati insieme a mele, arance e una spruzzata di limone per creare questa bevanda energetica piena di vitamine. Un ottimo sostituto alla colazione."
+	},
+	{
+		"name": "ITM_FOD_Info_0904",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa proposta mescola una manciata di açaí, un ottimo superfood, con alcune bacche e un po' di latte per creare una bevanda ricca di ferro, polifenoli e, ovviamente, gusto."
+	},
+	{
+		"name": "ITM_FOD_Info_0905",
+		"speaker": "",
+		"listener": "",
+		"content": "Assaggia i cieli di Shibuya! Questo campione è stato estratto a 100 metri di altezza dalla città e filtrato tre volte per garantire una purificazione ottimale. È un souvenir molto carino anche se, beh... è solo aria."
+	},
+	{
+		"name": "ITM_FOD_Info_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Un cibo di strada coreano molto amato a base di mozzarella filante avvolta in un impasto di mais. Puoi condire il tutto con ketchup, senape o sciroppo d'acero. Scegli quello che ti ispira di più!"
+	},
+	{
+		"name": "ITM_FOD_Info_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Una banana fritta che ti si scioglie in bocca ed è accompagnata da una manciata di cioccolato. Basta pubblicare un post con questo dessert coreano per intraprendere la strada del foodblogger."
+	},
+	{
+		"name": "ITM_FOD_Info_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Queste palline di pasta vengono fritte, riempite di pasta di fagioli e una zuppa acidula per creare una prelibatezza mignon divertente da mangiare. Bastano un paio di panipuri ed è subito festa!"
+	},
+	{
+		"name": "ITM_FOD_Info_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Il dim sum è un piatto tipico che in questa versione presenta piccoli ravioli di maiale tritato, che vengono poi cotti al vapore in un contenitore di bambù. Fai attenzione quando li assaggi, perché potresti scottarti con la zuppa all'interno!"
+	},
+	{
+		"name": "ITM_FOD_Info_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Tra i più famosi street food di Osaka, queste polpette di polpo sono croccanti fuori e morbide dentro. Mi raccomando, aggiungi la maionese perché <i>cambia la vita</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_1100",
+		"speaker": "",
+		"listener": "",
+		"content": "Un gelato morbido preparato con il latte fresco di una latteria biologica. È impossibile resistere alla sua morbidezza e dolcezza rinfrescante."
+	},
+	{
+		"name": "ITM_FOD_Info_1101",
+		"speaker": "",
+		"listener": "",
+		"content": "Una crêpe stagionale farcita con pregiata uva muscat e decorata con panna montata a base di champagne per rendere questo dolce ancora più godurioso. Alla salute!"
+	},
+	{
+		"name": "ITM_FOD_Info_1102",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa crêpe molto apprezzata è stracolma di frutta. Fragole, lamponi e mirtilli sono posizionati sapientemente su un letto di panna montata al rum."
+	},
+	{
+		"name": "ITM_FOD_Info_1103",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo dolce cremoso si caratterizza per il sapore amaro del cacao che lascia un retrogusto dolciastro. Anche nell'impasto del cono è stata usata una polvere di fave di cacao pregiate, il che rende questo dessert una delizia dal primo all'ultimo morso."
+	},
+	{
+		"name": "ITM_FOD_Info_1104",
+		"speaker": "",
+		"listener": "",
+		"content": "Le dolcissime patate satsuma vengono abbrustolite sulla pietra, schiacciate e unite al latte per creare un gelato delizioso. Come tocco finale viene aggiunta una manciata di frittura dolce perché, in fondo, a chi non piace il fritto!?"
+	},
+	{
+		"name": "ITM_FOD_Info_1200",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo piatto di carne messicano presenta una bistecca cotta a fuoco vivo, tagliata a dadini e avvolta in una tortilla di mais. I grandi appassionati di cibo potrebbero percepire le note affumicate di salsa di pomodoro e cipolla arrostiti."
+	},
+	{
+		"name": "ITM_FOD_Info_1201",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto segreto riservato solo agli habitué, questo taco non è adatto alle lingue poco esperte. La miscela brutale di salsa di habanero e ghost chili è così piccante che ti metterai a piangere chiamando la <i>mamma</i>."
+	},
+	{
+		"name": "ITM_FOD_Info_1202",
+		"speaker": "",
+		"listener": "",
+		"content": "Questa tortilla agli spinaci ripiena di carne è farcita con peperoncini verdi tagliati a cubetti per creare un piatto colorato che fa pizzicare leggermente la lingua. È disponibile solo per i clienti che frequentano il locale."
+	},
+	{
+		"name": "ITM_FOD_Info_1203",
+		"speaker": "",
+		"listener": "",
+		"content": "Una salsa mole al cacao e una miscela pregiata di cannella, chiodi di garofano e altre spezie sono l'accompagnamento perfetto per il pollo alla griglia di questo piatto delizioso. Se lo vedi sul menù del pranzo, sappi che è la tua giornata fortunata!"
+	},
+	{
+		"name": "ITM_FOD_Info_1300",
+		"speaker": "",
+		"listener": "",
+		"content": "Lo chef di Suzu parte da un brodo ottenuto bollendo lentamente il pollo, a cui aggiungerà poi una miscela equilibrata di tamari e salsa di soia: ora la base perfetta per dei noodles leggermente increspati è pronta."
+	},
+	{
+		"name": "ITM_FOD_Info_1301",
+		"speaker": "",
+		"listener": "",
+		"content": "Non farti ingannare dal brodo trasparente: questo piatto è molto saporito, grazie all'originale combinazione di pollo, capesante, alghe e cinque varietà di sale. Le note fresche di limone ti faranno svoltare la giornata."
+	},
+	{
+		"name": "ITM_FOD_Info_1302",
+		"speaker": "",
+		"listener": "",
+		"content": "Delicata, ma dal sapore intenso, è una delle migliori ciotole offerte da Suzu. La salsa miso viene caramellata e sparsa sopra i noodles appena prima di servirli, per un aroma affumicato."
+	},
+	{
+		"name": "ITM_FOD_Info_1303",
+		"speaker": "",
+		"listener": "",
+		"content": "Il nome di questo piatto promette un'esperienza gustativa piccante accompagnata da note sapide. Basta aggiungere un po' di scalogno e una punta di olio di sesamo e ti troverai davanti un piatto che non ti stuferà mai."
+	},
+	{
+		"name": "ITM_FOD_Info_1400",
+		"speaker": "",
+		"listener": "",
+		"content": "Il profumo dolce del limone rende questo tè dimbula una bevanda fresca e rigenerante. Dopo averlo gustato, mangia qualche fetta di arancia per fare il pieno di vitamina C!"
+	},
+	{
+		"name": "ITM_FOD_Info_1401",
+		"speaker": "",
+		"listener": "",
+		"content": "Un tè fruttato che presenta più frutta che tè. Fragole, lamponi e mirtilli pregiati si fondono in un'armonia di sapori per creare una bevanda che si potrebbe benissimo definire un dessert."
+	},
+	{
+		"name": "ITM_FOD_Info_1402",
+		"speaker": "",
+		"listener": "",
+		"content": "Una bevanda gassata rinfrescante perfetta per le giornate afose. Aggiungici qualche fetta di limone per affrontare al meglio il caldo estivo!"
+	},
+	{
+		"name": "ITM_FOD_Info_1403",
+		"speaker": "",
+		"listener": "",
+		"content": "Una bevanda gassata deliziosa di un bellissimo colore rosso. Il segreto per esaltare la dolcezza del succo ai frutti di bosco è aggiungere una goccia di aceto di fragole... ma non dirlo a nessuno!"
+	},
+	{
+		"name": "ITM_FOD_Info_1500",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo piatto tipico dell'India settentrionale offre una miscela di curry di pollo, montone e altre carni accompagnati da naan e roti. Ingredienti come noci e panna sono essenziali per arricchire questi piatti."
+	},
+	{
+		"name": "ITM_FOD_Info_1501",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo piatto tipico dell'India meridionale ripropone un sambar vegetariano ed esalta la zuppa agrodolce rasam, entrambi serviti con riso. Mescolali o gustali separatamente... Segui il tuo cuore!"
+	},
+	{
+		"name": "ITM_FOD_Info_1502",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo piatto tipico dell'India settentrionale si rivolge ai vegetariani offrendo un pasto saporito che sazierà al punto giusto."
+	},
+	{
+		"name": "ITM_FOD_Info_1503",
+		"speaker": "",
+		"listener": "",
+		"content": "Uno spuntino indiano simile a una crêpe, ricavato da un impasto di riso e lenticchie, ripieno di patate piccanti e servito con sambar e chutney."
+	},
+	{
+		"name": "ITM_FOD_Info_1504",
+		"speaker": "",
+		"listener": "",
+		"content": "Un piatto di riso indiano in cui strati alternati di riso basmati e intingolo di pollo vengono cotti insieme in un forno speciale. Spesso viene mangiato con i raita, ma è molto saporito anche così."
+	},
+	{
+		"name": "ITM_FOD_Info_1600",
+		"speaker": "",
+		"listener": "",
+		"content": "A livello di gusto, questo piatto non somiglia minimamente al pesce a cui si ispira la sua forma. Scegli un ripieno di fagioli rossi se hai voglia di dolce, oppure opta per il formaggio se sei in vena di salato."
+	},
+	{
+		"name": "ITM_FOD_Info_1601",
+		"speaker": "",
+		"listener": "",
+		"content": "Fagioli azuki di Hokkaido bolliti a fuoco lento e piccoli mochi decorano questo gelato ricoperto di una densa salsa al tè matcha."
+	},
+	{
+		"name": "ITM_FOD_Info_1602",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo dessert è la versione più goduriosa del gelato che lo precede: il gelato al tè verde e la bavarese creano un'esperienza di degustazione matcha che farà impallidire tutti gli altri avventori."
+	},
+	{
+		"name": "ITM_FOD_Info_1603",
+		"speaker": "",
+		"listener": "",
+		"content": "Questi mochi deliziosi sono ricoperti di una pasta densa di fagioli rossi lavorati per venti anni. L'equilibrio perfetto di dolce e salato dona un'esperienza gustativa sopraffina."
+	},
+	{
+		"name": "ITM_FOD_Info_1604",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo dessert coloratissimo è stato aggiunto al menù dopo che il proprietario del locale ha visitato Sendai. Gli edamame sono tritati a mano per preservarne il sapore e la consistenza."
+	},
+	{
+		"name": "ITM_FOD_Info_1700",
+		"speaker": "",
+		"listener": "",
+		"content": "Cosparsi con abbondante crema di anacardi, questi pancake morbidissimi si sciolgono in bocca. Vengono serviti con un'ampia scelta di frutta per farti sentire meno in colpa."
+	},
+	{
+		"name": "ITM_FOD_Info_1701",
+		"speaker": "",
+		"listener": "",
+		"content": "Un dessert non troppo dolce che è più soffice di quanto ti aspettassi. La pungente salsa di fragole si abbina perfettamente al latte condensato, donando un'esperienza culinaria unica."
+	},
+	{
+		"name": "ITM_FOD_Info_1702",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo ghiaccio al gusto latte e menta viene tritato, mescolato con menta schiacciata e cosparso con una salsa al cioccolato fondente amara: è il dolce perfetto per un caldo giorno d'estate."
+	},
+	{
+		"name": "ITM_FOD_Info_1703",
+		"speaker": "",
+		"listener": "",
+		"content": "Una montagnetta di pancake sofficissimi ricoperti di crema al cioccolato. Non farti problemi a ordinarne un altro piatto: sono ipocalorici e meno dolci di quel che pensi!"
+	},
+	{
+		"name": "ITM_FOD_Info_1704",
+		"speaker": "",
+		"listener": "",
+		"content": "Questo dolce a base di ghiaccio incarna la dolcezza del mango riproponendo il frutto in ogni suo componente, dal ghiaccio alla panna montata in cima."
+	}
+]
+}
