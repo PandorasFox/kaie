@@ -1,0 +1,373 @@
+{
+"columns":[
+	{
+		"name": "SKL_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "難易度：EASY",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "難易度：HARD",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "難易度：ULTIMATE",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェンジリトライ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LEVEL：ドロップアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LEVEL：HPセーブ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エネミー：HP表示",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "回避：無敵時間アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ふっとび復帰",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "最大Chain数アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアノイズ出現率アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアノイズ速度ダウン",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズを引き寄せる",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズを引き寄せる（強）",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レガストコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子会コンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マブダチコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レジェンドコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒーローコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ポケコヨコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ムードメーカーコンボアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブランドバッジアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "大好物アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋Pay：限度額アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋Pay：売却ボーナスアップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "進化の秘密",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同ボタンバッジ装備＋１",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神クラスバッジ＋１",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブ：制限時間延長",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボスノイズシンボル開放",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フィールド：ピグ情報表示",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャプター：ピグ情報表示",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フードメニュー開放",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップアイテム開放",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サウンドサーフ効果アップ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ワンハンド・ヴォルト",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋Pay：自動チャージ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャンスタイム：ボーナスエリア",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "おまかせ全身コーデ",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダブりバッジ一括売却",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デッキ増加＋１",
+		"comment": "キャラクターボードリワード（スキル）",
+		"annotation": ""
+	}
+]
+}

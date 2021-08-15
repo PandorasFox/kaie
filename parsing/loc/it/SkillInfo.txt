@@ -1,0 +1,250 @@
+{
+"columns":[
+	{
+		"name": "SKL_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Impostare la difficoltà del gioco su facile rende le battaglie più gestibili, ma riduce la quantità di ESP guadagnata e permette di trovare solo alcuni tipi di spille."
+	},
+	{
+		"name": "SKL_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Rende le battaglie più difficili, ma fa guadagnare più ESP e una varietà maggiore di spille."
+	},
+	{
+		"name": "SKL_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Rende le battaglie ancora più difficili, ma fa guadagnare ancora più ESP e una varietà maggiore di spille."
+	},
+	{
+		"name": "SKL_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge un'opzione per modificare il tuo equipaggiamento dopo una sconfitta, prima di ributtarti nella mischia."
+	},
+	{
+		"name": "SKL_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tasso di ritrovamento di spille quando abbassi il tuo livello."
+	},
+	{
+		"name": "SKL_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Riduce la quantità della quale diminuiscono i PF massimi quando abbassi il livello."
+	},
+	{
+		"name": "SKL_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Mostra la barra dei PF sopra il nemico che stai puntando."
+	},
+	{
+		"name": "SKL_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il tempo in cui sei invulnerabile quando schivi in battaglia."
+	},
+	{
+		"name": "SKL_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0009>"
+	},
+	{
+		"name": "SKL_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il numero di simboli del Rumore che puoi incatenare in un singolo scontro."
+	},
+	{
+		"name": "SKL_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la frequenza con cui appaiono i simboli dei Rumori rari."
+	},
+	{
+		"name": "SKL_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Diminuisce la velocità con cui si muovono i simboli dei Rumori rari."
+	},
+	{
+		"name": "SKL_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0013>"
+	},
+	{
+		"name": "SKL_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0014>"
+	},
+	{
+		"name": "SKL_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle Combo Beatdrop eseguite da Nagi e Minamimoto."
+	},
+	{
+		"name": "SKL_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Shoka e Nagi."
+	},
+	{
+		"name": "SKL_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Rindo e Fret."
+	},
+	{
+		"name": "SKL_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Neku e Beat."
+	},
+	{
+		"name": "SKL_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Neku e Rindo."
+	},
+	{
+		"name": "SKL_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Rindo e Shoka."
+	},
+	{
+		"name": "SKL_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "A volte aumenta il Groove ottenuto dalle combo Beatdrop eseguite da Beat e Fret."
+	},
+	{
+		"name": "SKL_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la potenza di un certo brand di spille quando usi almeno tre di quelle spille in un singolo set."
+	},
+	{
+		"name": "SKL_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta i potenziamenti delle statistiche<BR>che ricevi quando mangi uno dei<BR>tuoi cibi preferiti."
+	},
+	{
+		"name": "SKL_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di denaro che il tuo portafoglio digitale può contenere."
+	},
+	{
+		"name": "SKL_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta la quantità di denaro guadagnato quando vendi le spille."
+	},
+	{
+		"name": "SKL_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Mostra le condizioni necessarie per far evolvere determinate spille."
+	},
+	{
+		"name": "SKL_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0027>"
+	},
+	{
+		"name": "SKL_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Ti permette di equipaggiare una spilla Super extra."
+	},
+	{
+		"name": "SKL_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il limite di tempo quando usi Invasione con Nagi."
+	},
+	{
+		"name": "SKL_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Fa comparire i simboli dei Rumori boss blu quando torni ai capitoli già completati."
+	},
+	{
+		"name": "SKL_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Fa comparire l'icona di un maiale nell'angolo in alto a sinistra dello schermo quando un Rumore Maiale è vicino."
+	},
+	{
+		"name": "SKL_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Mostra quali giorni contengono Rumori Maiale che non sono stati sconfitti nel menu capitoli."
+	},
+	{
+		"name": "SKL_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge oggetti speciali al menu del ristorante."
+	},
+	{
+		"name": "SKL_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge nuovi oggetti all'inventario dei negozi."
+	},
+	{
+		"name": "SKL_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta il potenziamento Groove ricevuto quando usi il Viaggio sonico di Beat."
+	},
+	{
+		"name": "SKL_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0036>"
+	},
+	{
+		"name": "SKL_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Converte automaticamente le spille denaro e le aggiunge al tuo Saldo ShibuPay."
+	},
+	{
+		"name": "SKL_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge un punto ottimale all'indicatore Beatdrop che fa ottenere un potenziamento Groove maggiore."
+	},
+	{
+		"name": "SKL_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge un'opzione di autostile nel menu vestiti."
+	},
+	{
+		"name": "SKL_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Aggiunge l'opzione di vendere le spille doppione tutte in una volta nei negozi o nel menu Spille."
+	},
+	{
+		"name": "SKL_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Aumenta di uno il numero massimo di set di spille."
+	}
+]
+}

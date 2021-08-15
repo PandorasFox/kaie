@@ -1,0 +1,1039 @@
+{
+"columns":[
+	{
+		"name": "LOC_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロケーション",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_104f",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "104ビル前",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_scra",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スクランブル交差点",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_dgen",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "道玄坂",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_cent",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "センター街",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_aest",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "TSUTAYA O-EAST前",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_chid",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "千鳥足会館前",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_kado",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タワーレコード渋谷店前",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_spin",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スペイン坂",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_udag",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇田川町路地裏",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_cats",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャットストリート",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_hika",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷ヒカリエ前",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_hodo",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "首都高下歩道橋",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_suto",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷ストリーム前",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_miya",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MIYASHITA PARK",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_west",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "西口バスターミナル",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_take",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "竹下通り",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "LOC_Name_hara",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東急プラザ前",
+		"comment": "※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "DEP_Name_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "104",
+		"comment": "施設名",
+		"annotation": ""
+	},
+	{
+		"name": "DEP_Name_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東急ハンズ",
+		"comment": "施設名 ※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "DEP_Name_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷PARCO",
+		"comment": "施設名 ※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "DEP_Name_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷ヒカリエ",
+		"comment": "施設名 ※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "DEP_Name_005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラフォール原宿",
+		"comment": "施設名",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "複合ブックストア",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "大盛堂書店",
+		"comment": "ショップ名（タイセイドウショテン）、本 ※許諾表記",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "喫茶店",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハチ公カフェ",
+		"comment": "ショップ名（ハチコウカフェ）、カフェ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バーガーショップ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バーガーヒーロー",
+		"comment": "ショップ名、ファーストフード",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラブ系ファッション",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジョリ・ベコ<size=74%> 104本店</size>",
+		"comment": "ショップ名、ブランド牛、1号店 ※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガーリースタイル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トポトッポ<size=74%> SHIBUYA</size>",
+		"comment": "ショップ名、ブランド鼠、1号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シブヤモード",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガット・ネーロ",
+		"comment": "ショップ名、ブランド猫",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンプルカジュアル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シェパード・ハウス<size=74%> 1st</size>",
+		"comment": "ショップ名、ブランド羊、1号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アメリカンカジュアル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホグ・ファング",
+		"comment": "ショップ名、ブランド猪、1号店",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "丼食堂",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "どんぶりの里",
+		"comment": "ショップ名、丼もの",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "こってりラーメン",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "麺屋Guilty",
+		"comment": "ショップ名（メンヤギルティー）、野郎らーめん",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "丸焼き専門街",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シブヤ丸焼きストリート",
+		"comment": "ショップ名、丸焼き",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リアルライフショップ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東急ハンズ<size=74%>1F</size>",
+		"comment": "ショップ名、雑貨 ※許諾表記　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リアルライフショップ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東急ハンズ<size=74%>2F</size>",
+		"comment": "ショップ名、雑貨 ※許諾表記　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リアルライフショップ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東急ハンズ<size=74%>3F</size>",
+		"comment": "ショップ名、雑貨 ※許諾表記　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇田川モード",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロウ",
+		"comment": "ショップ名、ブランド鳥",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サウンドスペース",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CYCOレコード",
+		"comment": "ショップ名（サイコレコード）、CD",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "パフェキッチン",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宇田川parfait",
+		"comment": "ショップ名（ウダガワパフェ/パルフェ）、カフェパフェ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エスニックレトロ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガラガラ",
+		"comment": "ショップ名、ブランド蛇",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オーガニックカフェ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "菜恋ト",
+		"comment": "ショップ名（サイレント）、ベジタリアンフード",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミュージックルーム",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タワーレコード<size=74%>渋谷店</size>",
+		"comment": "ショップ名、CD ※許諾表記　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タピオカドリンク",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "梦幻茶房",
+		"comment": "ショップ名（むげんさぼう）、タピオカ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ラブリークロース",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナチュラル・パピィ",
+		"comment": "ショップ名、ブランド犬",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラブ系ファッション",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジョリ・ベコ<size=74%> 渋谷PARCO店</size>",
+		"comment": "ショップ名、ブランド牛、2号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スパイスカレー",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SPICE CURRY DON",
+		"comment": "ショップ名（スパイスカリー ドン）、カレー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "本格インドカレー",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カリーカラージャ",
+		"comment": "ショップ名、インドカレー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "中華そば",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "麺処「鈴」",
+		"comment": "ショップ名（メンドコロスズ）、あっさりラーメン",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゴシック＆ロリータ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コニー×コニー",
+		"comment": "ショップ名（コニーコニー）、ブランド兎",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "パンクファッション",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ティガー・パンクス",
+		"comment": "ショップ名、ブランド虎",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シンプルカジュアル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シェパード・ハウス<size=74%> 2nd</size>",
+		"comment": "ショップ名、ブランド羊、2号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コンビニエンスストア",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モヤイマート",
+		"comment": "ショップ名、コンビニ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストリートスタイル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジュピター・オブ・ザ・モンキー",
+		"comment": "ショップ名、ブランド猿",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アメリカンカジュアル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホグ・ファング<size=74%> 別館</size>",
+		"comment": "ショップ名、ブランド猪、2号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "軽食＆デザート",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ふらわあクレープ",
+		"comment": "ショップ名、デザート",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "和風エレガント",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RyuGu",
+		"comment": "ショップ名（リュウグウ）、ブランド龍",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "甘味処",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "京都十右衛門<size=74%>シブヤ東口店</size>",
+		"comment": "ショップ名（キョウトジュウエモンシブヤヒガシグチテン）、和系デザート　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "露店",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リョウジとの取引",
+		"comment": "ショップ名、雑貨バッジ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドリンクスタンド",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "somedrinks",
+		"comment": "ショップ名（サムドリンクス）、ドリンク",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メキシカン惣菜",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタコスタコス",
+		"comment": "ショップ名、タコス",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キューティースイーツ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MAFF☆MOFF",
+		"comment": "ショップ名（マフモフ）、かわいい系デザート",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カジュアル雑貨",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Brave & Ambitious",
+		"comment": "ショップ名（ブレイブアンドアンビシャス）、雑貨バッジ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バラエティショップ",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クローキー・パニック",
+		"comment": "ショップ名、ブランド蛙",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガーリースタイル",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トポトッポ<size=74%> Harajuku</size>",
+		"comment": "ショップ名、ブランド鼠、2号店　※タグ：支店名文字サイズ変更",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "インポートアクセサリー",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Petit Bonheur ",
+		"comment": "ショップ名（ブチボヌール）、雑貨アクセ",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "屋台風レストラン",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アジノアジア",
+		"comment": "ショップ名、アジア系ジャンクフード",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォーマルクロース",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イル・カヴァッロ・ディ・レ",
+		"comment": "ショップ名、ブランド馬",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Category_047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダークアバンギャルド",
+		"comment": "カテゴリー",
+		"annotation": ""
+	},
+	{
+		"name": "SHO_Name_047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BLACK HONEY CHILI<NBSP>COOKIE",
+		"comment": "ショップ名、リアルコラボ ※タグ：ノーブレークスペース",
+		"annotation": ""
+	}
+]
+}

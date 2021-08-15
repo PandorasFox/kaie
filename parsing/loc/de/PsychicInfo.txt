@@ -1,0 +1,466 @@
+{
+"columns":[
+	{
+		"name": "PSY_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Psych-Info"
+	},
+	{
+		"name": "Chance_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "N/V"
+	},
+	{
+		"name": "Chance_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "N/V"
+	},
+	{
+		"name": "Chance_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Gnadenstoß"
+	},
+	{
+		"name": "Chance_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach erfolgreichem Gnadenstoß der Kombo erneut zu."
+	},
+	{
+		"name": "Chance_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Abheben"
+	},
+	{
+		"name": "Chance_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner in der Luft den höchsten Punkt erreicht."
+	},
+	{
+		"name": "Chance_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Streuexplosion"
+	},
+	{
+		"name": "Chance_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn die Stachelbomben explodieren."
+	},
+	{
+		"name": "Chance_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Urknall"
+	},
+	{
+		"name": "Chance_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage sofort erneut zu, nachdem der Gegner von der Explosion erfasst wurde."
+	},
+	{
+		"name": "Chance_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Rückstoß"
+	},
+	{
+		"name": "Chance_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der geschleuderte Gegner mit einer Wand kollidiert."
+	},
+	{
+		"name": "Chance_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuerwelle"
+	},
+	{
+		"name": "Chance_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner brennt."
+	},
+	{
+		"name": "Chance_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektrowelle"
+	},
+	{
+		"name": "Chance_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner einen Elektroschock hat."
+	},
+	{
+		"name": "Chance_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Toxisch"
+	},
+	{
+		"name": "Chance_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner vergiftet ist."
+	},
+	{
+		"name": "Chance_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Dampframme"
+	},
+	{
+		"name": "Chance_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner auf dem Boden aufschlägt."
+	},
+	{
+		"name": "Chance_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Eiskalt"
+	},
+	{
+		"name": "Chance_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner von Eis umgeben ist."
+	},
+	{
+		"name": "Chance_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Kettensprenger"
+	},
+	{
+		"name": "Chance_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner mit Ketten gefesselt ist."
+	},
+	{
+		"name": "Chance_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Steinhart"
+	},
+	{
+		"name": "Chance_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner unter Stein begraben ist."
+	},
+	{
+		"name": "Chance_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Stillstand"
+	},
+	{
+		"name": "Chance_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn die Zeit angehalten wurde."
+	},
+	{
+		"name": "Chance_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Betäubungsschlag"
+	},
+	{
+		"name": "Chance_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner betäubt ist."
+	},
+	{
+		"name": "Chance_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwer auf Draht"
+	},
+	{
+		"name": "Chance_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der Gegner gefesselt ist."
+	},
+	{
+		"name": "Chance_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Frei oder schwerelos"
+	},
+	{
+		"name": "Chance_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, wenn der schwebende Gegner in der Luft den höchsten Punkt erreicht oder auf dem Boden aufschlägt."
+	},
+	{
+		"name": "Chance_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Drei Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach drei aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Fünf Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach fünf aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Sieben Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach sieben aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Acht Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach acht aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Zehn Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach zehn aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Zwölf Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach zwölf aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "15 Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach fünfzehn aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "18 Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach achtzehn aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "20 Mal so hart"
+	},
+	{
+		"name": "Chance_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach zwanzig aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Aus nächster Nähe"
+	},
+	{
+		"name": "Chance_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem ein Gegner aus kurzer Entfernung von einem voll aufgeladenen Angriff getroffen wurde."
+	},
+	{
+		"name": "Chance_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Hammerkracher"
+	},
+	{
+		"name": "Chance_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem ein Gegner von einem großen Objekt getroffen wurde."
+	},
+	{
+		"name": "Chance_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Eigenbeschuss"
+	},
+	{
+		"name": "Chance_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem zwei Gegner kollidiert sind."
+	},
+	{
+		"name": "Chance_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Los geht’s"
+	},
+	{
+		"name": "Chance_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du das Psych ausgelöst hast."
+	},
+	{
+		"name": "Chance_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Geduld"
+	},
+	{
+		"name": "Chance_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, kurz nachdem du das Psych ausgelöst hast."
+	},
+	{
+		"name": "Chance_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Wehrhaft"
+	},
+	{
+		"name": "Chance_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage zu, nachdem du einen gegnerischen Angriff abgewehrt hast."
+	},
+	{
+		"name": "Chance_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Widerwärtig"
+	},
+	{
+		"name": "Chance_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du bei einem Gegner ein Statusleiden verursacht hast."
+	},
+	{
+		"name": "Chance_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Doppelt so hart"
+	},
+	{
+		"name": "Chance_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage nach zwei aufeinanderfolgenden Treffern bei einem einzelnen Ziel erneut zu."
+	},
+	{
+		"name": "Chance_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Streuexplosion"
+	},
+	{
+		"name": "Chance_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du einem einzelnen Ziel 8 explosive Stachelbomben verpasst hast."
+	},
+	{
+		"name": "Chance_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Streuexplosion"
+	},
+	{
+		"name": "Chance_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du einem einzelnen Ziel 12 explosive Stachelbomben verpasst hast."
+	},
+	{
+		"name": "Chance_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Streuexplosion"
+	},
+	{
+		"name": "Chance_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du einem einzelnen Ziel 15 explosive Stachelbomben verpasst hast."
+	},
+	{
+		"name": "Chance_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Streuexplosion"
+	},
+	{
+		"name": "Chance_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlage erneut zu, nachdem du einem einzelnen Ziel 20 explosive Stachelbomben verpasst hast."
+	}
+]
+}

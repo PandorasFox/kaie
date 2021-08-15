@@ -1,0 +1,406 @@
+{
+"columns":[
+	{
+		"name": "PSY_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Psych"
+	},
+	{
+		"name": "PSY_Controll_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Toucher rapide"
+	},
+	{
+		"name": "PSY_Controll_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Charge"
+	},
+	{
+		"name": "PSY_Controll_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Maintenir"
+	},
+	{
+		"name": "PSY_Controll_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Toucher"
+	},
+	{
+		"name": "PSY_Element_Name_000",
+		"speaker": "",
+		"listener": "",
+		"content": "Aucune"
+	},
+	{
+		"name": "PSY_Element_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Feu"
+	},
+	{
+		"name": "PSY_Element_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Glace"
+	},
+	{
+		"name": "PSY_Element_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Électricité"
+	},
+	{
+		"name": "PSY_Element_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Air"
+	},
+	{
+		"name": "PSY_Element_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Eau"
+	},
+	{
+		"name": "PSY_Element_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Pierre"
+	},
+	{
+		"name": "PSY_Element_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Temps"
+	},
+	{
+		"name": "PSY_Element_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Son"
+	},
+	{
+		"name": "PSY_Element_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Ombre"
+	},
+	{
+		"name": "PSY_Element_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Lumière"
+	},
+	{
+		"name": "PSY_Element_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Kinésie"
+	},
+	{
+		"name": "PSY_Element_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Explosion"
+	},
+	{
+		"name": "PSY_Element_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Gravité"
+	},
+	{
+		"name": "PSY_Element_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Poison"
+	},
+	{
+		"name": "PSY_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Onde de choc"
+	},
+	{
+		"name": "PSY_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Uppercut vulcain"
+	},
+	{
+		"name": "PSY_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Sabre vortex"
+	},
+	{
+		"name": "PSY_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe lourde"
+	},
+	{
+		"name": "PSY_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Slammer lourd"
+	},
+	{
+		"name": "PSY_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Coup de lance"
+	},
+	{
+		"name": "PSY_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe assassine"
+	},
+	{
+		"name": "PSY_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Marque tombale"
+	},
+	{
+		"name": "PSY_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Cartouches de force"
+	},
+	{
+		"name": "PSY_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Cartouches d'énergie"
+	},
+	{
+		"name": "PSY_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Cartouches de mitraille"
+	},
+	{
+		"name": "PSY_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Tour de cartes"
+	},
+	{
+		"name": "PSY_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Fléchettes flash"
+	},
+	{
+		"name": "PSY_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Bombe à retardement"
+	},
+	{
+		"name": "PSY_Name_015",
+		"speaker": "",
+		"listener": "",
+		"content": "Terrain miné"
+	},
+	{
+		"name": "PSY_Name_016",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe éclair"
+	},
+	{
+		"name": "PSY_Name_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempête psychique"
+	},
+	{
+		"name": "PSY_Name_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Paratonnerre"
+	},
+	{
+		"name": "PSY_Name_019",
+		"speaker": "",
+		"listener": "",
+		"content": "Coup écrasant"
+	},
+	{
+		"name": "PSY_Name_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Frappe météore"
+	},
+	{
+		"name": "PSY_Name_021",
+		"speaker": "",
+		"listener": "",
+		"content": "Embouteillages"
+	},
+	{
+		"name": "PSY_Name_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Pilier perforant"
+	},
+	{
+		"name": "PSY_Name_023",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance-grenades"
+	},
+	{
+		"name": "PSY_Name_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Enchevêtrement"
+	},
+	{
+		"name": "PSY_Name_025",
+		"speaker": "",
+		"listener": "",
+		"content": "Ligne électrique"
+	},
+	{
+		"name": "PSY_Name_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Cartouches de patrouille"
+	},
+	{
+		"name": "PSY_Name_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Missiles autoguidés"
+	},
+	{
+		"name": "PSY_Name_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Canon psychique"
+	},
+	{
+		"name": "PSY_Name_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Épées fantômes"
+	},
+	{
+		"name": "PSY_Name_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Glaives de garde"
+	},
+	{
+		"name": "PSY_Name_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Laser d'enfer"
+	},
+	{
+		"name": "PSY_Name_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Rayon diffuseur"
+	},
+	{
+		"name": "PSY_Name_033",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempête de feu"
+	},
+	{
+		"name": "PSY_Name_034",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempête électrique"
+	},
+	{
+		"name": "PSY_Name_035",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempête de sable"
+	},
+	{
+		"name": "PSY_Name_036",
+		"speaker": "",
+		"listener": "",
+		"content": "Œil du cyclone"
+	},
+	{
+		"name": "PSY_Name_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Tourbillon"
+	},
+	{
+		"name": "PSY_Name_038",
+		"speaker": "",
+		"listener": "",
+		"content": "Trou noir"
+	},
+	{
+		"name": "PSY_Name_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Vent violent"
+	},
+	{
+		"name": "PSY_Name_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacle puissant"
+	},
+	{
+		"name": "PSY_Name_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Aura guérisseuse"
+	},
+	{
+		"name": "PSY_Name_042",
+		"speaker": "",
+		"listener": "",
+		"content": "Champ de protection"
+	},
+	{
+		"name": "PSY_Name_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Aura inspirante"
+	},
+	{
+		"name": "PSY_Name_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Psychokinésie"
+	},
+	{
+		"name": "PSY_Name_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Esprit frappeur"
+	},
+	{
+		"name": "PSY_Name_046",
+		"speaker": "",
+		"listener": "",
+		"content": "Collet"
+	},
+	{
+		"name": "PSY_Name_047",
+		"speaker": "",
+		"listener": "",
+		"content": "Charge lourde"
+	}
+]
+}

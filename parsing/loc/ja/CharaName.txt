@@ -1,0 +1,2254 @@
+{
+"columns":[
+	{
+		"name": "CHR_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャラクター",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ",
+		"comment": "男、参加者主人公",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0001_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "奏 竜胆（リンドウ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0001_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RINDO",
+		"comment": "装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0001_SNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＳＮＳ（リンドウ）",
+		"comment": "リンドウ LOG　SNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0001_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（リンドウ）",
+		"comment": "リンドウ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカ",
+		"comment": "女、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0002_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "桜音 紫陽花（ショウカ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0002_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SHOKA",
+		"comment": "装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0002s_SNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＳＮＳ（スワロウ）",
+		"comment": "スワロウ LOG　SNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0002s_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（スワロウ）",
+		"comment": "スワロウ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0002_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（ショウカ）",
+		"comment": "ショウカ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレット",
+		"comment": "男、参加者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0003_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "觸澤 桃斎（フレット）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0003_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "FRET",
+		"comment": "装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0003_SNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＳＮＳ（フレット）",
+		"comment": "フレット LOG　SNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0003_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（フレット）",
+		"comment": "フレット LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギ",
+		"comment": "女、参加者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0004_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "笛吹 梛（ナギ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0004_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "NAGI",
+		"comment": "女、装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0004_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（ナギ）",
+		"comment": "ナギ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイト",
+		"comment": "男、参加者 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0005_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "尾藤 大輔之丞（ビイト）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0005_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BEAT",
+		"comment": "装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0005_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（ビイト）",
+		"comment": "ビイト LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネク",
+		"comment": "男、参加者 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0006_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "桜庭 音操（ネク）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0006_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "NEKU",
+		"comment": "男、装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミナミモト",
+		"comment": "男、元死神 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0007_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "南師 猩（ミナミモト）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0007_menu",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "MINAMIMOTO",
+		"comment": "装備メニュー用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シイバ",
+		"comment": "男、指揮者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0010_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "三谷風 椎葉（シイバ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲームマスター",
+		"comment": "シイバ LOG 自己紹介まで",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クボウ",
+		"comment": "男、天使下級",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0011_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "久網 旦蔵（クボウ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ツグミ",
+		"comment": "女、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0012_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "松苗 亜未（ツグミ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ススキチ",
+		"comment": "男、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0013_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "周々木 鹿一（ススキチ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0013_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（ススキチ）",
+		"comment": "ススキチ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒシマ",
+		"comment": "男、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0014_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "坂筑 菱真（ヒシマ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カイエ",
+		"comment": "男、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0015_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "小野 解依（カイエ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0015_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（カイエ）",
+		"comment": "カイエ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アヤノ",
+		"comment": "女、死神",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0016_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "蒲池 菖乃（アヤノ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0016_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（アヤノ）",
+		"comment": "アヤノ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フウヤ",
+		"comment": "男、参加者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0017_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "河原 封也（フウヤ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カノン",
+		"comment": "女、参加者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0018_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "立花 果遠（カノン）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0018_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（カノン）",
+		"comment": "カノン LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モトイ",
+		"comment": "男、参加者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0019_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "穴沢 基威（モトイ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0019_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（モトイ）",
+		"comment": "モトイ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ミカギ",
+		"comment": "男、天使上級",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0020_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "御鍵 映月（ミカギ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヨシュア",
+		"comment": "男、天使上級 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0030_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "桐生 義弥（ヨシュア）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ココ",
+		"comment": "女、死神 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0031_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "新 子々（ココ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "カリヤ",
+		"comment": "男、死神 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0032_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "狩谷 拘輝（カリヤ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ウヅキ",
+		"comment": "女、死神 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0033_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "八代 卯月（ウヅキ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0033_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（ウヅキ）",
+		"comment": "ウヅキ LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シキ",
+		"comment": "女、一般人 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0034_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "美咲 四季（シキ）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライム",
+		"comment": "女、一般人 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0035_board",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "尾藤 来夢（ライム）",
+		"comment": "キャラボード用",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハネコマ",
+		"comment": "男、天使上級 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0200",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "死神",
+		"comment": "男、壁死神、新宿死神、運営死神",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0200a",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "死神　甲",
+		"comment": "死神 LOG イベント内に複数出る場合の1人目",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0200b",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "死神　乙",
+		"comment": "死神 LOG イベント内に複数出る場合の2人目",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0200S",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷死神",
+		"comment": "男、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0200Sa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷死神　甲",
+		"comment": "渋谷死神 LOG イベント内に複数出る場合の1人目",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0200Sb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渋谷死神　乙",
+		"comment": "渋谷死神 LOG イベント内に複数出る場合の2人目",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0201",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "実況死神",
+		"comment": "男、スクランブルバトルの実況者",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "折原 マリノ",
+		"comment": "女、女子高生",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0150",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生 マリノ",
+		"comment": "マリノ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "加賀 ユイカ",
+		"comment": "女、女子高生",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0151",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生 ユイカ",
+		"comment": "ユイカ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0152",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リョウジ",
+		"comment": "男、便利屋、ショップ店員CHR_Name_0137",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "王子 英二",
+		"comment": "男 ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0153",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オウジ",
+		"comment": "王子 英二 LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "兼田 イツキ",
+		"comment": "男、渋谷系若者",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0154",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イツキ",
+		"comment": "兼田 イツキ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0154s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホノカの彼氏",
+		"comment": "兼田 イツキ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "近藤 ホノカ",
+		"comment": "女、渋谷系女子、イツキの彼女",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0155",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホノカ",
+		"comment": "近藤 ホノカ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0156",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "えいる",
+		"comment": "男、中性的、ユーチューバー",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0300",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "竹ノ内 ヒデ",
+		"comment": "男、えいる動画運営スタッフ、w1d5",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0300m",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イベントスタッフ",
+		"comment": "竹ノ内 ヒデ LOG 本編",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0300s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "動画スタッフ",
+		"comment": "竹ノ内 ヒデ LOG サブ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0301",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "則元 ヨウコ",
+		"comment": "女、カレー好き、w1d0",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0302",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "りば★トモ",
+		"comment": "男、渋谷歴史研究会名誉会長、w1d5",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0303",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "豊橋 コウヘイ",
+		"comment": "男、フウヤ勢力1",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0304",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "谷丸 カツヒコ",
+		"comment": "男、フウヤ勢力2",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0304s",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クイズマニア",
+		"comment": "谷丸 カツヒコ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "田中 スミヲ",
+		"comment": "男、モトイ勢力サブリーダー、w2d2",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0305",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スミヲ",
+		"comment": "田中 スミヲ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "三波 マイト",
+		"comment": "男、カノン勢力サブリーダー、w2d2",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0306",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マイト",
+		"comment": "三波 マイト LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0307",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "秋田 マナミ",
+		"comment": "女、カノン勢力Ｄ元カノ、w2d2",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0308",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＭＫＮ",
+		"comment": "女、渋谷Ｇ系アーティスト、w1d2",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "現役アイドル カワよす",
+		"comment": "女、オキシドールズ",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0309",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "現役アイドル",
+		"comment": "現役アイドル カワよす LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0310",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "播磨 シュンタロウ",
+		"comment": "男、特典マニア大学生、オキシドールファン",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0311",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "飯浜 タク",
+		"comment": "男、にゃんたんパーカーの大学生、w2d1",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0312",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "人気俳優 カシキ",
+		"comment": "男、w2d1",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0313",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "まはつん",
+		"comment": "男、都市伝説ユーチューバー、芸人、w2d4",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0314",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伊勢谷 ユウセイ",
+		"comment": "男、小学生",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0315",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "関野原 リコ",
+		"comment": "女、幽霊OL、w2d5",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "毛戸利山 ゴウ",
+		"comment": "男、JOMアルバイト",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0316",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "店員モドリヤマ",
+		"comment": "毛戸利山 ゴウ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "元祖何でも屋 タカ",
+		"comment": "男、ヒッピーおじさん",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0317",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リョウジの知り合い",
+		"comment": "元祖何でも屋 タカ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "便利屋見習い セイジ",
+		"comment": "男、リョウジ舎弟1",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0318",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "便利屋見習い",
+		"comment": "セイジ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0319",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "便利屋見習い シンジ",
+		"comment": "男、リョウジ舎弟2",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0319",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "便利屋見習い",
+		"comment": "シンジ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0101",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "園部 ジュン",
+		"comment": "女、店員（本）、読み：ソノベ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0102",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "南野 アカリ",
+		"comment": "女、店員（カフェ）、読み：ミナミノ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0103",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "古賀 サクラ",
+		"comment": "女、店員（ファーストフード）、読み：コガ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0104",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "藤堂 リイナ",
+		"comment": "女、店員（ブランド牛）、読み：トウドウ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0105",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伊勢谷 マイ",
+		"comment": "女、店員（ブランド鼠）、読み：イセヤ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0106",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "西園寺 ミキ",
+		"comment": "女、店員（ブランド猫）、読み：サイオンジ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "中野 ミハル",
+		"comment": "女、店員（ブランド羊）、読み：ナカノ",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0107",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "店員ミハル",
+		"comment": "中野 ミハル LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幹 ユウダイ",
+		"comment": "男、店員（ブランド猪）、読み：ミキ",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0108",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "店員ユウダイ",
+		"comment": "幹 ユウダイ LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0110",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "新渡戸 カオル",
+		"comment": "男、店員（丼もの）、読み：ニトベ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0111",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "只島 ミチヒサ",
+		"comment": "男、店員（野郎らーめん）、読み：タダシマ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0112",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "牧田 ジョウ",
+		"comment": "男、店員（丸焼き）、読み：マキタ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0113",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "茂木 レイ",
+		"comment": "男、店員（雑貨）、読み：モギ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0114",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "千葉 スミレ",
+		"comment": "女、店員（雑貨）、読み：チバ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0115",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "東条 ミツヒデ",
+		"comment": "男、店員（雑貨）、読み：トウジョウ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0116",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "中川 リンタロウ",
+		"comment": "男、店員（ブランド鳥）、読み：ナカガワ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0117",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "桑田 ナオト",
+		"comment": "男、店員（CD）、読み：クワタ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0118",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "栗林 アイカ",
+		"comment": "女、店員（カフェパフェ）、読み：クリバヤシ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0119",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "小板橋 ゲンゾウ",
+		"comment": "男、店員（ブランド蛇）、読み：コイタバシ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0120",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "糸口 ヒロフミ",
+		"comment": "男、店員（ベジタリアンフード）、読み：イトグチ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0121",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "諸星 サヨコ",
+		"comment": "女、店員（CD）、読み：モロホシ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0122",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "石波 アキラ",
+		"comment": "女、店員（タピオカ）、読み：イシワ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0123",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "稲田 カナ",
+		"comment": "女、店員（ブランド犬）、読み：イナダ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0124",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "佐久間 レンカ",
+		"comment": "女、店員（ブランド牛）、読み：サクマ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "土井 ケン",
+		"comment": "男、店員（カレー）、読み：ドイ ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0125",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドン",
+		"comment": "土井 ケン LOG",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0126",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アラディブ",
+		"comment": "男、店員（インドカレー）",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0127",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "伊藤 スズ",
+		"comment": "女、店員（あっさりラーメン）、読み：イトウ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0128",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "真夜＆月姫",
+		"comment": "男＆女（双子）、店員（ブランド兎）、読み：マサヤ＆ツキヒメ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0128m",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "真夜",
+		"comment": "男、店員（ブランド兎）、読み：マサヤ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0128f",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "月姫",
+		"comment": "女、店員（ブランド兎）、読み：ツキヒメ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0129",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "有吉 イズミ",
+		"comment": "男、店員（ブランド虎）、読み：アリヨシ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0130",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "田北 ユミ",
+		"comment": "女、店員（ブランド羊）、読み：タキタ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0131",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "平沢 トモコ",
+		"comment": "女、店員（コンビニ）、読み：ヒラサワ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0132",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "岡田 ケイイチ",
+		"comment": "男、店員（ブランド猿）、読み：オカダ ※前作",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0133",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "鈴川 コウヘイ",
+		"comment": "男、店員（ブランド猪）、読み：スズカワ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0134",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "近藤 トモユキ",
+		"comment": "男、店員（デザート）、読み：コンドウ、ホノカの兄",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0135",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "佐藤 シノブ",
+		"comment": "女、店員（ブランド龍）、読み：サトウ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0136",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "河原 リエコ",
+		"comment": "女、店員（和系デザート）、読み：カワハラ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0137",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "便利屋 リョウジ",
+		"comment": "男、店員（雑貨バッジ）、読み：ベンリヤ ※サブキャラ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0138",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "山本 ミコ",
+		"comment": "女、店員（ドリンク）、読み：ヤマモト",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0139",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "内海 リョウマ",
+		"comment": "男、店員（タコス）、読み：ウツミ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0140",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "渡辺 リンダ",
+		"comment": "女、店員（かわいい系デザート）、読み：ワタナベ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0141",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "鏡部 アオイ",
+		"comment": "男、店員（雑貨バッジ）、読み：キョウベ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0142",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "酒々井 タマオ",
+		"comment": "女、店員（ブランド蛙）、読み：ササイ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0143",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "佐野 ヨツバ",
+		"comment": "女、店員（ブランド鼠）、読み：サノ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0144",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "大和田 モモカ",
+		"comment": "女、店員（雑貨アクセ）、読み：オオワダ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0145",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "宮乃 タクミ",
+		"comment": "男、店員（アジア系ジャンクフード）、読み：ミヤノ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0146",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "纐纈 ワタル",
+		"comment": "男、店員（ブランド馬）、読み：コウケツ",
+		"annotation": ""
+	},
+	{
+		"name": "CHR_Name_0147",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "高原 ヒロム",
+		"comment": "男、店員（ブランドコラボ）、読み：タカハラ",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_unknown",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "？？？？",
+		"comment": "正体不明 LOG 名乗るまでの間など",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_unknown_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ（？？？？）",
+		"comment": "正体不明 LOG　RNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_persons_01",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ／フレット",
+		"comment": "LOG 同時に同じ台詞",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_persons_02",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ／ナギ",
+		"comment": "LOG 同時に同じ台詞",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_persons_03",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウ／ショウカ／ナギ",
+		"comment": "LOG 同時に同じ台詞",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_0001Mam_SNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＳＮＳ（母親）",
+		"comment": "リンドウ母 LOG　SNS",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_SNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＳＮＳ",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_RNS",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ＲＮＳ",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_Dapp",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "死神アプリ",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_Noize",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノイズ",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FM",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバー",
+		"comment": "男、LOG フウヤメンバー",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＡ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＢ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＣ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMd",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＤ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMe",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＥ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMf",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＦ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMg",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＧ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMh",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＨ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_FMi",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "幽川舎メンバーＩ",
+		"comment": "男、LOG フウヤメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KM",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバー",
+		"comment": "男、LOG カノンメンバー",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＡ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＢ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＣ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMd",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＤ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMe",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＥ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_KMf",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヴァリーメンバーＦ",
+		"comment": "男、LOG カノンメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MM",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバー",
+		"comment": "男、LOG モトイメンバー",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＡ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＢ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＣ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMd",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＤ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMe",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＥ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_MMf",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピュアハートメンバーＦ",
+		"comment": "男、LOG モトイメンバー 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "全員",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "工事業者",
+		"comment": "20代男性、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "観光客",
+		"comment": "成人男性、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サロン開催者",
+		"comment": "男、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "店員",
+		"comment": "20代女性、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "店長",
+		"comment": "男、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャスター",
+		"comment": "女、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "観客",
+		"comment": "複数男女、LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "プリントシール機",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000F",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Fa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ａ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Fb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ｂ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Fc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ｃ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Fd",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ｄ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Fe",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ｅ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Ff",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女性Ｆ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000M",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Ma",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ａ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｂ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｃ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Md",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｄ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Me",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｅ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mf",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｆ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mg",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｇ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mh",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｈ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1000Mi",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男性Ｉ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001F",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fa",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ａ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｂ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｃ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fd",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｄ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fe",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｅ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Ff",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｆ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fg",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｇ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Fh",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "女子高生Ｈ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001M",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男子高生",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Ma",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男子高生Ａ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Mb",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男子高生Ｂ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1001Mc",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男子高生Ｃ",
+		"comment": "LOG 同一イベント内に複数出る場合",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1002M",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男子学生",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1003M",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "青年",
+		"comment": "LOG",
+		"annotation": ""
+	},
+	{
+		"name": "LOG_Name_1004M",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "男の子",
+		"comment": "LOG",
+		"annotation": ""
+	}
+]
+}

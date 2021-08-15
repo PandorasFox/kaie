@@ -1,0 +1,406 @@
+{
+"columns":[
+	{
+		"name": "PSY_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Psych"
+	},
+	{
+		"name": "PSY_Controll_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Rapid-tap"
+	},
+	{
+		"name": "PSY_Controll_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Charge"
+	},
+	{
+		"name": "PSY_Controll_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Hold"
+	},
+	{
+		"name": "PSY_Controll_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Tap"
+	},
+	{
+		"name": "PSY_Element_Name_000",
+		"speaker": "",
+		"listener": "",
+		"content": "None"
+	},
+	{
+		"name": "PSY_Element_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Fire"
+	},
+	{
+		"name": "PSY_Element_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Ice"
+	},
+	{
+		"name": "PSY_Element_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Electric"
+	},
+	{
+		"name": "PSY_Element_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Wind"
+	},
+	{
+		"name": "PSY_Element_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Water"
+	},
+	{
+		"name": "PSY_Element_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Stone"
+	},
+	{
+		"name": "PSY_Element_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Time"
+	},
+	{
+		"name": "PSY_Element_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Sound"
+	},
+	{
+		"name": "PSY_Element_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Darkness"
+	},
+	{
+		"name": "PSY_Element_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Light"
+	},
+	{
+		"name": "PSY_Element_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Kinesis"
+	},
+	{
+		"name": "PSY_Element_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Burst"
+	},
+	{
+		"name": "PSY_Element_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Gravity"
+	},
+	{
+		"name": "PSY_Element_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Poison"
+	},
+	{
+		"name": "PSY_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Shockwave"
+	},
+	{
+		"name": "PSY_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Vulcan Uppercut"
+	},
+	{
+		"name": "PSY_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Vortex Saber"
+	},
+	{
+		"name": "PSY_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Heavy Slugger"
+	},
+	{
+		"name": "PSY_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Heavy Slammer"
+	},
+	{
+		"name": "PSY_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Lance Lunge"
+	},
+	{
+		"name": "PSY_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Assassin Strike"
+	},
+	{
+		"name": "PSY_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Grave Marker"
+	},
+	{
+		"name": "PSY_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Force Rounds"
+	},
+	{
+		"name": "PSY_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Energy Rounds"
+	},
+	{
+		"name": "PSY_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Shrapnel Rounds"
+	},
+	{
+		"name": "PSY_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Trick Cards"
+	},
+	{
+		"name": "PSY_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Dynamite Darts"
+	},
+	{
+		"name": "PSY_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Time Bomb"
+	},
+	{
+		"name": "PSY_Name_015",
+		"speaker": "",
+		"listener": "",
+		"content": "Minefield"
+	},
+	{
+		"name": "PSY_Name_016",
+		"speaker": "",
+		"listener": "",
+		"content": "Swift Strike"
+	},
+	{
+		"name": "PSY_Name_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Psychic Storm"
+	},
+	{
+		"name": "PSY_Name_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Circuit Breaker"
+	},
+	{
+		"name": "PSY_Name_019",
+		"speaker": "",
+		"listener": "",
+		"content": "Massive Hit"
+	},
+	{
+		"name": "PSY_Name_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Meteor Strike"
+	},
+	{
+		"name": "PSY_Name_021",
+		"speaker": "",
+		"listener": "",
+		"content": "Vehicular Assault"
+	},
+	{
+		"name": "PSY_Name_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Piercing Pillar"
+	},
+	{
+		"name": "PSY_Name_023",
+		"speaker": "",
+		"listener": "",
+		"content": "Grenade Launcher"
+	},
+	{
+		"name": "PSY_Name_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Trip Wire"
+	},
+	{
+		"name": "PSY_Name_025",
+		"speaker": "",
+		"listener": "",
+		"content": "Electric Wire"
+	},
+	{
+		"name": "PSY_Name_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Patrol Rounds"
+	},
+	{
+		"name": "PSY_Name_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Homing Rockets"
+	},
+	{
+		"name": "PSY_Name_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Psychic Shotgun"
+	},
+	{
+		"name": "PSY_Name_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Spectral Swords"
+	},
+	{
+		"name": "PSY_Name_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Guardian Glaives"
+	},
+	{
+		"name": "PSY_Name_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Laser Inferno"
+	},
+	{
+		"name": "PSY_Name_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Diffusion Beam"
+	},
+	{
+		"name": "PSY_Name_033",
+		"speaker": "",
+		"listener": "",
+		"content": "Firestorm"
+	},
+	{
+		"name": "PSY_Name_034",
+		"speaker": "",
+		"listener": "",
+		"content": "Voltstorm"
+	},
+	{
+		"name": "PSY_Name_035",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandstorm"
+	},
+	{
+		"name": "PSY_Name_036",
+		"speaker": "",
+		"listener": "",
+		"content": "G-storm"
+	},
+	{
+		"name": "PSY_Name_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Whirlwind"
+	},
+	{
+		"name": "PSY_Name_038",
+		"speaker": "",
+		"listener": "",
+		"content": "Black Hole"
+	},
+	{
+		"name": "PSY_Name_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Gale Force"
+	},
+	{
+		"name": "PSY_Name_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Drift Tackle"
+	},
+	{
+		"name": "PSY_Name_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Healing Aura"
+	},
+	{
+		"name": "PSY_Name_042",
+		"speaker": "",
+		"listener": "",
+		"content": "Protective Field"
+	},
+	{
+		"name": "PSY_Name_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Inspiring Aura"
+	},
+	{
+		"name": "PSY_Name_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Psychokinesis"
+	},
+	{
+		"name": "PSY_Name_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Poltergeist"
+	},
+	{
+		"name": "PSY_Name_046",
+		"speaker": "",
+		"listener": "",
+		"content": "Snare Trap"
+	},
+	{
+		"name": "PSY_Name_047",
+		"speaker": "",
+		"listener": "",
+		"content": "Heavy Onslaught"
+	}
+]
+}

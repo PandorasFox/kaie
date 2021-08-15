@@ -1,0 +1,694 @@
+{
+"columns":[
+	{
+		"name": "LOC_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Ort"
+	},
+	{
+		"name": "LOC_Name_104f",
+		"speaker": "",
+		"listener": "",
+		"content": "Das 104"
+	},
+	{
+		"name": "LOC_Name_scra",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya-Kreuzung"
+	},
+	{
+		"name": "LOC_Name_dgen",
+		"speaker": "",
+		"listener": "",
+		"content": "Dōgenzaka"
+	},
+	{
+		"name": "LOC_Name_cent",
+		"speaker": "",
+		"listener": "",
+		"content": "Center Gai"
+	},
+	{
+		"name": "LOC_Name_aest",
+		"speaker": "",
+		"listener": "",
+		"content": "TSUTAYA O-EAST"
+	},
+	{
+		"name": "LOC_Name_chid",
+		"speaker": "",
+		"listener": "",
+		"content": "Tipsy Tose Hall"
+	},
+	{
+		"name": "LOC_Name_kado",
+		"speaker": "",
+		"listener": "",
+		"content": "TOWER RECORDS SHIBUYA"
+	},
+	{
+		"name": "LOC_Name_spin",
+		"speaker": "",
+		"listener": "",
+		"content": "Spain Hill"
+	},
+	{
+		"name": "LOC_Name_udag",
+		"speaker": "",
+		"listener": "",
+		"content": "Gassen von Udagawa"
+	},
+	{
+		"name": "LOC_Name_cats",
+		"speaker": "",
+		"listener": "",
+		"content": "Cat Street"
+	},
+	{
+		"name": "LOC_Name_hika",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya Hikarie"
+	},
+	{
+		"name": "LOC_Name_hodo",
+		"speaker": "",
+		"listener": "",
+		"content": "Autobahnunterführung"
+	},
+	{
+		"name": "LOC_Name_suto",
+		"speaker": "",
+		"listener": "",
+		"content": "SHIBUYA STREAM"
+	},
+	{
+		"name": "LOC_Name_miya",
+		"speaker": "",
+		"listener": "",
+		"content": "MIYASHITA-PARK"
+	},
+	{
+		"name": "LOC_Name_west",
+		"speaker": "",
+		"listener": "",
+		"content": "Busbahnhof am Westausgang"
+	},
+	{
+		"name": "LOC_Name_take",
+		"speaker": "",
+		"listener": "",
+		"content": "Takeshita-dōri"
+	},
+	{
+		"name": "LOC_Name_hara",
+		"speaker": "",
+		"listener": "",
+		"content": "TOKYU PLAZA ..."
+	},
+	{
+		"name": "DEP_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Das 104"
+	},
+	{
+		"name": "DEP_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "TOKYU HANDS"
+	},
+	{
+		"name": "DEP_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya PARCO"
+	},
+	{
+		"name": "DEP_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya Hikarie"
+	},
+	{
+		"name": "DEP_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Lafaureux Harajuku"
+	},
+	{
+		"name": "SHO_Category_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Buchhandlung"
+	},
+	{
+		"name": "SHO_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Taiseido"
+	},
+	{
+		"name": "SHO_Category_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Café"
+	},
+	{
+		"name": "SHO_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Hachikō Café"
+	},
+	{
+		"name": "SHO_Category_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Burgerladen"
+	},
+	{
+		"name": "SHO_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Justice Burger"
+	},
+	{
+		"name": "SHO_Category_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Club-Style"
+	},
+	{
+		"name": "SHO_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Joli bécot <size=74%>(104-Filiale)</size>"
+	},
+	{
+		"name": "SHO_Category_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Mädchen-Outfits"
+	},
+	{
+		"name": "SHO_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Top o’ Topo <size=74%>(SHIBUYA)</size>"
+	},
+	{
+		"name": "SHO_Category_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya-Style"
+	},
+	{
+		"name": "SHO_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Gatto Nero"
+	},
+	{
+		"name": "SHO_Category_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Simple and Clean"
+	},
+	{
+		"name": "SHO_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Shepherd House <size=74%>(1. Filiale)</size>"
+	},
+	{
+		"name": "SHO_Category_008",
+		"speaker": "",
+		"listener": "",
+		"content": "American Basics"
+	},
+	{
+		"name": "SHO_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG FANG"
+	},
+	{
+		"name": "SHO_Category_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Reisgerichte"
+	},
+	{
+		"name": "SHO_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Donburi Town"
+	},
+	{
+		"name": "SHO_Category_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Köstliche Ramen"
+	},
+	{
+		"name": "SHO_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Glutton 4 Gluten"
+	},
+	{
+		"name": "SHO_Category_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Gegrilltes"
+	},
+	{
+		"name": "SHO_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "SBY BBQ"
+	},
+	{
+		"name": "SHO_Category_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Alltagshelfer"
+	},
+	{
+		"name": "SHO_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "TOKYU HANDS <size=74%>(EG)</size>"
+	},
+	{
+		"name": "SHO_Category_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Alltagshelfer"
+	},
+	{
+		"name": "SHO_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "TOKYU HANDS <size=74%>(1. ET)</size>"
+	},
+	{
+		"name": "SHO_Category_015",
+		"speaker": "",
+		"listener": "",
+		"content": "Alltagshelfer"
+	},
+	{
+		"name": "SHO_Name_015",
+		"speaker": "",
+		"listener": "",
+		"content": "TOKYU HANDS <size=74%>(2. ET)</size>"
+	},
+	{
+		"name": "SHO_Category_016",
+		"speaker": "",
+		"listener": "",
+		"content": "Udagawa-Style"
+	},
+	{
+		"name": "SHO_Name_016",
+		"speaker": "",
+		"listener": "",
+		"content": "MONOCROW"
+	},
+	{
+		"name": "SHO_Category_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Klangraum"
+	},
+	{
+		"name": "SHO_Name_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Cyco Records"
+	},
+	{
+		"name": "SHO_Category_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Parfait-Salon"
+	},
+	{
+		"name": "SHO_Name_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Udagawa Parfait"
+	},
+	{
+		"name": "SHO_Category_019",
+		"speaker": "",
+		"listener": "",
+		"content": "Exotik der alten Schule"
+	},
+	{
+		"name": "SHO_Name_019",
+		"speaker": "",
+		"listener": "",
+		"content": "garagara"
+	},
+	{
+		"name": "SHO_Category_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Bio-Café"
+	},
+	{
+		"name": "SHO_Name_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Vegelovers"
+	},
+	{
+		"name": "SHO_Category_021",
+		"speaker": "",
+		"listener": "",
+		"content": "Musik-Boutique"
+	},
+	{
+		"name": "SHO_Name_021",
+		"speaker": "",
+		"listener": "",
+		"content": "TOWER RECORDS <size=74%>SHIBUYA</size>"
+	},
+	{
+		"name": "SHO_Category_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Tapioka-Tee"
+	},
+	{
+		"name": "SHO_Name_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Bubblevision"
+	},
+	{
+		"name": "SHO_Category_023",
+		"speaker": "",
+		"listener": "",
+		"content": "Schöner Aussehen"
+	},
+	{
+		"name": "SHO_Name_023",
+		"speaker": "",
+		"listener": "",
+		"content": "NATURAL PUPPY"
+	},
+	{
+		"name": "SHO_Category_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Club-Mode"
+	},
+	{
+		"name": "SHO_Name_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Joli bécot <size=74%>(PARCO-Filiale)</size>"
+	},
+	{
+		"name": "SHO_Category_025",
+		"speaker": "",
+		"listener": "",
+		"content": "Currygerichte"
+	},
+	{
+		"name": "SHO_Name_025",
+		"speaker": "",
+		"listener": "",
+		"content": "SPICY CURRY DON"
+	},
+	{
+		"name": "SHO_Category_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Authentisch indisch"
+	},
+	{
+		"name": "SHO_Name_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Crowned Curry"
+	},
+	{
+		"name": "SHO_Category_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Chinesische Nudeln"
+	},
+	{
+		"name": "SHO_Name_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Suzu Slurpz"
+	},
+	{
+		"name": "SHO_Category_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Gothic Lolita"
+	},
+	{
+		"name": "SHO_Name_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Cony×Cony"
+	},
+	{
+		"name": "SHO_Category_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Provokante Klamotten"
+	},
+	{
+		"name": "SHO_Name_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Tigre PUNKS"
+	},
+	{
+		"name": "SHO_Category_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Simple and Clean"
+	},
+	{
+		"name": "SHO_Name_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Shepherd House <size=74%>(2. Filiale)</size>"
+	},
+	{
+		"name": "SHO_Category_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Konbini-Laden"
+	},
+	{
+		"name": "SHO_Name_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Moyai Mart"
+	},
+	{
+		"name": "SHO_Category_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Street Basics"
+	},
+	{
+		"name": "SHO_Name_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Jupiter of the Monkey"
+	},
+	{
+		"name": "SHO_Category_033",
+		"speaker": "",
+		"listener": "",
+		"content": "American Basics"
+	},
+	{
+		"name": "SHO_Name_033",
+		"speaker": "",
+		"listener": "",
+		"content": "HOG FANG <size=74%>(Annex)</size>"
+	},
+	{
+		"name": "SHO_Category_034",
+		"speaker": "",
+		"listener": "",
+		"content": "Mittagsimbiss"
+	},
+	{
+		"name": "SHO_Name_034",
+		"speaker": "",
+		"listener": "",
+		"content": "fluffy ’n’ sweet"
+	},
+	{
+		"name": "SHO_Category_035",
+		"speaker": "",
+		"listener": "",
+		"content": "Japanische Eleganz"
+	},
+	{
+		"name": "SHO_Name_035",
+		"speaker": "",
+		"listener": "",
+		"content": "RyuGu"
+	},
+	{
+		"name": "SHO_Category_036",
+		"speaker": "",
+		"listener": "",
+		"content": "Süßigkeiten"
+	},
+	{
+		"name": "SHO_Name_036",
+		"speaker": "",
+		"listener": "",
+		"content": "Kyoto Sweets <size=74%>(Shibuya-East)</size>"
+	},
+	{
+		"name": "SHO_Category_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Straßenstand"
+	},
+	{
+		"name": "SHO_Name_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoji-sans Laden"
+	},
+	{
+		"name": "SHO_Category_038",
+		"speaker": "",
+		"listener": "",
+		"content": "Getränkestand"
+	},
+	{
+		"name": "SHO_Name_038",
+		"speaker": "",
+		"listener": "",
+		"content": "somedrinks"
+	},
+	{
+		"name": "SHO_Category_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Mexikanische Gerichte"
+	},
+	{
+		"name": "SHO_Name_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Tacos y Más Tacos"
+	},
+	{
+		"name": "SHO_Category_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Hinreißende Süßigkeiten"
+	},
+	{
+		"name": "SHO_Name_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Cutie☆Pies"
+	},
+	{
+		"name": "SHO_Category_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Basic Style"
+	},
+	{
+		"name": "SHO_Name_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Brave & Ambitious"
+	},
+	{
+		"name": "SHO_Category_042",
+		"speaker": "",
+		"listener": "",
+		"content": "Verschiedenes"
+	},
+	{
+		"name": "SHO_Name_042",
+		"speaker": "",
+		"listener": "",
+		"content": "croaky panic"
+	},
+	{
+		"name": "SHO_Category_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Mädchen-Outfits"
+	},
+	{
+		"name": "SHO_Name_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Top o’ Topo <size=74%>(HARAJUKU)</size>"
+	},
+	{
+		"name": "SHO_Category_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Importierte Accessoires"
+	},
+	{
+		"name": "SHO_Name_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Petit Bonheur"
+	},
+	{
+		"name": "SHO_Category_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Streetfood-Restaurant"
+	},
+	{
+		"name": "SHO_Name_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Asia Fantasia"
+	},
+	{
+		"name": "SHO_Category_046",
+		"speaker": "",
+		"listener": "",
+		"content": "Formelle Kleidung"
+	},
+	{
+		"name": "SHO_Name_046",
+		"speaker": "",
+		"listener": "",
+		"content": "IL CAVALLO DEL RE"
+	},
+	{
+		"name": "SHO_Category_047",
+		"speaker": "",
+		"listener": "",
+		"content": "Provokante Avantgarde-Kleidung"
+	},
+	{
+		"name": "SHO_Name_047",
+		"speaker": "",
+		"listener": "",
+		"content": "BLACK HONEY CHILI<NBSP>COOKIE"
+	}
+]
+}

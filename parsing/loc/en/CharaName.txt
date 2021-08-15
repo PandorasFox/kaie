@@ -1,0 +1,1504 @@
+{
+"columns":[
+	{
+		"name": "CHR_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Character"
+	},
+	{
+		"name": "CHR_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo"
+	},
+	{
+		"name": "CHR_Name_0001_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo Kanade"
+	},
+	{
+		"name": "CHR_Name_0001_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "RINDO"
+	},
+	{
+		"name": "LOG_Name_0001_SNS",
+		"speaker": "",
+		"listener": "",
+		"content": "Text (Rindo)"
+	},
+	{
+		"name": "LOG_Name_0001_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Rindo)"
+	},
+	{
+		"name": "CHR_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka"
+	},
+	{
+		"name": "CHR_Name_0002_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Shoka Sakurane"
+	},
+	{
+		"name": "CHR_Name_0002_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "SHOKA"
+	},
+	{
+		"name": "LOG_Name_0002s_SNS",
+		"speaker": "",
+		"listener": "",
+		"content": "Text (Swallow)"
+	},
+	{
+		"name": "LOG_Name_0002s_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Swallow)"
+	},
+	{
+		"name": "LOG_Name_0002_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Shoka)"
+	},
+	{
+		"name": "CHR_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Fret"
+	},
+	{
+		"name": "CHR_Name_0003_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Tosai <MK_11>Fret<MK_11> Furesawa"
+	},
+	{
+		"name": "CHR_Name_0003_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "FRET"
+	},
+	{
+		"name": "LOG_Name_0003_SNS",
+		"speaker": "",
+		"listener": "",
+		"content": "Text (Fret)"
+	},
+	{
+		"name": "LOG_Name_0003_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Fret)"
+	},
+	{
+		"name": "CHR_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi"
+	},
+	{
+		"name": "CHR_Name_0004_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Nagi Usui"
+	},
+	{
+		"name": "CHR_Name_0004_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "NAGI"
+	},
+	{
+		"name": "LOG_Name_0004_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Nagi)"
+	},
+	{
+		"name": "CHR_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Beat"
+	},
+	{
+		"name": "CHR_Name_0005_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Daisukenojo <MK_11>Beat<MK_11> Bito"
+	},
+	{
+		"name": "CHR_Name_0005_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "BEAT"
+	},
+	{
+		"name": "LOG_Name_0005_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Beat)"
+	},
+	{
+		"name": "CHR_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku"
+	},
+	{
+		"name": "CHR_Name_0006_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Neku Sakuraba"
+	},
+	{
+		"name": "CHR_Name_0006_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "NEKU"
+	},
+	{
+		"name": "CHR_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Minamimoto"
+	},
+	{
+		"name": "CHR_Name_0007_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Sho Minamimoto"
+	},
+	{
+		"name": "CHR_Name_0007_menu",
+		"speaker": "",
+		"listener": "",
+		"content": "MINAMIMOTO"
+	},
+	{
+		"name": "CHR_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba"
+	},
+	{
+		"name": "CHR_Name_0010_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiba Miyakaze"
+	},
+	{
+		"name": "LOG_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Game Master"
+	},
+	{
+		"name": "CHR_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Kubo"
+	},
+	{
+		"name": "CHR_Name_0011_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Tanzo Kubo"
+	},
+	{
+		"name": "CHR_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi"
+	},
+	{
+		"name": "CHR_Name_0012_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsugumi Matsunae"
+	},
+	{
+		"name": "CHR_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Susukichi"
+	},
+	{
+		"name": "CHR_Name_0013_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaichi <MK_11>Susukichi<MK_11> Susuki"
+	},
+	{
+		"name": "LOG_Name_0013_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Susukichi)"
+	},
+	{
+		"name": "CHR_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Hishima"
+	},
+	{
+		"name": "CHR_Name_0014_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Hishima Sakazuki"
+	},
+	{
+		"name": "CHR_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaie"
+	},
+	{
+		"name": "CHR_Name_0015_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaie Ono"
+	},
+	{
+		"name": "LOG_Name_0015_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Kaie)"
+	},
+	{
+		"name": "CHR_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Ayano"
+	},
+	{
+		"name": "CHR_Name_0016_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Ayano Kamachi"
+	},
+	{
+		"name": "LOG_Name_0016_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Ayano)"
+	},
+	{
+		"name": "CHR_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuya"
+	},
+	{
+		"name": "CHR_Name_0017_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuya Kawahara"
+	},
+	{
+		"name": "CHR_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Kanon"
+	},
+	{
+		"name": "CHR_Name_0018_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Kanon Tachibana"
+	},
+	{
+		"name": "LOG_Name_0018_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Kanon)"
+	},
+	{
+		"name": "CHR_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Motoi"
+	},
+	{
+		"name": "CHR_Name_0019_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Motoi Anazawa"
+	},
+	{
+		"name": "LOG_Name_0019_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Motoi)"
+	},
+	{
+		"name": "CHR_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Hazuki"
+	},
+	{
+		"name": "CHR_Name_0020_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Hazuki Mikagi"
+	},
+	{
+		"name": "CHR_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Joshua"
+	},
+	{
+		"name": "CHR_Name_0030_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Yoshiya <MK_11>Joshua<MK_11> Kiryu"
+	},
+	{
+		"name": "CHR_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Coco"
+	},
+	{
+		"name": "CHR_Name_0031_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Coco Atarashi"
+	},
+	{
+		"name": "CHR_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Kariya"
+	},
+	{
+		"name": "CHR_Name_0032_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Koki Kariya"
+	},
+	{
+		"name": "CHR_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Uzuki"
+	},
+	{
+		"name": "CHR_Name_0033_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Uzuki Yashiro"
+	},
+	{
+		"name": "LOG_Name_0033_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (Uzuki)"
+	},
+	{
+		"name": "CHR_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiki"
+	},
+	{
+		"name": "CHR_Name_0034_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Shiki Misaki"
+	},
+	{
+		"name": "CHR_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Rhyme"
+	},
+	{
+		"name": "CHR_Name_0035_board",
+		"speaker": "",
+		"listener": "",
+		"content": "Raimu <MK_11>Rhyme<MK_11> Bito"
+	},
+	{
+		"name": "CHR_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Hanekoma"
+	},
+	{
+		"name": "CHR_Name_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Reaper"
+	},
+	{
+		"name": "LOG_Name_0200a",
+		"speaker": "",
+		"listener": "",
+		"content": "Reaper A"
+	},
+	{
+		"name": "LOG_Name_0200b",
+		"speaker": "",
+		"listener": "",
+		"content": "Reaper B"
+	},
+	{
+		"name": "LOG_Name_0200S",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya Reaper"
+	},
+	{
+		"name": "LOG_Name_0200Sa",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya Reaper A"
+	},
+	{
+		"name": "LOG_Name_0200Sb",
+		"speaker": "",
+		"listener": "",
+		"content": "Shibuya Reaper B"
+	},
+	{
+		"name": "CHR_Name_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Reaper Commentator"
+	},
+	{
+		"name": "CHR_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Marino Orihara"
+	},
+	{
+		"name": "LOG_Name_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Marino"
+	},
+	{
+		"name": "CHR_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Yuika Kaga"
+	},
+	{
+		"name": "LOG_Name_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Yuika"
+	},
+	{
+		"name": "CHR_Name_0152",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoji"
+	},
+	{
+		"name": "CHR_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Eiji Oji"
+	},
+	{
+		"name": "LOG_Name_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "The Prince"
+	},
+	{
+		"name": "CHR_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Itsuki Kaneda"
+	},
+	{
+		"name": "LOG_Name_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Itsuki"
+	},
+	{
+		"name": "LOG_Name_0154s",
+		"speaker": "",
+		"listener": "",
+		"content": "Honoka's BF"
+	},
+	{
+		"name": "CHR_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Honoka Kondo"
+	},
+	{
+		"name": "LOG_Name_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Honoka"
+	},
+	{
+		"name": "CHR_Name_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Eiru"
+	},
+	{
+		"name": "CHR_Name_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Hide Takenouchi"
+	},
+	{
+		"name": "LOG_Name_0300m",
+		"speaker": "",
+		"listener": "",
+		"content": "Event Staff"
+	},
+	{
+		"name": "LOG_Name_0300s",
+		"speaker": "",
+		"listener": "",
+		"content": "Video Staff"
+	},
+	{
+		"name": "CHR_Name_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Yoko Norimoto"
+	},
+	{
+		"name": "CHR_Name_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Buddy Rapids"
+	},
+	{
+		"name": "CHR_Name_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Kohei Toyohashi"
+	},
+	{
+		"name": "CHR_Name_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Katsuhiko Tanimaru"
+	},
+	{
+		"name": "LOG_Name_0304s",
+		"speaker": "",
+		"listener": "",
+		"content": "Quiz Maniac"
+	},
+	{
+		"name": "CHR_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Sumio Tanaka"
+	},
+	{
+		"name": "LOG_Name_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Sumio"
+	},
+	{
+		"name": "CHR_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Maito Minami"
+	},
+	{
+		"name": "LOG_Name_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Maito"
+	},
+	{
+		"name": "CHR_Name_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Manami Akita"
+	},
+	{
+		"name": "CHR_Name_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "MKN"
+	},
+	{
+		"name": "CHR_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Miss Banks"
+	},
+	{
+		"name": "LOG_Name_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Pop Idol"
+	},
+	{
+		"name": "CHR_Name_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Shuntaro Harima"
+	},
+	{
+		"name": "CHR_Name_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Taku Ihama"
+	},
+	{
+		"name": "CHR_Name_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "It-Boy Kashiki"
+	},
+	{
+		"name": "CHR_Name_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "machastree"
+	},
+	{
+		"name": "CHR_Name_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Yusei Iseya"
+	},
+	{
+		"name": "CHR_Name_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Riko Sekinohara"
+	},
+	{
+		"name": "CHR_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Go Modoriyama"
+	},
+	{
+		"name": "LOG_Name_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Modoriyama"
+	},
+	{
+		"name": "CHR_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Taka the Handyman"
+	},
+	{
+		"name": "LOG_Name_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoji's <MK_11>Associate<MK_11>"
+	},
+	{
+		"name": "CHR_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Seiji-of-Some-Trades"
+	},
+	{
+		"name": "LOG_Name_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoji's <MK_11>Apprentice<MK_11>"
+	},
+	{
+		"name": "CHR_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Shinji-of-Some-Trades"
+	},
+	{
+		"name": "LOG_Name_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoji's <MK_11>Apprentice<MK_11>"
+	},
+	{
+		"name": "CHR_Name_0101",
+		"speaker": "",
+		"listener": "",
+		"content": "Jun Sonobe"
+	},
+	{
+		"name": "CHR_Name_0102",
+		"speaker": "",
+		"listener": "",
+		"content": "Akari Minamino"
+	},
+	{
+		"name": "CHR_Name_0103",
+		"speaker": "",
+		"listener": "",
+		"content": "Sakura Koga"
+	},
+	{
+		"name": "CHR_Name_0104",
+		"speaker": "",
+		"listener": "",
+		"content": "Rina Todo"
+	},
+	{
+		"name": "CHR_Name_0105",
+		"speaker": "",
+		"listener": "",
+		"content": "Mai Iseya"
+	},
+	{
+		"name": "CHR_Name_0106",
+		"speaker": "",
+		"listener": "",
+		"content": "Miki Saionji"
+	},
+	{
+		"name": "CHR_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Miharu Nakano"
+	},
+	{
+		"name": "LOG_Name_0107",
+		"speaker": "",
+		"listener": "",
+		"content": "Miharu"
+	},
+	{
+		"name": "CHR_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Yudai Miki"
+	},
+	{
+		"name": "LOG_Name_0108",
+		"speaker": "",
+		"listener": "",
+		"content": "Yudai"
+	},
+	{
+		"name": "CHR_Name_0110",
+		"speaker": "",
+		"listener": "",
+		"content": "Kaoru Nitobe"
+	},
+	{
+		"name": "CHR_Name_0111",
+		"speaker": "",
+		"listener": "",
+		"content": "Michihisa Tadashima"
+	},
+	{
+		"name": "CHR_Name_0112",
+		"speaker": "",
+		"listener": "",
+		"content": "Jo Makita"
+	},
+	{
+		"name": "CHR_Name_0113",
+		"speaker": "",
+		"listener": "",
+		"content": "Rei Mogi"
+	},
+	{
+		"name": "CHR_Name_0114",
+		"speaker": "",
+		"listener": "",
+		"content": "Sumire Chiba"
+	},
+	{
+		"name": "CHR_Name_0115",
+		"speaker": "",
+		"listener": "",
+		"content": "Mitsuhide Tojo"
+	},
+	{
+		"name": "CHR_Name_0116",
+		"speaker": "",
+		"listener": "",
+		"content": "Rintaro Nakagawa"
+	},
+	{
+		"name": "CHR_Name_0117",
+		"speaker": "",
+		"listener": "",
+		"content": "Naoto Kuwata"
+	},
+	{
+		"name": "CHR_Name_0118",
+		"speaker": "",
+		"listener": "",
+		"content": "Aika Kuribayashi"
+	},
+	{
+		"name": "CHR_Name_0119",
+		"speaker": "",
+		"listener": "",
+		"content": "Genzo Koitabashi"
+	},
+	{
+		"name": "CHR_Name_0120",
+		"speaker": "",
+		"listener": "",
+		"content": "Hirofumi Itoguchi"
+	},
+	{
+		"name": "CHR_Name_0121",
+		"speaker": "",
+		"listener": "",
+		"content": "Sayoko Morohoshi"
+	},
+	{
+		"name": "CHR_Name_0122",
+		"speaker": "",
+		"listener": "",
+		"content": "Akira Ishiwa"
+	},
+	{
+		"name": "CHR_Name_0123",
+		"speaker": "",
+		"listener": "",
+		"content": "Kana Inada"
+	},
+	{
+		"name": "CHR_Name_0124",
+		"speaker": "",
+		"listener": "",
+		"content": "Renka Sakuma"
+	},
+	{
+		"name": "CHR_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "Ken Doi"
+	},
+	{
+		"name": "LOG_Name_0125",
+		"speaker": "",
+		"listener": "",
+		"content": "The Don"
+	},
+	{
+		"name": "CHR_Name_0126",
+		"speaker": "",
+		"listener": "",
+		"content": "Aadiv"
+	},
+	{
+		"name": "CHR_Name_0127",
+		"speaker": "",
+		"listener": "",
+		"content": "Suzu Ito"
+	},
+	{
+		"name": "CHR_Name_0128",
+		"speaker": "",
+		"listener": "",
+		"content": "Masaya & Tsukihime"
+	},
+	{
+		"name": "CHR_Name_0128m",
+		"speaker": "",
+		"listener": "",
+		"content": "Masaya"
+	},
+	{
+		"name": "CHR_Name_0128f",
+		"speaker": "",
+		"listener": "",
+		"content": "Tsukihime"
+	},
+	{
+		"name": "CHR_Name_0129",
+		"speaker": "",
+		"listener": "",
+		"content": "Izumi Ariyoshi"
+	},
+	{
+		"name": "CHR_Name_0130",
+		"speaker": "",
+		"listener": "",
+		"content": "Yumi Takita"
+	},
+	{
+		"name": "CHR_Name_0131",
+		"speaker": "",
+		"listener": "",
+		"content": "Tomoko Hirasawa"
+	},
+	{
+		"name": "CHR_Name_0132",
+		"speaker": "",
+		"listener": "",
+		"content": "Keiichi Okada"
+	},
+	{
+		"name": "CHR_Name_0133",
+		"speaker": "",
+		"listener": "",
+		"content": "Kohei Suzukawa"
+	},
+	{
+		"name": "CHR_Name_0134",
+		"speaker": "",
+		"listener": "",
+		"content": "Tomoyuki Kondo"
+	},
+	{
+		"name": "CHR_Name_0135",
+		"speaker": "",
+		"listener": "",
+		"content": "Shinobu Sato"
+	},
+	{
+		"name": "CHR_Name_0136",
+		"speaker": "",
+		"listener": "",
+		"content": "Rieko Kawahara"
+	},
+	{
+		"name": "CHR_Name_0137",
+		"speaker": "",
+		"listener": "",
+		"content": "Trader Ryoji"
+	},
+	{
+		"name": "CHR_Name_0138",
+		"speaker": "",
+		"listener": "",
+		"content": "Miko Yamamoto"
+	},
+	{
+		"name": "CHR_Name_0139",
+		"speaker": "",
+		"listener": "",
+		"content": "Ryoma Utsumi"
+	},
+	{
+		"name": "CHR_Name_0140",
+		"speaker": "",
+		"listener": "",
+		"content": "Linda Watanabe"
+	},
+	{
+		"name": "CHR_Name_0141",
+		"speaker": "",
+		"listener": "",
+		"content": "Aoi Kyobe"
+	},
+	{
+		"name": "CHR_Name_0142",
+		"speaker": "",
+		"listener": "",
+		"content": "Tamao Sasai"
+	},
+	{
+		"name": "CHR_Name_0143",
+		"speaker": "",
+		"listener": "",
+		"content": "Yotsuba Sano"
+	},
+	{
+		"name": "CHR_Name_0144",
+		"speaker": "",
+		"listener": "",
+		"content": "Momoka Owada"
+	},
+	{
+		"name": "CHR_Name_0145",
+		"speaker": "",
+		"listener": "",
+		"content": "Takumi Miyano"
+	},
+	{
+		"name": "CHR_Name_0146",
+		"speaker": "",
+		"listener": "",
+		"content": "Wataru Koketsu"
+	},
+	{
+		"name": "CHR_Name_0147",
+		"speaker": "",
+		"listener": "",
+		"content": "Hiromu Takahara"
+	},
+	{
+		"name": "LOG_Name_unknown",
+		"speaker": "",
+		"listener": "",
+		"content": "???"
+	},
+	{
+		"name": "LOG_Name_unknown_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS (???)"
+	},
+	{
+		"name": "LOG_Name_persons_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo/Fret"
+	},
+	{
+		"name": "LOG_Name_persons_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo/Nagi"
+	},
+	{
+		"name": "LOG_Name_persons_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Rindo/Shoka/Nagi"
+	},
+	{
+		"name": "LOG_Name_0001Mam_SNS",
+		"speaker": "",
+		"listener": "",
+		"content": "Text (Mom)"
+	},
+	{
+		"name": "LOG_Name_SNS",
+		"speaker": "",
+		"listener": "",
+		"content": "Text"
+	},
+	{
+		"name": "LOG_Name_RNS",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS"
+	},
+	{
+		"name": "LOG_Name_Dapp",
+		"speaker": "",
+		"listener": "",
+		"content": "RNS App"
+	},
+	{
+		"name": "LOG_Name_Noize",
+		"speaker": "",
+		"listener": "",
+		"content": "Noise"
+	},
+	{
+		"name": "LOG_Name_FM",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist"
+	},
+	{
+		"name": "LOG_Name_FMa",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist A"
+	},
+	{
+		"name": "LOG_Name_FMb",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist B"
+	},
+	{
+		"name": "LOG_Name_FMc",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist C"
+	},
+	{
+		"name": "LOG_Name_FMd",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist D"
+	},
+	{
+		"name": "LOG_Name_FMe",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist E"
+	},
+	{
+		"name": "LOG_Name_FMf",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist F"
+	},
+	{
+		"name": "LOG_Name_FMg",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist G"
+	},
+	{
+		"name": "LOG_Name_FMh",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist H"
+	},
+	{
+		"name": "LOG_Name_FMi",
+		"speaker": "",
+		"listener": "",
+		"content": "Deep Rivers Societist I"
+	},
+	{
+		"name": "LOG_Name_KM",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty"
+	},
+	{
+		"name": "LOG_Name_KMa",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty A"
+	},
+	{
+		"name": "LOG_Name_KMb",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty B"
+	},
+	{
+		"name": "LOG_Name_KMc",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty C"
+	},
+	{
+		"name": "LOG_Name_KMd",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty D"
+	},
+	{
+		"name": "LOG_Name_KMe",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty E"
+	},
+	{
+		"name": "LOG_Name_KMf",
+		"speaker": "",
+		"listener": "",
+		"content": "Variabeauty F"
+	},
+	{
+		"name": "LOG_Name_MM",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart"
+	},
+	{
+		"name": "LOG_Name_MMa",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart A"
+	},
+	{
+		"name": "LOG_Name_MMb",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart B"
+	},
+	{
+		"name": "LOG_Name_MMc",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart C"
+	},
+	{
+		"name": "LOG_Name_MMd",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart D"
+	},
+	{
+		"name": "LOG_Name_MMe",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart E"
+	},
+	{
+		"name": "LOG_Name_MMf",
+		"speaker": "",
+		"listener": "",
+		"content": "Pureheart F"
+	},
+	{
+		"name": "LOG_Name_1000",
+		"speaker": "",
+		"listener": "",
+		"content": "Everyone"
+	},
+	{
+		"name": "LOG_Name_1001",
+		"speaker": "",
+		"listener": "",
+		"content": "Construction Worker"
+	},
+	{
+		"name": "LOG_Name_1002",
+		"speaker": "",
+		"listener": "",
+		"content": "Tourist"
+	},
+	{
+		"name": "LOG_Name_1003",
+		"speaker": "",
+		"listener": "",
+		"content": "Seminar Leader"
+	},
+	{
+		"name": "LOG_Name_1004",
+		"speaker": "",
+		"listener": "",
+		"content": "Store Clerk"
+	},
+	{
+		"name": "LOG_Name_1005",
+		"speaker": "",
+		"listener": "",
+		"content": "Store Owner"
+	},
+	{
+		"name": "LOG_Name_1006",
+		"speaker": "",
+		"listener": "",
+		"content": "Newscaster"
+	},
+	{
+		"name": "LOG_Name_1007",
+		"speaker": "",
+		"listener": "",
+		"content": "Audience Members"
+	},
+	{
+		"name": "LOG_Name_1008",
+		"speaker": "",
+		"listener": "",
+		"content": "Photo Machine"
+	},
+	{
+		"name": "LOG_Name_1000F",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman"
+	},
+	{
+		"name": "LOG_Name_1000Fa",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman A"
+	},
+	{
+		"name": "LOG_Name_1000Fb",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman B"
+	},
+	{
+		"name": "LOG_Name_1000Fc",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman C"
+	},
+	{
+		"name": "LOG_Name_1000Fd",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman D"
+	},
+	{
+		"name": "LOG_Name_1000Fe",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman E"
+	},
+	{
+		"name": "LOG_Name_1000Ff",
+		"speaker": "",
+		"listener": "",
+		"content": "Woman F"
+	},
+	{
+		"name": "LOG_Name_1000M",
+		"speaker": "",
+		"listener": "",
+		"content": "Man"
+	},
+	{
+		"name": "LOG_Name_1000Ma",
+		"speaker": "",
+		"listener": "",
+		"content": "Man A"
+	},
+	{
+		"name": "LOG_Name_1000Mb",
+		"speaker": "",
+		"listener": "",
+		"content": "Man B"
+	},
+	{
+		"name": "LOG_Name_1000Mc",
+		"speaker": "",
+		"listener": "",
+		"content": "Man C"
+	},
+	{
+		"name": "LOG_Name_1000Md",
+		"speaker": "",
+		"listener": "",
+		"content": "Man D"
+	},
+	{
+		"name": "LOG_Name_1000Me",
+		"speaker": "",
+		"listener": "",
+		"content": "Man E"
+	},
+	{
+		"name": "LOG_Name_1000Mf",
+		"speaker": "",
+		"listener": "",
+		"content": "Man F"
+	},
+	{
+		"name": "LOG_Name_1000Mg",
+		"speaker": "",
+		"listener": "",
+		"content": "Man G"
+	},
+	{
+		"name": "LOG_Name_1000Mh",
+		"speaker": "",
+		"listener": "",
+		"content": "Man H"
+	},
+	{
+		"name": "LOG_Name_1000Mi",
+		"speaker": "",
+		"listener": "",
+		"content": "Man I"
+	},
+	{
+		"name": "LOG_Name_1001F",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl"
+	},
+	{
+		"name": "LOG_Name_1001Fa",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl A"
+	},
+	{
+		"name": "LOG_Name_1001Fb",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl B"
+	},
+	{
+		"name": "LOG_Name_1001Fc",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl C"
+	},
+	{
+		"name": "LOG_Name_1001Fd",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl D"
+	},
+	{
+		"name": "LOG_Name_1001Fe",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl E"
+	},
+	{
+		"name": "LOG_Name_1001Ff",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl F"
+	},
+	{
+		"name": "LOG_Name_1001Fg",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl G"
+	},
+	{
+		"name": "LOG_Name_1001Fh",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Girl H"
+	},
+	{
+		"name": "LOG_Name_1001M",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Boy"
+	},
+	{
+		"name": "LOG_Name_1001Ma",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Boy A"
+	},
+	{
+		"name": "LOG_Name_1001Mb",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Boy B"
+	},
+	{
+		"name": "LOG_Name_1001Mc",
+		"speaker": "",
+		"listener": "",
+		"content": "High School Boy C"
+	},
+	{
+		"name": "LOG_Name_1002M",
+		"speaker": "",
+		"listener": "",
+		"content": "Schoolboy"
+	},
+	{
+		"name": "LOG_Name_1003M",
+		"speaker": "",
+		"listener": "",
+		"content": "Teenager"
+	},
+	{
+		"name": "LOG_Name_1004M",
+		"speaker": "",
+		"listener": "",
+		"content": "Boy"
+	}
+]
+}

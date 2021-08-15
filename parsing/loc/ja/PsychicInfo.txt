@@ -1,0 +1,697 @@
+{
+"columns":[
+	{
+		"name": "PSY_Info_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックInfo",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "なし",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "このバッジによって\nシンクロチャンスは発生しない",
+		"comment": "説明：なし",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フィニッシュ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コンボフィニッシュを当てた瞬間",
+		"comment": "説明：フィニッシュ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノックアップ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を打ち上げて 頂点に達した瞬間",
+		"comment": "説明：ノックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルーピングバースト",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵に刺さった矢が大爆発した瞬間",
+		"comment": "説明：グルーピングバースト",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エクスプロージョン",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を爆発に巻き込んだ瞬間",
+		"comment": "説明：エクスプロージョン",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クラッシュ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を吹っ飛ばして 壁に激突した瞬間",
+		"comment": "説明：クラッシュ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "炎上",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵に状態異常［炎上］が発生した瞬間",
+		"comment": "説明：炎上",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "感電",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵に状態異常［感電］が発生した瞬間",
+		"comment": "説明：感電",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "毒",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵に状態異常［毒］が発生した瞬間",
+		"comment": "説明：毒",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドロップ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が地面に叩きつけられた瞬間",
+		"comment": "説明：ドロップ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アイスバインド",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が状態異常［アイスバインド］で\n凍り付いた瞬間",
+		"comment": "説明：アイスバインド",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チェーンバインド",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が状態異常［チェーンバインド］で\n拘束された瞬間",
+		"comment": "説明：チェーンバインド",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックバインド",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が状態異常［ロックバインド］で\n身動きが取れなくなった瞬間",
+		"comment": "説明：ロックバインド",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タイムバインド",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が状態異常［タイムバインド］で\n動きを停止した瞬間",
+		"comment": "説明：タイムバインド",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スタン",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が状態異常［スタン］で\n動けなくなった瞬間",
+		"comment": "説明：スタン",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャプチャーバインド",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵を［キャプチャー］で拘束し\n一定時間が経過した瞬間",
+		"comment": "説明：キャプチャーバインド",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "乱重力",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵が重力によって\n打ち上げられて頂点に達した瞬間か\n地面に叩きつけられた瞬間",
+		"comment": "説明：乱重力",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［3回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_3",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［5回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_5",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［7回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_7",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［8回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_8",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［10回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_10",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［12回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_12",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［15回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_15",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［18回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_18",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［20回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_20",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クロスレンジ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の至近距離から\n最大チャージの攻撃を当てた瞬間",
+		"comment": "説明：クロスレンジ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヘヴィスタブ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵に大型の物体がぶつかった瞬間",
+		"comment": "説明：ヘヴィスタブ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キープアウェイ",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "振り回した敵を別の敵にぶつけた瞬間",
+		"comment": "説明：キープアウェイ",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スターター",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックを発動した瞬間",
+		"comment": "説明：スターター",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ドミナンス",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキックを発動して\n一定時間が経過した瞬間",
+		"comment": "説明：ドミナンス",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブロッキング",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵の攻撃を受け止めた瞬間",
+		"comment": "説明：ブロッキング",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッドステータス",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "敵にいずれかの状態異常が発生した瞬間",
+		"comment": "説明：バッドステータス",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マルチヒット",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに攻撃が\n［2回］連続ヒットした瞬間",
+		"comment": "説明：マルチヒット_2",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルーピングバースト",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに矢を［8本］刺し\n全てが爆発した瞬間",
+		"comment": "説明：グルーピングバースト_8",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルーピングバースト",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに矢を［12本］刺し\n全てが爆発した瞬間",
+		"comment": "説明：グルーピングバースト_12",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルーピングバースト",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに矢を［15本］刺し\n全てが爆発した瞬間",
+		"comment": "説明：グルーピングバースト_15",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グルーピングバースト",
+		"comment": "シンクロチャンス名",
+		"annotation": ""
+	},
+	{
+		"name": "Chance_Info_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同一ターゲットに矢を［20本］刺し\n全てが爆発した瞬間",
+		"comment": "説明：グルーピングバースト_20",
+		"annotation": ""
+	}
+]
+}

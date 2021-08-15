@@ -1,0 +1,373 @@
+{
+"columns":[
+	{
+		"name": "SKL_Info_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル難易度「EASY」を\n選択できる バトルは簡単になるが\nドロップバッジの種類やEXPが減る",
+		"comment": "難易度：EASY",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル難易度「HARD」を\n選択できる バトルは難しくなるが\nドロップバッジの種類やEXPが増える",
+		"comment": "難易度：HARD",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトル難易度「ULTIMATE」を\n選択できる バトルは更に難しくなるが\nドロップバッジの種類やEXPが増える",
+		"comment": "難易度：ULTIMATE",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゲームオーバーになった時\nバッジや装備を変えてリトライできる",
+		"comment": "チェンジリトライ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LEVELを下げることで\nバッジのDROP RATE\n上昇量がより大きくなる",
+		"comment": "LEVEL：ドロップアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LEVELを下げた際の\n最大HPの減少量が\nより少なくなる",
+		"comment": "LEVEL：HPセーブ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックオンしている敵の\nHPゲージが表示されるようになる",
+		"comment": "エネミー：HP表示",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バトルでの回避アクションの\n無敵時間が延びる",
+		"comment": "回避：無敵時間アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_SKL_Info_0009>",
+		"comment": "ふっとび復帰\nPF\n攻撃で吹き飛ばされた時\nBボタンを押すことで即座に\n体勢を立て直すことができる",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エンカウント時の\n最大Chain数がアップし\nより多く連戦することが可能になる",
+		"comment": "最大Chain数アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアノイズシンボルの\n出現確率がアップする",
+		"comment": "レアノイズ出現率アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レアノイズシンボルの\n逃げていく速度がダウンする",
+		"comment": "レアノイズ速度ダウン",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_SKL_Info_0013>",
+		"comment": "ノイズ引き寄せ\nPF\nスキャン時にZRボタンの長押しで\n周囲のノイズシンボルを引き寄せる\nことができるようになる",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_SKL_Info_0014>",
+		"comment": "ノイズ引き寄せ強化\nPF\nスキャン時にZRボタンの長押しで\n周囲のノイズシンボルを引き寄せる力を\nより強くする",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナギとミナミモトの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "レガストコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショウカとナギの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "女子会コンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウとフレットの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "マブダチコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクとビイトの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "レジェンドコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ネクとリンドウの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "ヒーローコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リンドウとショウカの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "ポケコヨコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ビイトとフレットの\n組み合わせによるシンクロコンボの\nSYNC値が一定確率でよりアップする",
+		"comment": "ムードメーカーコンボアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "同じブランドのバッジを\nデッキに3つ以上セットすると\nそのブランドのバッジ性能がアップする",
+		"comment": "ブランドバッジアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "好物を食べた時の\n能力ボーナス値がアップする",
+		"comment": "大好物アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Shibuya Payの\n最大所持可能金額がアップする",
+		"comment": "渋Pay：限度額アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジ換金時にボーナスがつき\n入手できるお金が少し増える",
+		"comment": "渋Pay：売却ボーナスアップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BADGE画面のバッジ情報で\n特殊な進化をするバッジに\n条件が表示されるようになる",
+		"comment": "進化の秘密",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_SKL_Info_0027>",
+		"comment": "同ボタンバッジ装備＋１\nPF\n同じボタン操作のバッジを\n装備できる人数が1増える",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "神クラスのバッジを\n装備できる数が1増える",
+		"comment": "神クラスバッジ＋１",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダイブしていられる時間が\n少し延びる",
+		"comment": "ダイブ：制限時間延長",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クリア後のチャプターに\n青色のボスノイズシンボルが\n出現するようになる",
+		"comment": "ボスノイズシンボル開放",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エリアにピグノイズがいる時\nフィールドで画面左上に\nピグのアイコンが表示される",
+		"comment": "フィールド：ピグ情報表示",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "未クリアのピグノイズがいる\nチャプターがチャプターセレクトに\n表示される",
+		"comment": "チャプター：ピグ情報表示",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フードショップに\n特別なメニューが追加される",
+		"comment": "フードメニュー開放",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップに新商品が追加される",
+		"comment": "ショップアイテム開放",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サウンドサーフで上昇する\nSYNCの上昇値がアップする",
+		"comment": "サウンドサーフ効果アップ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "<PF_SKL_Info_0036>",
+		"comment": "ワンハンド・ヴォルト\nPF\nフィールドで\n一部の柵や塀などをAボタンで\n乗り越えることができるようになる",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "入手したお金バッジが自動的に\nShibuya Payに\n換金されるようになる",
+		"comment": "渋Pay：自動チャージ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャンスタイムの表示が変化し\nシンクロコンボ成功時により多く\nSYNCを増やせるようになる",
+		"comment": "チャンスタイム：ボーナスエリア",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "FASHION画面に\nおまかせ全身コーデ機能が\n追加される",
+		"comment": "おまかせ全身コーデ",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショップやBADGE画面で\nダブっているバッジを\n一括売却できるようになる",
+		"comment": "ダブりバッジ一括売却",
+		"annotation": ""
+	},
+	{
+		"name": "SKL_Info_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バッジの\nデッキの最大数が1増える",
+		"comment": "デッキ増加＋１",
+		"annotation": ""
+	}
+]
+}

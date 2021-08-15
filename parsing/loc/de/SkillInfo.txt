@@ -1,0 +1,250 @@
+{
+"columns":[
+	{
+		"name": "SKL_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Auf dem einfachen Schwierigkeitsgrad werden Kämpfe leichter, allerdings verdienst du auch weniger EP und erhältst nur bestimmte Arten von Pins."
+	},
+	{
+		"name": "SKL_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Macht Kämpfe schwerer, gewährt aber mehr EP und eine größere Auswahl an Pins."
+	},
+	{
+		"name": "SKL_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Macht Kämpfe noch schwerer, gewährt aber noch mehr EP und eine noch größere Auswahl an Pins."
+	},
+	{
+		"name": "SKL_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Ermöglicht dir, deine Ausrüstung nach einem verlorenen Kampf auszutauschen, bevor du weiterkämpfst."
+	},
+	{
+		"name": "SKL_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht deine Pin-Fundrate, wenn du deine Stufe herabsetzt."
+	},
+	{
+		"name": "SKL_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Verringert deine maximalen LP um einen kleineren Wert, wenn du deine Stufe herabsetzt."
+	},
+	{
+		"name": "SKL_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Macht eine LP-Anzeige über dem aktuell anvisierten Gegner sichtbar."
+	},
+	{
+		"name": "SKL_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Macht dich länger unverwundbar, wenn du im Kampf ausweichst."
+	},
+	{
+		"name": "SKL_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0009>"
+	},
+	{
+		"name": "SKL_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht die Anzahl von Noise-Symbolen, die dir in einem einzelnen Kampf für eine Kampfserie zur Verfügung stehen."
+	},
+	{
+		"name": "SKL_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt seltene Noise-Symbole häufiger erscheinen."
+	},
+	{
+		"name": "SKL_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Verlangsamt die Bewegungsgeschwindigkeit seltener Noise-Symbole."
+	},
+	{
+		"name": "SKL_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0013>"
+	},
+	{
+		"name": "SKL_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0014>"
+	},
+	{
+		"name": "SKL_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, der durch „Dreh auf!“-Kombos von Nagi und Minamimoto erhalten werden kann."
+	},
+	{
+		"name": "SKL_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Shoka und Nagi einbringen."
+	},
+	{
+		"name": "SKL_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Rindo und Fret einbringen."
+	},
+	{
+		"name": "SKL_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Neku und Beat einbringen."
+	},
+	{
+		"name": "SKL_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Neku und Rindo einbringen."
+	},
+	{
+		"name": "SKL_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Rindo und Shoka einbringen."
+	},
+	{
+		"name": "SKL_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht manchmal den Groove, den „Dreh auf!“-Kombos von Beat und Fret einbringen."
+	},
+	{
+		"name": "SKL_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht die Kraft von Pins einer bestimmten Marke, wenn du drei oder mehr ihrer Pins in einem einzigen Deck nutzt."
+	},
+	{
+		"name": "SKL_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht den Wertbonus<BR>durch den Verzehr eines<BR>deiner Lieblingsessen."
+	},
+	{
+		"name": "SKL_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht die Geldmenge, die du auf dein digitales Konto laden kannst."
+	},
+	{
+		"name": "SKL_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht den Erlös durch den Verkauf von Pins."
+	},
+	{
+		"name": "SKL_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeigt die Entwicklungsvoraussetzungen für bestimmte Pins an."
+	},
+	{
+		"name": "SKL_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0027>"
+	},
+	{
+		"name": "SKL_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt dich einen zusätzlichen<BR>Super-Pin ausrüsten."
+	},
+	{
+		"name": "SKL_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht die Zeitbegrenzung beim Einsatz von Nagis mentaler Invasion."
+	},
+	{
+		"name": "SKL_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt beim erneuten Spielen bereits abgeschlossener Tage blaue Endgegner-Noise-Symbole erscheinen."
+	},
+	{
+		"name": "SKL_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeigt in der oberen linken Ecke ein Grunzer-Symbol an, wenn ein Grunzer-Noise in der Nähe ist."
+	},
+	{
+		"name": "SKL_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeigt Tage mit unbesiegten Grunzer-Noise im Kapitelmenü an."
+	},
+	{
+		"name": "SKL_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Erweitert das Menü des Restaurants."
+	},
+	{
+		"name": "SKL_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Erweitert das Sortiment der Läden."
+	},
+	{
+		"name": "SKL_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht den Groove-Bonus von Beats Soundsurfer."
+	},
+	{
+		"name": "SKL_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SKL_Info_0036>"
+	},
+	{
+		"name": "SKL_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Wandelt Geld-Pins automatisch um und fügt sie zu deinem ShibuPay-Guthaben hinzu."
+	},
+	{
+		"name": "SKL_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Fügt der „Dreh auf!“-Anzeige einen Sweetspot hinzu, der bei einem Treffer einen höheren Groove-Bonus gewährt."
+	},
+	{
+		"name": "SKL_Info_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Lässt dich im Klamotten-Menü „Auto-Outfit“ auswählen."
+	},
+	{
+		"name": "SKL_Info_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Ermöglicht dir, in Läden oder über das Pin-Menü sämtliche doppelte Pins auf einmal zu verkaufen."
+	},
+	{
+		"name": "SKL_Info_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Erhöht die maximale Anzahl von Pin-Sets um eins."
+	}
+]
+}

@@ -1,0 +1,607 @@
+{
+"columns":[
+	{
+		"name": "PSY_Name_9999",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイキック",
+		"comment": "※ダミー",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Controll_Name_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "連打",
+		"comment": "操作タイプ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Controll_Name_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "チャージ",
+		"comment": "操作タイプ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Controll_Name_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホールド",
+		"comment": "操作タイプ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Controll_Name_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タップ",
+		"comment": "操作タイプ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "無",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "発火",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "氷結",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "電気",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "風力",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "液化",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "石化",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "時空",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "音波",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "暗黒",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "閃光",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "転移",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "爆破",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "引力",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Element_Name_014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "毒素",
+		"comment": "サイキック属性",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショックウェイヴ",
+		"comment": "チョップソード：ノックバック",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボルカニックアッパー",
+		"comment": "チョップソード：ノックアップ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ボルテックスセイバー",
+		"comment": "チョップソード：全方位",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハードパンチャー",
+		"comment": "ラッシュパンチ：ラピッド",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハードパンチャースラム",
+		"comment": "ラッシュパンチ：叩きつけ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スラストランス",
+		"comment": "突きスピアー：ビッグ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アサシンランス",
+		"comment": "突きスピアー：アサシン",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グレイブマーカー",
+		"comment": "タップバレット：下方向突き刺し",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "バレットショット",
+		"comment": "タップバレット：単発1WAY",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エナジーショット",
+		"comment": "タップバレット：複数WAY",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "スクラップショット",
+		"comment": "タップバレット：複数弾連続発射",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォーチューンカード",
+		"comment": "タップバレット：背中からホーミング弾",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ダーツボム",
+		"comment": "ヤリ爆弾：差し切って発動型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "タイムボム",
+		"comment": "爆弾設置：時限型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フォーメーションボム",
+		"comment": "爆弾設置：陣形同時出現型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ベロシティアタック",
+		"comment": "ダッシュ：短距離連続型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "パラノーマルレイン",
+		"comment": "広範囲ビリビリ系：複数縦落雷系",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライトニングアレスタ",
+		"comment": "広範囲ビリビリ系：範囲枝分かれレーザー",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "マッシヴアタック",
+		"comment": "ジャンピングキック：吹っ飛びキック",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アポーツストーン",
+		"comment": "ドロップ：隕石",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "アポーツビークル",
+		"comment": "ドロップ：ランダムアポーツ落下",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ピアシングピラー",
+		"comment": "打ち上げピラー：ピラー",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヘビーグレネード",
+		"comment": "ナパームボム：放物線ボム",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エンタングルメント",
+		"comment": "愛されワイヤー：「単発1WAY」と「変形WAY」を統合",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "エンタングルメントGHZ",
+		"comment": "愛されワイヤー：蛇のように伸びたりチェーンが飛んでいくタイプ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "パトロールショット",
+		"comment": "ブーメラン：弧型チャージサイズ",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ロックオンロケット",
+		"comment": "スナイパー：ロケット",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ショットガン",
+		"comment": "スナイパー：ショットガン",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ゴーストソード",
+		"comment": "魚群ミサイル：集中型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガーディアンソード",
+		"comment": "魚群ミサイル：ファンネル型",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "レーザーインフェルノ",
+		"comment": "レーザー：1WAY",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ディフュージョンビーム",
+		"comment": "レーザー：複数WAY",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "フレイムサークル",
+		"comment": "エレメント罠：サークル拡大型（炎）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ライトニングサークル",
+		"comment": "エレメント罠：サークル拡大型（雷）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ストームサークル",
+		"comment": "エレメント罠：サークル拡大型（砂塵）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "グラビティサークル",
+		"comment": "エレメント罠：サークル拡大型（重力）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トルネードランブル",
+		"comment": "吸引・吹き飛び罠：竜巻",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラックホール",
+		"comment": "吸引・吹き飛び罠：ブラックホール",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ブラストウェーブ",
+		"comment": "吸引・吹き飛び罠：吹き飛ばし",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サスティンアタック",
+		"comment": "タックル：ベロシティアタック",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ヒーリング",
+		"comment": "スピーカー：体力・状態異常などの回復系",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "デフレクター",
+		"comment": "スピーカー：シールド（一瞬無敵／吸収回復／カウンターダメージ系）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "メディテーション",
+		"comment": "スピーカー：攻撃力・シンクロ率アップなどのバフ系",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サイコキネシス",
+		"comment": "サイコキネシス：アポーツ\n（前作：サイコキネシス）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "テレキネシス",
+		"comment": "サイコキネシス：ノイズふりまわし",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "キャプチャー",
+		"comment": "金縛り：複数ノイズを糸で繋ぎ拘束（ダメージ）",
+		"annotation": ""
+	},
+	{
+		"name": "PSY_Name_047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハードパンチャーラッシュ",
+		"comment": "ラッシュパンチ：チャージタイプ",
+		"annotation": ""
+	}
+]
+}

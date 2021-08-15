@@ -1,0 +1,463 @@
+{
+"columns":[
+	{
+		"name": "MSC_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Wander Around Shibuya",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "INCONGRUOUS",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Your Ocean",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Insomnia",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Breaking Free",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Hustle and Bustle",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Shibuya Survivor",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Kill the Itch",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "unconscious",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Rockin' Rockin'",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Unpainted",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "DIVIDE",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "We're Losing You",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LAST CALL",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Storm",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0016",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "The Beginning of a Happy Life",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0017",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "CHASE",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0018",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "bird in the hand",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0019",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Beyond Oblivion",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0020",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "World Is Yours",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0021",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "take away",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0022",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "NEW GAME",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0023",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リトルシングス",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0024",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "hopeless",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0025",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "disturbance",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0026",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "death throes",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0027",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "a tranquil mind",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0028",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "act the fool",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0029",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ENCOUNTER",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0030",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "peaceful day",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0031",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Twister -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0032",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Revelation -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0033",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "March On -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0034",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Calling -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0035",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Hybrid -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0036",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オーパーツ -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0037",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Jump Over Yourself -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0038",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "サムデイ -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0039",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Make or Break -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0040",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "SCRAMBLE",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0041",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "リベレイション -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0042",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Transformation -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0043",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Three Minutes Clapping -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0044",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "The One Star -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0045",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "OWARI-HAJIMARI -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0046",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "オワリハジマリ -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0047",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Twister",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0048",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Someday -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0049",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ハイブリッド -NEO MIX-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0050",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "Rockin' Rockin' -Live ver-",
+		"comment": "曲名",
+		"annotation": ""
+	},
+	{
+		"name": "MSC_Name_0051",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "LITTLE THINGS",
+		"comment": "曲名",
+		"annotation": ""
+	}
+]
+}

@@ -1,0 +1,406 @@
+{
+"columns":[
+	{
+		"name": "PSY_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Psych"
+	},
+	{
+		"name": "PSY_Controll_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Schnell tippen"
+	},
+	{
+		"name": "PSY_Controll_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Aufladen"
+	},
+	{
+		"name": "PSY_Controll_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Halten"
+	},
+	{
+		"name": "PSY_Controll_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Tippen"
+	},
+	{
+		"name": "PSY_Element_Name_000",
+		"speaker": "",
+		"listener": "",
+		"content": "Nichts"
+	},
+	{
+		"name": "PSY_Element_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuer"
+	},
+	{
+		"name": "PSY_Element_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Eis"
+	},
+	{
+		"name": "PSY_Element_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektro"
+	},
+	{
+		"name": "PSY_Element_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Wind"
+	},
+	{
+		"name": "PSY_Element_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Wasser"
+	},
+	{
+		"name": "PSY_Element_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Stein"
+	},
+	{
+		"name": "PSY_Element_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeit"
+	},
+	{
+		"name": "PSY_Element_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Schall"
+	},
+	{
+		"name": "PSY_Element_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Finsternis"
+	},
+	{
+		"name": "PSY_Element_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Licht"
+	},
+	{
+		"name": "PSY_Element_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Kinetik"
+	},
+	{
+		"name": "PSY_Element_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Explosion"
+	},
+	{
+		"name": "PSY_Element_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwerkraft"
+	},
+	{
+		"name": "PSY_Element_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Gift"
+	},
+	{
+		"name": "PSY_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Schockwelle"
+	},
+	{
+		"name": "PSY_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Vulkanischer Kinnhaken"
+	},
+	{
+		"name": "PSY_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Säbelwirbel"
+	},
+	{
+		"name": "PSY_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwerer Schläger"
+	},
+	{
+		"name": "PSY_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Heftige Ramme"
+	},
+	{
+		"name": "PSY_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanzenstoß"
+	},
+	{
+		"name": "PSY_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Assassinenschlag"
+	},
+	{
+		"name": "PSY_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Grabstein"
+	},
+	{
+		"name": "PSY_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Powermunition"
+	},
+	{
+		"name": "PSY_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Energiemunition"
+	},
+	{
+		"name": "PSY_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Schrapnellmunition"
+	},
+	{
+		"name": "PSY_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Trickkarten"
+	},
+	{
+		"name": "PSY_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Dynamitpfeile"
+	},
+	{
+		"name": "PSY_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Zeitbombe"
+	},
+	{
+		"name": "PSY_Name_015",
+		"speaker": "",
+		"listener": "",
+		"content": "Minenfeld"
+	},
+	{
+		"name": "PSY_Name_016",
+		"speaker": "",
+		"listener": "",
+		"content": "Flinker Schlag"
+	},
+	{
+		"name": "PSY_Name_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Psycho-Sturm"
+	},
+	{
+		"name": "PSY_Name_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Strombrecher"
+	},
+	{
+		"name": "PSY_Name_019",
+		"speaker": "",
+		"listener": "",
+		"content": "Massiver Schlag"
+	},
+	{
+		"name": "PSY_Name_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Meteorschlag"
+	},
+	{
+		"name": "PSY_Name_021",
+		"speaker": "",
+		"listener": "",
+		"content": "Karambolage"
+	},
+	{
+		"name": "PSY_Name_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Durchbohrende Säule"
+	},
+	{
+		"name": "PSY_Name_023",
+		"speaker": "",
+		"listener": "",
+		"content": "Granatwerfer"
+	},
+	{
+		"name": "PSY_Name_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Stolperdraht"
+	},
+	{
+		"name": "PSY_Name_025",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektrodraht"
+	},
+	{
+		"name": "PSY_Name_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Patrouillenmunition"
+	},
+	{
+		"name": "PSY_Name_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Zielsuchende Raketen"
+	},
+	{
+		"name": "PSY_Name_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Psycho-Schrotflinte"
+	},
+	{
+		"name": "PSY_Name_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Spektralschwerter"
+	},
+	{
+		"name": "PSY_Name_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Schutzglefen"
+	},
+	{
+		"name": "PSY_Name_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Laser-Inferno"
+	},
+	{
+		"name": "PSY_Name_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Streustrahl"
+	},
+	{
+		"name": "PSY_Name_033",
+		"speaker": "",
+		"listener": "",
+		"content": "Feuersturm"
+	},
+	{
+		"name": "PSY_Name_034",
+		"speaker": "",
+		"listener": "",
+		"content": "Elektrosturm"
+	},
+	{
+		"name": "PSY_Name_035",
+		"speaker": "",
+		"listener": "",
+		"content": "Sandsturm"
+	},
+	{
+		"name": "PSY_Name_036",
+		"speaker": "",
+		"listener": "",
+		"content": "Gravitationssturm"
+	},
+	{
+		"name": "PSY_Name_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Wirbelsturm"
+	},
+	{
+		"name": "PSY_Name_038",
+		"speaker": "",
+		"listener": "",
+		"content": "Schwarzes Loch"
+	},
+	{
+		"name": "PSY_Name_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Orkanstärke"
+	},
+	{
+		"name": "PSY_Name_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Rutschramme"
+	},
+	{
+		"name": "PSY_Name_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Heilende Aura"
+	},
+	{
+		"name": "PSY_Name_042",
+		"speaker": "",
+		"listener": "",
+		"content": "Schutzfeld"
+	},
+	{
+		"name": "PSY_Name_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Inspirierende Aura"
+	},
+	{
+		"name": "PSY_Name_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Psychokinese"
+	},
+	{
+		"name": "PSY_Name_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Poltergeist"
+	},
+	{
+		"name": "PSY_Name_046",
+		"speaker": "",
+		"listener": "",
+		"content": "Schlingenfalle"
+	},
+	{
+		"name": "PSY_Name_047",
+		"speaker": "",
+		"listener": "",
+		"content": "Heftiger Angriff"
+	}
+]
+}

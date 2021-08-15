@@ -1,0 +1,148 @@
+{
+"columns":[
+	{
+		"name": "BRD_Name_0000",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ノーブランド",
+		"comment": "",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0001",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "トポトッポ",
+		"comment": "鼠",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0002",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジョリ・ベコ",
+		"comment": "牛",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0003",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ティガー・パンクス",
+		"comment": "虎",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0004",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "コニー×コニー",
+		"comment": "兎",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0005",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "RyuGu",
+		"comment": "龍",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0006",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガラガラ",
+		"comment": "蛇",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0007",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "イル・カヴァッロ・ディ・レ",
+		"comment": "馬",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0008",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "シェパード・ハウス",
+		"comment": "羊",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0009",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ジュピター・オブ・ザ・モンキー",
+		"comment": "猿",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0010",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "モノクロウ",
+		"comment": "鳥",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0011",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ナチュラル・パピィ",
+		"comment": "犬",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0012",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ホグ・ファング",
+		"comment": "猪",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0013",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "ガット・ネーロ",
+		"comment": "猫",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0014",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "クローキー・パニック",
+		"comment": "蛙",
+		"annotation": ""
+	},
+	{
+		"name": "BRD_Name_0015",
+		"listener": "",
+		"speaker": "",
+		"extra": "",
+		"content": "BLACK HONEY CHILI COOKIE",
+		"comment": "リアルコラボ。略称「B.H.C.C」",
+		"annotation": ""
+	}
+]
+}

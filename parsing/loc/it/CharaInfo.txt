@@ -1,0 +1,958 @@
+{
+"columns":[
+	{
+		"name": "CHR_Info_0001_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Wicked Twisters<BR>Un liceale che passa un sacco di tempo sui social network. Tende a essere schivo, anche con il suo amico Fret, ma con il suo amico online Swallow si lascia spesso andare. Pare che abbia il potere di tornare indietro nel tempo."
+	},
+	{
+		"name": "CHR_Info_0001_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Wicked Twisters/Mago del Replay<BR>Un liceale che passa un sacco di tempo sui social network. Tende a essere schivo, anche con il suo amico Fret, ma con il suo amico online Swallow si lascia spesso andare. Può tornare indietro nel tempo usando l'abilità Replay."
+	},
+	{
+		"name": "CHR_Info_0002_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone/Moderatrice del Gioco<BR>Una Demone testarda e sarcastica che tiene d'occhio i Giocatori. Cerca sempre di stuzzicare i Wicked Twisters e causare problemi nel Gioco."
+	},
+	{
+		"name": "CHR_Info_0002_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Wicked Twisters/Teletrasportatrice<BR>Ex Demone e attuale membro dei Wicked Twisters. È testarda e sarcastica, ma tiene molto ai suoi amici, anche se non è brava a dimostrarlo. Ha il potere del Teletrasporto, ovvero di attraversare portali nascosti."
+	},
+	{
+		"name": "CHR_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Wicked Twisters/Asso del Ricordo<BR>Un compagno di classe di Rindo, alla moda e abile nel comunicare ciò che sente. È molto estroverso, forse troppo, e spesso agisce senza pensare, ascoltando solo il proprio istinto. Con il suo potere è in grado di rinfrescare la memoria alle persone."
+	},
+	{
+		"name": "CHR_Info_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Wicked Twisters/Invaditrice<BR>Una studentessa universitaria fissata con il simulatore di appuntamenti Elegant Strategy, tanto da chiamare Minamimoto <MK_11>nobile Tomonami<MK_11> per la sua forte somiglianza con il suo personaggio preferito. È molto perspicace e può capire all'istante se una persona è una creatura della <MK_11>luce<MK_11> o <MK_11>dell'oscurità<MK_11>. Ha il potere dell'Invasione, ovvero di tuffarsi nelle menti altrui."
+	},
+	{
+		"name": "CHR_Info_0005_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Un uomo misterioso venuto in soccorso di Rindo e i suoi amici."
+	},
+	{
+		"name": "CHR_Info_0005_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Wicked Twisters/Skater sonico<BR>Soprannominato <MK_11>Beat<MK_11>, è un veterano del Gioco dei Demoni. Testardo e impulsivo, si arrabbia facilmente, ma sotto sotto sa essere amorevole come un fratello. Ha il potere del Viaggio sonico, ovvero di spostarsi per la città a velocità supersonica."
+	},
+	{
+		"name": "CHR_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Wicked Twisters<BR>Un Giocatore leggendario e amico di Beat che, tre anni fa, ha mutato il destino di Shibuya nel Gioco dei Demoni. È tornato a Shibuya dopo aver saputo che era in pericolo. Quasi nessuno è abile quanto lui a utilizzare gli psico."
+	},
+	{
+		"name": "CHR_Info_0007_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Aiutante dei Wicked Twisters?<BR>Un Giocatore eccentrico che non è affiliato a nessuna squadra. Determinato e grande conoscitore del Gioco dei Demoni, sfrutta i suoi calcoli precisi per aiutare i Wicked Twisters, seppure i suoi scopi siano un mistero."
+	},
+	{
+		"name": "CHR_Info_0007_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Un Giocatore eccentrico che non è affiliato a nessuna squadra. Determinato e grande conoscitore del Gioco dei Demoni, sfruttava i suoi calcoli precisi per aiutare i Wicked Twisters, che ha poi abbandonato affermando di doversi dedicare a un'equazione irrisolta."
+	},
+	{
+		"name": "CHR_Info_0010_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Game Master/Capo dei Demoni del PS di Shibuya<BR>La sua potenza è riconosciuta sia dai suoi colleghi, sia dai suoi superiori. All'apparenza un individuo gradevole, dimostra tutta la sua spietatezza quando si tratta del Gioco, essendo disposto a tutto per infiammarlo."
+	},
+	{
+		"name": "CHR_Info_0010_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Game Master/Leader dei Ruinbringers<BR>Dopo essersi trasferito a Shibuya tre anni fa, questo Demone di Shinjuku non solo ha gestito il Gioco, ma vi ha anche partecipato. Come parte del suo piano per distruggere Shibuya, ha scatenato la <MK_11>Morte improvvisa<MK_11>, mettendo i Giocatori contro i Demoni."
+	},
+	{
+		"name": "CHR_Info_0011_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone/Moderatore del Gioco<BR>Un sottoposto di Shiba che dovrebbe supervisionare il Gioco, ma che lo fa con scarso entusiasmo. Non sembra nemmeno andare molto d'accordo con i suoi colleghi."
+	},
+	{
+		"name": "CHR_Info_0011_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Angelo/Esecutore della cancellazione/Signore dei Rumori<BR>Colui che è responsabile di aver trascinato Rindo e gli altri nel PS. Ha rielaborato il Gioco dei Demoni nella speranza di distruggere Shibuya."
+	},
+	{
+		"name": "CHR_Info_0012_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Ruinbringers<BR>Una ragazza taciturna capace di eliminare un bersaglio in solitaria. Porta sempre con sé il suo pupazzo Mr. Miao. Sembra incapace di provare emozioni, ma in presenza di Rindo esprime un tacito interesse."
+	},
+	{
+		"name": "CHR_Info_0012_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Ruinbringers/Demone<BR>Membro del gruppo di Demoni guidato da Shiba, porta sempre con sé il suo pupazzo Mr. Miao, dentro al quale è imprigionata la sua anima. È grande amica di Coco, una Demone di Shibuya, sin da quando era nel PR."
+	},
+	{
+		"name": "CHR_Info_0013_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Ruinbringers<BR>Questo individuo nerboruto è un membro dei Ruinbringers, i campioni in carica del Gioco, e ama complicare la vita ai Wicked Twisters. Ha una passione sfrenata per Othello e ha sempre con sé delle pedine."
+	},
+	{
+		"name": "CHR_Info_0013_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Ruinbringers/Demone<BR>Uno dei Demoni alle dipendenze di Shiba. L'ha aiutato a tenere vivo il Gioco chiedendo che proseguisse a ogni vittoria settimanale. Vede il mondo in bianco e nero e detesta ciò che è ambiguo, come anche chi fa domande sulle mosse migliori di Othello."
+	},
+	{
+		"name": "CHR_Info_0014_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Il cosiddetto <MK_11>Demone di Shinjuku<MK_11><BR>Un Demone misterioso che si tiene in disparte a Shibuya. Non si immischia con i Giocatori e la sua espressione immutabile rende difficile capire le sue intenzioni. Nemmeno i suoi colleghi Demoni sanno cosa pensare di lui."
+	},
+	{
+		"name": "CHR_Info_0014_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vice dei Demoni di Shinjuku/Ex migliore amico di Shiba<BR>Nutrendo dei sospetti verso i mutamenti di Shiba, ha preso le distanze da lui e, in gran segreto, ha iniziato a indagare sulle cause del suo cambiamento. Dopo aver scoperto dell'influsso negativo di Kubo, accetta di provare a far ragionare Shiba. Sebbene in superficie possa sembrare freddo, nel profondo è una persona molto compassionevole."
+	},
+	{
+		"name": "CHR_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone/Indovino/Sviluppatore dell'SRD<BR>Esperto di dati e dell'occulto, si trova spesso a Col di Spagna, dove predice il futuro altrui. Preferisce comunicare attraverso messaggi di testo, non perché sia asociale, ma perché crede che così si possano limitare i malintesi."
+	},
+	{
+		"name": "CHR_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Supervisore del Gioco dei Demoni/Demone<BR>Mostra particolare devozione nei confronti di Shiba. Di solito ha un atteggiamento indifferente e composto, ma con il suo <MK_11>tesoro<MK_11> Shoka si mostra più gentile. Addirittura, all'insaputa di tutti, ha dato alla sua iguana il nome della sua cara amica."
+	},
+	{
+		"name": "CHR_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader della Deep Rivers Society/Patito di fiumi<BR>Sebbene la sua squadra sia a rischio di eliminazione, come singolo possiede abilità psichiche sorprendenti. Ha una passione straordinaria per i canali e i corsi d'acqua e nessuno è più esperto di lui della geografia di Shibuya. Maschera la sua timidezza fingendosi spavaldo, attirandosi l'inimicizia delle altre squadre."
+	},
+	{
+		"name": "CHR_Info_0018_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Variabeauties<BR>Dolce, ammaliante e stilosa, è un vero portento al Gioco dei Demoni. Molti sono i Giocatori che si sono lasciati incantare dalla sua indole amorevole e dalle sue dolci parole... solo per ritrovarsi senza punti e con la propria squadra sull'orlo della cancellazione."
+	},
+	{
+		"name": "CHR_Info_0018_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Variabeauties<BR>Dolce, ammaliante e stilosa, è un vero portento al Gioco dei Demoni. Seppur risentita delle regole ingiuste del Gioco, aveva più o meno accettato la sconfitta, ma dopo aver visto le potenzialità dei Wicked Twisters, decide di aiutarli a sconfiggere i Ruinbringers."
+	},
+	{
+		"name": "CHR_Info_0019_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Purehearts<BR>Ex influencer, è molto abile a ispirare gli altri con le sue parole, pertanto non stupisce che sia riuscito a formare una squadra molto affiatata. Spesso inserisce delle parole straniere nelle sue frasi."
+	},
+	{
+		"name": "CHR_Info_0019_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Leader dei Purehearts<BR>Un influencer disonesto che usava le parole di altri per influenzare la propria squadra e i suoi milioni di follower, tra cui Rindo. Attraverso i suoi imbrogli, voleva entrare nelle grazie dei Demoni, ma dopo aver perso contro i Wicked Twisters è stato ripudiato."
+	},
+	{
+		"name": "CHR_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Uomo misterioso/<MK_11>Purificatore<MK_11> di Shinjuku<BR>Aveva incaricato Kubo di distruggere Shinjuku, ma quando questi ha tentato di fare lo stesso con Shibuya, l'ha esorcizzato. Dopo un tour guidato della città, permette a Rindo di utilizzare il Replay un'ultima volta."
+	},
+	{
+		"name": "CHR_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Compositore di Shibuya<BR>Un'entità estrosa e sfuggente proveniente da un Piano Superiore. Tre anni fa, ha trasportato Neku a Shinjuku per scoprire di più sull'Esecutore. Sorveglia costantemente Shibuya, anche se la degna raramente della propria presenza."
+	},
+	{
+		"name": "CHR_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone adorabile/Principessa delle fate<BR>Tre anni fa, ha trascinato Neku nel PS per salvare la sua cara amica Tsugumi e impedire che Shinjuku venisse cancellata. Insieme a Neku ha esplorato le rovine di Shinjuku, ma è tornata a Shibuya prima di lui per vedere come se la passassero Tsugumi e il resto della città."
+	},
+	{
+		"name": "CHR_Info_0032_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone/Moderatore del Gioco<BR>Un Demone bizzarro che, in segreto, aiuta i novellini. Si dice che ogni giorno abbia un lecca-lecca di sapore diverso."
+	},
+	{
+		"name": "CHR_Info_0032_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone di Shibuya<BR>Uno dei pochi veterani rimasti da Shibuya, dopo l'insediamento dei Demoni di Shinjuku tre anni fa. Sapendo che i Demoni di Shinjuku intendono distruggere Shibuya, si allea con i Giocatori per salvarla. Nessuno capisce Uzuki meglio di lui."
+	},
+	{
+		"name": "CHR_Info_0033_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone/Moderatrice del Gioco<BR>Afferma di essere una Demone di Shibuya <MK_11>purosangue<MK_11>. Sebbene non veda di buon occhio il gruppo di Shinjuku, continua a rispettare la gerarchia dei Demoni con rigore e, soprattutto, ambizione. Era una Demone quando Beat ha giocato per la prima volta al Gioco e ora è il superiore di Kariya."
+	},
+	{
+		"name": "CHR_Info_0033_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Demone di Shibuya<BR>Quando scopre che i Demoni di Shinjuku intendono distruggere Shibuya, si allea con i Giocatori per salvarla. Nutre particolare risentimento verso Kubo, dopo quello che ha fatto a Kariya. Dopo il lavoro, ama uscire a mangiare ramen con il suo sottoposto."
+	},
+	{
+		"name": "CHR_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Fondatrice di Gatto Nero/Stilista<BR>Ex-Giocatrice del Gioco dei Demoni, creatrice di Mr. Miao e cara amica di Neku. Una volta tornata nel PR, con la sua migliore amica ha creato un brand di abbigliamento quando erano ancora a scuola. Oggi è uno dei nuovi astri nascenti della moda."
+	},
+	{
+		"name": "CHR_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Sorella minore di Beat/Liceale<BR>Ex-Giocatrice del Gioco dei Demoni. Dopo essere tornata nel PR, si è messa a cercare un nuovo sogno da inseguire, scoprendosi un'abile informatica. Quando hackera l'SRD sperando di poter contattare suo fratello, instaura un'improbabile amicizia con il creatore della rete, Kaie."
+	},
+	{
+		"name": "CHR_Info_0101_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiera della Taiseido"
+	},
+	{
+		"name": "CHR_Info_0101_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiera della Taiseido<BR>Una vera appassionata di libri che legge cinque romanzi a settimana. Ha smesso di chiudersi in casa e ha iniziato ad amare gli spazi aperti grazie a Fuya, che l'ha in parte contagiata con la sua passione per i corsi d'acqua. Ora, niente le dà più gioia del rilassarsi in campeggio con un buon libro."
+	},
+	{
+		"name": "CHR_Info_0102_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager del Bar Hachiko"
+	},
+	{
+		"name": "CHR_Info_0102_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager del Bar Hachiko<BR>Figlia maggiore del proprietario, Shintaro Minamino, nutre dei dubbi verso le politiche commerciali antiquate del padre e vorrebbe che imparasse dall'irriverenza verso le norme di Justice Burger. Soffre di sbalzi d'umore, ma una cosa che non muta mai è il suo odio verso i pomodori."
+	},
+	{
+		"name": "CHR_Info_0103_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Justice Burger"
+	},
+	{
+		"name": "CHR_Info_0103_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Justice Burger<BR>Una studentessa universitaria che vanta un grande talento con le parole. Infatti, molti slogan del negozio, diventati poi dei tormentoni, sono di sua invenzione. Fin da subito, ha provato un certo interesse per Fret e lo saluta sempre in modo caloroso."
+	},
+	{
+		"name": "CHR_Info_0104_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Consulente vendite di Joli bécot filiale 104"
+	},
+	{
+		"name": "CHR_Info_0104_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Consulente vendite di Joli bécot filiale 104<BR>Una celebre negoziante che si è accorta di risultare più carismatica sul lavoro. Sta avendo una crisi d'identità e, incerta di come comportarsi con i clienti, vorrebbe essere come la sua coetanea Renka, che sa essere coerente con se stessa anche quand'è di turno."
+	},
+	{
+		"name": "CHR_Info_0105_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Top o' Topo Shibuya"
+	},
+	{
+		"name": "CHR_Info_0105_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Top o' Topo Shibuya<BR>Una ragazza affidabile dallo stile molto femminile. Dopo il liceo, ha iniziato a lavorare per dare una mano a pagare gli studi dei suoi tre fratelli più piccoli. Di recente sembra preoccupata dalle stranezze di Yusei, il fratello più piccolo."
+	},
+	{
+		"name": "CHR_Info_0106_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Gatto Nero"
+	},
+	{
+		"name": "CHR_Info_0106_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Gatto Nero<BR>Un tempo aspirava a diventare modella, per poter seguire le orme della sua vecchia amica Honoka e farsi un nome. Tuttavia, spinta dalla passione e dall'umiltà della stilista di Gatto Nero, ha cambiato prospettive."
+	},
+	{
+		"name": "CHR_Info_0107_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Shepherd House 1º"
+	},
+	{
+		"name": "CHR_Info_0107_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Shepherd House 1º<BR>Una giovane donna che ha deciso di lavorare nel terziario per combattere la sua introversione. Alle medie è stata campionessa regionale di Tin Pin e, quando non lavora, è la giocatrice di punta del team di professionisti Tin Pin Slashers."
+	},
+	{
+		"name": "CHR_Info_0108_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso di HOG FANG"
+	},
+	{
+		"name": "CHR_Info_0108_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso di HOG FANG<BR>Dallo stile sobrio, è un talento dei combattimenti clandestini. È stato un amico a consigliargli di lavorare al negozio per migliorare le sue scarse capacità relazionali. Sta imparando a lasciarsi andare, grazie a un cliente di nome Fret che lo ha ispirato con la sua socievolezza."
+	},
+	{
+		"name": "CHR_Info_0110_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Vicedirettore di Donburi Town"
+	},
+	{
+		"name": "CHR_Info_0110_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Vicedirettore di Donburi Town<BR>Imprenditore nella filiale di una catena di ristoranti che, ironicamente, non ha interesse per il cibo. È amico del proprietario, Ken Doi, sin dal liceo e lo rispetta per aver avviato la sua catena alla ricerca dei sapori perfetti."
+	},
+	{
+		"name": "CHR_Info_0111_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Glutton 4 Gluten"
+	},
+	{
+		"name": "CHR_Info_0111_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Glutton 4 Gluten<BR>Si è lanciato nel mondo della ristorazione insieme all'ex-moglie, ispirato dal leggendario Ramen Don. Il loro progetto iniziale era cucinare ramen salutare, ma poi lui ha deciso che mangiare ramen dev'essere come concedersi un vizio e ha aumentato la quantità di noodle, brodo e olio."
+	},
+	{
+		"name": "CHR_Info_0112_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Gestore di SBY BBQ"
+	},
+	{
+		"name": "CHR_Info_0112_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Gestore di SBY BBQ<BR>Un tipo che tiene spesso chiuso il ristorante per dedicarsi ai suoi tanti hobby. Serve ogni tipo di carne, ma l'unica che lui mangia è quella di pollo, per tenere al minimo la percentuale di massa grassa nel corpo. Nei giorni di sole, ama uscire in barca a pescare. Ispirato da Eiji Oji, ha aperto un suo blog di pesca: <MK_11>L'amo affamato<MK_11>."
+	},
+	{
+		"name": "CHR_Info_0113_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 1P"
+	},
+	{
+		"name": "CHR_Info_0113_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 1P<BR>Un aspirante art designer che, dopo essere stato a TOKYU HANDS per acquistare del materiale, ha finito per lavorarci. In quanto gamer, ama organizzare eventi videoludici nel negozio e guardare i Tin Pin Slashers in azione."
+	},
+	{
+		"name": "CHR_Info_0114_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 2P"
+	},
+	{
+		"name": "CHR_Info_0114_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 2P<BR>All'apparenza è semplice e riservata, ma è molto attenta alle mode e segue il blog di Eiji Oji ogni giorno. Odia essere al centro dell'attenzione e preferisce tenere segreto il suo ruolo di leader dei Tin Pin Slashers."
+	},
+	{
+		"name": "CHR_Info_0115_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 3P"
+	},
+	{
+		"name": "CHR_Info_0115_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di TOKYU HANDS 3P<BR>Un cinquantenne divorziato sincero e affabile. Si è separato dalla moglie l'anno scorso, stanco dei suoi sbalzi d'umore. Sebbene non pensasse a risposarsi, è rimasto affascinato dalla timidezza della sua collega, Sumire Chiba. Nonostante la differenza d'età, piano piano sta trovando il coraggio di confessarle ciò che prova."
+	},
+	{
+		"name": "CHR_Info_0116_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso di MONOCROW"
+	},
+	{
+		"name": "CHR_Info_0116_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Dipendente di MONOCROW<BR>Estremamente pacato, non potrebbe essere più diverso da Itsuki, suo amico sin dall'infanzia. È un minimalista e indossa soltanto MONOCROW. È anche sbadato e ama la sua tartaruga, Pastel, sopra ogni cosa."
+	},
+	{
+		"name": "CHR_Info_0117_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Cyco Records"
+	},
+	{
+		"name": "CHR_Info_0117_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Cyco Records<BR>Questo collezionista di dischi rari di musica indie è anche il bassista e il compositore dei The Dead Seatbelters, una band punk. È molto impacciato, ma lo è ancora di più quando nei paraggi c'è la cantante della band, Sayoko Morohoshi, di cui si è innamorato."
+	},
+	{
+		"name": "CHR_Info_0118_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Udagawa Parfait"
+	},
+	{
+		"name": "CHR_Info_0118_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Udagawa Parfait<BR>Lavoratrice part-time e presidente del Club del Semifreddo della sua università. Ha una passione incontenibile per i semifreddi, ma ultimamente è preoccupata da una dei membri del club, Sakura Koga, che sembra distratta anche di fronte a dolci golosissimi."
+	},
+	{
+		"name": "CHR_Info_0119_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di garagara"
+	},
+	{
+		"name": "CHR_Info_0119_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di garagara<BR>Un viaggiatore che ha fondato garagara per fare soldi con la sua passione, mentre attraversava l'Asia e collezionava merci locali uniche. Venire a contatto con diverse arti marziali in tutto il mondo lo ha reso un fan dei combattimenti clandestini; il suo lottatore preferito del momento è l'impetuoso Yudai Miki."
+	},
+	{
+		"name": "CHR_Info_0120_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di Vegelovers"
+	},
+	{
+		"name": "CHR_Info_0120_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di Vegelovers<BR>Un habitué di Vegelovers che, diventato amico del proprietario, ha lasciato il lavoro e si è fatto assumere come manager di filiale. Vive da cinque anni assieme a Sumire Chiba, la sua ragazza. La loro relazione è però a un punto morto, dato che un ceppo di lattuga avvizzita ha più forza di volontà di quanta ne abbia lui."
+	},
+	{
+		"name": "CHR_Info_0121_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di TOWER RECORDS SHIBUYA"
+	},
+	{
+		"name": "CHR_Info_0121_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di TOWER RECORDS SHIBUYA<BR>Una timida ragazza che è molto imbarazzata dalla propria balbuzie. È una fan sfegatata di Elegant Strategy, al pari di Nagi, ma non è stata in grado di dirle neanche una parola quando quest'ultima è stata al negozio. È la vocalist di una band punk e ha l'ansia che qualcuno la senta balbettare mentre canta."
+	},
+	{
+		"name": "CHR_Info_0122_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Addetta al tè di Bubblevision"
+	},
+	{
+		"name": "CHR_Info_0122_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Addetta al tè di Bubblevision<BR>Questa donna popolare e responsabile era la presidente del comitato studentesco al liceo. Anche la sua passione per il boba non è passata inosservata. Dà molti consigli sulle relazioni a Sakura Koga, sua migliore amica e anche lei ex membro del comitato studentesco."
+	},
+	{
+		"name": "CHR_Info_0123_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di NATURAL PUPPY"
+	},
+	{
+		"name": "CHR_Info_0123_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di NATURAL PUPPY<BR>Una donna pacata e mite che, grazie alla sua forza interiore, è sempre riuscita a sostenere il marito, anche nei suoi tentativi fallimentari in affari. Lavora anche come tutor in un doposcuola serale ed è preoccupata dallo strano comportamento di un suo studente, Yusei Iseya."
+	},
+	{
+		"name": "CHR_Info_0124_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Consulente vendite di Joli bécot filiale PARCO"
+	},
+	{
+		"name": "CHR_Info_0124_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Consulente vendite di Joli bécot filiale PARCO<BR>Grazie alla sua schiettezza e naturalezza si è procurata molti ammiratori che affollano la nuova filiale dove lavora. È amica di Eiji Oji e ogni tanto fa una comparsa sul suo blog. Secondo voci non confermate, pare che i due si frequentino in segreto."
+	},
+	{
+		"name": "CHR_Info_0125_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di SPICY CURRY DON"
+	},
+	{
+		"name": "CHR_Info_0125_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di SPICY CURRY DON<BR>Ex manager di un negozio di ramen, ha avuto l'idea di combinare il ramen con il suo amato curry mentre sperimentava con il brodo. Dopo numerosi tentativi, e grazie in parte all'aiuto di Yoko Norimoto, una cliente assidua, è riuscito a creare il curry piccante perfetto che i suoi clienti tanto apprezzano."
+	},
+	{
+		"name": "CHR_Info_0126_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Crowned Curry"
+	},
+	{
+		"name": "CHR_Info_0126_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Crowned Curry<BR>Originario dell'India, è arrivato in Giappone tre anni fa con il cugino chef e ha aperto un ristorante a Shibuya. È scattata subito un'amichevole rivalità con il proprietario di SPICY CURRY DON, Ken Doi, che gli ha insegnato il giapponese. Quando i loro giorni liberi coincidono, vanno a provare ristoranti di curry insieme."
+	},
+	{
+		"name": "CHR_Info_0127_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietaria di Suzu Slurpz"
+	},
+	{
+		"name": "CHR_Info_0127_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietaria di Suzu Slurpz<BR>Ex moglie del proprietario di Glutton 4 Gluten. Ammaliata dalla sua passione per il ramen, ha lavorato con lui per sviluppare una varietà di gusti. Purtroppo, però, lei voleva servire piatti sani e lui no, causando la separazione per differenze inconciliabili."
+	},
+	{
+		"name": "CHR_Info_0128m_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Cony×Cony"
+	},
+	{
+		"name": "CHR_Info_0128m_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Cony×Cony<BR>Il brillante stilista, nonché proprietario, di Cony×Cony. Conduce una trasmissione radio online, che, grazie alla sua voce seducente, gli ha garantito una folla di ammiratrici. Particolarmente seguita è la sessione mensile che fa con Eiru, caro amico e beniamino dei social media."
+	},
+	{
+		"name": "CHR_Info_0128f_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Cony×Cony"
+	},
+	{
+		"name": "CHR_Info_0128f_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Cony×Cony<BR>La gemella di Masaya. Mentre Masaya si concentra sul design e sulle finanze, lei si occupa di tutto il resto che serve a far funzionare il negozio alla perfezione. Segue sempre le dirette del gemello, ma glielo tiene nascosto."
+	},
+	{
+		"name": "CHR_Info_0129_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso di Tigre PUNKS"
+	},
+	{
+		"name": "CHR_Info_0129_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso di Tigre PUNKS<BR>Un punk in tutto e per tutto che parla sempre dell'essere punk ma che fatica a tradurlo in uno stile di vita. È il batterista della band indie The Dead Seatbelters. Si trova spesso in disaccordo con Naoto, il bassista, ma è proprio questa disarmonia che rende speciale il loro sound."
+	},
+	{
+		"name": "CHR_Info_0130_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Shepherd House 2º"
+	},
+	{
+		"name": "CHR_Info_0130_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Shepherd House 2º<BR>Esperta e impeccabile in qualunque compito. Nel suo tempo libero scrive racconti sull'occulto, quando non esce con Ryoji, il suo ragazzo. L'indole misteriosa di lui l'ha fatta infatuare, ma proprio il mistero ha causato dei problemi di fiducia ultimamente."
+	},
+	{
+		"name": "CHR_Info_0131_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiera di Moyai Mart"
+	},
+	{
+		"name": "CHR_Info_0131_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiera di Moyai Mart<BR>Una negoziante dalla memoria strabiliante. Ricorda esattamente quali articoli comprano i suoi clienti e ne ordina sempre la giusta quantità. È una grande fan dei The Dead Seatbelters e, dopo una lunga giornata, riesce a rilassarsi solo scatenandosi con le loro canzoni."
+	},
+	{
+		"name": "CHR_Info_0132_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di Jupiter of the Monkey"
+	},
+	{
+		"name": "CHR_Info_0132_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di Jupiter of the Monkey<BR>Lavora da molto tempo per il brand e vive in una prefettura confinante. Il lungo viaggio in treno non gli dispiace, dato che gli dà la perfetta occasione di ascoltarsi un bel po' di hip-hop. In molti lo ammirano per le sue rappate improvvisate sul lavoro. È stato entusiasta di rivedere Beat al negozio e dentro di sé lo ritiene il suo <MK_11>bro<MK_11>."
+	},
+	{
+		"name": "CHR_Info_0133_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di HOG FANG Annex"
+	},
+	{
+		"name": "CHR_Info_0133_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di HOG FANG Annex<BR>Ha due figli ed è un fan dello stile casual americano. All'università era membro del fan club del wrestling professionistico e ora, nel fine settimana, promuove combattimenti clandestini. Ha invitato il combattente Yudai Miki a lavorare a HOG FANG per migliorare le sue pessime capacità relazionali."
+	},
+	{
+		"name": "CHR_Info_0134_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Fondatore di fluffy ‘n’ sweet"
+	},
+	{
+		"name": "CHR_Info_0134_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Fondatore di fluffy ‘n’ sweet<BR>Dopo il liceo, ha seguito il suo sogno di gioventù di aprire un negozio di crêpe. Lavora giorno e notte per migliorare la sua arte per poter così allargare la sua attività. Fratello maggiore di Honoka, che fa la modella, è preoccupato che lei lavori in un mondo instabile come quello della moda."
+	},
+	{
+		"name": "CHR_Info_0135_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di RyuGu"
+	},
+	{
+		"name": "CHR_Info_0135_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di RyuGu<BR>Originaria del quartiere Gion di Kyoto, si è innamorata dello stilista tradizionale Kai Sato quando lui ha visitato il negozio di tessuti per kimono della famiglia di lei. Ora che sono sposati, gestiscono RyuGu insieme. Ogni settimana si ritrova a bere tè con Rieko Kawahara, anche lei di Kyoto, e si scambiano pettegolezzi in dialetto."
+	},
+	{
+		"name": "CHR_Info_0136_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Kyoto Sweets Shibuya East"
+	},
+	{
+		"name": "CHR_Info_0136_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cameriera di Kyoto Sweets Shibuya East<BR>Una donna onesta e gentile che proviene dal distretto Fushimi di Kyoto. Quando il figlio del proprietario le avanzò una proposta di matrimonio, l'idea di sposarsi per soldi la fece esitare. Tuttavia, dopo che la sua amica Kana Inada le ha fatto capire che anche i soldi donano la felicità, in parte, si è decisa ad accettare."
+	},
+	{
+		"name": "CHR_Info_0137_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Tuttofare del sottopassaggio dell'autostrada"
+	},
+	{
+		"name": "CHR_Info_0137_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Tuttofare del sottopassaggio dell'autostrada<BR>Un tuttofare nel vero senso della parola, che si tratti di un incarico banale o pericoloso. Mette il cuore nelle merci che vende. Nel tempo libero, si diletta a risolvere indovinelli. È sempre stato sensibile agli spiriti, sin da piccolo, e afferma di percepire qualcosa di strano in Rindo e i suoi amici, suoi clienti fissi."
+	},
+	{
+		"name": "CHR_Info_0138_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di somedrinks"
+	},
+	{
+		"name": "CHR_Info_0138_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager di somedrinks<BR>Proprietaria e commessa del negozio che aprì quando aveva circa vent'anni. Prima di aprire somedrinks, ha lavorato part-time al Bar Hachiko dove ha conosciuto Akari, la cui passione per il proprio bar ha risvegliato lo spirito imprenditoriale di Miko."
+	},
+	{
+		"name": "CHR_Info_0139_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Tacos y Más Tacos"
+	},
+	{
+		"name": "CHR_Info_0139_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Tacos y Más Tacos<BR>Convinto che la varietà sia il sale della vita, cambia spesso gli ingredienti dei suoi taco di manzo. Mantiene la sua abbronzatura andando a pesca nei giorni di vacanza, e a volte serve ai clienti quello che ha pescato. È un fan sfegatato del blog <MK_11>L'amo affamato<MK_11>."
+	},
+	{
+		"name": "CHR_Info_0140_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Cutie☆Pies"
+	},
+	{
+		"name": "CHR_Info_0140_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Cutie☆Pies<BR>Una classica ragazza di Harajuku che non solo impersona il concetto stesso di kawaii, ma che misura anche tutto in base a quanto è kawaii. In realtà, a scuola era una tipa invisibile e un po' triste, ma, un giorno, decise di reinventarsi ispirandosi allo stile di Akira Ishiwa."
+	},
+	{
+		"name": "CHR_Info_0141_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiere di Brave & Ambitious"
+	},
+	{
+		"name": "CHR_Info_0141_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Cassiere di Brave & Ambitious<BR>Un tipo che ama fare il provolone con le donne. D'estate fa surf, d'inverno va in snowboard, ma è negato per entrambi gli sport. L'impegno e la passione di Itsuki, di cui è amico, l'hanno ispirato a cambiare un po' la sua vita; la sua trasformazione è iniziata con l'acquisto di un giradischi."
+	},
+	{
+		"name": "CHR_Info_0142_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietaria di croaky panic"
+	},
+	{
+		"name": "CHR_Info_0142_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietaria di croaky panic<BR>Fiera di essere nata e cresciuta a Shibuya, si dimostra scostante verso chi non è della città, ma adora i suoi cari. Tiene molto a sua nipote e, quando le fa visita, la riempie sempre di <MK_11>ricordini<MK_11>. È molto legata a Taka, il tuttofare."
+	},
+	{
+		"name": "CHR_Info_0143_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Top o' Topo Harajuku"
+	},
+	{
+		"name": "CHR_Info_0143_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commessa di Top o' Topo Harajuku<BR>Sebbene non abbia una personalità appariscente, è nota e benvoluta per la sua gentilezza. Le piace cucinare e la sua zuppa di pollo al ginseng è imbattibile. Adora la collega Mai Iseya, che considera al pari di una sorella e per la quale nutre grande rispetto per l'impegno profuso al lavoro."
+	},
+	{
+		"name": "CHR_Info_0144_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Petit Bonheur"
+	},
+	{
+		"name": "CHR_Info_0144_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Negoziante di Petit Bonheur<BR>Responsabile e sempre allegra, gestisce quasi ogni aspetto del negozio. Ispirata da Eiji Oji, ha fondato una propria trasmissione radiofonica online chiamata <MK_11>ASMR♥Chiacchiere e nanna con Momoka<MK_11>, che le ha procurato una nutrita schiera di fan."
+	},
+	{
+		"name": "CHR_Info_0145_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Asia Fantasia"
+	},
+	{
+		"name": "CHR_Info_0145_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Proprietario di Asia Fantasia<BR>I prodotti che propone cambiano sempre in base alle mode, che è pronto a cavalcare appena nascono. L'unica cosa rimasta immutata dall'apertura del negozio è il suo amore per i takoyaki. Ciò che più gli piace è ritrovarsi con il suo amico Jo Makita e andare insieme a pesca sotto il cielo limpido."
+	},
+	{
+		"name": "CHR_Info_0146_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso de IL CAVALLO DEL RE"
+	},
+	{
+		"name": "CHR_Info_0146_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Commesso de IL CAVALLO DEL RE<BR>Un adulatore, capace di accattivarsi i clienti più facoltosi grazie alla sue parole cortesi e sofisticate. È ben consapevole, più di chiunque altro, degli sforzi profusi da suo nipote Eiru, poiché sono gli stessi compiuti da lui."
+	},
+	{
+		"name": "CHR_Info_0147_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Stilista di BLACK HONEY CHILI COOKIE"
+	},
+	{
+		"name": "CHR_Info_0147_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Stilista di BLACK HONEY CHILI COOKIE<BR>Dopo aver collaborato con i brand più svariati, questo stilista ha avviato una linea tutta sua e, supportato da un insaziabile interesse per la moda, è persino riuscito a influenzare le sfere della musica pop e dei videogiochi. La sua compagna d'avventure è Jessie, il suo manichino."
+	},
+	{
+		"name": "CHR_Info_0200",
+		"speaker": "",
+		"listener": "",
+		"content": "Aspirante Signore dei Rumori/Demone<BR>Stufo di essere un semplice Demone, ha soccorso un Rumore ormai del tutto affievolito in un angolo di Shibuya e l'ha rimesso in forze. Infatti, sogna di diventare un Signore dei Rumori, dopo aver visto Kubo ammaestrarne uno."
+	},
+	{
+		"name": "CHR_Info_0201",
+		"speaker": "",
+		"listener": "",
+		"content": "Aspirante super telecronista/Demone<BR>Scelto per diventare telecronista durante la formazione delle nuove reclute, ha il vizio di descrivere tutto quello che gli accade intorno e per questo risulta antipatico a molti colleghi. Grazie alla sua presenza alla Zuffa e baruffa, tuttavia, ora gode di una moltitudine di ammiratori."
+	},
+	{
+		"name": "CHR_Info_0150",
+		"speaker": "",
+		"listener": "",
+		"content": "Liceale/Amica di Yuika<BR>Una gamer che mira a conquistare i suoi appuntamenti simulati; in questo momento, il suo amante è un sergente dell'ultimo capitolo di Elegant Strategy. Per incentivare la sua motivazione a studiare, ha deciso di fantasticare su storie d'amore in appuntamenti simulati con personaggi storici."
+	},
+	{
+		"name": "CHR_Info_0151",
+		"speaker": "",
+		"listener": "",
+		"content": "Liceale/Amica di Marino<BR>È una patita di Elegant Strategy e il suo personaggio preferito è il nobile Tomonami. La incuriosisce una ragazza che vede sempre agli eventi di EleStra e la prossima volta che la incontra vorrebbe chiederle della sua collezione di gadget di Tomonami."
+	},
+	{
+		"name": "CHR_Info_0153",
+		"speaker": "",
+		"listener": "",
+		"content": "Influencer di spicco<BR>A tutti noto come <MK_11>Il Principe<MK_11>, ha spopolato diversi anni fa, facendo del suo tedio il suo punto di forza. Di recente, il suo fascino distaccato ha ammaliato i giovani di tutto il paese. È il doppiatore di un personaggio di Elegant Strategy, anche se questa collaborazione è tenuta ancora segreta."
+	},
+	{
+		"name": "CHR_Info_0154",
+		"speaker": "",
+		"listener": "",
+		"content": "Cascamorto<BR>Studente, aspirante ballerino e fidanzato della modella Honoka. È sempre al passo con le ultime mode di Shibuya e spera di dimostrarsi degno della sua ragazza. Il suo spirito provolone è scaturito da un incontro fortuito con Fret, in cui è rimasto colpito dal suo stile e modo di fare disinvolto."
+	},
+	{
+		"name": "CHR_Info_0155",
+		"speaker": "",
+		"listener": "",
+		"content": "Modella per riviste di moda<BR>Ha conquistato la fama quando ancora frequentava la scuola media, dopo essere stata scoperta nel negozio di crêpe del fratello ad Harajuku. Il suo sogno è ballare a fianco di Itsuki, con cui è amica sin dall'infanzia e attualmente innamorata, e sta pensando di andare all'estero a studiare danza."
+	},
+	{
+		"name": "CHR_Info_0156",
+		"speaker": "",
+		"listener": "",
+		"content": "Cantante/Speaker<BR>Un famoso speaker che possiede una voce acuta e assolutamente particolare. Ha smesso di sentirsi in imbarazzo per la sua intonazione da tenore dopo essere stato complimentato da Eiji Oji durante un'audizione. Spera un giorno di poter lavorare con Il Principe."
+	},
+	{
+		"name": "CHR_Info_0300",
+		"speaker": "",
+		"listener": "",
+		"content": "Manager della comunicazione di Eiru<BR>Dopo anni in una grande agenzia pubblicitaria, un lavoro che reputava per sé troppo impersonale, si è candidato per entrare nell'entourage del celebre cantante Eiru. Vuole trasformare Eiru in un fenomeno internazionale, ma tende a lasciarsi trasportare da eccessi di zelo."
+	},
+	{
+		"name": "CHR_Info_0301",
+		"speaker": "",
+		"listener": "",
+		"content": "Patita del curry sano<BR>Un'ex cultrice di ramen che ha iniziato a mangiare, non vedeva l'ora di andare al Ramen Don appena ha saputo che era diventato un ristorante di curry. Una volta, lei e Kohei Toyohashi della Deep Rivers Society hanno fatto a gara a chi mangiasse più giorni di fila al Don."
+	},
+	{
+		"name": "CHR_Info_0302",
+		"speaker": "",
+		"listener": "",
+		"content": "Presidente super onorario della Società storica di Shibuya<BR>Grazie alle sue lezioni online, molti cultori di Shibuya e appassionati di corsi d'acqua hanno iniziato a venerarlo. È anche recensore di piatti al curry, ma ha un pessimo senso dell'orientamento e trascorre più tempo a cercare i ristoranti che a mangiarci."
+	},
+	{
+		"name": "CHR_Info_0303",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro della Deep Rivers Society<BR>Un fanatico delle dighe. Qui nel PS, fantastica su un'ipotetica diga di Shibuya e sulla sua portata d'efflusso. Segretamente, vede l'amico incappucciato dei Wicked Twisters come il suo rivale matematico. Si sente maggiormente a suo agio in presenza di Ken Doi, che l'aveva lodato per la sua passione."
+	},
+	{
+		"name": "CHR_Info_0304",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro della Deep Rivers Society<BR>Al liceo è stato il re dei quiz a livello nazionale. Sfrutta questo suo talento durante le missioni e, quando è solo, si diverte a mettere alla prova gli altri Giocatori. Ha frequentato la stessa scuola di Nagi, contro la quale ha miseramente perso in un quiz sulla categoria dei manga."
+	},
+	{
+		"name": "CHR_Info_0305",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Purehearts<BR>Un imprenditore inconcludente che si è poi reinventato in qualità d'intellettuale nel PS. La sua parola preferita è <MK_11>brainstorming<MK_11>. Si immedesima nel negoziante di HOG FANG, avendo avuto altrettanti problemi a socializzare, e spesso compra più di quanto gli serva solo per motivarlo."
+	},
+	{
+		"name": "CHR_Info_0306",
+		"speaker": "",
+		"listener": "",
+		"content": "Membro dei Variabeauties<BR>Un individuo tutto sommato sincero, lodato da Kanon per la sua affidabilità. A causa dell'inconcludente frivolezza degli altri membri, è spesso costretto ad accollarsi la comunicazione con i rivali dei Variabeauties. In più di un'occasione ha dovuto mettere un freno agli incessanti messaggi di Sumio."
+	},
+	{
+		"name": "CHR_Info_0307",
+		"speaker": "",
+		"listener": "",
+		"content": "Ex compagna dei Variabeauties<BR>Sono passati sei mesi dalla scomparsa di una persona a lei cara e, sebbene non si sia ancora ripresa, il suo cuore sta lentamente ritrovando la pace. Ai tempi della scuola era una fan di Eiji Oji e di recente si è unita al suo fanclub, gli Angeli Bianchi, nella speranza di ravvivare l'entusiasmo che un tempo la travolgeva."
+	},
+	{
+		"name": "CHR_Info_0308",
+		"speaker": "",
+		"listener": "",
+		"content": "Artista<BR>Una studentessa universitaria che si veste d'arancione dalla testa ai piedi. La sua arte di strada è estremamente amata dai giovani ed è spesso menzionata nei notiziari per la sua satira sociale. È la nipote della proprietaria di croaky panic."
+	},
+	{
+		"name": "CHR_Info_0309",
+		"speaker": "",
+		"listener": "",
+		"content": "Idol in attività<BR>Idol schizzinosa e anima delle Peroxidolls. Nessuna idol del gruppo si inchina con grazia e precisione pari alla sua. La sua relazione con l'attore Kashiki aveva fatto notizia e lei aveva confermato con fierezza lo scoop; ma non ci sarebbe mai riuscita senza il prezioso supporto dell'amica Tsukihime."
+	},
+	{
+		"name": "CHR_Info_0310",
+		"speaker": "",
+		"listener": "",
+		"content": "Collezionista/Studente universitario<BR>Essendo cresciuto in un negozio di libri usati, è ben consapevole fin dalla tenera età del valore di un oggetto raro. È un fan sfegatato delle sue idol e ha una collezione di loro gadget in edizione limitata. Anzi, è ormai convinto di provare maggior interesse per i gadget che per le star in carne e ossa..."
+	},
+	{
+		"name": "CHR_Info_0311",
+		"speaker": "",
+		"listener": "",
+		"content": "Studente universitario del Kansai<BR>Un giovanotto che si gode la vita di Shibuya dopo un lungo periodo lontano da Tokyo. Mentre faceva acquisti per la sorella da Gatto Nero, si è preso una cotta per la negoziante. Ora si reca al negozio tutti i giorni, con la scusa di dover comprare cose di Mr. Miao solo per poter parlare con lei."
+	},
+	{
+		"name": "CHR_Info_0312",
+		"speaker": "",
+		"listener": "",
+		"content": "Attore/Cantante/Cantautore famoso<BR>Ex chitarrista e vocalist di una indie band, è stato scoperto dalla sua agenzia mentre si esibiva dal vivo in un piccolo locale; ha lavorato a molte produzioni come attore, anche grazie alla sua bellezza. Ha conosciuto di recente la sua attuale ragazza sul set di una serie televisiva e sembrano avere intenzioni serie."
+	},
+	{
+		"name": "CHR_Info_0313",
+		"speaker": "",
+		"listener": "",
+		"content": "Creatore di video sull'occulto/Vero nome: Mach Tsuji<BR>Un tipo bizzarro che si sente a proprio agio nelle case infestate. Conosciuto su internet e dalla fama in continua crescita per la sua serie di video sulle leggende metropolitane e i suoi incontri con il paranormale. Una delle sue ultime indagini l'ha portato a indagare su un <MK_11>fiore maniacale<MK_11> che fa venire i brividi persino a lui."
+	},
+	{
+		"name": "CHR_Info_0314",
+		"speaker": "",
+		"listener": "",
+		"content": "Studente della scuola serale della stazione<BR>Fratello minore di Mai Iseya e di altri due fratelli. È un genio della matematica incompreso. Infatti, ha identificato il blaterare di Minamimoto con cifre appartenenti a un enorme numero primo. Gli interessano soltanto i numeri e detesta le altre materie."
+	},
+	{
+		"name": "CHR_Info_0315",
+		"speaker": "",
+		"listener": "",
+		"content": "Vittima sventurata dell'Inversione di Shinjuku<BR>Dopo aver vagato per le rovine di Shinjuku nel PS, si è ritrovata catapultata a Shibuya di pari passo con l'andirivieni di un certo qualcuno. Pur non potendo lasciare la sua nuova casa, non vuole essere liberata e sparire. Rattristata da quest'anima in pena, Shoka le ha affidato un ruolo in una recente missione."
+	},
+	{
+		"name": "CHR_Info_0316",
+		"speaker": "",
+		"listener": "",
+		"content": "Magazziniere di Jupiter of the Monkey<BR>In quanto fan del brand, ha trovato lavoro part-time da Jupiter of the Monkey. Sperava in una posizione da commesso, ma si è dovuto accontentare di un incarico come magazziniere. Ogni giorno, si esercita a rappare nel parco vicino, sperando di poter superare il suo capo Keiichi."
+	},
+	{
+		"name": "CHR_Info_0317",
+		"speaker": "",
+		"listener": "",
+		"content": "Il primo tuttofare di Shibuya<BR>Un uomo che ha fatto fortuna spacciando spazzatura per oggetti di lusso di marchi rinomati, tra cui uno skate che ora appartiene a Beat. Quando vuole, però, sa essere generoso: dopo che croaky panic è andato in bancarotta, l'ha ricomprato per aiutare la sua cara amica Tamao."
+	},
+	{
+		"name": "CHR_Info_0318",
+		"speaker": "",
+		"listener": "",
+		"content": "Apprendista tuttofare<BR>Un senza dimora salvato da Ryoji. Avendo mollato gli studi, non poteva tornare a casa. Il suo, però, è uno spirito libero e pur vedendo nel tuttofare un mentore, il sodalizio non è durato a lungo, proprio come la sua carriera da apprendista."
+	},
+	{
+		"name": "CHR_Info_0319",
+		"speaker": "",
+		"listener": "",
+		"content": "Apprendista tuttofare<BR>Ha iniziato a lavorare come tuttofare perché sia a casa, sia a scuola si sentiva a disagio. Se all'inizio gli sembrava il lavoro della sua vita, la natura altamente confidenziale del lavoro ha acuito nuovamente quella sensazione di estraneità. Di recente sta pensando di riconciliarsi con la famiglia e riprendere gli studi."
+	}
+]
+}

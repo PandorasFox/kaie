@@ -1,0 +1,250 @@
+{
+"columns":[
+	{
+		"name": "SKL_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Mode FACILE"
+	},
+	{
+		"name": "SKL_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Mode DIFFICILE"
+	},
+	{
+		"name": "SKL_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Mode ULTIME"
+	},
+	{
+		"name": "SKL_Name_0004",
+		"speaker": "",
+		"listener": "",
+		"content": "Changement de stratégie"
+	},
+	{
+		"name": "SKL_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Abondance de badges"
+	},
+	{
+		"name": "SKL_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Garde-PV"
+	},
+	{
+		"name": "SKL_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Visio-PV"
+	},
+	{
+		"name": "SKL_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Esquivateur 2.0"
+	},
+	{
+		"name": "SKL_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Rétablisseur"
+	},
+	{
+		"name": "SKL_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Extenseur de chaîne"
+	},
+	{
+		"name": "SKL_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Échos rares"
+	},
+	{
+		"name": "SKL_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Rares, mais lents"
+	},
+	{
+		"name": "SKL_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Aimant à échos"
+	},
+	{
+		"name": "SKL_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Méga aimant à Échos"
+	},
+	{
+		"name": "SKL_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Superstars d'EleStra"
+	},
+	{
+		"name": "SKL_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Girl power"
+	},
+	{
+		"name": "SKL_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Entre potes"
+	},
+	{
+		"name": "SKL_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Légendes léthales"
+	},
+	{
+		"name": "SKL_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Leaders charismatiques"
+	},
+	{
+		"name": "SKL_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Fanas de FanGO"
+	},
+	{
+		"name": "SKL_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Bad boys"
+	},
+	{
+		"name": "SKL_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Hégémonie de marque"
+	},
+	{
+		"name": "SKL_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Péché mignon"
+	},
+	{
+		"name": "SKL_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Expansion ShibuPay"
+	},
+	{
+		"name": "SKL_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Bonus ShibuPay"
+	},
+	{
+		"name": "SKL_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Théorie de l'évolution"
+	},
+	{
+		"name": "SKL_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Multi-badge"
+	},
+	{
+		"name": "SKL_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Déverrouillage de super-badge"
+	},
+	{
+		"name": "SKL_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Plongeon prolongé"
+	},
+	{
+		"name": "SKL_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Écho-blues"
+	},
+	{
+		"name": "SKL_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Radar porcin"
+	},
+	{
+		"name": "SKL_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Cochonpédie"
+	},
+	{
+		"name": "SKL_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Bon appétit"
+	},
+	{
+		"name": "SKL_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Serial shoppeurs"
+	},
+	{
+		"name": "SKL_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Méga skateur sonique"
+	},
+	{
+		"name": "SKL_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Saut d'obstacles"
+	},
+	{
+		"name": "SKL_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Renflouement ShibuPay"
+	},
+	{
+		"name": "SKL_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Bonus de Beatdrops"
+	},
+	{
+		"name": "SKL_Name_0039",
+		"speaker": "",
+		"listener": "",
+		"content": "Style auto"
+	},
+	{
+		"name": "SKL_Name_0040",
+		"speaker": "",
+		"listener": "",
+		"content": "Vente en lots"
+	},
+	{
+		"name": "SKL_Name_0041",
+		"speaker": "",
+		"listener": "",
+		"content": "Deck bonus"
+	}
+]
+}

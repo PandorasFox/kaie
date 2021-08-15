@@ -1,0 +1,466 @@
+{
+"columns":[
+	{
+		"name": "PSY_Info_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Appunti sugli psico"
+	},
+	{
+		"name": "Chance_Name_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "N/D"
+	},
+	{
+		"name": "Chance_Info_0000",
+		"speaker": "",
+		"listener": "",
+		"content": "N/D"
+	},
+	{
+		"name": "Chance_Name_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Mossa finale"
+	},
+	{
+		"name": "Chance_Info_0001",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver messo a segno la combo finale."
+	},
+	{
+		"name": "Chance_Name_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Decollo"
+	},
+	{
+		"name": "Chance_Info_0002",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico scagliato in aria raggiunge il punto più alto."
+	},
+	{
+		"name": "Chance_Name_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Esplosione a grappolo"
+	},
+	{
+		"name": "Chance_Info_0003",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando le spille bomba esplodono."
+	},
+	{
+		"name": "Chance_Name_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Big Bang"
+	},
+	{
+		"name": "Chance_Info_0005",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo appena il nemico rimane intrappolato nell'esplosione."
+	},
+	{
+		"name": "Chance_Name_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Respinta"
+	},
+	{
+		"name": "Chance_Info_0006",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico scagliato via colpisce una barriera."
+	},
+	{
+		"name": "Chance_Name_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Slancio infuocato"
+	},
+	{
+		"name": "Chance_Info_0007",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico sta bruciando."
+	},
+	{
+		"name": "Chance_Name_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Onda elettrica"
+	},
+	{
+		"name": "Chance_Info_0008",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico ha preso la scossa."
+	},
+	{
+		"name": "Chance_Name_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Tossicità"
+	},
+	{
+		"name": "Chance_Info_0009",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico è avvelenato."
+	},
+	{
+		"name": "Chance_Name_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo poderoso"
+	},
+	{
+		"name": "Chance_Info_0010",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico tocca terra."
+	},
+	{
+		"name": "Chance_Name_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Giogo di ghiaccio"
+	},
+	{
+		"name": "Chance_Info_0011",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico è ricoperto di ghiaccio."
+	},
+	{
+		"name": "Chance_Name_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Giogo di metallo"
+	},
+	{
+		"name": "Chance_Info_0012",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico è incatenato."
+	},
+	{
+		"name": "Chance_Name_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Giogo di roccia"
+	},
+	{
+		"name": "Chance_Info_0013",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico è seppellito dalle pietre."
+	},
+	{
+		"name": "Chance_Name_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Cronodominio"
+	},
+	{
+		"name": "Chance_Info_0014",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico è bloccato nel tempo."
+	},
+	{
+		"name": "Chance_Name_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo stordente"
+	},
+	{
+		"name": "Chance_Info_0015",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo che il nemico è stato immobilizzato da un capogiro."
+	},
+	{
+		"name": "Chance_Name_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Vincoli stretti"
+	},
+	{
+		"name": "Chance_Info_0016",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo che il nemico è stato legato."
+	},
+	{
+		"name": "Chance_Name_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Flusso gravitazionale"
+	},
+	{
+		"name": "Chance_Info_0017",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo quando il nemico in aria raggiunge il punto più alto o cade a terra."
+	},
+	{
+		"name": "Chance_Name_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Tripletta"
+	},
+	{
+		"name": "Chance_Info_0018",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito tre volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Quintina"
+	},
+	{
+		"name": "Chance_Info_0019",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito cinque volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Settina"
+	},
+	{
+		"name": "Chance_Info_0020",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito sette volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Ottina"
+	},
+	{
+		"name": "Chance_Info_0021",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito otto volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Decina"
+	},
+	{
+		"name": "Chance_Info_0022",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito dieci volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Serie dodicesimale"
+	},
+	{
+		"name": "Chance_Info_0023",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito dodici volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Serie quindicesimale"
+	},
+	{
+		"name": "Chance_Info_0024",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito quindici volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Serie diciottesimale"
+	},
+	{
+		"name": "Chance_Info_0025",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito diciotto volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Serie ventesimale"
+	},
+	{
+		"name": "Chance_Info_0026",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito venti volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Tiro a bruciapelo"
+	},
+	{
+		"name": "Chance_Info_0027",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo che il nemico è colpito a distanza ravvicinata con un attacco carico al massimo."
+	},
+	{
+		"name": "Chance_Name_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianto di martello"
+	},
+	{
+		"name": "Chance_Info_0028",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo che il nemico è colpito da un oggetto grosso."
+	},
+	{
+		"name": "Chance_Name_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuoco amico"
+	},
+	{
+		"name": "Chance_Info_0029",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver lanciato un nemico contro un suo compagno."
+	},
+	{
+		"name": "Chance_Name_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Psico-ripresa"
+	},
+	{
+		"name": "Chance_Info_0030",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver usato questo psico."
+	},
+	{
+		"name": "Chance_Name_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Pazienza"
+	},
+	{
+		"name": "Chance_Info_0031",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo poco dopo aver usato questo psico."
+	},
+	{
+		"name": "Chance_Name_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Guardia alta"
+	},
+	{
+		"name": "Chance_Info_0032",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver parato un attacco nemico."
+	},
+	{
+		"name": "Chance_Name_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo sgradevole"
+	},
+	{
+		"name": "Chance_Info_0033",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver inflitto un effetto di stato a un nemico."
+	},
+	{
+		"name": "Chance_Name_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Doppietta"
+	},
+	{
+		"name": "Chance_Info_0034",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci di nuovo dopo aver colpito due volte un singolo bersaglio."
+	},
+	{
+		"name": "Chance_Name_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Esplosione a grappolo"
+	},
+	{
+		"name": "Chance_Info_0035",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci ancora dopo aver attaccato 8 spille bomba a un singolo bersaglio e aver guardato mentre esplodono."
+	},
+	{
+		"name": "Chance_Name_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Esplosione a grappolo"
+	},
+	{
+		"name": "Chance_Info_0036",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci ancora dopo aver attaccato 12 spille bomba a un singolo bersaglio e aver guardato mentre esplodono."
+	},
+	{
+		"name": "Chance_Name_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Esplosione a grappolo"
+	},
+	{
+		"name": "Chance_Info_0037",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci ancora dopo aver attaccato 15 spille bomba a un singolo bersaglio e aver guardato mentre esplodono."
+	},
+	{
+		"name": "Chance_Name_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Esplosione a grappolo"
+	},
+	{
+		"name": "Chance_Info_0038",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpisci ancora dopo aver attaccato 20 spille bomba a un singolo bersaglio e aver guardato mentre esplodono."
+	}
+]
+}

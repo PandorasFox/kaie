@@ -1,0 +1,406 @@
+{
+"columns":[
+	{
+		"name": "PSY_Name_9999",
+		"speaker": "",
+		"listener": "",
+		"content": "Psico"
+	},
+	{
+		"name": "PSY_Controll_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Tocco rapido"
+	},
+	{
+		"name": "PSY_Controll_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Carica"
+	},
+	{
+		"name": "PSY_Controll_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Mantieni"
+	},
+	{
+		"name": "PSY_Controll_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Tocca"
+	},
+	{
+		"name": "PSY_Element_Name_000",
+		"speaker": "",
+		"listener": "",
+		"content": "Nessuna"
+	},
+	{
+		"name": "PSY_Element_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Fuoco"
+	},
+	{
+		"name": "PSY_Element_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Ghiaccio"
+	},
+	{
+		"name": "PSY_Element_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Elettricità"
+	},
+	{
+		"name": "PSY_Element_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Vento"
+	},
+	{
+		"name": "PSY_Element_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Acqua"
+	},
+	{
+		"name": "PSY_Element_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Pietra"
+	},
+	{
+		"name": "PSY_Element_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempo"
+	},
+	{
+		"name": "PSY_Element_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Suono"
+	},
+	{
+		"name": "PSY_Element_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Oscurità"
+	},
+	{
+		"name": "PSY_Element_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Luce"
+	},
+	{
+		"name": "PSY_Element_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Cinesi"
+	},
+	{
+		"name": "PSY_Element_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Scoppio"
+	},
+	{
+		"name": "PSY_Element_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Gravità"
+	},
+	{
+		"name": "PSY_Element_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Veleno"
+	},
+	{
+		"name": "PSY_Name_001",
+		"speaker": "",
+		"listener": "",
+		"content": "Onda d'urto"
+	},
+	{
+		"name": "PSY_Name_002",
+		"speaker": "",
+		"listener": "",
+		"content": "Montante vulcanico"
+	},
+	{
+		"name": "PSY_Name_003",
+		"speaker": "",
+		"listener": "",
+		"content": "Sciabola vorticante"
+	},
+	{
+		"name": "PSY_Name_004",
+		"speaker": "",
+		"listener": "",
+		"content": "Picchiaduro"
+	},
+	{
+		"name": "PSY_Name_005",
+		"speaker": "",
+		"listener": "",
+		"content": "Schianto pesante"
+	},
+	{
+		"name": "PSY_Name_006",
+		"speaker": "",
+		"listener": "",
+		"content": "Affondo trafiggente"
+	},
+	{
+		"name": "PSY_Name_007",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo assassino"
+	},
+	{
+		"name": "PSY_Name_008",
+		"speaker": "",
+		"listener": "",
+		"content": "Lapide"
+	},
+	{
+		"name": "PSY_Name_009",
+		"speaker": "",
+		"listener": "",
+		"content": "Proiettili di forza"
+	},
+	{
+		"name": "PSY_Name_010",
+		"speaker": "",
+		"listener": "",
+		"content": "Proiettili di energia"
+	},
+	{
+		"name": "PSY_Name_011",
+		"speaker": "",
+		"listener": "",
+		"content": "Proiettili di schegge"
+	},
+	{
+		"name": "PSY_Name_012",
+		"speaker": "",
+		"listener": "",
+		"content": "Carte ingannevoli"
+	},
+	{
+		"name": "PSY_Name_013",
+		"speaker": "",
+		"listener": "",
+		"content": "Dardi di dinamite"
+	},
+	{
+		"name": "PSY_Name_014",
+		"speaker": "",
+		"listener": "",
+		"content": "Bomba a tempo"
+	},
+	{
+		"name": "PSY_Name_015",
+		"speaker": "",
+		"listener": "",
+		"content": "Campo minato"
+	},
+	{
+		"name": "PSY_Name_016",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo agile"
+	},
+	{
+		"name": "PSY_Name_017",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempesta psichica"
+	},
+	{
+		"name": "PSY_Name_018",
+		"speaker": "",
+		"listener": "",
+		"content": "Interruttore"
+	},
+	{
+		"name": "PSY_Name_019",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo intenso"
+	},
+	{
+		"name": "PSY_Name_020",
+		"speaker": "",
+		"listener": "",
+		"content": "Colpo meteoritico"
+	},
+	{
+		"name": "PSY_Name_021",
+		"speaker": "",
+		"listener": "",
+		"content": "Assalto veicolare"
+	},
+	{
+		"name": "PSY_Name_022",
+		"speaker": "",
+		"listener": "",
+		"content": "Colonna perforante"
+	},
+	{
+		"name": "PSY_Name_023",
+		"speaker": "",
+		"listener": "",
+		"content": "Lanciagranate"
+	},
+	{
+		"name": "PSY_Name_024",
+		"speaker": "",
+		"listener": "",
+		"content": "Filo intrappolante"
+	},
+	{
+		"name": "PSY_Name_025",
+		"speaker": "",
+		"listener": "",
+		"content": "Filo elettrico"
+	},
+	{
+		"name": "PSY_Name_026",
+		"speaker": "",
+		"listener": "",
+		"content": "Proiettili di perlustrazione"
+	},
+	{
+		"name": "PSY_Name_027",
+		"speaker": "",
+		"listener": "",
+		"content": "Missili autoguidati"
+	},
+	{
+		"name": "PSY_Name_028",
+		"speaker": "",
+		"listener": "",
+		"content": "Doppietta psichica"
+	},
+	{
+		"name": "PSY_Name_029",
+		"speaker": "",
+		"listener": "",
+		"content": "Spade spettrali"
+	},
+	{
+		"name": "PSY_Name_030",
+		"speaker": "",
+		"listener": "",
+		"content": "Falcioni del guardiano"
+	},
+	{
+		"name": "PSY_Name_031",
+		"speaker": "",
+		"listener": "",
+		"content": "Inferno di laser"
+	},
+	{
+		"name": "PSY_Name_032",
+		"speaker": "",
+		"listener": "",
+		"content": "Raggio a diffusione"
+	},
+	{
+		"name": "PSY_Name_033",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempesta di fuoco"
+	},
+	{
+		"name": "PSY_Name_034",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempesta di volt"
+	},
+	{
+		"name": "PSY_Name_035",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempesta di sabbia"
+	},
+	{
+		"name": "PSY_Name_036",
+		"speaker": "",
+		"listener": "",
+		"content": "Tempesta gravitazionale"
+	},
+	{
+		"name": "PSY_Name_037",
+		"speaker": "",
+		"listener": "",
+		"content": "Tromba d'aria"
+	},
+	{
+		"name": "PSY_Name_038",
+		"speaker": "",
+		"listener": "",
+		"content": "Buco nero"
+	},
+	{
+		"name": "PSY_Name_039",
+		"speaker": "",
+		"listener": "",
+		"content": "Burrasca"
+	},
+	{
+		"name": "PSY_Name_040",
+		"speaker": "",
+		"listener": "",
+		"content": "Contrasto in slittamento"
+	},
+	{
+		"name": "PSY_Name_041",
+		"speaker": "",
+		"listener": "",
+		"content": "Aura guaritrice"
+	},
+	{
+		"name": "PSY_Name_042",
+		"speaker": "",
+		"listener": "",
+		"content": "Campo protettivo"
+	},
+	{
+		"name": "PSY_Name_043",
+		"speaker": "",
+		"listener": "",
+		"content": "Aura ispiratrice"
+	},
+	{
+		"name": "PSY_Name_044",
+		"speaker": "",
+		"listener": "",
+		"content": "Psicocinesi"
+	},
+	{
+		"name": "PSY_Name_045",
+		"speaker": "",
+		"listener": "",
+		"content": "Poltergeist"
+	},
+	{
+		"name": "PSY_Name_046",
+		"speaker": "",
+		"listener": "",
+		"content": "Tranello"
+	},
+	{
+		"name": "PSY_Name_047",
+		"speaker": "",
+		"listener": "",
+		"content": "Assalto furioso"
+	}
+]
+}
