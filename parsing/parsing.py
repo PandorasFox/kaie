@@ -75,10 +75,8 @@ def parse_blobs(blobs):
 # TODO: parse pin evolution data (already in badge.txt lol)
 # -- probably add a method to Pin for remapping evolution ID to Pin obj after
 # -- pin map is constructed (e.g. replace int ID with Pin obj)
-# TODO: parse shop data, match up to localization data
-# TODO: parse the trade data (after shop data)
-# TODO: enum of brands using brand locale
 # TODO: general pig noise stuff (need to add to repo)
+# TODO: create Item class, make food/badge/thread inherit from it
 blobs = read_blobs()
 pins, noise, localization = parse_blobs(blobs)
 
