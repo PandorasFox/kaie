@@ -3,12 +3,13 @@ import code, json
 from ntwewy_types import Pin, Noise, Locale, LocaleError
 
 LOCALES = ['de', 'en', 'es', 'fr', 'it', 'ja']
-DATA_FILES = ['BadgeLvUpType', 'Badge', 'PsychicInfo', 'Psychic', 'EnemyData', 'GroupData', 'EnemyReport', 'AllItems']
+DATA_FILES = ['BadgeLvUpType', 'Badge',  'Psychic', 'EnemyData', 'GroupData', 'EnemyReport', 'AllItems']
 LOC_ITEMS = ['BDG', 'EQU', 'ETC', 'FOD']
 LOC_ITEM_STEMS = ['ItemInfo', 'ItemName']
 LOC_ITEM_NAMES = [f'{stem}{leaf}' for leaf in LOC_ITEMS for stem in LOC_ITEM_STEMS]
-LOC_NOISE = [f'{stem}{leaf}' for stem in ['Ability', 'Enemy'] for leaf in ['Name', 'Info']]
-LOC_FILES = [f for lst in [LOC_ITEM_NAMES, LOC_NOISE, ['SReportText']] for f in lst]
+LOC_NOISE = [f'{stem}{leaf}' for stem in ['Ability', 'Chara', 'Enemy', 'Psychic'] for leaf in ['Name', 'Info']]
+LOC_IRREGULAR = ['BrandName', 'LocationName', 'MusicName', 'SReportText']
+LOC_FILES = [f for lst in [LOC_ITEM_NAMES, LOC_NOISE, LOC_IRREGULAR] for f in lst]
 
 def read_blobs():
     blobs = {'loc': {}, 'data': {}}
@@ -71,6 +72,13 @@ def parse_blobs(blobs):
     return pins, noise, localization
 
 # TODO: map enemies => the encounters they show up in via internal ID => days
+# TODO: parse pin evolution data (already in badge.txt lol)
+# -- probably add a method to Pin for remapping evolution ID to Pin obj after
+# -- pin map is constructed (e.g. replace int ID with Pin obj)
+# TODO: parse shop data, match up to localization data
+# TODO: parse the trade data (after shop data)
+# TODO: enum of brands using brand locale
+# TODO: general pig noise stuff (need to add to repo)
 blobs = read_blobs()
 pins, noise, localization = parse_blobs(blobs)
 
