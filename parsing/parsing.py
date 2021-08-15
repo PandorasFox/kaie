@@ -77,7 +77,7 @@ pins, noise, localization = parse_blobs(blobs)
 if __name__ == '__main__':
     print('Parsing files complete.\n'\
             'Available vars: blobs, pins, noise, localization\n'\
-            'Recommended: pins[num] and noise[num]\n'\
+            'Get started: poke at pins["num"][1] and noise["num"][1] :)\n'\
             'Dropping to an interpreter...')
     try:
         import readline, rlcompleter
