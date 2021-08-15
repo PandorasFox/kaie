@@ -1,0 +1,726 @@
+{
+"mTarget":[
+	{
+		"mId": 0,
+		"mName": "DEP_Name_001",
+		"mIcon": 0,
+		"mShop": [
+			3,
+			4,
+			5
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 5,
+		"mSaveIndex": 0
+	},
+	{
+		"mId": 1,
+		"mName": "DEP_Name_002",
+		"mIcon": 0,
+		"mShop": [
+			11,
+			12,
+			13
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 7,
+		"mSaveIndex": 1
+	},
+	{
+		"mId": 2,
+		"mName": "DEP_Name_003",
+		"mIcon": 0,
+		"mShop": [
+			21,
+			22
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 3,
+		"mSaveIndex": 2
+	},
+	{
+		"mId": 3,
+		"mName": "DEP_Name_004",
+		"mIcon": 2,
+		"mShop": [
+			33,
+			34
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 10,
+		"mSaveIndex": 3
+	},
+	{
+		"mId": 4,
+		"mName": "DEP_Name_005",
+		"mIcon": 2,
+		"mShop": [
+			41,
+			42,
+			43
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 9,
+		"mSaveIndex": 4
+	},
+	{
+		"mId": 101,
+		"mName": "SHO_Name_001",
+		"mIcon": 0,
+		"mShop": [
+			0
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 0,
+		"mSaveIndex": 5
+	},
+	{
+		"mId": 102,
+		"mName": "SHO_Name_002",
+		"mIcon": 1,
+		"mShop": [
+			1
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 0,
+		"mSaveIndex": 6
+	},
+	{
+		"mId": 103,
+		"mName": "SHO_Name_003",
+		"mIcon": 1,
+		"mShop": [
+			2
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 0,
+		"mSaveIndex": 7
+	},
+	{
+		"mId": 104,
+		"mName": "SHO_Name_004",
+		"mIcon": 0,
+		"mShop": [
+			3
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 8
+	},
+	{
+		"mId": 105,
+		"mName": "SHO_Name_005",
+		"mIcon": 0,
+		"mShop": [
+			4
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 9
+	},
+	{
+		"mId": 106,
+		"mName": "SHO_Name_006",
+		"mIcon": 0,
+		"mShop": [
+			5
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 10
+	},
+	{
+		"mId": 107,
+		"mName": "SHO_Name_007",
+		"mIcon": 0,
+		"mShop": [
+			6
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 2,
+		"mSaveIndex": 11
+	},
+	{
+		"mId": 108,
+		"mName": "SHO_Name_008",
+		"mIcon": 0,
+		"mShop": [
+			7
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 2,
+		"mSaveIndex": 12
+	},
+	{
+		"mId": 110,
+		"mName": "SHO_Name_010",
+		"mIcon": 1,
+		"mShop": [
+			8
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 2,
+		"mSaveIndex": 13
+	},
+	{
+		"mId": 111,
+		"mName": "SHO_Name_011",
+		"mIcon": 1,
+		"mShop": [
+			9
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 2,
+		"mSaveIndex": 14
+	},
+	{
+		"mId": 112,
+		"mName": "SHO_Name_012",
+		"mIcon": 1,
+		"mShop": [
+			10
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 7,
+		"mSaveIndex": 15
+	},
+	{
+		"mId": 113,
+		"mName": "SHO_Name_013",
+		"mIcon": 0,
+		"mShop": [
+			11
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 16
+	},
+	{
+		"mId": 114,
+		"mName": "SHO_Name_014",
+		"mIcon": 0,
+		"mShop": [
+			12
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 17
+	},
+	{
+		"mId": 115,
+		"mName": "SHO_Name_015",
+		"mIcon": 0,
+		"mShop": [
+			13
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 18
+	},
+	{
+		"mId": 116,
+		"mName": "SHO_Name_016",
+		"mIcon": 0,
+		"mShop": [
+			14
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 16,
+		"mSaveIndex": 19
+	},
+	{
+		"mId": 117,
+		"mName": "SHO_Name_017",
+		"mIcon": 0,
+		"mShop": [
+			15
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 16,
+		"mSaveIndex": 20
+	},
+	{
+		"mId": 118,
+		"mName": "SHO_Name_018",
+		"mIcon": 1,
+		"mShop": [
+			16
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 16,
+		"mSaveIndex": 21
+	},
+	{
+		"mId": 119,
+		"mName": "SHO_Name_019",
+		"mIcon": 0,
+		"mShop": [
+			17
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 6,
+		"mSaveIndex": 22
+	},
+	{
+		"mId": 120,
+		"mName": "SHO_Name_020",
+		"mIcon": 1,
+		"mShop": [
+			18
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 6,
+		"mSaveIndex": 23
+	},
+	{
+		"mId": 121,
+		"mName": "SHO_Name_021",
+		"mIcon": 0,
+		"mShop": [
+			19
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 6,
+		"mSaveIndex": 24
+	},
+	{
+		"mId": 122,
+		"mName": "SHO_Name_022",
+		"mIcon": 1,
+		"mShop": [
+			20
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 3,
+		"mSaveIndex": 25
+	},
+	{
+		"mId": 123,
+		"mName": "SHO_Name_023",
+		"mIcon": 0,
+		"mShop": [
+			21
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 26
+	},
+	{
+		"mId": 124,
+		"mName": "SHO_Name_024",
+		"mIcon": 0,
+		"mShop": [
+			22
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 27
+	},
+	{
+		"mId": 125,
+		"mName": "SHO_Name_025",
+		"mIcon": 1,
+		"mShop": [
+			23
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 0,
+		"mReleaseScenario": 13,
+		"mMap": 4,
+		"mSaveIndex": 28
+	},
+	{
+		"mId": 126,
+		"mName": "SHO_Name_026",
+		"mIcon": 1,
+		"mShop": [
+			24
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 4,
+		"mSaveIndex": 29
+	},
+	{
+		"mId": 127,
+		"mName": "SHO_Name_027",
+		"mIcon": 1,
+		"mShop": [
+			25
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 4,
+		"mSaveIndex": 30
+	},
+	{
+		"mId": 128,
+		"mName": "SHO_Name_028",
+		"mIcon": 0,
+		"mShop": [
+			26
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 1,
+		"mSaveIndex": 31
+	},
+	{
+		"mId": 129,
+		"mName": "SHO_Name_029",
+		"mIcon": 0,
+		"mShop": [
+			27
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 1,
+		"mSaveIndex": 32
+	},
+	{
+		"mId": 130,
+		"mName": "SHO_Name_030",
+		"mIcon": 0,
+		"mShop": [
+			28
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 13,
+		"mSaveIndex": 33
+	},
+	{
+		"mId": 131,
+		"mName": "SHO_Name_031",
+		"mIcon": 1,
+		"mShop": [
+			29
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 13,
+		"mSaveIndex": 34
+	},
+	{
+		"mId": 132,
+		"mName": "SHO_Name_032",
+		"mIcon": 0,
+		"mShop": [
+			30
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 14,
+		"mSaveIndex": 35
+	},
+	{
+		"mId": 133,
+		"mName": "SHO_Name_033",
+		"mIcon": 0,
+		"mShop": [
+			31
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 14,
+		"mSaveIndex": 36
+	},
+	{
+		"mId": 134,
+		"mName": "SHO_Name_034",
+		"mIcon": 1,
+		"mShop": [
+			32
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 15,
+		"mSaveIndex": 37
+	},
+	{
+		"mId": 135,
+		"mName": "SHO_Name_035",
+		"mIcon": 0,
+		"mShop": [
+			33
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 38
+	},
+	{
+		"mId": 136,
+		"mName": "SHO_Name_036",
+		"mIcon": 1,
+		"mShop": [
+			34
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 39
+	},
+	{
+		"mId": 137,
+		"mName": "SHO_Name_037",
+		"mIcon": 0,
+		"mShop": [
+			35
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 11,
+		"mSaveIndex": 40
+	},
+	{
+		"mId": 138,
+		"mName": "SHO_Name_038",
+		"mIcon": 1,
+		"mShop": [
+			36
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 12,
+		"mSaveIndex": 41
+	},
+	{
+		"mId": 139,
+		"mName": "SHO_Name_039",
+		"mIcon": 1,
+		"mShop": [
+			37
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 12,
+		"mSaveIndex": 42
+	},
+	{
+		"mId": 140,
+		"mName": "SHO_Name_040",
+		"mIcon": 1,
+		"mShop": [
+			38
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 8,
+		"mSaveIndex": 43
+	},
+	{
+		"mId": 141,
+		"mName": "SHO_Name_041",
+		"mIcon": 0,
+		"mShop": [
+			39
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 8,
+		"mSaveIndex": 44
+	},
+	{
+		"mId": 142,
+		"mName": "SHO_Name_042",
+		"mIcon": 0,
+		"mShop": [
+			40
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 8,
+		"mSaveIndex": 45
+	},
+	{
+		"mId": 143,
+		"mName": "SHO_Name_043",
+		"mIcon": 0,
+		"mShop": [
+			41
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 46
+	},
+	{
+		"mId": 144,
+		"mName": "SHO_Name_044",
+		"mIcon": 0,
+		"mShop": [
+			42
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 47
+	},
+	{
+		"mId": 145,
+		"mName": "SHO_Name_045",
+		"mIcon": 1,
+		"mShop": [
+			43
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": -1,
+		"mSaveIndex": 48
+	},
+	{
+		"mId": 146,
+		"mName": "SHO_Name_046",
+		"mIcon": 0,
+		"mShop": [
+			44
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 9,
+		"mSaveIndex": 49
+	},
+	{
+		"mId": 147,
+		"mName": "SHO_Name_047",
+		"mIcon": 0,
+		"mShop": [
+			45
+		],
+		"mBgm": -1,
+		"mBgPath": "",
+		"mDefaultStatus": 2,
+		"mReleaseScenario": -1,
+		"mMap": 14,
+		"mSaveIndex": 50
+	}
+]
+}
