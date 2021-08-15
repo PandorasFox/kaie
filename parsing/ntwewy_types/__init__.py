@@ -1,6 +1,6 @@
-from . import pin, noise, loc, brand, shop
+from . import items, noise, loc, brand, shop
 
-Pin = pin.Pin
+Pin = items.Pin
 Noise = noise.Noise
 Locale, LocaleError = loc.Locale, loc.LocaleError
 Shop = shop.Shop

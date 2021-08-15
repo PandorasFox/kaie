@@ -1,5 +1,8 @@
 from enum import Enum
 
+# TODO: write a func that takes Brand, localization_data, lang
+# and returns appropriate brand name str
+
 class Brand(Enum):
     UNBRANDED    = 0
     TOP_O_TOPO   = 1
