@@ -3,11 +3,12 @@ from .brand import Brand
 
 class Item:
     class ItemType(Enum):
-        UNDEF = -1
-        BOOK  = 0
-        PIN   = 1
-        THREAD = 2
-        FOOD = 3
+        UNDEF = 0
+        BOOK  = 1
+        CD = 2
+        PIN   = 3
+        THREAD = 4
+        FOOD = 5
 
     def __init__(self, blob, t):
         self._item_type = t
@@ -45,7 +46,7 @@ class Item:
         return self._number
 
     def __lt__(self, other):
-        return (self._item_type.value * self._number) < (other._number * other._item_type.value)
+        return (self._item_type.value * 400 + self._number) < (other._number + other._item_type.value * 400)
 
     @property
     def sprite(self):
@@ -58,8 +59,43 @@ class Item:
     @property
     def info(self):
         return self._info
-    
 
+class Book(Item):
+    def __init__(self, data_blob, tips_blobs, secrets_blobs, loc_blob, loc_table):
+        super().__init__(data_blob, self.ItemType.BOOK)
+        super()._bind_locale(loc_blob, loc_table)
+        self.__data_blob = data_blob
+        self._text = {lang: [loc_table[lang][key]
+            for key in self.__data_blob['mText']] for lang in loc_table }
+        try:
+            sr_keys = secrets_blobs[self.__data_blob['mSecretId']]['mText']
+        except KeyError:
+            self._secret_report = False
+        else:
+            self._secret_report = {}
+            for lang, lang_strs in loc_table.items():
+                self._secret_report[lang] = [lang_strs[key] for key in sr_keys]
+
+        try:
+            tip = {k:v for k, v in tips_blobs[self.__data_blob['mTips']].items()
+                    if k != 'mPageFileName' and type(v) == str}
+        except KeyError:
+            self._tips = False
+        else:
+            self._tips = {}
+            self._tip_sprite = tips_blobs[self.__data_blob['mTips']]['mPageFileName']
+            for lang, lang_strs in loc_table.items():
+                # TODO: find loc file and add to parse?
+                continue
+                self._tips[lang] = {name: lang_strs[key] if key != '' else ''
+                        for name, key in tip.items()}
+
+class CD(Item):
+    def __init__(self, data_blob, loc_blob, loc_table):
+        super().__init__(data_blob, self.ItemType.BOOK)
+        super()._bind_locale(loc_blob, loc_table)
+        self.__data_blob = data_blob
+        self._bgm = self.__data_blob['mBgm']
 
 class Pin(Item):
     def __init__(self, data_blob, loc_blob, loc_table):
@@ -170,9 +206,3 @@ class Food(Item):
     @property
     def calories(self):
         return self._calories
-
-class Book(Item):
-    def __init__(self, data_blob, loc_blob, loc_table):
-        super().__init__(data_blob, self.ItemType.BOOK)
-        super()._bind_locale(loc_blob, loc_table)
-

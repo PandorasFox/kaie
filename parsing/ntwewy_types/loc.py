@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 class LocaleError(Exception):
     """Exception raised when trying to access a field not available in locale"""
     def __init__(self, lang, needed_lang):
@@ -9,8 +11,13 @@ class LocaleError(Exception):
 
 class Locale:
     def __init__(self, blob, lang):
-        self.__blob = blob
         self._lang = lang
+        if blob is None:
+            # make the 'no string' locale entry
+            blob = defaultdict(str)
+            blob['name'] = 'Com_Blank'
+
+        self.__blob = blob
         self._name = blob['name']
         self._content = blob['content']
         # presumably only used in voice cutscene blobs

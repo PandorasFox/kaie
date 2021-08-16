@@ -2,6 +2,7 @@ from . import items, noise, loc, brand, shop
 
 Item = items.Item
 Book = items.Book
+CD = items.CD
 Pin = items.Pin
 Thread = items.Thread
 Food = items.Food
