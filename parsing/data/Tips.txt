@@ -1,0 +1,324 @@
+{
+"mTarget":[
+	{
+		"mId": 0,
+		"mTextTitle": "TIPS_01_Title",
+		"mTextUp": "TIPS_01_U",
+		"mTextDown": "TIPS_01_D",
+		"mPageFileName": "TIPS_img_00",
+		"mSaveIndex": 0
+	},
+	{
+		"mId": 1,
+		"mTextTitle": "TIPS_02_Title",
+		"mTextUp": "TIPS_02_U",
+		"mTextDown": "TIPS_02_D",
+		"mPageFileName": "TIPS_img_01",
+		"mSaveIndex": 1
+	},
+	{
+		"mId": 2,
+		"mTextTitle": "TIPS_03_Title",
+		"mTextUp": "TIPS_03_U",
+		"mTextDown": "TIPS_03_D",
+		"mPageFileName": "TIPS_img_02",
+		"mSaveIndex": 2
+	},
+	{
+		"mId": 3,
+		"mTextTitle": "TIPS_04_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_04_D",
+		"mPageFileName": "TIPS_img_03",
+		"mSaveIndex": 3
+	},
+	{
+		"mId": 4,
+		"mTextTitle": "TIPS_05_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_05_D",
+		"mPageFileName": "TIPS_img_04",
+		"mSaveIndex": 4
+	},
+	{
+		"mId": 5,
+		"mTextTitle": "TIPS_06_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_06_D",
+		"mPageFileName": "TIPS_img_05",
+		"mSaveIndex": 5
+	},
+	{
+		"mId": 6,
+		"mTextTitle": "TIPS_07_Title",
+		"mTextUp": "TIPS_07_U",
+		"mTextDown": "TIPS_07_D",
+		"mPageFileName": "TIPS_img_06",
+		"mSaveIndex": 6
+	},
+	{
+		"mId": 7,
+		"mTextTitle": "TIPS_08_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_08_D",
+		"mPageFileName": "TIPS_img_07",
+		"mSaveIndex": 7
+	},
+	{
+		"mId": 8,
+		"mTextTitle": "TIPS_09_Title",
+		"mTextUp": "TIPS_09_U",
+		"mTextDown": "TIPS_09_D",
+		"mPageFileName": "TIPS_img_08",
+		"mSaveIndex": 8
+	},
+	{
+		"mId": 9,
+		"mTextTitle": "TIPS_10_Title",
+		"mTextUp": "TIPS_10_U",
+		"mTextDown": "TIPS_10_D",
+		"mPageFileName": "TIPS_img_09",
+		"mSaveIndex": 9
+	},
+	{
+		"mId": 10,
+		"mTextTitle": "TIPS_11_Title",
+		"mTextUp": "TIPS_11_U",
+		"mTextDown": "TIPS_11_D",
+		"mPageFileName": "TIPS_img_10",
+		"mSaveIndex": 10
+	},
+	{
+		"mId": 11,
+		"mTextTitle": "TIPS_12_Title",
+		"mTextUp": "TIPS_12_U",
+		"mTextDown": "TIPS_12_D",
+		"mPageFileName": "TIPS_img_11",
+		"mSaveIndex": 11
+	},
+	{
+		"mId": 12,
+		"mTextTitle": "TIPS_13_Title",
+		"mTextUp": "TIPS_13_U",
+		"mTextDown": "TIPS_13_D",
+		"mPageFileName": "TIPS_img_12",
+		"mSaveIndex": 12
+	},
+	{
+		"mId": 13,
+		"mTextTitle": "TIPS_14_Title",
+		"mTextUp": "TIPS_14_U",
+		"mTextDown": "TIPS_14_D",
+		"mPageFileName": "TIPS_img_13",
+		"mSaveIndex": 13
+	},
+	{
+		"mId": 14,
+		"mTextTitle": "TIPS_15_Title",
+		"mTextUp": "TIPS_15_U",
+		"mTextDown": "TIPS_15_D",
+		"mPageFileName": "TIPS_img_14",
+		"mSaveIndex": 14
+	},
+	{
+		"mId": 15,
+		"mTextTitle": "TIPS_16_Title",
+		"mTextUp": "TIPS_16_U",
+		"mTextDown": "TIPS_16_D",
+		"mPageFileName": "TIPS_img_15",
+		"mSaveIndex": 15
+	},
+	{
+		"mId": 16,
+		"mTextTitle": "TIPS_17_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_17_D",
+		"mPageFileName": "TIPS_img_16",
+		"mSaveIndex": 16
+	},
+	{
+		"mId": 17,
+		"mTextTitle": "TIPS_18_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_18_D",
+		"mPageFileName": "TIPS_img_17",
+		"mSaveIndex": 17
+	},
+	{
+		"mId": 18,
+		"mTextTitle": "TIPS_19_Title",
+		"mTextUp": "TIPS_19_U",
+		"mTextDown": "TIPS_19_D",
+		"mPageFileName": "TIPS_img_18",
+		"mSaveIndex": 18
+	},
+	{
+		"mId": 19,
+		"mTextTitle": "TIPS_20_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_20_D",
+		"mPageFileName": "TIPS_img_19",
+		"mSaveIndex": 19
+	},
+	{
+		"mId": 20,
+		"mTextTitle": "TIPS_21_Title",
+		"mTextUp": "TIPS_21_U",
+		"mTextDown": "TIPS_21_D",
+		"mPageFileName": "TIPS_img_20",
+		"mSaveIndex": 20
+	},
+	{
+		"mId": 21,
+		"mTextTitle": "TIPS_22_Title",
+		"mTextUp": "TIPS_22_U",
+		"mTextDown": "TIPS_22_D",
+		"mPageFileName": "TIPS_img_21",
+		"mSaveIndex": 21
+	},
+	{
+		"mId": 22,
+		"mTextTitle": "TIPS_23_Title",
+		"mTextUp": "TIPS_23_U",
+		"mTextDown": "TIPS_23_D",
+		"mPageFileName": "TIPS_img_22",
+		"mSaveIndex": 22
+	},
+	{
+		"mId": 23,
+		"mTextTitle": "TIPS_24_Title",
+		"mTextUp": "TIPS_24_U",
+		"mTextDown": "TIPS_24_D",
+		"mPageFileName": "TIPS_img_23",
+		"mSaveIndex": 23
+	},
+	{
+		"mId": 24,
+		"mTextTitle": "TIPS_25_Title",
+		"mTextUp": "TIPS_25_U",
+		"mTextDown": "TIPS_25_D",
+		"mPageFileName": "TIPS_img_24",
+		"mSaveIndex": 24
+	},
+	{
+		"mId": 25,
+		"mTextTitle": "TIPS_26_Title",
+		"mTextUp": "TIPS_26_U",
+		"mTextDown": "TIPS_26_D",
+		"mPageFileName": "TIPS_img_25",
+		"mSaveIndex": 25
+	},
+	{
+		"mId": 26,
+		"mTextTitle": "TIPS_27_Title",
+		"mTextUp": "TIPS_27_U",
+		"mTextDown": "TIPS_27_D",
+		"mPageFileName": "TIPS_img_26",
+		"mSaveIndex": 26
+	},
+	{
+		"mId": 27,
+		"mTextTitle": "TIPS_28_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_28_D",
+		"mPageFileName": "TIPS_img_27",
+		"mSaveIndex": 27
+	},
+	{
+		"mId": 28,
+		"mTextTitle": "TIPS_29_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_29_D",
+		"mPageFileName": "TIPS_img_28",
+		"mSaveIndex": 28
+	},
+	{
+		"mId": 29,
+		"mTextTitle": "TIPS_30_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_30_D",
+		"mPageFileName": "TIPS_img_29",
+		"mSaveIndex": 29
+	},
+	{
+		"mId": 30,
+		"mTextTitle": "TIPS_31_Title",
+		"mTextUp": "TIPS_31_U",
+		"mTextDown": "TIPS_31_D",
+		"mPageFileName": "TIPS_img_30",
+		"mSaveIndex": 30
+	},
+	{
+		"mId": 31,
+		"mTextTitle": "TIPS_32_Title",
+		"mTextUp": "TIPS_32_U",
+		"mTextDown": "TIPS_32_D",
+		"mPageFileName": "TIPS_img_31",
+		"mSaveIndex": 31
+	},
+	{
+		"mId": 32,
+		"mTextTitle": "TIPS_33_Title",
+		"mTextUp": "TIPS_33_U",
+		"mTextDown": "TIPS_33_D",
+		"mPageFileName": "TIPS_img_32",
+		"mSaveIndex": 32
+	},
+	{
+		"mId": 33,
+		"mTextTitle": "TIPS_34_Title",
+		"mTextUp": "TIPS_34_U",
+		"mTextDown": "TIPS_34_D",
+		"mPageFileName": "TIPS_img_33",
+		"mSaveIndex": 33
+	},
+	{
+		"mId": 34,
+		"mTextTitle": "TIPS_35_Title",
+		"mTextUp": "TIPS_35_U",
+		"mTextDown": "TIPS_35_D",
+		"mPageFileName": "TIPS_img_34",
+		"mSaveIndex": 34
+	},
+	{
+		"mId": 35,
+		"mTextTitle": "TIPS_36_Title",
+		"mTextUp": "TIPS_36_U",
+		"mTextDown": "TIPS_36_D",
+		"mPageFileName": "TIPS_img_35",
+		"mSaveIndex": 35
+	},
+	{
+		"mId": 36,
+		"mTextTitle": "TIPS_37_Title",
+		"mTextUp": "TIPS_37_U",
+		"mTextDown": "TIPS_37_D",
+		"mPageFileName": "TIPS_img_36",
+		"mSaveIndex": 36
+	},
+	{
+		"mId": 37,
+		"mTextTitle": "TIPS_38_Title",
+		"mTextUp": "",
+		"mTextDown": "TIPS_38_D",
+		"mPageFileName": "TIPS_img_37",
+		"mSaveIndex": 37
+	},
+	{
+		"mId": 38,
+		"mTextTitle": "TIPS_39_Title",
+		"mTextUp": "TIPS_39_U",
+		"mTextDown": "TIPS_39_D",
+		"mPageFileName": "TIPS_img_38",
+		"mSaveIndex": 38
+	},
+	{
+		"mId": 39,
+		"mTextTitle": "TIPS_40_Title",
+		"mTextUp": "TIPS_40_U",
+		"mTextDown": "TIPS_40_D",
+		"mPageFileName": "TIPS_img_39",
+		"mSaveIndex": 39
+	}
+]
+}
