@@ -14,7 +14,10 @@ class Item:
         self._mId = blob['mId']
         self._item_id = blob['mItemId']
         self._number = blob['mSortIndex']
-        self._sprite = blob['mBadgeSpriteName']
+        try:
+            self._sprite = blob['mBadgeSpriteName']
+        except KeyError:
+            self._sprite = blob['mUiSprite']
 
     def _bind_locale(self, loc_blob, loc_table):
         self._name_key = loc_blob['mName']
@@ -47,7 +50,7 @@ class Item:
     @property
     def sprite(self):
         return self._sprite
-    
+
     @property
     def name(self):
         return self._name
@@ -87,9 +90,13 @@ class Pin(Item):
     def max_level(self):
         return self._max_level
 
+    @property
+    def brand(self):
+        return self._brand
+
 class Thread(Item):
     def __init__(self, data_blob, loc_blob, loc_table):
-        super().__init__(blob, self.ItemType.THREAD)
+        super().__init__(data_blob, self.ItemType.THREAD)
         super()._bind_locale(loc_blob, loc_table)
         self.__data_blob = data_blob
 
@@ -102,21 +109,25 @@ class Thread(Item):
         self._slot = self.__data_blob['mSlotType'] # TODO: map to enum
 
     @property
+    def brand(self):
+        return self._brand
+
+    @property
     def hp(self):
         return self._hp
-    
+
     @property
     def attack(self):
         return self._atk
-    
+
     @property
     def defence(self):
         return self._def
-    
+
     @property
     def style(self):
         return self._req_style
-    
+
     @property
     def ability(self):
         return self._ability
@@ -134,7 +145,7 @@ class Food(Item):
         self._hp = self.__data_blob['mHp']
         self._atk = self.__data_blob['mAttack']
         self._def = self.__data_blob['mDefence']
-        self._style = self.__data_blob['mOpenSense']
+        self._style = self.__data_blob['mSense']
 
         self._calories = self.__data_blob['mStomach']
         self._taste = self.__data_blob['mTaste']
@@ -143,15 +154,15 @@ class Food(Item):
     @property
     def hp(self):
         return self._hp
-    
+
     @property
     def attack(self):
         return self._atk
-    
+
     @property
     def defence(self):
         return self._def
-    
+
     @property
     def style(self):
         return self._req_style

@@ -20,7 +20,7 @@ def read_blobs():
 
     for fname in DATA_FILES:
         with open(f'data/{fname}.txt', 'r') as infile:
-            blobs['data'][fname] = json.load(infile)
+            blobs['data'][fname] = json.load(infile)['mTarget']
 
     for lang in LOCALES:
         blobs['loc'][lang] = {}
@@ -45,20 +45,37 @@ def parse_locale(blobs):
 
 def parse_blobs(blobs):
     localization = parse_locale(blobs)
-    all_items_data = {itm['mId']:itm for itm in blobs['data']['AllItems']['mTarget']}
-    noise_report_data = {itm['mEnemydata']:itm for itm in blobs['data']['EnemyReport']['mTarget']}
+    all_items_data = {itm['mId']:itm for itm in blobs['data']['AllItems']}
+    noise_report_data = {itm['mEnemydata']:itm for itm in blobs['data']['EnemyReport']}
 
-    pin_data = blobs['data']['Badge']['mTarget']
+    pin_data = blobs['data']['Badge']
     pins = {'id': {}, 'num': {}}
     for blob in pin_data:
-        pin_id = Item(blob, 1).ID
-        pin_id = blob['mItemId']
+        pin_id = Item(blob, 1).itemID
         loc_info = all_items_data[pin_id]
         p = Pin(blob, loc_info, localization)
         pins['id'][p.ID] = p
         pins['num'][p.number] = p
 
-    noise_data = blobs['data']['EnemyData']['mTarget']
+    thread_data = blobs['data']['Costume']
+    threads = {'id': {}, 'num': {}}
+    for blob in thread_data:
+        thread_id = Item(blob, 2).itemID
+        loc_info = all_items_data[thread_id]
+        t = Thread(blob, loc_info, localization)
+        threads['id'][t.ID] = t
+        threads['num'][t.number] = t
+
+    food_data = blobs['data']['Food']
+    noms = {'id': {}, 'num': {}}
+    for blob in food_data:
+        food_id = Item(blob, 3).itemID
+        loc_info = all_items_data[food_id]
+        f = Food(blob, loc_info, localization)
+        noms['id'][f.ID] = f
+        noms['num'][f.number] = f
+
+    noise_data = blobs['data']['EnemyData']
     noise = {'id': {}, 'num': {}, 'no_num': {}}
     for blob in noise_data:
         try:
@@ -74,20 +91,20 @@ def parse_blobs(blobs):
             noise['no_num'][n.ID] = n
 
 
-    return pins, noise, localization
+    return pins, threads, noms, noise, localization,
 
 # TODO: map enemies => the encounters they show up in via internal ID => days
 # TODO: parse pin evolution data (already in badge.txt lol)
 # -- probably add a method to Pin for remapping evolution ID to Pin obj after
 # -- pin map is constructed (e.g. replace int ID with Pin obj)
 # TODO: general pig noise stuff (need to add to repo)
-# TODO: create Item class, make food/badge/thread inherit from it
+# TODO: throw this all into a class, add methods for lookup etc
 blobs = read_blobs()
-pins, noise, localization = parse_blobs(blobs)
+pins, threads, noms, noise, localization = parse_blobs(blobs)
 
 if __name__ == '__main__':
     print('Parsing files complete.\n'\
-            'Available vars: blobs, pins, noise, localization\n'\
+            'Available vars: blobs, pins, threads, noms, noise, localization\n'\
             'Get started: poke at pins["num"][1] and noise["num"][1] :)\n'\
             'Dropping to an interpreter...')
     try:
