@@ -1,9 +1,9 @@
 class Trade:
-    def __init__(self, blob):
+    def __init__(self, blob, all_items):
         self.__blob = blob
         self._trade_id = self.__blob['mId']
         # self._items is a list of (itemID, quantity) needed for the trade ID
-        self._items = zip(self.__blob['mItem'], self.__blob['mItemCount'])
+        self._items = zip([all_items[_id] for _id in self.__blob['mItem']], self.__blob['mItemCount'])
 
     @property
     def ID(self):
@@ -14,11 +14,11 @@ class Trade:
         return self._items
 
 class StoreItem:
-    def __init__(self, blob, items, trades, shops):
+    def __init__(self, blob, all_items, trades, shops):
         self.__blob = blob
         # mGoodsName and mReleaseParam are dead values (all empty string/0)
         self._ID = self.__blob['mId']
-        self._item_id = self.__blob['mItem']
+        self._item = all_items[self.__blob['mItem']]
         self._shop = shops[self.__blob['mShop']]
         self._price = self.__blob['mPrice']
         self._release_day = {
@@ -29,7 +29,7 @@ class StoreItem:
         }
         self._sort_num = self.__blob['mSortIndex']
         self._save_num = self.__blob['mSaveIndex']
-        
+
         self._count = self.__blob['mItemCount'] # stock based on.... week?
         self._trade = self.__blob['mExchange']
         if self._trade == -1:
@@ -37,7 +37,6 @@ class StoreItem:
         else:
             self._trade = trades[self._trade]
 
-        self._item = items[self._item_id]
         self._shop.add_item(self)
 
     @property

@@ -112,7 +112,7 @@ class Pin(Item):
         # * "sort psychic" psych type/category?
         # * "rarity" uberpin/godpin?
         # * notably missing: affinity? is that PyschicKey??
-        
+
         self._brand = Brand(self.__data_blob['mBrand'])
 
         self._max_level = int(self.__data_blob['mMaxLevel'])

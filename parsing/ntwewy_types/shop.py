@@ -5,8 +5,13 @@ class Shop:
         self.__blob = data_blob
         self._ID = self.__blob['mId']
         self._brand = Brand(self.__blob['mBrand'])
-        self._name = localization[self.__blob['mName']]
-        self._category = localization[self.__blob['mShopCategory']]
+        self._name_key = self.__blob['mName']
+        self._name = {}
+        self._category_key = self.__blob['mShopCategory']
+        self._category = {}
+        for lang, lang_strs in localization.items():
+            self._name[lang] = lang_strs[self._name_key].content
+            self._category[lang] = lang_strs[self._category_key].content
         self._type = self.__blob['mShopType'] # restaurant vs store?
 
         self.__items = []
