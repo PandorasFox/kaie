@@ -1,13 +1,17 @@
 #!/bin/python3
 import code, json
-from ntwewy_types import Pin, Noise, Locale, LocaleError
+from ntwewy_types import Item, Book, Pin, Thread, Food, Noise, Locale, LocaleError, Shop
 
 LOCALES = ['de', 'en', 'es', 'fr', 'it', 'ja']
-DATA_FILES = ['BadgeLvUpType', 'Badge',  'Psychic', 'EnemyData', 'GroupData', 'EnemyReport', 'AllItems']
+DATA_FILES = ['AllItems', 'BadgeLvUpType', 'Badge', 'BattleCharacter', 
+        'Costume', 'Department', 'EnemyData', 'EnemyReport', 'Food', 
+        'GoodsExchange', 'GroupData', 'Psychic', 'Shop', 'ShopGoods']
 LOC_ITEMS = ['BDG', 'EQU', 'ETC', 'FOD']
 LOC_ITEM_STEMS = ['ItemInfo', 'ItemName']
 LOC_ITEM_NAMES = [f'{stem}{leaf}' for leaf in LOC_ITEMS for stem in LOC_ITEM_STEMS]
-LOC_NOISE = [f'{stem}{leaf}' for stem in ['Ability', 'Chara', 'Enemy', 'Psychic'] for leaf in ['Name', 'Info']]
+LOC_NOISE = [f'{stem}{leaf}'
+        for stem in ['Ability', 'Chara', 'Enemy', 'Psychic']
+        for leaf in ['Name', 'Info']]
 LOC_IRREGULAR = ['BrandName', 'LocationName', 'MusicName', 'SReportText']
 LOC_FILES = [f for lst in [LOC_ITEM_NAMES, LOC_NOISE, LOC_IRREGULAR] for f in lst]
 
@@ -47,6 +51,7 @@ def parse_blobs(blobs):
     pin_data = blobs['data']['Badge']['mTarget']
     pins = {'id': {}, 'num': {}}
     for blob in pin_data:
+        pin_id = Item(blob, 1).ID
         pin_id = blob['mItemId']
         loc_info = all_items_data[pin_id]
         p = Pin(blob, loc_info, localization)
